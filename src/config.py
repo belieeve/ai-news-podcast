@@ -13,18 +13,18 @@ SCRIPTS_DIR = OUTPUT_DIR / "scripts"
 RSS_FILE = OUTPUT_DIR / "feed.xml"
 LOG_DIR = PROJECT_ROOT / "logs"
 
-# Google News
+# Google News (英語)
 NEWS_QUERIES = [
-    # AIツール・サービスの最新情報
-    "ChatGPT 新機能", "Claude アップデート", "Gemini 新機能",
-    "Copilot アップデート", "Perplexity AI", "NotebookLM",
-    "Midjourney", "Stable Diffusion 新機能", "Suno AI", "Runway AI",
-    # AI業界の動向
+    # AI tools & services
+    "ChatGPT new feature", "Claude AI update", "Gemini AI update",
+    "Copilot update", "Perplexity AI", "NotebookLM",
+    "Midjourney", "Stable Diffusion update", "Suno AI", "Runway AI",
+    # AI industry
     "OpenAI", "Anthropic", "Google AI", "Apple AI",
     "Meta AI", "NVIDIA AI", "Microsoft AI",
-    # 話題になりやすいトピック
-    "生成AI 新サービス", "AIエージェント", "AI 無料ツール",
-    "AI 仕事効率化", "AI副業", "AIアプリ 話題",
+    # Trending topics
+    "generative AI launch", "AI agent", "free AI tool",
+    "AI productivity", "AI startup funding", "AI app trending",
 ]
 MAX_ARTICLES = 7
 
@@ -33,20 +33,21 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # MC名（固定）
-MC_A = "タケシ"   # メインMC（男性）
-MC_B = "アイ"     # サブMC（女性）
+MC_A = "Alex"    # メインMC（男性）
+MC_B = "Sara"    # サブMC（女性）
 
-# Edge-TTS 音声
-TTS_VOICE_A = "ja-JP-KeitaNeural"   # 男性（タケシ）
-TTS_VOICE_B = "ja-JP-NanamiNeural"  # 女性（アイ）
-TTS_RATE_A = "+15%"
-TTS_RATE_B = "+10%"
+# Edge-TTS 音声（英語）
+TTS_VOICE_A = "en-US-GuyNeural"     # 男性（Alex）
+TTS_VOICE_B = "en-US-JennyNeural"   # 女性（Sara）
+TTS_RATE_A = "+10%"
+TTS_RATE_B = "+5%"
 
-# Podcast メタデータ
-PODCAST_TITLE = "あさイチAI"
-PODCAST_DESCRIPTION = "AIの最新ニュースを毎朝タケシとアイの2人がわかりやすく解説するPodcast"
-PODCAST_AUTHOR = "あさイチAI"
-PODCAST_LANGUAGE = "ja"
+# Podcast メタデータ（Spotify for Podcasters と一致させる）
+PODCAST_TITLE = "AI Morning Brief"
+PODCAST_DESCRIPTION = "Your daily AI news briefing. Alex and Sara break down the latest updates on ChatGPT, Claude, image generation AI, and trending AI tools and services every morning."
+PODCAST_AUTHOR = "Believe"
+PODCAST_EMAIL = "believe.spotify33@gmail.com"
+PODCAST_LANGUAGE = "en"
 PODCAST_CATEGORY = "Technology"
 PODCAST_IMAGE = "artwork.jpg"
 

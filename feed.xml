@@ -13,6 +13,7 @@
       <itunes:email>believe.spotify33@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
     <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork.jpg" />
     <image>
@@ -31,7 +32,7 @@
 • Apple stock holds steady as AirPods Max 2 launch and AI strategy updates roll out</description>
       <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="10796204" type="audio/mpeg" />
       <guid isPermaLink="false">episode_20260326</guid>
-      <pubDate>Fri, 27 Mar 2026 00:12:01 +0900</pubDate>
+      <pubDate>Fri, 27 Mar 2026 00:19:01 +0900</pubDate>
       <itunes:duration>11:14</itunes:duration>
       <itunes:summary>Today's topics:
 • Anthropic vs. the Pentagon: A judge offers the clearest breakdown yet
