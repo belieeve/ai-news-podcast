@@ -22,25 +22,27 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
-      <title>AI News - March 27, 2026</title>
+      <title>AI News - March 26, 2026</title>
       <description>Today's topics:
-• Anthropic vs. the Pentagon: A judge offers the clearest breakdown yet
-• Intelligence may be scalable, but accountability is not: Hidden cost of the AI agent revolution
-• CoverGo AI Agent Enhances Generali Health Claims Automation
-• How Microsoft champions frontier firms for faster, smarter growth
-• Meta Platforms Slips as Legal Verdict and AI Spending Concerns Converge
-• Apple stock holds steady as AirPods Max 2 launch and AI strategy updates roll out</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="10796204" type="audio/mpeg" />
+• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
+• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
+• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
+• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
+• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan
+• ディズニーの新CEOは、OpenAIとの提携解消後、どのようにエンゲージメントを確保するのか - Business Insider Japan
+• （プレスリリース）あらゆる形式の納品書明細をデータ化するTOKIUM AI納品明細を提供開始 - ニフティニュース</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="1390509" type="audio/mpeg" />
       <guid isPermaLink="false">episode_20260326</guid>
-      <pubDate>Fri, 27 Mar 2026 00:19:01 +0900</pubDate>
-      <itunes:duration>11:14</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 22:39:37 +0000</pubDate>
+      <itunes:duration>01:26</itunes:duration>
       <itunes:summary>Today's topics:
-• Anthropic vs. the Pentagon: A judge offers the clearest breakdown yet
-• Intelligence may be scalable, but accountability is not: Hidden cost of the AI agent revolution
-• CoverGo AI Agent Enhances Generali Health Claims Automation
-• How Microsoft champions frontier firms for faster, smarter growth
-• Meta Platforms Slips as Legal Verdict and AI Spending Concerns Converge
-• Apple stock holds steady as AirPods Max 2 launch and AI strategy updates roll out</itunes:summary>
+• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
+• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
+• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
+• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
+• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan
+• ディズニーの新CEOは、OpenAIとの提携解消後、どのようにエンゲージメントを確保するのか - Business Insider Japan
+• （プレスリリース）あらゆる形式の納品書明細をデータ化するTOKIUM AI納品明細を提供開始 - ニフティニュース</itunes:summary>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
