@@ -1,0 +1,63 @@
+name: あさイチAI - 毎日自動配信
+
+on:
+  schedule:
+    # 毎朝7時（JST） = UTC 22時（前日）
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  generate-episode:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install dependencies
+        run: pip install feedparser trafilatura google-genai edge-tts pydub python-dotenv
+
+      - name: Download podcast scripts
+        run: |
+          # メインプロジェクトのスクリプトをダウンロード
+          mkdir -p podcast_src output/episodes output/scripts logs
+          for f in main.py config.py news_collector.py script_generator.py tts_generator.py rss_generator.py; do
+            curl -sL "https://raw.githubusercontent.com/belieeve/ai-news-podcast/main/src/$f" -o "podcast_src/$f"
+          done
+
+      - name: Generate episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_PAGES_URL: https://belieeve.github.io/ai-news-podcast
+        run: |
+          cd podcast_src
+          python main.py --no-deploy
+
+      - name: Copy generated files
+        run: |
+          cp -f podcast_src/output/episodes/*.mp3 episodes/ 2>/dev/null || true
+          cp -f podcast_src/output/feed.xml feed.xml 2>/dev/null || true
+
+      - name: Cleanup old episodes (keep 50)
+        run: |
+          cd episodes
+          ls -t episode_*.mp3 2>/dev/null | tail -n +51 | xargs rm -f || true
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add episodes/ feed.xml
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Add episode $(date +%Y-%m-%d)"
+          git push
