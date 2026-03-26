@@ -27,26 +27,20 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser trafilatura google-genai edge-tts pydub python-dotenv
 
-      - name: Download podcast scripts
-        run: |
-          # メインプロジェクトのスクリプトをダウンロード
-          mkdir -p podcast_src output/episodes output/scripts logs
-          for f in main.py config.py news_collector.py script_generator.py tts_generator.py rss_generator.py; do
-            curl -sL "https://raw.githubusercontent.com/belieeve/ai-news-podcast/main/src/$f" -o "podcast_src/$f"
-          done
-
       - name: Generate episode
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_PAGES_URL: https://belieeve.github.io/ai-news-podcast
         run: |
-          cd podcast_src
+          cd src
+          mkdir -p output/episodes output/scripts logs
           python main.py --no-deploy
 
       - name: Copy generated files
         run: |
-          cp -f podcast_src/output/episodes/*.mp3 episodes/ 2>/dev/null || true
-          cp -f podcast_src/output/feed.xml feed.xml 2>/dev/null || true
+          mkdir -p episodes
+          cp -f src/output/episodes/*.mp3 episodes/ 2>/dev/null || true
+          cp -f src/output/feed.xml feed.xml 2>/dev/null || true
 
       - name: Cleanup old episodes (keep 50)
         run: |
