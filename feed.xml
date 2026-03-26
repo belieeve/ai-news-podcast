@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>あさイチAI</title>
@@ -12,25 +12,25 @@
     <item>
       <title>2026年03月26日のAIニュース</title>
       <description>今日のトピック:
+・噂：Apple、AirTagサイズの「カメラ付きAIピン」を開発中？ - すまほん!! - すまほん!!
+・NVIDIA、T-Mobile、およびパートナー企業は、AI-RAN 対応インフラにフィジカル AI アプリケーションを統合 - 朝日新聞
 ・NvidiaのCEO「次のChatGPTは間違いなくOpenClawだ！」（ギズモード・ジャパン） - Yahoo!ニュース
 ・時短と103%成長を両立！ランスタッド、現場社員が明かす『AIパートナー』活用術ウェビナーを3月31日より配信 AI活 - ニコニコニュース
 ・2028年までに80％の政府機関がAIエージェントを導入、日常的な意思決定を自動化──Gartner - EnterpriseZine
 ・Google Cloud、AIを搭載した新たなセキュリティ製品イノベーションを発表 - EnterpriseZine
-・東京都もAIエージェント活用へ。小池知事「AIは可能性を広げるパートナー」と期待 - DXマガジン
-・アクセンチュアとデータブリックス、AIアプリケーションとAIエージェントの導入支援を加速 - ニコニコニュース
-・ゲノムの謎を解く：Google DeepMindの新AIが医療の未来を変革 - Forbes JAPAN</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="15866924" type="audio/mpeg" />
+・東京都もAIエージェント活用へ。小池知事「AIは可能性を広げるパートナー」と期待 - DXマガジン</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="18128685" type="audio/mpeg" />
       <guid isPermaLink="false">episode_20260326</guid>
-      <pubDate>Thu, 26 Mar 2026 22:23:58 +0900</pubDate>
-      <ns0:duration>16:31</ns0:duration>
+      <pubDate>Thu, 26 Mar 2026 13:54:20 +0000</pubDate>
+      <ns0:duration>18:52</ns0:duration>
       <ns0:summary>今日のトピック:
+・噂：Apple、AirTagサイズの「カメラ付きAIピン」を開発中？ - すまほん!! - すまほん!!
+・NVIDIA、T-Mobile、およびパートナー企業は、AI-RAN 対応インフラにフィジカル AI アプリケーションを統合 - 朝日新聞
 ・NvidiaのCEO「次のChatGPTは間違いなくOpenClawだ！」（ギズモード・ジャパン） - Yahoo!ニュース
 ・時短と103%成長を両立！ランスタッド、現場社員が明かす『AIパートナー』活用術ウェビナーを3月31日より配信 AI活 - ニコニコニュース
 ・2028年までに80％の政府機関がAIエージェントを導入、日常的な意思決定を自動化──Gartner - EnterpriseZine
 ・Google Cloud、AIを搭載した新たなセキュリティ製品イノベーションを発表 - EnterpriseZine
-・東京都もAIエージェント活用へ。小池知事「AIは可能性を広げるパートナー」と期待 - DXマガジン
-・アクセンチュアとデータブリックス、AIアプリケーションとAIエージェントの導入支援を加速 - ニコニコニュース
-・ゲノムの謎を解く：Google DeepMindの新AIが医療の未来を変革 - Forbes JAPAN</ns0:summary>
+・東京都もAIエージェント活用へ。小池知事「AIは可能性を広げるパートナー」と期待 - DXマガジン</ns0:summary>
     </item>
   </channel>
 </rss>
