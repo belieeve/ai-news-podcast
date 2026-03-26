@@ -16,7 +16,6 @@ from news_collector import collect_news
 from script_generator import generate_script
 from tts_generator import generate_audio
 from rss_generator import update_rss
-from deploy import deploy
 
 
 def setup_logging():
@@ -93,6 +92,7 @@ def main():
         logger.info("=" * 50)
         logger.info("Step 5: GitHub Pagesへデプロイ")
         try:
+            from deploy import deploy
             deploy()
         except Exception as e:
             logger.error(f"デプロイ失敗（音声生成は成功）: {e}")
