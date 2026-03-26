@@ -27,6 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser trafilatura google-genai edge-tts pydub python-dotenv
 
+      - name: Restore previous feed
+        run: |
+          mkdir -p src/output
+          cp -f feed.xml src/output/feed.xml 2>/dev/null || true
+
       - name: Generate episode
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
