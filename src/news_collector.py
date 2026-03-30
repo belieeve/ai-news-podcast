@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 def build_rss_url(query: str) -> str:
     """Google News RSS URLを構築"""
     encoded = quote(query)
-    return f"https://news.google.com/rss/search?q={encoded}&hl=ja&gl=JP&ceid=JP:ja"
+    return f"https://news.google.com/rss/search?q={encoded}&hl=en&gl=US&ceid=US:en"
 
 
 def is_similar(title1: str, title2: str, threshold: float = 0.6) -> bool:
@@ -59,7 +59,7 @@ def collect_news() -> list[dict]:
                 all_entries.append({
                     "title": entry.get("title", ""),
                     "link": entry.get("link", ""),
-                    "source": entry.get("source", {}).get("title", "不明") if hasattr(entry, "source") else "不明",
+                    "source": entry.get("source", {}).get("title", "Unknown") if hasattr(entry, "source") else "Unknown",
                     "published": pub_date,
                     "description": entry.get("description", ""),
                 })

@@ -8,34 +8,34 @@ from config import GEMINI_API_KEY, GEMINI_MODEL, MAX_SCRIPT_CHARS, MC_A, MC_B, P
 
 logger = logging.getLogger(__name__)
 
-PROMPT_TEMPLATE = """あなたはPodcast番組「{show_name}」の台本作家です。
-以下のニュースを元に、2人のパーソナリティ（{mc_a}と{mc_b}）による掛け合い形式の台本を作成してください。
+PROMPT_TEMPLATE = """You are a scriptwriter for the podcast show "{show_name}".
+Based on the news below, write a conversational script between two hosts: {mc_a} and {mc_b}.
 
-【重要：MC名は必ず以下の名前を使うこと】
-- メインMC: {mc_a}（毎回この名前を使うこと。変更禁止）
-- サブMC: {mc_b}（毎回この名前を使うこと。変更禁止）
+【IMPORTANT: Always use these exact host names】
+- Main host: {mc_a} (use this name every time. Never change it.)
+- Co-host: {mc_b} (use this name every time. Never change it.)
 
-【ルール】
-- 各発言は必ず「{mc_a}:」または「{mc_b}:」で始めること（スペースなし）
-- 「{mc_a}:」「{mc_b}:」以外の行（ト書き・注釈・空行）は書かないこと
-- 冒頭は必ず番組名コールから始める（例: 「{show_name}、スタートです！」）
-- 構成: 番組名コール → オープニング挨拶 → 各ニュース紹介・感想 → まとめ → エンディング（「また明日の{show_name}でお会いしましょう！」）
-- 全体で3000〜{max_chars}文字（短すぎないこと。各ニュースについてしっかり会話する）
-- 専門用語はわかりやすく説明を加える
-- 相槌や感想を自然に入れて会話らしくする
-- ラジオ番組のような明るく親しみやすいトーンで
-- リスナーが「自分も使ってみたい！」と思えるような実用的な話題を優先する
-- AIツールの新機能・アップデート情報は特に詳しく紹介する（何ができるようになったか、どう便利かを具体的に）
-- 業界の大きな動き（資金調達、提携、規制）も取り上げるが、リスナーへの影響を必ず添える
+【Rules】
+- Every line MUST start with "{mc_a}:" or "{mc_b}:" (no space before the colon)
+- Do NOT include any stage directions, annotations, or blank lines
+- Start with a show name call (e.g. "Welcome to {show_name}!")
+- Structure: Show intro → Opening greeting → News discussion → Wrap-up → Closing ("See you tomorrow on {show_name}!")
+- Total length: 3000-{max_chars} characters (discuss each news item thoroughly)
+- Explain technical terms in simple language
+- Include natural reactions, follow-up questions, and opinions
+- Friendly, energetic radio show tone
+- Prioritize practical topics that make listeners think "I want to try this!"
+- Cover AI tool updates in detail (what's new, how it's useful, who benefits)
+- For industry moves (funding, partnerships, regulations), always mention impact on listeners
 
-【パーソナリティ】
-- {mc_a}: メインMC。落ち着いた口調でニュースを紹介する。番組の進行役
-- {mc_b}: サブMC。好奇心旺盛で質問やリアクションを入れる。リスナー目線で疑問を投げかける
+【Hosts】
+- {mc_a}: Main host. Calm, knowledgeable tone. Leads the show and introduces news
+- {mc_b}: Co-host. Curious and enthusiastic. Asks questions from the listener's perspective
 
-【今日のニュース】
+【Today's News】
 {{news_text}}
 
-台本を出力してください。「{mc_a}:」「{mc_b}:」で始まる行のみで構成してください。
+Output ONLY lines starting with "{mc_a}:" or "{mc_b}:".
 """
 
 
@@ -43,7 +43,7 @@ def format_news(articles: list[dict]) -> str:
     """ニュースリストを台本生成用テキストに整形"""
     parts = []
     for i, a in enumerate(articles, 1):
-        parts.append(f"ニュース{i}: {a['title']}\n出典: {a['source']}\n概要: {a['summary']}\n")
+        parts.append(f"News {i}: {a['title']}\nSource: {a['source']}\nSummary: {a['summary']}\n")
     return "\n".join(parts)
 
 
@@ -84,22 +84,21 @@ def generate_script(articles: list[dict]) -> list[tuple[str, str]]:
     )
 
     raw_text = response.text
-    logger.info(f"台本生成完了（{len(raw_text)}文字）")
+    logger.info(f"Script generated ({len(raw_text)} chars)")
 
     parsed = parse_script(raw_text)
     if not parsed:
-        raise ValueError("台本のパースに失敗しました")
+        raise ValueError("Failed to parse script")
 
-    logger.info(f"セリフ数: {len(parsed)}")
+    logger.info(f"Lines: {len(parsed)}")
     return parsed
 
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    # テスト用
     test_articles = [
-        {"title": "OpenAIが新モデルを発表", "source": "TechCrunch", "summary": "OpenAIは新しいGPTモデルを発表した。"},
-        {"title": "Google DeepMindがAlphaFold 4を公開", "source": "Nature", "summary": "タンパク質構造予測の精度が大幅に向上。"},
+        {"title": "OpenAI launches new model", "source": "TechCrunch", "summary": "OpenAI announced a new GPT model."},
+        {"title": "Google DeepMind releases AlphaFold 4", "source": "Nature", "summary": "Protein structure prediction accuracy improved significantly."},
     ]
     script = generate_script(test_articles)
     for speaker, line in script:
