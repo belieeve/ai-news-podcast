@@ -22,123 +22,49 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
-      <title>AI News - March 29, 2026</title>
+      <title>AI News - March 30, 2026</title>
       <description>Today's topics:
-• エヌビディアCEO、ブルーカラー労働者に向けて「AIの波に乗り遅れるな」（海外）（BUSINESS INSIDER JAPAN） - Yahoo!ニュース
-• Googleが「検索 Live」の提供を開始、検索のAIモードと音声＆カメラを使ったインタラクティブな会話が可能に - @DIME アットダイム
-• AIエージェントの暴走は現実的な脅威…ビッグ4の一角、KPMGはどのように備えているのか - Business Insider Japan
-• Appleは独自AI開発路線を縮小しハードウェア販売に専念する：iOS 27「Extensions」が開く、AI時代の新しい稼ぎ方 - XenoSpectrum
-• アンソロピックIPOの本当の意味…年商200億ドルでも問われる「AIの限界」 - ビジネスジャーナル
-• 「ポスト藤田晋」ソニー追う／SBG、OpenAI出資の内幕／イランが狙う湾岸覇権（2026年3月30日版） - 日経ビジネス電子版
-• 気象業界の「黒船」となったGoogle DeepMind、AIでウェザーニューズと革命 - active.nikkeibp.co.jp</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260329.mp3" length="1438125" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260329</guid>
-      <pubDate>Sun, 29 Mar 2026 22:40:22 +0000</pubDate>
-      <itunes:duration>01:29</itunes:duration>
+• Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach - Bloomberg.com
+• Is Now a Good Time to Buy Microsoft Stock? - The Globe and Mail
+• Apple to Open Siri to Rival AI Assistants - channelnews.com.au
+• Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills - EdTech Innovation Hub
+• How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows - MarkTechPost
+• AAPL Stock Today, March 30: Apple Bets AI on App Store and Hardware - Meyka
+• NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion - finance.yahoo.com</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260330.mp3" length="9067436" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260330</guid>
+      <pubDate>Mon, 30 Mar 2026 09:04:06 +0900</pubDate>
+      <itunes:duration>09:26</itunes:duration>
       <itunes:summary>Today's topics:
-• エヌビディアCEO、ブルーカラー労働者に向けて「AIの波に乗り遅れるな」（海外）（BUSINESS INSIDER JAPAN） - Yahoo!ニュース
-• Googleが「検索 Live」の提供を開始、検索のAIモードと音声＆カメラを使ったインタラクティブな会話が可能に - @DIME アットダイム
-• AIエージェントの暴走は現実的な脅威…ビッグ4の一角、KPMGはどのように備えているのか - Business Insider Japan
-• Appleは独自AI開発路線を縮小しハードウェア販売に専念する：iOS 27「Extensions」が開く、AI時代の新しい稼ぎ方 - XenoSpectrum
-• アンソロピックIPOの本当の意味…年商200億ドルでも問われる「AIの限界」 - ビジネスジャーナル
-• 「ポスト藤田晋」ソニー追う／SBG、OpenAI出資の内幕／イランが狙う湾岸覇権（2026年3月30日版） - 日経ビジネス電子版
-• 気象業界の「黒船」となったGoogle DeepMind、AIでウェザーニューズと革命 - active.nikkeibp.co.jp</itunes:summary>
-      <itunes:episode>5</itunes:episode>
-    </item>
-    <item>
-      <title>AI News - March 28, 2026</title>
-      <description>Today's topics:
-• 最強のはずのOpenAI「Sora」撤退の意味…コスト・著作権・UXで見る失敗の構造 | チバテレ＋プラス - 千葉テレビ放送
-• エヌビディア、“4兆円投資”の本質…半導体覇者が「AIモデル」に踏み込む理由 - ビジネスジャーナル
-• マイクロソフト、エンタープライズAI基盤「Fabric」を強化 NVIDIAとの連携で物理AIにも進出 - Forbes JAPAN
-• iOS 27 Siri 2.0 vs ChatGPT：Appleの新たなAI改革 - zeera wireless
-• Appleは、Google Geminiから「本質」を抽出し、iPhone上でローカルに動作するAIモデルを開発している。 - iphoneislam.com
-• Microsoft Fabric Day 2025 Autumn - Microsoft
-• フロンティア組織に共通するAI活用を成功に導く“4つの要諦”──Microsoft AI Tour Tokyo 2026 - EnterpriseZine</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260328.mp3" length="1908141" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260328</guid>
-      <pubDate>Sat, 28 Mar 2026 22:38:07 +0000</pubDate>
-      <itunes:duration>01:59</itunes:duration>
-      <itunes:summary>Today's topics:
-• 最強のはずのOpenAI「Sora」撤退の意味…コスト・著作権・UXで見る失敗の構造 | チバテレ＋プラス - 千葉テレビ放送
-• エヌビディア、“4兆円投資”の本質…半導体覇者が「AIモデル」に踏み込む理由 - ビジネスジャーナル
-• マイクロソフト、エンタープライズAI基盤「Fabric」を強化 NVIDIAとの連携で物理AIにも進出 - Forbes JAPAN
-• iOS 27 Siri 2.0 vs ChatGPT：Appleの新たなAI改革 - zeera wireless
-• Appleは、Google Geminiから「本質」を抽出し、iPhone上でローカルに動作するAIモデルを開発している。 - iphoneislam.com
-• Microsoft Fabric Day 2025 Autumn - Microsoft
-• フロンティア組織に共通するAI活用を成功に導く“4つの要諦”──Microsoft AI Tour Tokyo 2026 - EnterpriseZine</itunes:summary>
-      <itunes:episode>4</itunes:episode>
+• Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach - Bloomberg.com
+• Is Now a Good Time to Buy Microsoft Stock? - The Globe and Mail
+• Apple to Open Siri to Rival AI Assistants - channelnews.com.au
+• Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills - EdTech Innovation Hub
+• How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows - MarkTechPost
+• AAPL Stock Today, March 30: Apple Bets AI on App Store and Hardware - Meyka
+• NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion - finance.yahoo.com</itunes:summary>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>AI News - March 27, 2026</title>
       <description>Today's topics:
-• MetaのAIが解き明かす脳のデジタルツイン「TRIBE v2」：視覚・聴覚・言語を統合する新たな神経科学の幕開け - XenoSpectrum
-• TRIBE v2｜Metaが公開した「脳のデジタルツイン」AIは神経科学をどう変えるか - innovaTopia
-• 自動運転レベル4バス、ティアフォーといすゞがNVIDIAと共同開発へ - CAR CARE PLUS
-• Claude利用制限の仕組みが変更—Anthropicがピーク時のトークン配分を見直し - innovaTopia
-• アンソロピックの破壊的AI「Claude Mythos」資料流出、サイバーセキュリティ・仮想通貨セクターで警戒感強まる - CoinPost
-• 最強のはずのOpenAI「Sora」撤退の意味…コスト・著作権・UXで見る失敗の構造 - ビジネスジャーナル
-• 「SaaSの死」対応できない企業は苦境に OpenAI議長テイラー氏 - 日本経済新聞</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260327.mp3" length="1235757" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260327</guid>
-      <pubDate>Fri, 27 Mar 2026 22:43:09 +0000</pubDate>
-      <itunes:duration>01:17</itunes:duration>
-      <itunes:summary>Today's topics:
-• MetaのAIが解き明かす脳のデジタルツイン「TRIBE v2」：視覚・聴覚・言語を統合する新たな神経科学の幕開け - XenoSpectrum
-• TRIBE v2｜Metaが公開した「脳のデジタルツイン」AIは神経科学をどう変えるか - innovaTopia
-• 自動運転レベル4バス、ティアフォーといすゞがNVIDIAと共同開発へ - CAR CARE PLUS
-• Claude利用制限の仕組みが変更—Anthropicがピーク時のトークン配分を見直し - innovaTopia
-• アンソロピックの破壊的AI「Claude Mythos」資料流出、サイバーセキュリティ・仮想通貨セクターで警戒感強まる - CoinPost
-• 最強のはずのOpenAI「Sora」撤退の意味…コスト・著作権・UXで見る失敗の構造 - ビジネスジャーナル
-• 「SaaSの死」対応できない企業は苦境に OpenAI議長テイラー氏 - 日本経済新聞</itunes:summary>
-      <itunes:episode>3</itunes:episode>
-    </item>
-    <item>
-      <title>AI News - March 26, 2026</title>
-      <description>Today's topics:
-• 電通とOpenAIが戦略的提携を発表 企業のマーケティング活動の「AI化」を支援 - Agenda note (アジェンダノート)
-• 【朗報】Appleの新製品ラッシュ、まだ終わっていなかった。6製品が控えてるかも - すまほん!! - すまほん!!
-• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
-• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
-• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
-• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
-• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="1675053" type="audio/mpeg" />
+• Anthropic vs. the Pentagon: A judge offers the clearest breakdown yet
+• Intelligence may be scalable, but accountability is not: Hidden cost of the AI agent revolution
+• CoverGo AI Agent Enhances Generali Health Claims Automation
+• How Microsoft champions frontier firms for faster, smarter growth
+• Meta Platforms Slips as Legal Verdict and AI Spending Concerns Converge
+• Apple stock holds steady as AirPods Max 2 launch and AI strategy updates roll out</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="10796204" type="audio/mpeg" />
       <guid isPermaLink="false">episode_20260326</guid>
-      <pubDate>Thu, 26 Mar 2026 23:06:15 +0000</pubDate>
-      <itunes:duration>01:44</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 00:19:01 +0900</pubDate>
+      <itunes:duration>11:14</itunes:duration>
       <itunes:summary>Today's topics:
-• 電通とOpenAIが戦略的提携を発表 企業のマーケティング活動の「AI化」を支援 - Agenda note (アジェンダノート)
-• 【朗報】Appleの新製品ラッシュ、まだ終わっていなかった。6製品が控えてるかも - すまほん!! - すまほん!!
-• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
-• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
-• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
-• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
-• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan</itunes:summary>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>AI News - March 26, 2026</title>
-      <description>Today's topics:
-• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
-• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
-• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
-• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
-• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan
-• ディズニーの新CEOは、OpenAIとの提携解消後、どのようにエンゲージメントを確保するのか - Business Insider Japan
-• （プレスリリース）あらゆる形式の納品書明細をデータ化するTOKIUM AI納品明細を提供開始 - ニフティニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260326.mp3" length="1390509" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260326</guid>
-      <pubDate>Thu, 26 Mar 2026 22:39:37 +0000</pubDate>
-      <itunes:duration>01:26</itunes:duration>
-      <itunes:summary>Today's topics:
-• Google、会話でAI検索「検索 Live」を日本で提供開始 ヘッドホンで「ライブ翻訳」も - au Webポータル
-• ChatGPTの"独占"終了か。iOS 27のSiriでGeminiやClaudeも利用可能に - ゴリミー
-• GitLabがAIエージェント機能拡充、コードレビュー定額化、誤検出判定を一般提供 - ｄメニューニュース
-• 【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識 - ビジネス+IT
-• ChatGPTの「アダルトモード」、無期限凍結か Sora終了に続き - CNET Japan
-• ディズニーの新CEOは、OpenAIとの提携解消後、どのようにエンゲージメントを確保するのか - Business Insider Japan
-• （プレスリリース）あらゆる形式の納品書明細をデータ化するTOKIUM AI納品明細を提供開始 - ニフティニュース</itunes:summary>
+• Anthropic vs. the Pentagon: A judge offers the clearest breakdown yet
+• Intelligence may be scalable, but accountability is not: Hidden cost of the AI agent revolution
+• CoverGo AI Agent Enhances Generali Health Claims Automation
+• How Microsoft champions frontier firms for faster, smarter growth
+• Meta Platforms Slips as Legal Verdict and AI Spending Concerns Converge
+• Apple stock holds steady as AirPods Max 2 launch and AI strategy updates roll out</itunes:summary>
       <itunes:episode>1</itunes:episode>
     </item>
   </channel>
