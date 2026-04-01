@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AI News - April 01, 2026</title>
+      <description>Today's topics:
+• Sexually explicit chatbot company is suing Apple after removal from the App Store - bizjournals.com
+• Assessing IREN’s (NasdaqGS:IREN) Valuation After Its Multi Year US$9.7b Microsoft AI Contract - simplywall.st
+• Fireside Chat: AI agents are reshaping mobile attacks — and exposing weak API trust models - Security Boulevard
+• Wikipedia’s AI agent row likely just the beginning of the bot-ocalypse - malwarebytes.com
+• Anthropic Leaks Claude Code, Community Recreates Agent - Let's Data Science
+• Nvidia Stock Just Did This for the First Time in 13 Years. History Shows What May Happen Next. - The Motley Fool
+• OpenAI’s shocking fall from grace as investors race to Anthropic - Los Angeles Times</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260401.mp3" length="13431597" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260401</guid>
+      <pubDate>Wed, 01 Apr 2026 22:50:57 +0000</pubDate>
+      <itunes:duration>13:59</itunes:duration>
+      <itunes:summary>Today's topics:
+• Sexually explicit chatbot company is suing Apple after removal from the App Store - bizjournals.com
+• Assessing IREN’s (NasdaqGS:IREN) Valuation After Its Multi Year US$9.7b Microsoft AI Contract - simplywall.st
+• Fireside Chat: AI agents are reshaping mobile attacks — and exposing weak API trust models - Security Boulevard
+• Wikipedia’s AI agent row likely just the beginning of the bot-ocalypse - malwarebytes.com
+• Anthropic Leaks Claude Code, Community Recreates Agent - Let's Data Science
+• Nvidia Stock Just Did This for the First Time in 13 Years. History Shows What May Happen Next. - The Motley Fool
+• OpenAI’s shocking fall from grace as investors race to Anthropic - Los Angeles Times</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
       <title>AI News - March 31, 2026</title>
       <description>Today's topics:
 • Anthropic accidentally exposes Claude Code source code in npm packaging error - siliconangle.com
