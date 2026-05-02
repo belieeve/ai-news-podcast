@@ -107,11 +107,11 @@ def save_feed(xml_str: str):
 
 def update_rss(filename: str, articles: list[dict], duration_seconds: float):
     """RSSフィードを更新"""
-    today = datetime.now().strftime("%B %d, %Y")
-    title = f"AI News - {today}"
+    today = datetime.now().strftime("%Y年%m月%d日")
+    title = f"AIニュース {today}"
 
     summary_lines = [f"• {a['title']}" for a in articles]
-    summary = "Today's topics:\n" + "\n".join(summary_lines)
+    summary = "今日の話題:\n" + "\n".join(summary_lines)
 
     file_path = AUDIO_DIR / filename
     file_size = os.path.getsize(file_path) if file_path.exists() else 0

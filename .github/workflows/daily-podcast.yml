@@ -1,4 +1,4 @@
-name: AI Morning Brief - Daily Auto Publish
+name: AI朝刊 - 毎日自動配信
 
 on:
   schedule:
