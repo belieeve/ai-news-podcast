@@ -74,9 +74,9 @@ def generate_audio(script: list[tuple[str, str]], filename: str) -> tuple[str, f
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     test_script = [
-        (MC_A, "Welcome to AI Morning Brief!"),
-        (MC_B, "Let's dive into today's top AI news!"),
-        (MC_A, "Here we go."),
+        (MC_A, "AI朝刊へようこそ!"),
+        (MC_B, "今日のAIニュースをお届けします!"),
+        (MC_A, "それでは、いきましょう。"),
     ]
     path, dur = generate_audio(test_script, "test_episode.mp3")
     print(f"Generated: {path} ({dur:.1f}s)")

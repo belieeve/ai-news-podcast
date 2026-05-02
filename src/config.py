@@ -1,4 +1,4 @@
-"""AI News Podcast - 設定ファイル"""
+"""AI朝刊 - 設定ファイル"""
 import os
 from pathlib import Path
 from dotenv import load_dotenv
@@ -13,18 +13,18 @@ SCRIPTS_DIR = OUTPUT_DIR / "scripts"
 RSS_FILE = OUTPUT_DIR / "feed.xml"
 LOG_DIR = PROJECT_ROOT / "logs"
 
-# Google News (英語)
+# Google News（日本語）
 NEWS_QUERIES = [
-    # AI tools & services
-    "ChatGPT new feature", "Claude AI update", "Gemini AI update",
-    "Copilot update", "Perplexity AI", "NotebookLM",
-    "Midjourney", "Stable Diffusion update", "Suno AI", "Runway AI",
-    # AI industry
+    # AIツール・サービス
+    "ChatGPT 新機能", "Claude AI 最新", "Gemini 最新",
+    "Copilot 最新", "Perplexity AI", "NotebookLM",
+    "Midjourney", "Stable Diffusion 最新", "Suno AI", "Runway AI",
+    # AI業界
     "OpenAI", "Anthropic", "Google AI", "Apple AI",
     "Meta AI", "NVIDIA AI", "Microsoft AI",
-    # Trending topics
-    "generative AI launch", "AI agent", "free AI tool",
-    "AI productivity", "AI startup funding", "AI app trending",
+    # トレンド
+    "生成AI 新サービス", "AIエージェント", "無料 AIツール",
+    "AI 業務効率化", "AI スタートアップ 資金調達", "AIアプリ 話題",
 ]
 MAX_ARTICLES = 7
 
@@ -33,21 +33,21 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # MC名（固定）
-MC_A = "Alex"    # メインMC（男性）
-MC_B = "Sara"    # サブMC（女性）
+MC_A = "ハルト"   # メインMC（男性）
+MC_B = "アヤカ"   # サブMC（女性）
 
-# Edge-TTS 音声（英語）
-TTS_VOICE_A = "en-US-GuyNeural"     # 男性（Alex）
-TTS_VOICE_B = "en-US-JennyNeural"   # 女性（Sara）
+# Edge-TTS 音声（日本語）
+TTS_VOICE_A = "ja-JP-KeitaNeural"    # 男性（ハルト）
+TTS_VOICE_B = "ja-JP-NanamiNeural"   # 女性（アヤカ）
 TTS_RATE_A = "+10%"
 TTS_RATE_B = "+5%"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
-PODCAST_TITLE = "AI Morning Brief"
-PODCAST_DESCRIPTION = "Your daily AI news briefing. Alex and Sara break down the latest updates on ChatGPT, Claude, image generation AI, and trending AI tools and services every morning."
+PODCAST_TITLE = "AI朝刊"
+PODCAST_DESCRIPTION = "毎朝届ける、AIニュースの朝刊。ハルトとアヤカが、ChatGPT・Claude・画像生成AI・話題のAIツールやサービスの最新動向を、わかりやすく解説します。"
 PODCAST_AUTHOR = "Believe"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
-PODCAST_LANGUAGE = "en"
+PODCAST_LANGUAGE = "ja"
 PODCAST_CATEGORY = "Technology"
 PODCAST_IMAGE = "artwork.jpg"
 

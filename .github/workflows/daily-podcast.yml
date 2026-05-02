@@ -1,9 +1,9 @@
-name: AI Morning Brief - Daily Auto Publish
+name: AI朝刊 - 毎日自動配信
 
 on:
   schedule:
-    # 7:00 AM JST = 22:00 UTC (previous day)
-    - cron: '0 22 * * *'
+    # 6:00 AM JST = 21:00 UTC (previous day)
+    - cron: '0 21 * * *'
   workflow_dispatch: # Manual trigger
 
 jobs:
