@@ -7,7 +7,7 @@ from pydub import AudioSegment
 
 import edge_tts
 
-from config import TTS_VOICE_A, TTS_VOICE_B, TTS_RATE_A, TTS_RATE_B, AUDIO_DIR, MC_A, MC_B
+from config import TTS_VOICE_A, TTS_VOICE_B, TTS_RATE_A, TTS_RATE_B, AUDIO_DIR, MC_A, MC_B, PRONUNCIATION_FIXES
 
 logger = logging.getLogger(__name__)
 
@@ -19,8 +19,16 @@ VOICE_MAP = {
 SILENCE_BETWEEN = 400  # セリフ間の無音（ミリ秒）
 
 
+def fix_pronunciation(text: str) -> str:
+    """発音辞書に従ってTTSが誤読しやすい表記を補正"""
+    for original, fixed in PRONUNCIATION_FIXES.items():
+        text = text.replace(original, fixed)
+    return text
+
+
 async def synthesize_line(text: str, voice: str, rate: str, output_path: str):
     """1行のセリフを音声化"""
+    text = fix_pronunciation(text)
     communicate = edge_tts.Communicate(text, voice=voice, rate=rate)
     await communicate.save(output_path)
 

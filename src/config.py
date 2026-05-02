@@ -26,7 +26,7 @@ NEWS_QUERIES = [
     "生成AI 新サービス", "AIエージェント", "無料 AIツール",
     "AI 業務効率化", "AI スタートアップ 資金調達", "AIアプリ 話題",
 ]
-MAX_ARTICLES = 7
+MAX_ARTICLES = 5
 
 # Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -57,4 +57,11 @@ GITHUB_PAGES_URL = os.getenv("GITHUB_PAGES_URL", "")
 
 # エピソード管理
 MAX_EPISODES = 50
-MAX_SCRIPT_CHARS = 4000
+MAX_SCRIPT_CHARS = 2700  # 約10分（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
+
+# 発音・イントネーション補正辞書
+# Edge-TTSが固有名詞を誤読する場合、ここに「元の表記 → TTSが正しく読む表記」を追加。
+# とくにカタカナ中黒「・」はアクセントを乱しやすいので外すと安定することが多い。
+PRONUNCIATION_FIXES = {
+    "イーロン・マスク": "イーロンマスク",
+}
