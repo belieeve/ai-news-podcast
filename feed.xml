@@ -21,5 +21,25 @@
       <title>AI朝刊</title>
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
+    <item>
+      <title>AIニュース 2026年05月02日</title>
+      <description>今日の話題:
+• MetaがAIのために再構築、数千の雇用が影響を受ける - Laodong.vn
+• イーロン・マスクが警告し、Microsoftに未来のAIを支配させるべきではないと主張 - mezha.net
+• OpenAI、Codexアプリの作業状況を知らせるコンパニオン「Codex pets」が登場 - gihyo.jp
+• メタの外部委託先でAIモデル改良に従事する700人超、職を失う可能性 - WIRED.jp
+• 米国防総省、AI8社と機密軍事利用で合意、Anthropicは排除（ビジネス＋IT） - Yahoo!ニュース</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260502.mp3" length="6320685" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260502</guid>
+      <pubDate>Sat, 02 May 2026 05:21:47 +0000</pubDate>
+      <itunes:duration>06:34</itunes:duration>
+      <itunes:summary>今日の話題:
+• MetaがAIのために再構築、数千の雇用が影響を受ける - Laodong.vn
+• イーロン・マスクが警告し、Microsoftに未来のAIを支配させるべきではないと主張 - mezha.net
+• OpenAI、Codexアプリの作業状況を知らせるコンパニオン「Codex pets」が登場 - gihyo.jp
+• メタの外部委託先でAIモデル改良に従事する700人超、職を失う可能性 - WIRED.jp
+• 米国防総省、AI8社と機密軍事利用で合意、Anthropicは排除（ビジネス＋IT） - Yahoo!ニュース</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+    </item>
   </channel>
 </rss>
