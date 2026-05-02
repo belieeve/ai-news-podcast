@@ -7,7 +7,11 @@ from pydub import AudioSegment
 
 import edge_tts
 
-from config import TTS_VOICE_A, TTS_VOICE_B, TTS_RATE_A, TTS_RATE_B, AUDIO_DIR, MC_A, MC_B, PRONUNCIATION_FIXES
+from config import (
+    TTS_VOICE_A, TTS_VOICE_B, TTS_RATE_A, TTS_RATE_B, AUDIO_DIR,
+    MC_A, MC_B, PRONUNCIATION_FIXES,
+    BGM_FILE, BGM_VOLUME_DB, BGM_FADEOUT_MS, BGM_LOOP_CROSSFADE_MS,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -48,8 +52,32 @@ async def generate_all_lines(script: list[tuple[str, str]], temp_dir: str) -> li
     return paths
 
 
+def loop_bgm(bgm: AudioSegment, target_ms: int, crossfade_ms: int) -> AudioSegment:
+    """BGMをtarget_msまで繰り返し連結（繋ぎ目をクロスフェードで滑らかに）"""
+    if len(bgm) >= target_ms:
+        return bgm[:target_ms]
+    result = bgm
+    while len(result) < target_ms:
+        result = result.append(bgm, crossfade=min(crossfade_ms, len(bgm) // 2))
+    return result[:target_ms]
+
+
+def mix_bgm(narration: AudioSegment) -> AudioSegment:
+    """ナレーションにBGMをミックス（BGMファイルが無ければそのまま返す）"""
+    if not BGM_FILE.exists():
+        logger.info("BGMファイル無し。ナレーションのみで出力")
+        return narration
+
+    bgm = AudioSegment.from_file(str(BGM_FILE))
+    bgm = loop_bgm(bgm, len(narration), BGM_LOOP_CROSSFADE_MS)
+    bgm = bgm + BGM_VOLUME_DB
+    bgm = bgm.fade_out(BGM_FADEOUT_MS)
+    logger.info(f"BGMミックス: {BGM_FILE.name} を {BGM_VOLUME_DB}dB で重ねる")
+    return narration.overlay(bgm)
+
+
 def combine_audio(audio_paths: list[str], output_path: str):
-    """複数の音声ファイルを結合"""
+    """複数の音声ファイルを結合し、BGMをミックスして書き出す"""
     silence = AudioSegment.silent(duration=SILENCE_BETWEEN)
     combined = AudioSegment.empty()
 
@@ -59,6 +87,7 @@ def combine_audio(audio_paths: list[str], output_path: str):
             combined += silence
         combined += segment
 
+    combined = mix_bgm(combined)
     combined.export(output_path, format="mp3", bitrate="128k")
     duration_sec = len(combined) / 1000
     logger.info(f"Audio combined: {duration_sec:.1f}s → {output_path}")
