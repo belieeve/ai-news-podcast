@@ -9,14 +9,14 @@ from config import GEMINI_API_KEY, GEMINI_MODEL, MAX_SCRIPT_CHARS, MC_A, MC_B, P
 logger = logging.getLogger(__name__)
 
 PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の構成作家です。
-以下の5本のニュースをもとに、2人のMC「{mc_a}」と「{mc_b}」の掛け合い台本を書いてください。
+以下のニュースをもとに、2人のMC「{mc_a}」と「{mc_b}」の掛け合い台本を書いてください。
 
-【最重要：放送時間は10分以内に必ず収める】
-- 全体の文字数: 2200〜{max_chars}文字以内（厳守。超過したら短くする）
+【最重要：放送時間の制約】
+- 全体の文字数: 2200〜{max_chars}文字以内（厳守）
 - 各ニュースの解説: 1本あたり300〜400文字以内
-- オープニング: 番組名コール+短い挨拶のみ（合計2行まで）。天気・近況・世間話・前置きは絶対に入れない
-- エンディング: 締めの一言のみ（2行まで）
-- リスナーは雑談で離脱するため、本題（ニュース解説）に最速で入ること
+- 番組は必ず「最後のニュースを最後まで紹介し終えて」「エンディング挨拶を言い切ってから」終わること
+- 1つのニュースを途中で切るのは絶対に禁止
+- 文字数が足りなくなりそうなら、ニュース本数を5本→4本→3本と減らしてよい。途中で切るくらいなら少ない本数で完結させること
 
 【MC名（変更禁止）】
 - メインMC: {mc_a}
@@ -25,7 +25,14 @@ PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の
 【出力ルール】
 - 全行は必ず「{mc_a}:」または「{mc_b}:」で始める（コロンの前にスペース不可）
 - 演出指示・注釈・空行は入れない
-- 構成: ① 番組名コール（1行） ② 短い挨拶（1行） ③ ニュース5本の解説（各2〜4往復） ④ エンディング（1〜2行）
+- 構成: ① 番組名コール（1行） ② 短い挨拶（1行） ③ ニュース解説（各2〜4往復・3〜5本） ④ エンディング ⑤ 最終行に <<END>>
+- ニュースとニュースの間は「{mc_a}: それでは次のニュースです。」のような短い1行ブリッジを必ず入れる
+- 最後のニュースが終わった直後に、専用のブリッジ「{mc_a}: さて、本日もそろそろお別れの時間です。」を入れてエンディングへ移る
+- エンディングは番組らしく2〜4行で締める。例:
+    {mc_a}: それではまた明日、同じ時間にお会いしましょう。
+    {mc_b}: お相手は {mc_b} と、
+    {mc_a}: {mc_a} でした。良い一日を！
+- エンディング行のあと、最終行にちょうど1行 <<END>> とだけ書く（「{mc_a}:」「{mc_b}:」は付けない）
 - 専門用語はやさしい言葉に言い換える
 - AIツールの新機能は「何が新しい・どう便利・誰が得する」を簡潔に
 - 業界の動き（資金調達・提携・規制）はリスナーへの影響まで触れる
@@ -38,8 +45,31 @@ PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の
 【今日のニュース】
 {{news_text}}
 
-出力は「{mc_a}:」または「{mc_b}:」で始まる行のみにしてください。
+出力は「{mc_a}:」または「{mc_b}:」で始まる行と、最終行の <<END>> のみにしてください。
 """
+
+# 末尾セーフティ用：ニュース途中切れを検知した場合に挿入するエンディング雛形
+FALLBACK_ENDING = [
+    ("{mc_a}", "さて、本日もそろそろお別れの時間です。"),
+    ("{mc_b}", "明日も気になるAIニュース、お届けしますね。"),
+    ("{mc_a}", "それではまた明日、同じ時間にお会いしましょう。"),
+    ("{mc_b}", "お相手は {mc_b} と、"),
+    ("{mc_a}", "{mc_a} でした。良い一日を！"),
+]
+
+# ニュース間ブリッジを示すキーワード（境界検出に使う）
+_BRIDGE_KEYWORDS = (
+    "次のニュース",
+    "続いてのニュース",
+    "続いて",
+    "本日もそろそろお別れ",
+    "そろそろお別れ",
+    "では最後",
+    "最後のニュース",
+)
+
+# 文末として認められる終止記号
+_SENTENCE_ENDS = ("。", "！", "？", "."  , "!", "?", "♪", "〜")
 
 
 def format_news(articles: list[dict]) -> str:
@@ -50,18 +80,84 @@ def format_news(articles: list[dict]) -> str:
     return "\n".join(parts)
 
 
-def parse_script(text: str) -> list[tuple[str, str]]:
-    """台本テキストをパースして(話者, セリフ)のリストを返す"""
-    lines = []
-    for line in text.strip().split("\n"):
-        line = line.strip()
+def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
+    """台本テキストをパースして((話者, セリフ)のリスト, END到達フラグ)を返す。
+
+    END到達フラグ: 出力末尾に <<END>> センチネルが含まれていたか。
+    含まれていなければGeminiの出力が途中で切れた可能性が高い。
+    """
+    lines: list[tuple[str, str]] = []
+    has_end = False
+    for raw in text.strip().split("\n"):
+        line = raw.strip()
+        if not line:
+            continue
+        if "<<END>>" in line:
+            has_end = True
+            # END行自体は台本に含めない
+            continue
         match = re.match(rf'^({MC_A}|{MC_B}):(.+)$', line)
         if match:
             speaker = match.group(1)
             content = match.group(2).strip()
             if content:
                 lines.append((speaker, content))
-    return lines
+    return lines, has_end
+
+
+def _looks_truncated(parsed: list[tuple[str, str]], has_end: bool) -> bool:
+    """途中切れと推定できるか判定"""
+    if has_end:
+        return False
+    if not parsed:
+        return True
+    last_text = parsed[-1][1].strip()
+    # 文末記号で終わっていなければほぼ確実に切れている
+    if not last_text.endswith(_SENTENCE_ENDS):
+        return True
+    # 文末記号で終わっていても、エンディング定型句が出ていなければ切れている扱い
+    tail_blob = "".join(l for _, l in parsed[-4:])
+    ending_markers = ("また明日", "お別れ", "お相手は", "良い一日")
+    return not any(m in tail_blob for m in ending_markers)
+
+
+def _trim_to_last_complete_news(parsed: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    """途中切れと判定された台本を、最後に「完結した」ニュース境界まで戻す。
+
+    境界 = 「次のニュース/続いて/最後のニュース」等のブリッジ行の「直前」。
+    そのブリッジ行が無ければ、安全のためできるだけ多くの行を残しつつ、
+    最後の文末記号で終わる行までを採用する。
+    """
+    if not parsed:
+        return []
+
+    bridge_indices = [
+        i for i, (_, txt) in enumerate(parsed)
+        if any(k in txt for k in _BRIDGE_KEYWORDS)
+    ]
+
+    if bridge_indices:
+        # 最後のブリッジ行の「直前」までを完結ぶんとして採用
+        cutoff = bridge_indices[-1]
+        trimmed = parsed[:cutoff]
+    else:
+        trimmed = list(parsed)
+
+    # 末尾を文末記号で終わる行まで巻き戻す
+    while trimmed and not trimmed[-1][1].strip().endswith(_SENTENCE_ENDS):
+        trimmed.pop()
+
+    return trimmed
+
+
+def _append_fallback_ending(parsed: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    """エンディング雛形を末尾に追加（MC名のプレースホルダを置換）"""
+    out = list(parsed)
+    for spk_tmpl, line_tmpl in FALLBACK_ENDING:
+        speaker = spk_tmpl.format(mc_a=MC_A, mc_b=MC_B)
+        text = line_tmpl.format(mc_a=MC_A, mc_b=MC_B)
+        out.append((speaker, text))
+    return out
 
 
 def generate_script(articles: list[dict]) -> list[tuple[str, str]]:
@@ -89,11 +185,21 @@ def generate_script(articles: list[dict]) -> list[tuple[str, str]]:
     raw_text = response.text
     logger.info(f"Script generated ({len(raw_text)} chars)")
 
-    parsed = parse_script(raw_text)
+    parsed, has_end = parse_script(raw_text)
     if not parsed:
         raise ValueError("Failed to parse script")
 
-    logger.info(f"Lines: {len(parsed)}")
+    if _looks_truncated(parsed, has_end):
+        logger.warning(
+            "Script appears truncated (has_end=%s). Trimming to last complete news and appending fallback ending.",
+            has_end,
+        )
+        parsed = _trim_to_last_complete_news(parsed)
+        if not parsed:
+            raise ValueError("Truncated script could not be recovered")
+        parsed = _append_fallback_ending(parsed)
+
+    logger.info(f"Lines: {len(parsed)} (has_end={has_end})")
     return parsed
 
 
