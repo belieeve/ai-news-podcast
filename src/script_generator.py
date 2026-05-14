@@ -4,19 +4,19 @@ import logging
 from google import genai
 from google.genai import types
 
-from config import GEMINI_API_KEY, GEMINI_MODEL, MAX_SCRIPT_CHARS, MC_A, MC_B, PODCAST_TITLE
+from config import GEMINI_API_KEY, GEMINI_MODEL, MC_A, MC_B, PODCAST_TITLE
 
 logger = logging.getLogger(__name__)
 
 PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の構成作家です。
 以下のニュースをもとに、2人のMC「{mc_a}」と「{mc_b}」の掛け合い台本を書いてください。
 
-【最重要：放送時間の制約】
-- 全体の文字数: 2200〜{max_chars}文字以内（厳守）
-- 各ニュースの解説: 1本あたり300〜400文字以内
-- 番組は必ず「最後のニュースを最後まで紹介し終えて」「エンディング挨拶を言い切ってから」終わること
+【最重要：ニュース本数の制約】
+- ニュースは必ず「ちょうど3本」紹介すること（2本以下も4本以上も禁止）
+- 1本あたり、MC2人で2〜4往復ほどしっかり掘り下げて解説する
+- 番組は必ず「3本目のニュースを最後まで紹介し終えて」「エンディング挨拶を言い切ってから」終わること
 - 1つのニュースを途中で切るのは絶対に禁止
-- 文字数が足りなくなりそうなら、ニュース本数を5本→4本→3本と減らしてよい。途中で切るくらいなら少ない本数で完結させること
+- 文字数の上限は設けない。3本を最後まで紹介し、エンディングまで完結させることを最優先する
 
 【MC名（変更禁止）】
 - メインMC: {mc_a}
@@ -25,9 +25,9 @@ PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の
 【出力ルール】
 - 全行は必ず「{mc_a}:」または「{mc_b}:」で始める（コロンの前にスペース不可）
 - 演出指示・注釈・空行は入れない
-- 構成: ① 番組名コール（1行） ② 短い挨拶（1行） ③ ニュース解説（各2〜4往復・3〜5本） ④ エンディング ⑤ 最終行に <<END>>
+- 構成: ① 番組名コール（1行） ② 短い挨拶（1行） ③ ニュース解説（各2〜4往復・必ず3本） ④ エンディング ⑤ 最終行に <<END>>
 - ニュースとニュースの間は「{mc_a}: それでは次のニュースです。」のような短い1行ブリッジを必ず入れる
-- 最後のニュースが終わった直後に、専用のブリッジ「{mc_a}: さて、本日もそろそろお別れの時間です。」を入れてエンディングへ移る
+- 3本目のニュースが終わった直後に、専用のブリッジ「{mc_a}: さて、本日もそろそろお別れの時間です。」を入れてエンディングへ移る
 - エンディングは番組らしく2〜4行で締める。例:
     {mc_a}: それではまた明日、同じ時間にお会いしましょう。
     {mc_b}: お相手は {mc_b} と、
@@ -170,7 +170,6 @@ def generate_script(articles: list[dict]) -> list[tuple[str, str]]:
         show_name=PODCAST_TITLE,
         mc_a=MC_A,
         mc_b=MC_B,
-        max_chars=MAX_SCRIPT_CHARS,
     ).replace("{news_text}", news_text)
 
     response = client.models.generate_content(
