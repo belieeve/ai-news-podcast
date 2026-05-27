@@ -39,8 +39,8 @@ MC_B = "アヤカ"   # サブMC（女性）
 # Edge-TTS 音声（日本語）
 TTS_VOICE_A = "ja-JP-KeitaNeural"    # 男性（ハルト）
 TTS_VOICE_B = "ja-JP-NanamiNeural"   # 女性（アヤカ）
-TTS_RATE_A = "+10%"
-TTS_RATE_B = "+5%"
+TTS_RATE_A = "+4%"
+TTS_RATE_B = "+1%"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
 PODCAST_TITLE = "AI朝刊"

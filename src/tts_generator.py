@@ -1,6 +1,7 @@
 """Edge-TTSで音声を生成"""
 import asyncio
 import logging
+import re
 import tempfile
 from pathlib import Path
 from pydub import AudioSegment
@@ -25,6 +26,14 @@ SILENCE_BETWEEN = 400  # セリフ間の無音（ミリ秒）
 
 def fix_pronunciation(text: str) -> str:
     """発音辞書に従ってTTSが誤読しやすい表記を補正"""
+    # 疑問文の末尾を右肩上がりの自然なイントネーションに補正
+    # 「でしょうか？」 -> 「でしょうかぁ？」
+    # 「ですか？」 -> 「ですかぁ？」
+    # 「ますか？」 -> 「ますかぁ？」
+    text = re.sub(r'でしょうか(\?|？)', 'でしょうかぁ？', text)
+    text = re.sub(r'ですか(\?|？)', 'ですかぁ？', text)
+    text = re.sub(r'ますか(\?|？)', 'ますかぁ？', text)
+    
     for original, fixed in PRONUNCIATION_FIXES.items():
         text = text.replace(original, fixed)
     return text
@@ -33,7 +42,20 @@ def fix_pronunciation(text: str) -> str:
 async def synthesize_line(text: str, voice: str, rate: str, output_path: str):
     """1行のセリフを音声化"""
     text = fix_pronunciation(text)
-    communicate = edge_tts.Communicate(text, voice=voice, rate=rate)
+    
+    # 機械音声っぽさを排除するために、SSMLでピッチ(pitch)を話者ごとに最適化
+    # Nanami(女性)は少しクリアに(+0.5st)、Keita(男性)は少し落ち着いた声(-0.5st)に調整
+    pitch = "+0.5st" if "Nanami" in voice else "-0.5st"
+    
+    ssml_text = (
+        f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ja-JP">'
+        f'<prosody pitch="{pitch}" rate="{rate}">'
+        f'{text}'
+        f'</prosody>'
+        f'</speak>'
+    )
+    
+    communicate = edge_tts.Communicate(ssml_text, voice=voice)
     await communicate.save(output_path)
 
 
