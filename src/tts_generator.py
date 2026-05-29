@@ -31,14 +31,9 @@ def fix_pronunciation(text: str) -> str:
     # カタカナ読みだけを残して二重読みを防ぐ（全角・半角の括弧どちらも対応）。
     text = re.sub(r'[A-Za-z][A-Za-z0-9.\-\' ]*[（(]([ァ-ヶー・]+)[）)]', r'\1', text)
 
-    # 疑問文の末尾を右肩上がりの自然なイントネーションに補正
-    # 「でしょうか？」 -> 「でしょうかぁ？」
-    # 「ですか？」 -> 「ですかぁ？」
-    # 「ますか？」 -> 「ますかぁ？」
-    text = re.sub(r'でしょうか(\?|？)', 'でしょうかぁ？', text)
-    text = re.sub(r'ですか(\?|？)', 'ですかぁ？', text)
-    text = re.sub(r'ますか(\?|？)', 'ますかぁ？', text)
-    
+    # 疑問文は台本側で必ず「か」で終える形（〜でしょうか？／〜ですか？）に
+    # 統一しているため、語尾を伸ばす小細工は行わず自然なまま読ませる。
+
     for original, fixed in PRONUNCIATION_FIXES.items():
         text = text.replace(original, fixed)
     return text
