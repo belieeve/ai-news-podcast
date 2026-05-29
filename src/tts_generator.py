@@ -42,20 +42,14 @@ def fix_pronunciation(text: str) -> str:
 async def synthesize_line(text: str, voice: str, rate: str, output_path: str):
     """1行のセリフを音声化"""
     text = fix_pronunciation(text)
-    
-    # 機械音声っぽさを排除するために、SSMLでピッチ(pitch)を話者ごとに最適化
-    # Nanami(女性)は少しクリアに(+0.5st)、Keita(男性)は少し落ち着いた声(-0.5st)に調整
-    pitch = "+0.5st" if "Nanami" in voice else "-0.5st"
-    
-    ssml_text = (
-        f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ja-JP">'
-        f'<prosody pitch="{pitch}" rate="{rate}">'
-        f'{text}'
-        f'</prosody>'
-        f'</speak>'
-    )
-    
-    communicate = edge_tts.Communicate(ssml_text, voice=voice)
+
+    # 機械音声っぽさを排除するために、話者ごとにピッチを微調整する。
+    # ※ edge-tts はSSMLタグを解釈せずそのまま読み上げてしまうため、
+    #   SSMLでは囲まず edge-tts 本来の pitch / rate パラメータで指定する。
+    # Nanami(女性)は少しクリアに、Keita(男性)は少し落ち着いた声に調整
+    pitch = "+5Hz" if "Nanami" in voice else "-5Hz"
+
+    communicate = edge_tts.Communicate(text, voice=voice, rate=rate, pitch=pitch)
     await communicate.save(output_path)
 
 

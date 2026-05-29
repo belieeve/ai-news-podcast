@@ -43,9 +43,10 @@ jobs:
 
       - name: Copy generated files
         run: |
-          mkdir -p episodes
+          mkdir -p episodes scripts
           cp -f src/output/episodes/*.mp3 episodes/ 2>/dev/null || true
           cp -f src/output/feed.xml feed.xml 2>/dev/null || true
+          cp -rf src/output/scripts/* scripts/ 2>/dev/null || true
 
       - name: Cleanup old episodes (keep 50)
         run: |
@@ -56,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add episodes/ feed.xml
+          git add episodes/ feed.xml scripts/
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Add episode $(date +%Y-%m-%d)"
           git push

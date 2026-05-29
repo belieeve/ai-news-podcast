@@ -34,11 +34,25 @@ def setup_logging():
     )
 
 
-def save_script(script: list[tuple[str, str]], date_str: str):
-    """台本をテキストファイルとして保存"""
-    SCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
-    path = SCRIPTS_DIR / f"script_{date_str}.txt"
+def save_script(script: list[tuple[str, str]], date_str: str, articles: list[dict] | None = None):
+    """台本をテキストファイルとして保存。
+
+    あとから「何が読み上げられたか」を確認しやすいよう、日付フォルダ
+    （scripts/<YYYYMMDD>/）の中にテキストファイルとして残す。
+    冒頭に、その日のニュース一覧（タイトル・ソース）も記録する。
+    """
+    day_dir = SCRIPTS_DIR / date_str
+    day_dir.mkdir(parents=True, exist_ok=True)
+    path = day_dir / f"script_{date_str}.txt"
     with open(path, "w", encoding="utf-8") as f:
+        f.write(f"AI朝刊 台本  {date_str}\n")
+        f.write("=" * 40 + "\n\n")
+        if articles:
+            f.write("【今日のニュース】\n")
+            for i, a in enumerate(articles, 1):
+                f.write(f"{i}. {a.get('title', '')}（{a.get('source', '')}）\n")
+            f.write("\n" + "=" * 40 + "\n\n")
+        f.write("【台本】\n")
         for speaker, line in script:
             f.write(f"{speaker}: {line}\n")
     logging.getLogger(__name__).info(f"台本保存: {path}")
@@ -71,7 +85,7 @@ def main():
     logger.info("=" * 50)
     logger.info("Step 2: 台本生成")
     script = generate_script(articles)
-    save_script(script, today)
+    save_script(script, today, articles)
     logger.info(f"台本: {len(script)}セリフ")
 
     # Step 3: 音声生成
