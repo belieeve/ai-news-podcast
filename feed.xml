@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIニュース 2026年06月04日</title>
+      <description>今日の話題:
+• AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク - ITmedia
+• シスコ、インフラ統合管理の「Cloud Control」発表--“エージェント型運用”の基盤に - Yahoo!ニュース
+• GoogleのDreambeansは、個人AIを「毎朝届く有限のストーリー」に変える実験だ - XenoSpectrum
+• Broadcom決算に市場失望も、Google・OpenAI・Meta向けAIチップ計画は2028年まで拡大｜Semiconductor Geek - note
+• Microsoft「Build 2026」発表まとめ 開発基盤の拡充から安全対策、ハードウェアまで - ITmedia</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260604.mp3" length="4092333" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260604</guid>
+      <pubDate>Thu, 04 Jun 2026 22:27:49 +0000</pubDate>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:summary>今日の話題:
+• AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク - ITmedia
+• シスコ、インフラ統合管理の「Cloud Control」発表--“エージェント型運用”の基盤に - Yahoo!ニュース
+• GoogleのDreambeansは、個人AIを「毎朝届く有限のストーリー」に変える実験だ - XenoSpectrum
+• Broadcom決算に市場失望も、Google・OpenAI・Meta向けAIチップ計画は2028年まで拡大｜Semiconductor Geek - note
+• Microsoft「Build 2026」発表まとめ 開発基盤の拡充から安全対策、ハードウェアまで - ITmedia</itunes:summary>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月03日</title>
       <description>今日の話題:
 • Linux Foundation、分散型AIエージェントの発見を推進する「DNS-AID」プロジェクトを発表 - CodeZine
