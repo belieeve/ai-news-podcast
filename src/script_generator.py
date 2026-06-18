@@ -162,14 +162,14 @@ def _append_fallback_ending(parsed: list[tuple[str, str]]) -> list[tuple[str, st
     return out
 
 
-def generate_script(articles: list[dict]) -> list[tuple[str, str]]:
+def generate_script(articles: list[dict], show_name: str = PODCAST_TITLE) -> list[tuple[str, str]]:
     """ニュースから台本を生成"""
     client = genai.Client(api_key=GEMINI_API_KEY)
 
     news_text = format_news(articles)
     # MC名と番組名を先に埋め込み、news_textは後から
     prompt = PROMPT_TEMPLATE.format(
-        show_name=PODCAST_TITLE,
+        show_name=show_name,
         mc_a=MC_A,
         mc_b=MC_B,
     ).replace("{news_text}", news_text)

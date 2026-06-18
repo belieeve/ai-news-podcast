@@ -7,6 +7,7 @@ import sys
 import logging
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 # プロジェクトルートをパスに追加
 sys.path.insert(0, str(Path(__file__).parent))
@@ -17,11 +18,26 @@ from script_generator import generate_script
 from tts_generator import generate_audio
 from rss_generator import update_rss
 
+JST = ZoneInfo("Asia/Tokyo")
+
+EPISODE_SLOTS = {
+    "morning": {
+        "label": "朝刊",
+        "show_name": "AI朝刊",
+        "filename_suffix": "morning",
+    },
+    "evening": {
+        "label": "夕刊",
+        "show_name": "AI夕刊",
+        "filename_suffix": "evening",
+    },
+}
+
 
 def setup_logging():
     """ロギング設定"""
     LOG_DIR.mkdir(parents=True, exist_ok=True)
-    today = datetime.now().strftime("%Y%m%d")
+    today = datetime.now(JST).strftime("%Y%m%d")
     log_file = LOG_DIR / f"podcast_{today}.log"
 
     logging.basicConfig(
@@ -34,7 +50,13 @@ def setup_logging():
     )
 
 
-def save_script(script: list[tuple[str, str]], date_str: str, articles: list[dict] | None = None):
+def save_script(
+    script: list[tuple[str, str]],
+    date_str: str,
+    episode_label: str,
+    filename_suffix: str,
+    articles: list[dict] | None = None,
+):
     """台本をテキストファイルとして保存。
 
     あとから「何が読み上げられたか」を確認しやすいよう、日付フォルダ
@@ -43,9 +65,9 @@ def save_script(script: list[tuple[str, str]], date_str: str, articles: list[dic
     """
     day_dir = SCRIPTS_DIR / date_str
     day_dir.mkdir(parents=True, exist_ok=True)
-    path = day_dir / f"script_{date_str}.txt"
+    path = day_dir / f"script_{date_str}_{filename_suffix}.txt"
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"AI朝刊 台本  {date_str}\n")
+        f.write(f"AI{episode_label} 台本  {date_str}\n")
         f.write("=" * 40 + "\n\n")
         if articles:
             f.write("【今日のニュース】\n")
@@ -58,18 +80,34 @@ def save_script(script: list[tuple[str, str]], date_str: str, articles: list[dic
     logging.getLogger(__name__).info(f"台本保存: {path}")
 
 
+def parse_slot(argv: list[str]) -> str:
+    """--slot morning/evening を読み取る。未指定時は朝刊扱い。"""
+    if "--slot" not in argv:
+        return "morning"
+    idx = argv.index("--slot")
+    if idx + 1 >= len(argv):
+        raise ValueError("--slot requires morning or evening")
+    slot = argv[idx + 1]
+    if slot not in EPISODE_SLOTS:
+        raise ValueError(f"Unknown slot: {slot}. Use morning or evening.")
+    return slot
+
+
 def main():
     no_deploy = "--no-deploy" in sys.argv
+    slot = parse_slot(sys.argv)
+    slot_config = EPISODE_SLOTS[slot]
 
     setup_logging()
     logger = logging.getLogger(__name__)
 
-    today = datetime.now().strftime("%Y%m%d")
-    episode_filename = f"episode_{today}.mp3"
+    now = datetime.now(JST)
+    today = now.strftime("%Y%m%d")
+    episode_filename = f"episode_{today}_{slot_config['filename_suffix']}.mp3"
 
     # 重複実行防止
     if (AUDIO_DIR / episode_filename).exists():
-        logger.info("今日のエピソードは既に生成済みです")
+        logger.info("今日の%sエピソードは既に生成済みです", slot_config["label"])
         return
 
     # Step 1: ニュース収集
@@ -84,8 +122,8 @@ def main():
     # Step 2: 台本生成
     logger.info("=" * 50)
     logger.info("Step 2: 台本生成")
-    script = generate_script(articles)
-    save_script(script, today, articles)
+    script = generate_script(articles, show_name=slot_config["show_name"])
+    save_script(script, today, slot_config["label"], slot_config["filename_suffix"], articles)
     logger.info(f"台本: {len(script)}セリフ")
 
     # Step 3: 音声生成
@@ -97,7 +135,7 @@ def main():
     # Step 4: RSS更新
     logger.info("=" * 50)
     logger.info("Step 4: RSS更新")
-    update_rss(episode_filename, articles, duration)
+    update_rss(episode_filename, articles, duration, slot_config["label"], published_at=now)
 
     # Step 5: デプロイ（--no-deployの場合はスキップ）
     if no_deploy:

@@ -1,9 +1,10 @@
 """Podcast RSSフィードを生成・更新（Spotify互換XML出力）"""
-import os
 import logging
+import os
 from datetime import datetime
-from email.utils import formatdate
+from email.utils import format_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
 
 from config import (
@@ -13,6 +14,7 @@ from config import (
 )
 
 logger = logging.getLogger(__name__)
+JST = ZoneInfo("Asia/Tokyo")
 
 
 def format_duration(seconds: float) -> str:
@@ -105,10 +107,18 @@ def save_feed(xml_str: str):
     logger.info(f"RSS保存: {RSS_FILE}")
 
 
-def update_rss(filename: str, articles: list[dict], duration_seconds: float):
+def update_rss(
+    filename: str,
+    articles: list[dict],
+    duration_seconds: float,
+    episode_label: str = "",
+    published_at: datetime | None = None,
+):
     """RSSフィードを更新"""
-    today = datetime.now().strftime("%Y年%m月%d日")
-    title = f"AIニュース {today}"
+    now = published_at or datetime.now(JST)
+    today = now.strftime("%Y年%m月%d日")
+    label_suffix = f" {episode_label}" if episode_label else ""
+    title = f"AIニュース {today}{label_suffix}"
 
     summary_lines = [f"• {a['title']}" for a in articles]
     summary = "今日の話題:\n" + "\n".join(summary_lines)
@@ -129,7 +139,7 @@ def update_rss(filename: str, articles: list[dict], duration_seconds: float):
         "enclosure_url": f"{GITHUB_PAGES_URL}/episodes/{filename}",
         "length": str(file_size),
         "guid": filename.replace(".mp3", ""),
-        "pub_date": formatdate(datetime.now().timestamp(), localtime=True),
+        "pub_date": format_datetime(now),
         "duration": format_duration(duration_seconds),
         "episode_number": episode_number,
     }
