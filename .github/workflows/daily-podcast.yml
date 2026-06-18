@@ -1,4 +1,4 @@
-name: AI朝刊 - 毎日自動配信
+name: AIニュースデイリー - 毎日自動配信
 
 on:
   schedule:

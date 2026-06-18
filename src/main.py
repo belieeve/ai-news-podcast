@@ -24,12 +24,12 @@ JST = ZoneInfo("Asia/Tokyo")
 EPISODE_SLOTS = {
     "morning": {
         "label": "朝刊",
-        "show_name": "AI朝刊",
+        "show_name": "AIニュースデイリー 朝刊",
         "filename_suffix": "morning",
     },
     "evening": {
         "label": "夕刊",
-        "show_name": "AI夕刊",
+        "show_name": "AIニュースデイリー 夕刊",
         "filename_suffix": "evening",
     },
 }
@@ -68,7 +68,7 @@ def save_script(
     day_dir.mkdir(parents=True, exist_ok=True)
     path = day_dir / f"script_{date_str}_{filename_suffix}.txt"
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"AI{episode_label} 台本  {date_str}\n")
+        f.write(f"AIニュースデイリー {episode_label} 台本  {date_str}\n")
         f.write("=" * 40 + "\n\n")
         if articles:
             f.write("【今日のニュース】\n")

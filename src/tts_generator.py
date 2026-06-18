@@ -127,7 +127,7 @@ def generate_audio(script: list[tuple[str, str]], filename: str) -> tuple[str, f
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     test_script = [
-        (MC_A, "AI朝刊へようこそ!"),
+        (MC_A, "AIニュースデイリーへようこそ!"),
         (MC_B, "今日のAIニュースをお届けします!"),
         (MC_A, "それでは、いきましょう。"),
     ]

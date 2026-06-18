@@ -3,10 +3,10 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI朝刊</title>
+    <title>AIニュースデイリー</title>
     <link>https://belieeve.github.io/ai-news-podcast</link>
     <language>ja</language>
-    <description>毎朝届ける、AIニュースの朝刊。ハルトとアヤカが、ChatGPT・Claude・画像生成AI・話題のAIツールやサービスの最新動向を、わかりやすく解説します。</description>
+    <description>毎日朝夕に届けるAIニュース番組。ハルトとアヤカが、ChatGPT・Claude・画像生成AI・話題のAIツールやサービスの最新動向を、10分でわかりやすく解説します。</description>
     <itunes:author>Believe</itunes:author>
     <itunes:owner>
       <itunes:name>Believe</itunes:name>
@@ -18,7 +18,7 @@
     <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork.jpg" />
     <image>
       <url>https://belieeve.github.io/ai-news-podcast/artwork.jpg</url>
-      <title>AI朝刊</title>
+      <title>AIニュースデイリー</title>
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
