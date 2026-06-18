@@ -42,6 +42,7 @@ jobs:
         run: |
           mkdir -p src/output
           cp -f feed.xml src/output/feed.xml 2>/dev/null || true
+          cp -rf scripts src/output/scripts 2>/dev/null || true
 
       - name: Generate episode
         env:

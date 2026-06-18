@@ -43,8 +43,9 @@ def extract_article_text(url: str) -> str:
         return ""
 
 
-def collect_news() -> list[dict]:
+def collect_news(exclude_titles: list[str] | None = None) -> list[dict]:
     """AIニュースを収集して返す"""
+    exclude_titles = exclude_titles or []
     all_entries = []
     cutoff = datetime.now() - timedelta(hours=36)
 
@@ -72,6 +73,18 @@ def collect_news() -> list[dict]:
     for entry in all_entries:
         if not any(is_similar(entry["title"], u["title"]) for u in unique):
             unique.append(entry)
+
+    if exclude_titles:
+        before_count = len(unique)
+        unique = [
+            entry for entry in unique
+            if not any(is_similar(entry["title"], excluded) for excluded in exclude_titles)
+        ]
+        logger.info(
+            "既出ニュース除外: %d件（対象タイトル %d件）",
+            before_count - len(unique),
+            len(exclude_titles),
+        )
 
     # 新しい順にソート
     unique.sort(key=lambda x: x.get("published") or datetime.min, reverse=True)

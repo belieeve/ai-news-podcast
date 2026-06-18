@@ -3,6 +3,7 @@
 毎日自動でAIニュースを収集し、Podcast音声を生成してRSS配信する。
 """
 import os
+import re
 import sys
 import logging
 from datetime import datetime
@@ -93,6 +94,29 @@ def parse_slot(argv: list[str]) -> str:
     return slot
 
 
+def load_used_article_titles(date_str: str, filename_suffix: str) -> list[str]:
+    """保存済み台本から、その回で扱ったニュースタイトルを読む。"""
+    script_path = SCRIPTS_DIR / date_str / f"script_{date_str}_{filename_suffix}.txt"
+    if not script_path.exists():
+        return []
+
+    titles: list[str] = []
+    in_news_section = False
+    for line in script_path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
+        if stripped == "【今日のニュース】":
+            in_news_section = True
+            continue
+        if in_news_section and stripped.startswith("===="):
+            break
+        if not in_news_section:
+            continue
+        match = re.match(r"^\d+\.\s*(.+?)（.+?）$", stripped)
+        if match:
+            titles.append(match.group(1))
+    return titles
+
+
 def main():
     no_deploy = "--no-deploy" in sys.argv
     slot = parse_slot(sys.argv)
@@ -104,6 +128,14 @@ def main():
     now = datetime.now(JST)
     today = now.strftime("%Y%m%d")
     episode_filename = f"episode_{today}_{slot_config['filename_suffix']}.mp3"
+    exclude_titles: list[str] = []
+
+    if slot == "evening":
+        exclude_titles = load_used_article_titles(today, EPISODE_SLOTS["morning"]["filename_suffix"])
+        if exclude_titles:
+            logger.info("朝刊で扱ったニュースを夕刊から除外: %d件", len(exclude_titles))
+        else:
+            logger.info("朝刊のニュース一覧が見つからないため、夕刊の既出除外はスキップ")
 
     # 重複実行防止
     if (AUDIO_DIR / episode_filename).exists():
@@ -113,7 +145,7 @@ def main():
     # Step 1: ニュース収集
     logger.info("=" * 50)
     logger.info("Step 1: ニュース収集")
-    articles = collect_news()
+    articles = collect_news(exclude_titles=exclude_titles)
     if not articles:
         logger.warning("ニュースが見つかりませんでした。終了します。")
         return
