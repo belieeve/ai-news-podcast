@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIニュース 2026年06月20日 朝刊</title>
+      <description>今日の話題:
+• AIは科学者の相棒になるのか OpenAIがブラックホール研究事例を紹介 - DXマガジン
+• GoogleはインドでAIを作り、Boschはインドで特許を量産する。その深い理由とは？ | 戦略のデザイン - ダイヤモンド・オンライン
+• ジョン・ジャンパーがGoogle DeepMindを退社しAnthropicに参加 - mezha.net
+• DeepSeekが中国AI史上初の外部資金調達、74億ドルで評価額500億ドルを超えAGI研究へ - XenoSpectrum
+• トランプ氏がAnthropicを一時的に安全保障上の脅威とみなしたが現在は否定 - mezha.net</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260620_morning.mp3" length="3799725" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260620_morning</guid>
+      <pubDate>Sat, 20 Jun 2026 07:11:29 +0900</pubDate>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:summary>今日の話題:
+• AIは科学者の相棒になるのか OpenAIがブラックホール研究事例を紹介 - DXマガジン
+• GoogleはインドでAIを作り、Boschはインドで特許を量産する。その深い理由とは？ | 戦略のデザイン - ダイヤモンド・オンライン
+• ジョン・ジャンパーがGoogle DeepMindを退社しAnthropicに参加 - mezha.net
+• DeepSeekが中国AI史上初の外部資金調達、74億ドルで評価額500億ドルを超えAGI研究へ - XenoSpectrum
+• トランプ氏がAnthropicを一時的に安全保障上の脅威とみなしたが現在は否定 - mezha.net</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月19日 夕刊</title>
       <description>今日の話題:
 • 財務AIエージェント『M&amp;Aナビ - ニコニコニュース
@@ -1000,26 +1020,6 @@
 • LINEヤフーが対話型AIの新サービス開始 観光ルート提案、相談相手に - 観光経済新聞
 • 「私は人間です」と証明せざるを得ない時代に　OpenAI サム・アルトマン氏が仕掛ける「World ID」とは？ - ｄメニューニュース</itunes:summary>
       <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月02日</title>
-      <description>今日の話題:
-• MetaがAIのために再構築、数千の雇用が影響を受ける - Laodong.vn
-• イーロン・マスクが警告し、Microsoftに未来のAIを支配させるべきではないと主張 - mezha.net
-• OpenAI、Codexアプリの作業状況を知らせるコンパニオン「Codex pets」が登場 - gihyo.jp
-• メタの外部委託先でAIモデル改良に従事する700人超、職を失う可能性 - WIRED.jp
-• 米国防総省、AI8社と機密軍事利用で合意、Anthropicは排除（ビジネス＋IT） - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260502.mp3" length="6320685" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260502</guid>
-      <pubDate>Sat, 02 May 2026 05:21:47 +0000</pubDate>
-      <itunes:duration>06:34</itunes:duration>
-      <itunes:summary>今日の話題:
-• MetaがAIのために再構築、数千の雇用が影響を受ける - Laodong.vn
-• イーロン・マスクが警告し、Microsoftに未来のAIを支配させるべきではないと主張 - mezha.net
-• OpenAI、Codexアプリの作業状況を知らせるコンパニオン「Codex pets」が登場 - gihyo.jp
-• メタの外部委託先でAIモデル改良に従事する700人超、職を失う可能性 - WIRED.jp
-• 米国防総省、AI8社と機密軍事利用で合意、Anthropicは排除（ビジネス＋IT） - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
