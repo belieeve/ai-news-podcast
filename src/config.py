@@ -49,7 +49,7 @@ PODCAST_AUTHOR = "Believe"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"
 PODCAST_CATEGORY = "Technology"
-PODCAST_IMAGE = "artwork.jpg"
+PODCAST_IMAGE = "artwork_v2.jpg"
 
 # GitHub Pages
 GITHUB_PAGES_REPO_PATH = os.getenv("GITHUB_PAGES_REPO_PATH", "")

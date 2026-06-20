@@ -15,9 +15,9 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
-    <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork.jpg" />
+    <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg" />
     <image>
-      <url>https://belieeve.github.io/ai-news-podcast/artwork.jpg</url>
+      <url>https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg</url>
       <title>AIニュースデイリー</title>
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
