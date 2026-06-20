@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIニュース 2026年06月21日 朝刊</title>
+      <description>今日の話題:
+• ソフトバンクG×OpenAI連合、PaaS始動の裏側…米「ミュトス禁止令」が示す地政学リスク - ビジネスジャーナル
+• ニデックなどAIデータセンター需要爆増の恩恵が"これから株価に表れる企業"はどこか？（イントロ） - オルタナティブ・ブログ
+• AIエージェントは部下になるのか？ HR EXPOで議論した「職務設計・権限委譲・評価制度」の未来 - オルタナティブ・ブログ
+• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
+• ポシエス、電子文書から業務領域へ…AIエージェント「AIOZ EKA」を初披露 - finance.biggo.jp</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260621_morning.mp3" length="5541165" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260621_morning</guid>
+      <pubDate>Sun, 21 Jun 2026 07:17:31 +0900</pubDate>
+      <itunes:duration>05:46</itunes:duration>
+      <itunes:summary>今日の話題:
+• ソフトバンクG×OpenAI連合、PaaS始動の裏側…米「ミュトス禁止令」が示す地政学リスク - ビジネスジャーナル
+• ニデックなどAIデータセンター需要爆増の恩恵が"これから株価に表れる企業"はどこか？（イントロ） - オルタナティブ・ブログ
+• AIエージェントは部下になるのか？ HR EXPOで議論した「職務設計・権限委譲・評価制度」の未来 - オルタナティブ・ブログ
+• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
+• ポシエス、電子文書から業務領域へ…AIエージェント「AIOZ EKA」を初披露 - finance.biggo.jp</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月20日 夕刊</title>
       <description>今日の話題:
 • 画面一つが巨大な企業ネットワークを丸ごと吸い込んだ。 米ラスベガスで開かれた年例カンファレンス「シスコライブ」の舞台。 大型スクリーンにはチャットGPTに似た対話ウィンドウが表示され、試演者が「我が社.. - 매일경제
@@ -1000,26 +1020,6 @@
 • レンタルバイクサービス「レンタル819」が、公式サイトにAIエージェントを導入！深夜でも、外国語でもリアルタイムで回答がもらえる。（Webikeプラス） - Yahoo!ニュース
 • Anthropic、Blackstoneなどと企業向けAI新会社 OpenAIも同様の構想 - 디지털투데이</itunes:summary>
       <itunes:episode>4</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月03日</title>
-      <description>今日の話題:
-• NEC、日本企業初のAnthropicのグローバルパートナーに グループ約3万人にClaudeを展開 - EnterpriseZine
-• “最強のハッキングAI”は特殊例ではなかった！GPT-5.5が到達したサイバー攻撃能力の現在地 - JBpress
-• WordやExcelだけじゃない！ 「プロンプト不要」で使えるMicrosoft 365 CopilotのニッチなAI機能 - ITmedia
-• AWS、BedrockでOpenAIモデル提供開始 企業の反応は限定的 - 디지털투데이
-• 【愛憎】マスクが激怒したアルトマン「裏切り」の全貌 - newspicks.com</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260503.mp3" length="8569005" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260503</guid>
-      <pubDate>Sun, 03 May 2026 21:57:05 +0000</pubDate>
-      <itunes:duration>08:55</itunes:duration>
-      <itunes:summary>今日の話題:
-• NEC、日本企業初のAnthropicのグローバルパートナーに グループ約3万人にClaudeを展開 - EnterpriseZine
-• “最強のハッキングAI”は特殊例ではなかった！GPT-5.5が到達したサイバー攻撃能力の現在地 - JBpress
-• WordやExcelだけじゃない！ 「プロンプト不要」で使えるMicrosoft 365 CopilotのニッチなAI機能 - ITmedia
-• AWS、BedrockでOpenAIモデル提供開始 企業の反応は限定的 - 디지털투데이
-• 【愛憎】マスクが激怒したアルトマン「裏切り」の全貌 - newspicks.com</itunes:summary>
-      <itunes:episode>3</itunes:episode>
     </item>
   </channel>
 </rss>
