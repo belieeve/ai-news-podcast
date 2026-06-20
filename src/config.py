@@ -45,7 +45,7 @@ TTS_RATE_B = "+1%"
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
 PODCAST_TITLE = "AIニュースデイリー"
 PODCAST_DESCRIPTION = "毎日朝夕に届けるAIニュース番組。ハルトとアヤカが、ChatGPT・Claude・画像生成AI・話題のAIツールやサービスの最新動向を、10分でわかりやすく解説します。"
-PODCAST_AUTHOR = "Believe"
+PODCAST_AUTHOR = "ハルト＆アヤカ"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"
 PODCAST_CATEGORY = "Technology"
