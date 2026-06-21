@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIニュース 2026年06月22日 朝刊</title>
+      <description>今日の話題:
+• 2026年6月10日「Gemini」に珍しく大規模障害発生？【akutaji Vol.384】 - jetstream.blog
+• AIを使っても「売上増」は2割以下？ 優秀なAIを「無能な部下」にする企業の共通点 - キーマンズネット
+• 【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も - Yahoo!ニュース
+• Appleの新「Siri AI」、EUでは提供見送りに Apple幹部が明かした“日本との違い” - au Webポータル
+• Anthropic ソウルオフィス開設｜NAVER・Samsung・LGを同時攻略した「エコシステム先占」戦略の全貌 - innovaTopia</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_morning.mp3" length="4629549" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_morning</guid>
+      <pubDate>Mon, 22 Jun 2026 07:20:08 +0900</pubDate>
+      <itunes:duration>04:49</itunes:duration>
+      <itunes:summary>今日の話題:
+• 2026年6月10日「Gemini」に珍しく大規模障害発生？【akutaji Vol.384】 - jetstream.blog
+• AIを使っても「売上増」は2割以下？ 優秀なAIを「無能な部下」にする企業の共通点 - キーマンズネット
+• 【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も - Yahoo!ニュース
+• Appleの新「Siri AI」、EUでは提供見送りに Apple幹部が明かした“日本との違い” - au Webポータル
+• Anthropic ソウルオフィス開設｜NAVER・Samsung・LGを同時攻略した「エコシステム先占」戦略の全貌 - innovaTopia</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月21日 夕刊</title>
       <description>今日の話題:
 • AppleがSiri AIを発表し画面理解と個人文脈でiPhoneを進化させる - mezha.net
@@ -1000,26 +1020,6 @@
 • 「すでに開発コードの4分の3はAI生成」 Google Cloud CEO、エージェント時代の戦略を語る (1/2) - ASCII.jp
 • 「Microsoft 365」の全体像を正しく把握する - ZDNET Japan</itunes:summary>
       <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月05日</title>
-      <description>今日の話題:
-• ChatGPT一強時代に変化の兆し。iOS 27でApple IntelligenceのAIをClaudeやGeminiにも切り替えられるように？ - ゴリミー
-• 米政府、Google・Microsoft・xAIのAIモデルを公開前に審査へ：「国家安全保障テスト」体制の全貌 - XenoSpectrum
-• ChatGPT、標準モデルを「GPT-5.5 Instant」に刷新 誤答を抑え、パーソナライズも強化 - マイナビニュース
-• GoogleとMicrosoft、xAIが未公開AIモデルを政府に提供しサイバー防御を強化 - mezha.net
-• AppleがiOS 27でサードパーティAIをiPhone上で利用可能にする - mezha.net</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260505.mp3" length="5468589" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260505</guid>
-      <pubDate>Tue, 05 May 2026 22:11:36 +0000</pubDate>
-      <itunes:duration>05:41</itunes:duration>
-      <itunes:summary>今日の話題:
-• ChatGPT一強時代に変化の兆し。iOS 27でApple IntelligenceのAIをClaudeやGeminiにも切り替えられるように？ - ゴリミー
-• 米政府、Google・Microsoft・xAIのAIモデルを公開前に審査へ：「国家安全保障テスト」体制の全貌 - XenoSpectrum
-• ChatGPT、標準モデルを「GPT-5.5 Instant」に刷新 誤答を抑え、パーソナライズも強化 - マイナビニュース
-• GoogleとMicrosoft、xAIが未公開AIモデルを政府に提供しサイバー防御を強化 - mezha.net
-• AppleがiOS 27でサードパーティAIをiPhone上で利用可能にする - mezha.net</itunes:summary>
-      <itunes:episode>5</itunes:episode>
     </item>
   </channel>
 </rss>
