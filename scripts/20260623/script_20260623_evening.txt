@@ -1,0 +1,65 @@
+AIニュースデイリー 夕刊 台本パッケージ  20260623
+========================================
+
+【エピソードタイトル】
+プログラミングなしでAIエージェント開発！仕事・副業への活用可能性
+
+========================================
+
+【Spotify概要欄】
+「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
+
+今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
+一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
+
+【今日の一歩】
+「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
+それでは、良い夜をお過ごしください。
+
+========================================
+
+【元になったニュース】
+1. 9分動画で学ぶAIエージェント活用の実際、高度な判断を要する業務への適用例 - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMijwFBVV95cUxQdUhXZHROU2NublFwcTRoU1g5SHJqY1k3Z3hCLUFpZFZyZ3dvdjU3S09aUmhCT3lYdldJYllPOU5RdHM0c21vdE5kOEtRLWQyeWUzWE9MbTlfUFU0dUhNX1VEd3R2V0dDdVlEaWZHVUFaWENiQjF0ZkhBZV9pQkZLS0xDWFlvVEJqaU5wem5kcw?oc=5
+2. プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlAyRXBwRTI1dmFtMjBkaG11UTVzekxuT3ZJSzlzem1sZTVKaHRXbDhVWERUOXkwNlp5cHJoVURXcWZ5cEhzWTNBcHZ2d0xXN3pCUWc3VmhJaTh3LWlQTHZQYktRNFZ5WTlDdks5Qzg5U2V6TUdmZUtvY2N1WG1TMkQ0ZnMtMzI4NGhVZFBxMA?oc=5
+3. ノキアとグーグル、ノキアの自律型ネットワークにAIエージェントを組み込むための提携を発表 - Moomoo（Moomoo） - https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1lNMzNWZWhDU3J3MHlJWVpnQktrS014dEJobUk5bTRwQ0JEZldaSGdTb2poaUhtT0RZbGxvUWlrbXZLaWFzZ3ZoTGt5b1lkMWstbFN3dC1MMThCY1JCWVc0QjZxVDlnUndNZTRLVEhBQXdnS3NGbmlBNXFBVWZtd1pySTZqZEl6MDFpcVZ0UWQ0ZVRwMmR1Qm5VNUlWQnNYU2pnbTNfWjdxUXFnNU5GOA?oc=5
+4. Nvidia、ロボット安全システム「Halos」発表、人型ロボットを「檻」から解放へ - finance.biggo.jp（finance.biggo.jp） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5LbmZsaFBsS3NOZW9DOFhoOEktWDJvejdSYXMwM216cUUtcGRWYWF6VGFfU09lSm1yTmR5SWlGV0RXQ2RKRXBhUVhlZEV0ZjFxdlBUNzlZU0pwazdkbXRIRE0zc2F0SWtCdTZ2a25yN0R3X0VV?oc=5
+5. Anthropic、停止中のMythos 5後継モデルの訓練完了 - BeInCrypto（BeInCrypto） - https://news.google.com/rss/articles/CBMie0FVX3lxTE1UV1lXckpSY0VHWTNrMkZDXzVERW1sUnBNQ3lvUXRIQ3ZodWpNRlJLRm9DaHNtZWxqc0dpUWxxTzFEc2tVUldqSlZIVlNTdXdiVDc5N0tTZVFUaTItUzZvNF9fUXJtRnFOdXRDN2JzYVJWcVp1NlR5Vkd1VQ?oc=5
+
+========================================
+
+【掛け合い台本】
+ハルト: こんばんは。「AIニュースデイリー 夕刊」へようこそ。この番組は、国内外のAIニュースを日本語で短く整理し、日本の個人・副業・中小企業の皆さんが、明日からどう仕事や日常に活かせるかまで解説するポッドキャストです。
+ハルト: さて、本日もそろそろお別れの時間です。
+アヤカ: 明日も気になるAIニュース、お届けしますね。
+ハルト: それではまた明日、同じ時間にお会いしましょう。
+アヤカ: お相手は アヤカ と、
+ハルト: ハルト でした。良い夜を！
+
+========================================
+
+【監査AIによるファクトチェックログ】
+・問題なしの箇所：
+    *   概要欄の番組紹介、ニュースの出典表記、ニュースレターやSpotifyの案内は問題ありません。
+    *   台本の挨拶部分（冒頭の番組紹介以外）は問題ありません。
+    *   元のニュース2のタイトルと概要欄のニュースタイトルの一致は問題ありません。
+・修正が必要な箇所（BまたはC判定の場合）：
+    *   **タイトル**: 「プログラミングなしでAIエージェント開発！仕事・副業の幅を広げる方法」
+        *   「仕事・副業の幅を広げる方法」は、事実ではなく、番組側の解釈・示唆であり、やや断定的な表現です。
+        *   修正案: 「プログラミングなしでAIエージェント開発！仕事・副業への活用可能性」
+    *   **概要欄 - 一言要約**: 「プログラミング不要でAIエージェントが作れる時代の到来。仕事の自動化や副業チャンスを掴む方法を解説します。」
+        *   「時代の到来」は断定的な表現です。
+        *   「副業チャンスを掴む方法を解説します」は、事実ではなく、番組側の解釈・示唆です。
+        *   修正案: 「プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。」
+    *   **概要欄 - 【今日の一歩】**: 「「AIエージェント ノーコード ツール」で検索し、無料ツールを試してみましょう。」
+        *   元のニュースには「手軽に使えるツール」とありますが、「無料ツール」であるとは明記されていません。断定的な表現であり、事実と異なる可能性があります。
+        *   修正案: 「「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。」
+    *   **台本 - ハルトの冒頭**: 「この番組は、海外のAIニュースを日本語で短く整理し、日本の個人・副業・中小企業の皆さんが、明日からどう仕事や日常に活かせるかまで解説するポッドキャストです。」
+        *   今回取り上げるメインニュース（ニュース2）は日経クロステックActiveからのものであり、日本のメディアです。番組のコンセプトとして「海外のAIニュース」と限定していると、今回のニュースとの整合性が取れません。
+        *   修正案: 「この番組は、国内外のAIニュースを日本語で短く整理し、日本の個人・副業・中小企業の皆さんが、明日からどう仕事や日常に活かせるかまで解説するポッドキャストです。」
+・要確認の箇所：
+    *   なし
+・判定理由：
+    *   タイトル、概要欄、台本に、元のニュースの事実と異なる、または断定的な表現、過剰な示唆が含まれているため。特に「無料ツール」の言及は元のニュースにありません。また、番組のコンセプト説明と今回取り上げるニュースのソースに整合性の問題があります。これらは信頼性を損ねる可能性があるため、修正が必要と判断しました。ただし、事実の根本的な誤りや重度の煽り表現ではないため、軽微な修正で対応可能と判断し、B判定とします。

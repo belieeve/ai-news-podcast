@@ -22,6 +22,36 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>プログラミングなしでAIエージェント開発！仕事・副業への活用可能性</title>
+      <description>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
+
+今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
+一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
+
+【今日の一歩】
+「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
+それでは、良い夜をお過ごしください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260623_evening.mp3" length="584109" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260623_evening</guid>
+      <pubDate>Tue, 23 Jun 2026 00:04:25 +0900</pubDate>
+      <itunes:duration>00:36</itunes:duration>
+      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
+
+今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
+一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
+
+【今日の一歩】
+「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
+それでは、良い夜をお過ごしください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>GitHubがAIの「やりすぎ」を抑制？ AI生成物の質を高めるヒントとは</title>
       <description>「AIニュースデイリー 夕刊」へようこそ。今日の夕刊では、GitHubがAIによるプルリクエストの「質」低下を防ぐ新機能を導入したニュースを取り上げます。AIを仕事で活用する際に、私たちがどう「質」を高めていけば良いのか、具体的なヒントと「今日の一歩」をお届けします。
 
@@ -1052,26 +1082,6 @@
 • なぜPoCで終わる？アクセンチュア解説「AIエージェント」導入を阻む…既存業務の問題 - ビジネス+IT
 • 生成AIが持つ「致命的な弱点」…真のデータ民主化を実現する「AIエージェント」の正体 - ビジネス+IT</itunes:summary>
       <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月12日</title>
-      <description>今日の話題:
-• アンソロピックは、Claudeの恐喝行動をインターネットにおける「邪悪な」AIの描写のせいだと言う - Business Insider Japan
-• 高度なkintoneカスタマイズを専門知識なしで AIでシステム改善できる新サービス - キーマンズネット
-• AIの「本番運用」はどこまで進んだか──Datadog決算に見る4つの構造変化 - ストレイナー
-• AndroidをAIで再定義する「Gemini Intelligence」：Googleが示した次世代スマートフォン体験の全貌 - XenoSpectrum
-• 巨額のAI投資の裏でマイクロソフトがベテラン社員に提示した「早期退職パッケージ」の詳細【社内文書を入手】 - Business Insider Japan</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260512.mp3" length="8382765" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260512</guid>
-      <pubDate>Tue, 12 May 2026 22:21:42 +0000</pubDate>
-      <itunes:duration>08:43</itunes:duration>
-      <itunes:summary>今日の話題:
-• アンソロピックは、Claudeの恐喝行動をインターネットにおける「邪悪な」AIの描写のせいだと言う - Business Insider Japan
-• 高度なkintoneカスタマイズを専門知識なしで AIでシステム改善できる新サービス - キーマンズネット
-• AIの「本番運用」はどこまで進んだか──Datadog決算に見る4つの構造変化 - ストレイナー
-• AndroidをAIで再定義する「Gemini Intelligence」：Googleが示した次世代スマートフォン体験の全貌 - XenoSpectrum
-• 巨額のAI投資の裏でマイクロソフトがベテラン社員に提示した「早期退職パッケージ」の詳細【社内文書を入手】 - Business Insider Japan</itunes:summary>
-      <itunes:episode>12</itunes:episode>
     </item>
   </channel>
 </rss>
