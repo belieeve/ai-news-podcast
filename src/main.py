@@ -238,12 +238,24 @@ def main():
         sys.exit(1)
 
     elif status == "B":
-        # 軽微な修正あり：監査AIが修正したテキストを採用
+        # 軽微な修正あり：監査AIが修正したテキストを採用（空チェック・サボり防止の安全弁付き）
         logger.info("監査AIによる自動修正（ステータスB）を適用します。")
-        title = audit_result["title"] or title
-        summary = audit_result["summary"] or summary
-        script = audit_result["script"] or script
-        sns_draft = audit_result["sns_draft"] or sns_draft
+        if audit_result["title"] and len(audit_result["title"].strip()) > 5:
+            title = audit_result["title"].strip()
+        if audit_result["summary"] and len(audit_result["summary"].strip()) > 10:
+            summary = audit_result["summary"].strip()
+
+        # 修正された台本が正常（5行以上）な場合のみ適用。不完全なら元の台本を維持
+        if audit_result["script"] and len(audit_result["script"]) > 5:
+            script = audit_result["script"]
+        else:
+            logger.warning("監査AIによる修正台本が不完全なため、元の台本を維持します。")
+
+        # 修正されたSNS下書きが正常（50文字以上）な場合のみ適用。不完全なら元のSNS下書きを維持
+        if audit_result["sns_draft"] and len(audit_result["sns_draft"].strip()) > 50:
+            sns_draft = audit_result["sns_draft"].strip()
+        else:
+            logger.warning("監査AIによる修正SNS下書きが不完全なため、元のSNS下書きを維持します。")
 
     # 台本パッケージを保存（AまたはB判定）
     save_script(
