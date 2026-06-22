@@ -22,6 +22,34 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIがあなたの購買代理人に？「エージェンティックコマース」で変わる仕事と副業の未来</title>
+      <description>今日の「AIニュースデイリー 夕刊」では、海外AIニュースの中から「AIがあなたの代理人として自動で商品を選び、購入する」という未来の購買体験「エージェンティックコマース」について深掘りします。この新しい概念が、会社員の業務効率化、副業の新しいビジネスモデル、そして中小企業の販売戦略にどう影響するのか、具体的なヒントを解説。
+
+【今日の一歩】
+今日の業務の中で、「もしAIが私の代理人だったら、このタスクをどう進めるだろう？」と想像し、AIチャットボットに問いかけてみましょう。
+
+今日のニュースのリンクと、さらに詳しい仕事での活用アイデアは、無料のニュースレターにまとめています。概要欄からぜひご登録ください。
+→ ニュースレター登録はこちら: [ニュースレター登録リンクをここに挿入]
+
+「AIニュースデイリー 夕刊」を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
+それでは、また次回の配信でお会いしましょう。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="3753645" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_evening</guid>
+      <pubDate>Mon, 22 Jun 2026 23:20:54 +0900</pubDate>
+      <itunes:duration>03:54</itunes:duration>
+      <itunes:summary>今日の「AIニュースデイリー 夕刊」では、海外AIニュースの中から「AIがあなたの代理人として自動で商品を選び、購入する」という未来の購買体験「エージェンティックコマース」について深掘りします。この新しい概念が、会社員の業務効率化、副業の新しいビジネスモデル、そして中小企業の販売戦略にどう影響するのか、具体的なヒントを解説。
+
+【今日の一歩】
+今日の業務の中で、「もしAIが私の代理人だったら、このタスクをどう進めるだろう？」と想像し、AIチャットボットに問いかけてみましょう。
+
+今日のニュースのリンクと、さらに詳しい仕事での活用アイデアは、無料のニュースレターにまとめています。概要欄からぜひご登録ください。
+→ ニュースレター登録はこちら: [ニュースレター登録リンクをここに挿入]
+
+「AIニュースデイリー 夕刊」を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
+それでは、また次回の配信でお会いしましょう。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月22日 夕刊</title>
       <description>【今日の話題】
 • NVIDIA、創薬・気候予測・宇宙観測を支える新プラットフォーム『Vera Rubin』ISC 2026で公開 - corriente.jp
@@ -1000,26 +1028,6 @@
 • AIエージェントはなぜ「夢」を見るのか、Anthropicの新機能「Dreaming」が示す未来、使い捨ての道具から育つ部下に - JBpress
 • ＡＩエージェント、独銀活用、３０００人削減へ｜四国新聞WEB朝刊 - 四国新聞</itunes:summary>
       <itunes:episode>8</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月07日</title>
-      <description>今日の話題:
-• MUFGとGoogle、リテール領域で戦略的提携 AIエージェント活用の決済インフラ構築へ - ECzine（イーシージン）
-• NEC森田CEO×アンソロピック日本法人東條代表：「信頼できるAI」の社会実装と日本の向かう道 - Biz/Zine
-• Gemini＋独自AIで高度なトリックを精密分析、“スノボ界のレジェンド”がGoogle Cloudと挑む - ASCII.jp
-• 崖っぷちのプライバシー、 AIエージェントが崩す 「摩擦」 という最後の砦 - MITテクノロジーレビュー
-• OpenAIがGPT-5クラスの推論を備えた音声AIモデル「GPT-Realtime-2」を含む3種をリリース - XenoSpectrum</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260507.mp3" length="1519917" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260507</guid>
-      <pubDate>Thu, 07 May 2026 22:11:55 +0000</pubDate>
-      <itunes:duration>01:34</itunes:duration>
-      <itunes:summary>今日の話題:
-• MUFGとGoogle、リテール領域で戦略的提携 AIエージェント活用の決済インフラ構築へ - ECzine（イーシージン）
-• NEC森田CEO×アンソロピック日本法人東條代表：「信頼できるAI」の社会実装と日本の向かう道 - Biz/Zine
-• Gemini＋独自AIで高度なトリックを精密分析、“スノボ界のレジェンド”がGoogle Cloudと挑む - ASCII.jp
-• 崖っぷちのプライバシー、 AIエージェントが崩す 「摩擦」 という最後の砦 - MITテクノロジーレビュー
-• OpenAIがGPT-5クラスの推論を備えた音声AIモデル「GPT-Realtime-2」を含む3種をリリース - XenoSpectrum</itunes:summary>
-      <itunes:episode>7</itunes:episode>
     </item>
   </channel>
 </rss>
