@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Nvidia「Halos」で人型ロボットが職場へ！中小企業の業務改善、副業チャンスも</title>
+      <description>今日の「AIニュースデイリー 夕刊」では、Nvidiaが発表したロボット安全システム「Halos」を深掘りします。この新技術が、いかに人型ロボットの活用を広げ、日本の会社員・副業者・中小企業経営者の皆さんの仕事やキャリアに新たな可能性をもたらすのかを解説。人手不足解消や業務効率化、そして新しいビジネスチャンスに繋がるヒントをお届けします。
+
+今日の一歩：
+「身近な職場でロボットが解決できそうなタスクを一つ考えてみる」
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+
+この番組を気に入っていただけたら、Spotifyでフォローをお願いします。それでは、また明日！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="4144173" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_evening</guid>
+      <pubDate>Mon, 22 Jun 2026 23:44:50 +0900</pubDate>
+      <itunes:duration>04:18</itunes:duration>
+      <itunes:summary>今日の「AIニュースデイリー 夕刊」では、Nvidiaが発表したロボット安全システム「Halos」を深掘りします。この新技術が、いかに人型ロボットの活用を広げ、日本の会社員・副業者・中小企業経営者の皆さんの仕事やキャリアに新たな可能性をもたらすのかを解説。人手不足解消や業務効率化、そして新しいビジネスチャンスに繋がるヒントをお届けします。
+
+今日の一歩：
+「身近な職場でロボットが解決できそうなタスクを一つ考えてみる」
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+
+この番組を気に入っていただけたら、Spotifyでフォローをお願いします。それでは、また明日！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>開発者の97%がAIツール活用！あなたの仕事に導入する管理術</title>
       <description>こんばんは、AIニュースデイリー 夕刊です。
 今夜は、海外AIニュースの中から「開発者の97%がAIコーディングツールを使用」という話題に注目します。AIツールが仕事に浸透する一方で、管理体制が追いついていない現状は、私たち全員にとって重要な課題です。
@@ -1028,26 +1052,6 @@
 • Alphabet傘下のGoogleがNvidiaを抜き、世界最大の企業となる - Cryptopolitan
 • LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック</itunes:summary>
       <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月09日</title>
-      <description>今日の話題:
-• グーグルが新健康管理アプリ「Google Health」発表、GeminiがあなたのAIトレーナーに - ビジネス+IT
-• アンソロピック時価総額150兆円超の衝撃…OpenAIを凌駕する”実利AI”の正体 - ビジネスジャーナル
-• OpenAIがGPT-5.5 Instantをリリース、ChatGPTの古い標準モデルに代わるもの - VOI.ID
-• Google、エージェントAI向けSkillsリポジトリを公式公開 - CodeZine
-• 営業AIエージェント、商談でリアルタイム助言 スキルアップに効果的 - 日本経済新聞</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260509.mp3" length="7411629" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260509</guid>
-      <pubDate>Sat, 09 May 2026 21:57:33 +0000</pubDate>
-      <itunes:duration>07:43</itunes:duration>
-      <itunes:summary>今日の話題:
-• グーグルが新健康管理アプリ「Google Health」発表、GeminiがあなたのAIトレーナーに - ビジネス+IT
-• アンソロピック時価総額150兆円超の衝撃…OpenAIを凌駕する”実利AI”の正体 - ビジネスジャーナル
-• OpenAIがGPT-5.5 Instantをリリース、ChatGPTの古い標準モデルに代わるもの - VOI.ID
-• Google、エージェントAI向けSkillsリポジトリを公式公開 - CodeZine
-• 営業AIエージェント、商談でリアルタイム助言 スキルアップに効果的 - 日本経済新聞</itunes:summary>
-      <itunes:episode>9</itunes:episode>
     </item>
   </channel>
 </rss>
