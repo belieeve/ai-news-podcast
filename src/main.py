@@ -154,7 +154,7 @@ def main():
     # Step 2: 台本生成
     logger.info("=" * 50)
     logger.info("Step 2: 台本生成")
-    script = generate_script(articles, show_name=slot_config["show_name"])
+    script = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
     save_script(script, today, slot_config["label"], slot_config["filename_suffix"], articles)
     logger.info(f"台本: {len(script)}セリフ")
 

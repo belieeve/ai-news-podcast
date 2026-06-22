@@ -11,9 +11,17 @@ logger = logging.getLogger(__name__)
 PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の構成作家です。
 以下のニュースをもとに、2人のMC「{mc_a}」と「{mc_b}」の掛け合い台本を書いてください。
 
-【最重要：ニュース本数の制約】
+【最重要：放送時間の制約】
+- 完成音声が9分30秒〜10分30秒に収まる長さを目標にする
+- 台本全体は日本語で約4,800〜5,400文字を目安に、短くまとめすぎない
+- 出力はMCセリフ行だけで45〜55行程度にする
+- 1本のニュースごとに「概要」「何が新しいか」「リスナーへの影響」「注意点や今後の見どころ」を必ず入れる
+- 1つのニュースを1分台で終わらせず、3分前後かけて丁寧に解説する
+- ただし冗長な繰り返しや水増しは禁止。内容のある説明で尺を作る
+
+【ニュース本数の制約】
 - ニュースは必ず「ちょうど3本」紹介すること（2本以下も4本以上も禁止）
-- 1本あたり、MC2人で2〜4往復ほどしっかり掘り下げて解説する
+- 1本あたり、MC2人で6〜8往復ほどしっかり掘り下げて解説する
 - 番組は必ず「3本目のニュースを最後まで紹介し終えて」「エンディング挨拶を言い切ってから」終わること
 - 1つのニュースを途中で切るのは絶対に禁止
 - 文字数の上限は設けない。3本を最後まで紹介し、エンディングまで完結させることを最優先する
@@ -25,13 +33,13 @@ PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の
 【出力ルール】
 - 全行は必ず「{mc_a}:」または「{mc_b}:」で始める（コロンの前にスペース不可）
 - 演出指示・注釈・空行は入れない
-- 構成: ① 番組名コール（1行） ② 短い挨拶（1行） ③ ニュース解説（各2〜4往復・必ず3本） ④ エンディング ⑤ 最終行に <<END>>
+- 構成: ① 番組名コール（1行） ② 短い挨拶（1行。{greeting_instruction}） ③ ニュース解説（各6〜8往復・必ず3本） ④ エンディング ⑤ 最終行に <<END>>
 - ニュースとニュースの間は「{mc_a}: それでは次のニュースです。」のような短い1行ブリッジを必ず入れる
 - 3本目のニュースが終わった直後に、専用のブリッジ「{mc_a}: さて、本日もそろそろお別れの時間です。」を入れてエンディングへ移る
 - エンディングは番組らしく2〜4行で締める。例:
     {mc_a}: それではまた明日、同じ時間にお会いしましょう。
     {mc_b}: お相手は {mc_b} と、
-    {mc_a}: {mc_a} でした。良い一日を！
+    {mc_a}: {mc_a} でした。{closing_example}
 - エンディング行のあと、最終行にちょうど1行 <<END>> とだけ書く（「{mc_a}:」「{mc_b}:」は付けない）
 - 専門用語はやさしい言葉に言い換える
 - 質問・疑問のセリフは必ず「か」で終える形にする（例:「〜でしょうか？」「〜ですか？」「〜なんですか？」）。「〜でしょう？」のように「か」を付けない疑問文は、音声で疑問に聞こえづらいので使わない
@@ -119,7 +127,7 @@ def _looks_truncated(parsed: list[tuple[str, str]], has_end: bool) -> bool:
         return True
     # 文末記号で終わっていても、エンディング定型句が出ていなければ切れている扱い
     tail_blob = "".join(l for _, l in parsed[-4:])
-    ending_markers = ("また明日", "お別れ", "お相手は", "良い一日")
+    ending_markers = ("また明日", "お別れ", "お相手は", "良い一日", "良い夜", "おやすみ")
     return not any(m in tail_blob for m in ending_markers)
 
 
@@ -152,19 +160,34 @@ def _trim_to_last_complete_news(parsed: list[tuple[str, str]]) -> list[tuple[str
     return trimmed
 
 
-def _append_fallback_ending(parsed: list[tuple[str, str]]) -> list[tuple[str, str]]:
+def _append_fallback_ending(parsed: list[tuple[str, str]], slot: str = "morning") -> list[tuple[str, str]]:
     """エンディング雛形を末尾に追加（MC名のプレースホルダを置換）"""
     out = list(parsed)
+    closing = "良い一日を！" if slot == "morning" else "良い夜を！"
     for spk_tmpl, line_tmpl in FALLBACK_ENDING:
         speaker = spk_tmpl.format(mc_a=MC_A, mc_b=MC_B)
         text = line_tmpl.format(mc_a=MC_A, mc_b=MC_B)
+        if "良い一日を！" in text:
+            text = text.replace("良い一日を！", closing)
         out.append((speaker, text))
     return out
 
 
-def generate_script(articles: list[dict], show_name: str = PODCAST_TITLE) -> list[tuple[str, str]]:
+def generate_script(
+    articles: list[dict],
+    show_name: str = PODCAST_TITLE,
+    slot: str = "morning",
+) -> list[tuple[str, str]]:
     """ニュースから台本を生成"""
     client = genai.Client(api_key=GEMINI_API_KEY)
+
+    # 朝刊・夕刊で挨拶を出し分ける
+    if slot == "evening":
+        greeting_instruction = "必ず「こんばんわ」と挨拶すること"
+        closing_example = "良い夜を！"
+    else:
+        greeting_instruction = "必ず「おはようございます」と挨拶すること"
+        closing_example = "良い一日を！"
 
     news_text = format_news(articles)
     # MC名と番組名を先に埋め込み、news_textは後から
@@ -172,6 +195,8 @@ def generate_script(articles: list[dict], show_name: str = PODCAST_TITLE) -> lis
         show_name=show_name,
         mc_a=MC_A,
         mc_b=MC_B,
+        greeting_instruction=greeting_instruction,
+        closing_example=closing_example,
     ).replace("{news_text}", news_text)
 
     response = client.models.generate_content(
@@ -198,7 +223,7 @@ def generate_script(articles: list[dict], show_name: str = PODCAST_TITLE) -> lis
         parsed = _trim_to_last_complete_news(parsed)
         if not parsed:
             raise ValueError("Truncated script could not be recovered")
-        parsed = _append_fallback_ending(parsed)
+        parsed = _append_fallback_ending(parsed, slot=slot)
 
     logger.info(f"Lines: {len(parsed)} (has_end={has_end})")
     return parsed

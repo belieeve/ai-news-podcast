@@ -121,7 +121,7 @@ def update_rss(
     title = f"AIニュース {today}{label_suffix}"
 
     summary_lines = [f"• {a['title']}" for a in articles]
-    summary = "今日の話題:\n" + "\n".join(summary_lines)
+    summary = "【今日の話題】\n" + "\n".join(summary_lines)
 
     file_path = AUDIO_DIR / filename
     file_size = os.path.getsize(file_path) if file_path.exists() else 0
