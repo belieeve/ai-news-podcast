@@ -22,6 +22,32 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>GitHubがAIの「やりすぎ」を抑制？ AI生成物の質を高めるヒントとは</title>
+      <description>「AIニュースデイリー 夕刊」へようこそ。今日の夕刊では、GitHubがAIによるプルリクエストの「質」低下を防ぐ新機能を導入したニュースを取り上げます。AIを仕事で活用する際に、私たちがどう「質」を高めていけば良いのか、具体的なヒントと「今日の一歩」をお届けします。
+
+今日の一歩：AIが生成したものは、必ず自分の目で確認し、必要なら修正する習慣をつけましょう。
+
+今日紹介したニュースのリンクと、仕事での使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+
+これからもAIの最新情報を分かりやすくお届けしていきますので、Spotifyで「AIニュースデイリー」をフォローして、毎日のAI活用に役立ててください。
+
+それでは、また明日。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="3485613" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_evening</guid>
+      <pubDate>Mon, 22 Jun 2026 23:58:44 +0900</pubDate>
+      <itunes:duration>03:37</itunes:duration>
+      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ。今日の夕刊では、GitHubがAIによるプルリクエストの「質」低下を防ぐ新機能を導入したニュースを取り上げます。AIを仕事で活用する際に、私たちがどう「質」を高めていけば良いのか、具体的なヒントと「今日の一歩」をお届けします。
+
+今日の一歩：AIが生成したものは、必ず自分の目で確認し、必要なら修正する習慣をつけましょう。
+
+今日紹介したニュースのリンクと、仕事での使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+
+これからもAIの最新情報を分かりやすくお届けしていきますので、Spotifyで「AIニュースデイリー」をフォローして、毎日のAI活用に役立ててください。
+
+それでは、また明日。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Nvidia新システムでロボットが身近に？中小企業・副業のチャンスを解説</title>
       <description>「AIニュースデイリー 夕刊」へようこそ！
 この番組は、忙しい日本のビジネスパーソンが海外AIニュースを10分で理解し、仕事や副業に活かせるヒントをお届けします。
@@ -1046,26 +1072,6 @@
 • AndroidをAIで再定義する「Gemini Intelligence」：Googleが示した次世代スマートフォン体験の全貌 - XenoSpectrum
 • 巨額のAI投資の裏でマイクロソフトがベテラン社員に提示した「早期退職パッケージ」の詳細【社内文書を入手】 - Business Insider Japan</itunes:summary>
       <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月11日</title>
-      <description>今日の話題:
-• 発表の2日前に決まった――NECとAnthropicが“電撃的協業”　3週間のスピード協議の舞台裏 - ｄメニューニュース
-• やはりエヌビディア 産業基盤に浸透図る - 日経クロステック
-• OpenAI、企業向けAI導入支援を本格展開　「Deployment Company」設立 - ｄメニューニュース
-• 中堅・中小企業に最も人気のAIエージェントは？ Google Agentspaceは2位（ITmedia エンタープライズ） - Yahoo!ニュース
-• OpenAI裁判で浮上した、職場のビジネスメッセンジャーにまつわる厳しい現実…どんなデバイスも訴訟の対象になる - Business Insider Japan</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260511.mp3" length="8208813" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260511</guid>
-      <pubDate>Mon, 11 May 2026 22:17:08 +0000</pubDate>
-      <itunes:duration>08:32</itunes:duration>
-      <itunes:summary>今日の話題:
-• 発表の2日前に決まった――NECとAnthropicが“電撃的協業”　3週間のスピード協議の舞台裏 - ｄメニューニュース
-• やはりエヌビディア 産業基盤に浸透図る - 日経クロステック
-• OpenAI、企業向けAI導入支援を本格展開　「Deployment Company」設立 - ｄメニューニュース
-• 中堅・中小企業に最も人気のAIエージェントは？ Google Agentspaceは2位（ITmedia エンタープライズ） - Yahoo!ニュース
-• OpenAI裁判で浮上した、職場のビジネスメッセンジャーにまつわる厳しい現実…どんなデバイスも訴訟の対象になる - Business Insider Japan</itunes:summary>
-      <itunes:episode>11</itunes:episode>
     </item>
   </channel>
 </rss>
