@@ -52,6 +52,44 @@ def setup_logging():
     )
 
 
+def send_email_via_gas(
+    title: str,
+    status: str,
+    script: list[tuple[str, str]],
+    summary: str,
+    sns_draft: str,
+    audit_log: str,
+):
+    """GASのWebHookを経由してメールを送信する"""
+    gas_url = os.getenv("GAS_WEBHOOK_URL")
+    if not gas_url:
+        logging.getLogger(__name__).info("GAS_WEBHOOK_URL が設定されていないため、メール送信はスキップします。")
+        return
+
+    # 台本テキストの整形
+    script_text = "\n".join(f"{speaker}: {line}" for speaker, line in script)
+
+    payload = {
+        "title": title,
+        "status": status,
+        "body": f"【エピソードタイトル】\n{title}\n\n"
+                f"【Spotify概要欄】\n{summary}\n\n"
+                f"【掛け合い台本】\n{script_text}\n\n"
+                f"【SNS・ニュースレター用下書き】\n{sns_draft}",
+        "audit_log": audit_log,
+    }
+
+    try:
+        import requests
+        response = requests.post(gas_url, json=payload, timeout=15)
+        if response.status_code == 200 and "Success" in response.text:
+            logging.getLogger(__name__).info("GAS経由でメールを正常に送信しました。")
+        else:
+            logging.getLogger(__name__).error(f"GASメール送信エラー: {response.text} (ステータス: {response.status_code})")
+    except Exception as e:
+        logging.getLogger(__name__).error(f"GASメール送信中に通信エラーが発生しました: {e}")
+
+
 def save_script(
     script: list[tuple[str, str]],
     date_str: str,
@@ -193,6 +231,8 @@ def main():
             sns_draft,
             audit_log,
         )
+        # GAS経由で警告メール送信
+        send_email_via_gas(title, status, script, summary, sns_draft, audit_log)
         logger.error("監査AIが『C：公開前に人間確認が必要』と判定しました。自動公開（デプロイ）を中断します。")
         logger.error(f"監査ログ:\n{audit_log}")
         sys.exit(1)
@@ -243,8 +283,10 @@ def main():
             logger.error(f"デプロイ失敗（音声生成は成功）: {e}")
             logger.info("手動でデプロイしてください")
 
+    # 正常完了（AまたはB判定）時にメールを送信
+    send_email_via_gas(title, status, script, summary, sns_draft, audit_log)
     logger.info("=" * 50)
-    logger.info("完了！")
+    logging.getLogger(__name__).info("完了！")
 
 
 if __name__ == "__main__":
