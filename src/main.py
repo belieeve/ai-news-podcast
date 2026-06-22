@@ -16,8 +16,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 from config import AUDIO_DIR, SCRIPTS_DIR, LOG_DIR
 from news_collector import collect_news
 from script_generator import generate_script
-from tts_generator import generate_audio
 from rss_generator import update_rss
+from tts_generator import generate_audio
+from auditor import audit_content
 
 JST = ZoneInfo("Asia/Tokyo")
 
@@ -57,28 +58,41 @@ def save_script(
     episode_label: str,
     filename_suffix: str,
     articles: list[dict] | None = None,
+    title: str = "",
+    summary: str = "",
+    sns_draft: str = "",
+    audit_log: str = "",
 ):
-    """台本をテキストファイルとして保存。
-
-    あとから「何が読み上げられたか」を確認しやすいよう、日付フォルダ
-    （scripts/<YYYYMMDD>/）の中にテキストファイルとして残す。
-    冒頭に、その日のニュース一覧（タイトル・ソース）も記録する。
-    """
+    """台本、タイトル、概要欄、SNS下書き、監査ログを保存。"""
     day_dir = SCRIPTS_DIR / date_str
     day_dir.mkdir(parents=True, exist_ok=True)
     path = day_dir / f"script_{date_str}_{filename_suffix}.txt"
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"AIニュースデイリー {episode_label} 台本  {date_str}\n")
+        f.write(f"AIニュースデイリー {episode_label} 台本パッケージ  {date_str}\n")
+        f.write("=" * 40 + "\n\n")
+        f.write(f"【エピソードタイトル】\n{title}\n\n")
+        f.write("=" * 40 + "\n\n")
+        f.write(f"【Spotify概要欄】\n{summary}\n\n")
         f.write("=" * 40 + "\n\n")
         if articles:
-            f.write("【今日のニュース】\n")
+            f.write("【元になったニュース】\n")
             for i, a in enumerate(articles, 1):
-                f.write(f"{i}. {a.get('title', '')}（{a.get('source', '')}）\n")
+                url_str = f" - {a.get('url', '')}" if a.get('url') else ""
+                f.write(f"{i}. {a.get('title', '')}（{a.get('source', '')}）{url_str}\n")
             f.write("\n" + "=" * 40 + "\n\n")
-        f.write("【台本】\n")
+        f.write("【掛け合い台本】\n")
         for speaker, line in script:
             f.write(f"{speaker}: {line}\n")
-    logging.getLogger(__name__).info(f"台本保存: {path}")
+        f.write("\n" + "=" * 40 + "\n\n")
+        if sns_draft:
+            f.write("【SNS・ニュースレター用下書き】\n")
+            f.write(sns_draft)
+            f.write("\n\n" + "=" * 40 + "\n\n")
+        if audit_log:
+            f.write("【監査AIによるファクトチェックログ】\n")
+            f.write(audit_log)
+            f.write("\n")
+    logging.getLogger(__name__).info(f"台本パッケージ保存: {path}")
 
 
 def parse_slot(argv: list[str]) -> str:
@@ -104,14 +118,15 @@ def load_used_article_titles(date_str: str, filename_suffix: str) -> list[str]:
     in_news_section = False
     for line in script_path.read_text(encoding="utf-8").splitlines():
         stripped = line.strip()
-        if stripped == "【今日のニュース】":
+        if stripped == "【元になったニュース】":
             in_news_section = True
             continue
         if in_news_section and stripped.startswith("===="):
             break
         if not in_news_section:
             continue
-        match = re.match(r"^\d+\.\s*(.+?)（.+?）$", stripped)
+        # URL等がついている場合があるため、末尾のアンカーを外し前方一致でマッチ
+        match = re.match(r"^\d+\.\s*(.+?)（.+?）", stripped)
         if match:
             titles.append(match.group(1))
     return titles
@@ -151,11 +166,57 @@ def main():
         return
     logger.info(f"{len(articles)}件のニュースを取得")
 
-    # Step 2: 台本生成
+    # Step 2: 台本・タイトル・概要・SNS下書き生成
     logger.info("=" * 50)
-    logger.info("Step 2: 台本生成")
-    script = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
-    save_script(script, today, slot_config["label"], slot_config["filename_suffix"], articles)
+    logger.info("Step 2: 台本・タイトル・概要欄・SNS下書き生成")
+    script, title, summary, sns_draft = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
+
+    # Step 2.5: 監査（ファクトチェック）
+    logger.info("=" * 50)
+    logger.info("Step 2.5: 監査AIによるファクトチェック")
+    audit_result = audit_content(script, title, summary, sns_draft, articles)
+
+    status = audit_result["status"]
+    audit_log = audit_result["audit_log"]
+    logger.info(f"監査ステータス: {status}")
+
+    if status == "C":
+        # 人間確認が必要な場合：下書き等は保存するが、公開処理に進まずにエラー終了
+        save_script(
+            script,
+            today,
+            slot_config["label"],
+            slot_config["filename_suffix"],
+            articles,
+            title,
+            summary,
+            sns_draft,
+            audit_log,
+        )
+        logger.error("監査AIが『C：公開前に人間確認が必要』と判定しました。自動公開（デプロイ）を中断します。")
+        logger.error(f"監査ログ:\n{audit_log}")
+        sys.exit(1)
+
+    elif status == "B":
+        # 軽微な修正あり：監査AIが修正したテキストを採用
+        logger.info("監査AIによる自動修正（ステータスB）を適用します。")
+        title = audit_result["title"] or title
+        summary = audit_result["summary"] or summary
+        script = audit_result["script"] or script
+        sns_draft = audit_result["sns_draft"] or sns_draft
+
+    # 台本パッケージを保存（AまたはB判定）
+    save_script(
+        script,
+        today,
+        slot_config["label"],
+        slot_config["filename_suffix"],
+        articles,
+        title,
+        summary,
+        sns_draft,
+        audit_log,
+    )
     logger.info(f"台本: {len(script)}セリフ")
 
     # Step 3: 音声生成
@@ -167,7 +228,7 @@ def main():
     # Step 4: RSS更新
     logger.info("=" * 50)
     logger.info("Step 4: RSS更新")
-    update_rss(episode_filename, articles, duration, slot_config["label"], published_at=now)
+    update_rss(episode_filename, title, summary, duration, published_at=now)
 
     # Step 5: デプロイ（--no-deployの場合はスキップ）
     if no_deploy:

@@ -1,6 +1,7 @@
-"""Gemini APIで2人掛け合いの台本を生成"""
+"""Gemini APIで2人掛け合いの台本、タイトル、概要欄、SNS下書きを生成"""
 import re
 import logging
+from datetime import datetime
 from google import genai
 from google.genai import types
 
@@ -8,57 +9,62 @@ from config import GEMINI_API_KEY, GEMINI_MODEL, MC_A, MC_B, PODCAST_TITLE
 
 logger = logging.getLogger(__name__)
 
-PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の構成作家です。
-以下のニュースをもとに、2人のMC「{mc_a}」と「{mc_b}」の掛け合い台本を書いてください。
+# プロンプトテンプレート
+PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の構成作家兼マーケターです。
+海外のAIニュースを日本語で紹介し、日本の会社員・副業者・中小企業経営者が「明日からどう使えるか」という実践的な視点でお届けする配信コンテンツを作ります。
 
-【最重要：放送時間の制約】
-- 完成音声が9分30秒〜10分30秒に収まる長さを目標にする
-- 台本全体は日本語で約4,800〜5,400文字を目安に、短くまとめすぎない
-- 出力はMCセリフ行だけで45〜55行程度にする
-- 1本のニュースごとに「概要」「何が新しいか」「リスナーへの影響」「注意点や今後の見どころ」を必ず入れる
-- 1つのニュースを1分台で終わらせず、3分前後かけて丁寧に解説する
-- ただし冗長な繰り返しや水増しは禁止。内容のある説明で尺を作る
+【番組コンセプトとルール】
+1. 目的：「忙しい日本人が、海外AIニュースを10分で理解し、仕事・副業・日常に活かせるようになること」
+2. リスナー像：
+   - AIを仕事に使いたい会社員。
+   - AIで副業を始めたい個人。
+   - AIの流れに遅れたくない中小企業の経営者。
+   - 海外ニュースを追う時間はないけれど、重要な変化は知っておきたい人。
+3. トーン：わかりやすく、やさしく、少し前向き。専門家ぶりすぎず、軽すぎず。
+4. 専門用語：できるだけ避け、使う場合は必ず一言でわかりやすく説明すること。
+5. 煽り表現・断定表現の禁止：以下の表現は絶対に使用しないでください。
+   「全面的に安全」「完全に解決」「終焉」「禁止」「確定」「仕事がなくなる」「必ず」「絶対に」「AI三国志」「完全に安全」「ChatGPT一強の終焉」「時代遅れ」
+   「すごい」「革命的」を乱発せず、リスナーが落ち着いて判断し行動できるように説明してください。
+6. 事実と解釈の分離：
+   - 「ニュースの事実（報道されていること）」と「日本の個人や中小企業への示唆（解釈）」を明確に分けて説明してください。
+   - ニュースには必ず一次情報や信頼できるソース（出典元）を添えてください。
+7. 構成：
+   ① 冒頭の固定メッセージ（毎回自然に言い換える）
+      「この番組は、海外AIニュースを日本語で短く整理し、日本の個人・副業・中小企業がどう使えるかまで解説する番組です。」
+   ② 今日のニュース概要（朝刊のみ）
+   ③ 各ニュースの解説（何が起きたか、なぜ重要か、日本人にどう関係するか、明日からできる具体的な行動）
+   ④ 今日の一歩（リスナーがすぐできる小さく具体的な行動を1つ提案）
+   ⑤ ニュースレター登録への案内（「今日紹介したニュースのリンクと、仕事での使い方はニュースレターにもまとめています。概要欄から無料で登録できます」のような自然な誘導）
+   ⑥ エンディング挨拶
 
-【ニュース本数の制約】
-- ニュースは必ず「ちょうど3本」紹介すること（2本以下も4本以上も禁止）
-- 1本あたり、MC2人で6〜8往復ほどしっかり掘り下げて解説する
-- 番組は必ず「3本目のニュースを最後まで紹介し終えて」「エンディング挨拶を言い切ってから」終わること
-- 1つのニュースを途中で切るのは絶対に禁止
-- 文字数の上限は設けない。3本を最後まで紹介し、エンディングまで完結させることを最優先する
+{slot_instruction}
 
 【MC名（変更禁止）】
-- メインMC: {mc_a}
-- サブMC: {mc_b}
-
-【出力ルール】
-- 全行は必ず「{mc_a}:」または「{mc_b}:」で始める（コロンの前にスペース不可）
-- 演出指示・注釈・空行は入れない
-- 構成: ① 番組名コール（1行） ② 短い挨拶（1行。{greeting_instruction}） ③ ニュース解説（各6〜8往復・必ず3本） ④ エンディング ⑤ 最終行に <<END>>
-- ニュースとニュースの間は「{mc_a}: それでは次のニュースです。」のような短い1行ブリッジを必ず入れる
-- 3本目のニュースが終わった直後に、専用のブリッジ「{mc_a}: さて、本日もそろそろお別れの時間です。」を入れてエンディングへ移る
-- エンディングは番組らしく2〜4行で締める。例:
-    {mc_a}: それではまた明日、同じ時間にお会いしましょう。
-    {mc_b}: お相手は {mc_b} と、
-    {mc_a}: {mc_a} でした。{closing_example}
-- エンディング行のあと、最終行にちょうど1行 <<END>> とだけ書く（「{mc_a}:」「{mc_b}:」は付けない）
-- 専門用語はやさしい言葉に言い換える
-- 質問・疑問のセリフは必ず「か」で終える形にする（例:「〜でしょうか？」「〜ですか？」「〜なんですか？」）。「〜でしょう？」のように「か」を付けない疑問文は、音声で疑問に聞こえづらいので使わない
-- 企業名・製品名などの固有名詞は「英語表記（カタカナ）」のように併記しない。カタカナ読みだけで書く（例:「Perplexity（パープレキシティ）」ではなく「パープレキシティ」、「Claude（クロード）」ではなく「クロード」）。ただし OpenAI・AI・API など英字のまま読むのが自然な略称はそのままでよい
-- AIツールの新機能は「何が新しい・どう便利・誰が得する」を簡潔に
-- 業界の動き（資金調達・提携・規制）はリスナーへの影響まで触れる
-- 親しみやすく明るいラジオ番組のトーン
-
-【MCのキャラクター】
-- {mc_a}: メインMC。落ち着いた知的なトーン。進行とニュース紹介
-- {mc_b}: サブMC。好奇心旺盛で前のめり。リスナー目線で短く質問
+- メインMC（落ち着いた知的なトーン）: {mc_a}
+- サブMC（好奇心旺盛で前のめり、リスナー目線で短く質問）: {mc_b}
 
 【今日のニュース】
-{{news_text}}
+{news_text}
 
-出力は「{mc_a}:」または「{mc_b}:」で始まる行と、最終行の <<END>> のみにしてください。
+【出力フォーマット】
+以下の区切り線を正確に使用し、それぞれの内容を出力してください。プレースホルダや余計な解説、マークダウンの外側にテキストを書かないでください。
+
+=== TITLE ===
+（スマホ画面で意味が伝わる30〜45文字程度のエピソードタイトル。固有名詞、何が変わるか、誰に役立つかを明確に）
+
+=== SUMMARY ===
+（Spotify概要欄用テキスト。今日扱ったニュース一覧と一言要約、今日の一歩、ニュースレター登録リンクプレースホルダ、Spotifyフォローのお願い、最後の締めを含む）
+
+=== SCRIPT ===
+（掛け合い台本。全行は必ず「{mc_a}:」または「{mc_b}:」で始める。演出指示・注釈・空行は入れない。質問文は必ず「か」で終える。最終行に <<END>> とだけ書く）
+
+=== SNS_DRAFT ===
+【ニュースレター用文章】（今日のニュースまとめ、日本での使い方、今日試すこと、ニュース/ツールリンクプレースホルダ、次回のポッドキャストを聞く理由を含む、無料版要約・活用メモ形式）
+【X投稿文】（番組紹介・ニュース要点・行動提案など3本）
+【Threads投稿文】（個人のキャリアや生活に密着した柔らかいトーンで長めのテキスト3本）
+【ショート動画用30秒台本】（ハルトとアヤカの短い掛け合いかナレーションで、インパクトと今日の一歩を伝えるもの1本）
 """
 
-# 末尾セーフティ用：ニュース途中切れを検知した場合に挿入するエンディング雛形
 FALLBACK_ENDING = [
     ("{mc_a}", "さて、本日もそろそろお別れの時間です。"),
     ("{mc_b}", "明日も気になるAIニュース、お届けしますね。"),
@@ -67,9 +73,9 @@ FALLBACK_ENDING = [
     ("{mc_a}", "{mc_a} でした。良い一日を！"),
 ]
 
-# ニュース間ブリッジを示すキーワード（境界検出に使う）
 _BRIDGE_KEYWORDS = (
     "次のニュース",
+    "続いて of ニュース",
     "続いてのニュース",
     "続いて",
     "本日もそろそろお別れ",
@@ -78,24 +84,46 @@ _BRIDGE_KEYWORDS = (
     "最後のニュース",
 )
 
-# 文末として認められる終止記号
-_SENTENCE_ENDS = ("。", "！", "？", "."  , "!", "?", "♪", "〜")
+_SENTENCE_ENDS = ("。", "！", "？", ".", "!", "?", "♪", "〜")
 
 
 def format_news(articles: list[dict]) -> str:
     """ニュースリストを台本生成用テキストに整形"""
     parts = []
     for i, a in enumerate(articles, 1):
-        parts.append(f"ニュース{i}: {a['title']}\nソース: {a['source']}\n要約: {a['summary']}\n")
+        parts.append(
+            f"ニュース{i}: {a['title']}\nソース: {a.get('source', '不明')}\nURL: {a.get('url', 'なし')}\n要約: {a.get('summary', a.get('description', 'なし'))}\n"
+        )
     return "\n".join(parts)
 
 
-def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
-    """台本テキストをパースして((話者, セリフ)のリスト, END到達フラグ)を返す。
+def parse_sections(text: str) -> tuple[str, str, str, str]:
+    """Geminiの出力からTITLE, SUMMARY, SCRIPT, SNS_DRAFTセクションを抽出"""
+    title = ""
+    summary = ""
+    script_raw = ""
+    sns_draft = ""
 
-    END到達フラグ: 出力末尾に <<END>> センチネルが含まれていたか。
-    含まれていなければGeminiの出力が途中で切れた可能性が高い。
-    """
+    sections = re.split(r"===\s*(TITLE|SUMMARY|SCRIPT|SNS_DRAFT)\s*===", text)
+
+    for i in range(1, len(sections), 2):
+        sec_name = sections[i]
+        if i + 1 < len(sections):
+            sec_content = sections[i + 1].strip()
+            if sec_name == "TITLE":
+                title = sec_content
+            elif sec_name == "SUMMARY":
+                summary = sec_content
+            elif sec_name == "SCRIPT":
+                script_raw = sec_content
+            elif sec_name == "SNS_DRAFT":
+                sns_draft = sec_content
+
+    return title, summary, script_raw, sns_draft
+
+
+def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
+    """台本テキストをパースして((話者, セリフ)のリスト, END到達フラグ)を返す"""
     lines: list[tuple[str, str]] = []
     has_end = False
     for raw in text.strip().split("\n"):
@@ -104,9 +132,8 @@ def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
             continue
         if "<<END>>" in line:
             has_end = True
-            # END行自体は台本に含めない
             continue
-        match = re.match(rf'^({MC_A}|{MC_B}):(.+)$', line)
+        match = re.match(rf"^({MC_A}|{MC_B}):(.+)$", line)
         if match:
             speaker = match.group(1)
             content = match.group(2).strip()
@@ -122,46 +149,34 @@ def _looks_truncated(parsed: list[tuple[str, str]], has_end: bool) -> bool:
     if not parsed:
         return True
     last_text = parsed[-1][1].strip()
-    # 文末記号で終わっていなければほぼ確実に切れている
     if not last_text.endswith(_SENTENCE_ENDS):
         return True
-    # 文末記号で終わっていても、エンディング定型句が出ていなければ切れている扱い
     tail_blob = "".join(l for _, l in parsed[-4:])
     ending_markers = ("また明日", "お別れ", "お相手は", "良い一日", "良い夜", "おやすみ")
     return not any(m in tail_blob for m in ending_markers)
 
 
 def _trim_to_last_complete_news(parsed: list[tuple[str, str]]) -> list[tuple[str, str]]:
-    """途中切れと判定された台本を、最後に「完結した」ニュース境界まで戻す。
-
-    境界 = 「次のニュース/続いて/最後のニュース」等のブリッジ行の「直前」。
-    そのブリッジ行が無ければ、安全のためできるだけ多くの行を残しつつ、
-    最後の文末記号で終わる行までを採用する。
-    """
+    """途中切れと判定された台本を、最後に完結したニュース境界まで戻す"""
     if not parsed:
         return []
-
     bridge_indices = [
-        i for i, (_, txt) in enumerate(parsed)
-        if any(k in txt for k in _BRIDGE_KEYWORDS)
+        i for i, (_, txt) in enumerate(parsed) if any(k in txt for k in _BRIDGE_KEYWORDS)
     ]
-
     if bridge_indices:
-        # 最後のブリッジ行の「直前」までを完結ぶんとして採用
         cutoff = bridge_indices[-1]
         trimmed = parsed[:cutoff]
     else:
         trimmed = list(parsed)
-
-    # 末尾を文末記号で終わる行まで巻き戻す
     while trimmed and not trimmed[-1][1].strip().endswith(_SENTENCE_ENDS):
         trimmed.pop()
-
     return trimmed
 
 
-def _append_fallback_ending(parsed: list[tuple[str, str]], slot: str = "morning") -> list[tuple[str, str]]:
-    """エンディング雛形を末尾に追加（MC名のプレースホルダを置換）"""
+def _append_fallback_ending(
+    parsed: list[tuple[str, str]], slot: str = "morning"
+) -> list[tuple[str, str]]:
+    """エンディング雛形を末尾に追加"""
     out = list(parsed)
     closing = "良い一日を！" if slot == "morning" else "良い夜を！"
     for spk_tmpl, line_tmpl in FALLBACK_ENDING:
@@ -177,64 +192,80 @@ def generate_script(
     articles: list[dict],
     show_name: str = PODCAST_TITLE,
     slot: str = "morning",
-) -> list[tuple[str, str]]:
-    """ニュースから台本を生成"""
+) -> tuple[list[tuple[str, str]], str, str, str]:
+    """ニュースから台本、タイトル、概要欄、SNS下書きを生成"""
     client = genai.Client(api_key=GEMINI_API_KEY)
 
-    # 朝刊・夕刊で挨拶を出し分ける
+    # スロット別の指示
     if slot == "evening":
-        greeting_instruction = "必ず「こんばんわ」と挨拶すること"
-        closing_example = "良い夜を！"
+        slot_instruction = f"""【スロット：夕刊（evening）】
+- 夕方の放送用です。最初の挨拶は必ず「こんばんは」としてください。
+- 朝紹介したニュースの中から「今日いちばん使えるAIニュース1本」に絞り、その1本だけを詳しく紹介すること（2本以上の紹介は禁止）。
+- 完成音声が3分〜5分に収まる長さにする。
+- 台本全体は日本語で約1,500〜2,200文字を目安にし、MCセリフ行だけで15〜25行程度にする。
+- エンディング例：
+    {MC_A}: それではまた明日、同じ時間にお会いしましょう。
+    {MC_B}: お相手は {MC_B} と、
+    {MC_A}: {MC_A} でした。良い夜を！
+"""
     else:
-        greeting_instruction = "必ず「おはようございます」と挨拶すること"
-        closing_example = "良い一日を！"
+        slot_instruction = f"""【スロット：朝刊（morning）】
+- 朝の放送用です。最初の挨拶は必ず「おはようございます」としてください。
+- ニュースは必ず「ちょうど3本」紹介すること（2本以下も4本以上も禁止）。
+- 完成音声が9分30秒〜10分30秒に収まる長さにする。
+- 台本全体は日本語で約4,800〜5,400文字を目安にし、MCセリフ行だけで45〜55行程度にする。
+- エンディング例：
+    {MC_A}: それではまた明日、同じ時間にお会いしましょう。
+    {MC_B}: お相手は {MC_B} と、
+    {MC_A}: {MC_A} でした。良い一日を！
+"""
 
     news_text = format_news(articles)
-    # MC名と番組名を先に埋め込み、news_textは後から
     prompt = PROMPT_TEMPLATE.format(
         show_name=show_name,
         mc_a=MC_A,
         mc_b=MC_B,
-        greeting_instruction=greeting_instruction,
-        closing_example=closing_example,
-    ).replace("{news_text}", news_text)
+        slot_instruction=slot_instruction,
+        news_text=news_text,
+    )
 
     response = client.models.generate_content(
         model=GEMINI_MODEL,
         contents=prompt,
         config=types.GenerateContentConfig(
-            temperature=0.8,
+            temperature=0.7,
             max_output_tokens=8192,
         ),
     )
 
     raw_text = response.text
-    logger.info(f"Script generated ({len(raw_text)} chars)")
+    logger.info(f"Generated text length: {len(raw_text)}")
 
-    parsed, has_end = parse_script(raw_text)
+    title, summary, script_raw, sns_draft = parse_sections(raw_text)
+
+    # パースに失敗した部分のフォールバック
+    if not title:
+        today_str = datetime.now().strftime("%Y%m%d")
+        title = f"AIニュース {today_str} {slot}"
+        logger.warning("Failed to parse TITLE. Use fallback.")
+    if not summary:
+        summary_lines = [f"• {a['title']}" for a in articles]
+        summary = "【今日の話題】\n" + "\n".join(summary_lines)
+        logger.warning("Failed to parse SUMMARY. Use fallback.")
+
+    parsed, has_end = parse_script(script_raw)
     if not parsed:
-        raise ValueError("Failed to parse script")
+        # script_rawがうまくパースできなかった場合の保険
+        parsed, has_end = parse_script(raw_text)
+        if not parsed:
+            raise ValueError("Failed to parse script lines")
 
     if _looks_truncated(parsed, has_end):
-        logger.warning(
-            "Script appears truncated (has_end=%s). Trimming to last complete news and appending fallback ending.",
-            has_end,
-        )
+        logger.warning("Script appears truncated. Reconstructing ending.")
         parsed = _trim_to_last_complete_news(parsed)
         if not parsed:
             raise ValueError("Truncated script could not be recovered")
         parsed = _append_fallback_ending(parsed, slot=slot)
 
-    logger.info(f"Lines: {len(parsed)} (has_end={has_end})")
-    return parsed
-
-
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
-    test_articles = [
-        {"title": "OpenAIが新モデルを発表", "source": "TechCrunch Japan", "summary": "OpenAIが新しいGPTモデルを発表しました。"},
-        {"title": "Google DeepMindがAlphaFold 4を公開", "source": "Nature", "summary": "タンパク質構造予測の精度が大幅に向上しました。"},
-    ]
-    script = generate_script(test_articles)
-    for speaker, line in script:
-        print(f"{speaker}: {line}")
+    logger.info(f"Script lines: {len(parsed)} (has_end={has_end})")
+    return parsed, title, summary, sns_draft
