@@ -22,6 +22,40 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Nvidia新システムでロボットが身近に？中小企業・副業のチャンスを解説</title>
+      <description>「AIニュースデイリー 夕刊」へようこそ！
+この番組は、忙しい日本のビジネスパーソンが海外AIニュースを10分で理解し、仕事や副業に活かせるヒントをお届けします。
+
+今日の夕刊では、Nvidiaが発表したロボット安全システム「Halos」を深掘り。AIの力でロボットが人間と同じ空間で安全に動けるようになることで、私たちの働き方やビジネスにどのような変化が訪れるのか、具体的に解説します。
+
+【今日の一歩】
+あなたの仕事や生活で「もしロボットが安全に、人間と同じ空間で動けるようになったら、どんな作業を任せられるだろう？」と想像し、アイデアを書き出してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。
+無料登録はこちらから！ [ニュースレター登録リンクプレースホルダ]
+
+番組を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
+それでは、AIと共に未来を拓くヒントをどうぞ。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="3841197" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_evening</guid>
+      <pubDate>Mon, 22 Jun 2026 23:48:58 +0900</pubDate>
+      <itunes:duration>04:00</itunes:duration>
+      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ！
+この番組は、忙しい日本のビジネスパーソンが海外AIニュースを10分で理解し、仕事や副業に活かせるヒントをお届けします。
+
+今日の夕刊では、Nvidiaが発表したロボット安全システム「Halos」を深掘り。AIの力でロボットが人間と同じ空間で安全に動けるようになることで、私たちの働き方やビジネスにどのような変化が訪れるのか、具体的に解説します。
+
+【今日の一歩】
+あなたの仕事や生活で「もしロボットが安全に、人間と同じ空間で動けるようになったら、どんな作業を任せられるだろう？」と想像し、アイデアを書き出してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。
+無料登録はこちらから！ [ニュースレター登録リンクプレースホルダ]
+
+番組を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
+それでは、AIと共に未来を拓くヒントをどうぞ。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Nvidia「Halos」で人型ロボットが職場へ！中小企業の業務改善、副業チャンスも</title>
       <description>今日の「AIニュースデイリー 夕刊」では、Nvidiaが発表したロボット安全システム「Halos」を深掘りします。この新技術が、いかに人型ロボットの活用を広げ、日本の会社員・副業者・中小企業経営者の皆さんの仕事やキャリアに新たな可能性をもたらすのかを解説。人手不足解消や業務効率化、そして新しいビジネスチャンスに繋がるヒントをお届けします。
 
@@ -1032,26 +1066,6 @@
 • 中堅・中小企業に最も人気のAIエージェントは？ Google Agentspaceは2位（ITmedia エンタープライズ） - Yahoo!ニュース
 • OpenAI裁判で浮上した、職場のビジネスメッセンジャーにまつわる厳しい現実…どんなデバイスも訴訟の対象になる - Business Insider Japan</itunes:summary>
       <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月10日</title>
-      <description>今日の話題:
-• アンソロピックとウォール街の野望…15億ドルで「AIのマッキンゼー」を設立する、背景と狙い - Business Insider Japan
-• Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に - 合同会社ロケットボーイズ
-• Datadog急騰、TwilioもAI強化 SaaS株に追い風 - 디지털투데이
-• Alphabet傘下のGoogleがNvidiaを抜き、世界最大の企業となる - Cryptopolitan
-• LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260510.mp3" length="6893997" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260510</guid>
-      <pubDate>Sun, 10 May 2026 21:58:11 +0000</pubDate>
-      <itunes:duration>07:10</itunes:duration>
-      <itunes:summary>今日の話題:
-• アンソロピックとウォール街の野望…15億ドルで「AIのマッキンゼー」を設立する、背景と狙い - Business Insider Japan
-• Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に - 合同会社ロケットボーイズ
-• Datadog急騰、TwilioもAI強化 SaaS株に追い風 - 디지털투데이
-• Alphabet傘下のGoogleがNvidiaを抜き、世界最大の企業となる - Cryptopolitan
-• LINEヤフーのAIエージェント「Agent i」、日本での強みを生かせるか - 日経クロステック</itunes:summary>
-      <itunes:episode>10</itunes:episode>
     </item>
   </channel>
 </rss>
