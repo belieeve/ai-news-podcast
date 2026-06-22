@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIニュース 2026年06月22日 夕刊</title>
+      <description>【今日の話題】
+• NVIDIA、創薬・気候予測・宇宙観測を支える新プラットフォーム『Vera Rubin』ISC 2026で公開 - corriente.jp
+• 「データ連携基盤サービス」におけるAI連携機能（MCP）の搭載について - ニコニコニュース
+• 費用1000万円超〝教頭AI〟が変える学校現場 膨大な業務を圧縮「なくてはならない」 - 産経ニュース
+• 半年で購入数量35%減＆欠品ゼロを両立。AIエージェントが支える"ちょうどいい在庫" - ニコニコニュース
+• アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="7573293" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260622_evening</guid>
+      <pubDate>Mon, 22 Jun 2026 22:47:06 +0900</pubDate>
+      <itunes:duration>07:53</itunes:duration>
+      <itunes:summary>【今日の話題】
+• NVIDIA、創薬・気候予測・宇宙観測を支える新プラットフォーム『Vera Rubin』ISC 2026で公開 - corriente.jp
+• 「データ連携基盤サービス」におけるAI連携機能（MCP）の搭載について - ニコニコニュース
+• 費用1000万円超〝教頭AI〟が変える学校現場 膨大な業務を圧縮「なくてはならない」 - 産経ニュース
+• 半年で購入数量35%減＆欠品ゼロを両立。AIエージェントが支える"ちょうどいい在庫" - ニコニコニュース
+• アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIニュース 2026年06月22日 朝刊</title>
       <description>今日の話題:
 • 2026年6月10日「Gemini」に珍しく大規模障害発生？【akutaji Vol.384】 - jetstream.blog
@@ -1000,26 +1020,6 @@
 • 崖っぷちのプライバシー、 AIエージェントが崩す 「摩擦」 という最後の砦 - MITテクノロジーレビュー
 • OpenAIがGPT-5クラスの推論を備えた音声AIモデル「GPT-Realtime-2」を含む3種をリリース - XenoSpectrum</itunes:summary>
       <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月06日</title>
-      <description>今日の話題:
-• 音声エージェント競争が加速：OpenAIとxAIの音声基盤が本格化 - tech-noisy.com
-• Novo社、米OpenAI社と提携しAIを利用して創薬から販売、アップスキリングなど加速 - 日経バイオテクONLINE
-• アンソロピックはウォール街の雑務向けAIエージェントを発表した…どんな「仕事」を消滅させるのか - Business Insider Japan
-• 「すでに開発コードの4分の3はAI生成」 Google Cloud CEO、エージェント時代の戦略を語る (1/2) - ASCII.jp
-• 「Microsoft 365」の全体像を正しく把握する - ZDNET Japan</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260506.mp3" length="6933549" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260506</guid>
-      <pubDate>Wed, 06 May 2026 22:07:27 +0000</pubDate>
-      <itunes:duration>07:13</itunes:duration>
-      <itunes:summary>今日の話題:
-• 音声エージェント競争が加速：OpenAIとxAIの音声基盤が本格化 - tech-noisy.com
-• Novo社、米OpenAI社と提携しAIを利用して創薬から販売、アップスキリングなど加速 - 日経バイオテクONLINE
-• アンソロピックはウォール街の雑務向けAIエージェントを発表した…どんな「仕事」を消滅させるのか - Business Insider Japan
-• 「すでに開発コードの4分の3はAI生成」 Google Cloud CEO、エージェント時代の戦略を語る (1/2) - ASCII.jp
-• 「Microsoft 365」の全体像を正しく把握する - ZDNET Japan</itunes:summary>
-      <itunes:episode>6</itunes:episode>
     </item>
   </channel>
 </rss>
