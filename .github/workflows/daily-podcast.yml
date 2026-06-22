@@ -48,6 +48,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_PAGES_URL: https://belieeve.github.io/ai-news-podcast
+          GAS_WEBHOOK_URL: ${{ secrets.GAS_WEBHOOK_URL }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             SLOT="${{ github.event.inputs.slot }}"
