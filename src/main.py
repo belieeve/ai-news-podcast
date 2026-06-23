@@ -183,6 +183,12 @@ def is_script_plausible(script: list[tuple[str, str]], slot: str) -> bool:
     return len(script) >= min_lines and script_text_length(script) >= min_chars
 
 
+def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
+    """公開してよい最低限の音声尺かを見る。短すぎる音声はRSSに載せない。"""
+    min_duration = 240 if slot == "morning" else 120
+    return duration_sec >= min_duration
+
+
 def main():
     no_deploy = "--no-deploy" in sys.argv
     slot = parse_slot(sys.argv)
@@ -265,6 +271,13 @@ def main():
     logger.info("Step 3: 音声生成")
     audio_path, duration = generate_audio(script, episode_filename)
     logger.info(f"音声: {duration:.1f}秒")
+    if not is_audio_duration_plausible(duration, slot):
+        logger.error(
+            "音声が短すぎるためRSS更新を中断します: %.1f秒 (%s)",
+            duration,
+            audio_path,
+        )
+        sys.exit(1)
 
     # Step 4: RSS更新
     logger.info("=" * 50)

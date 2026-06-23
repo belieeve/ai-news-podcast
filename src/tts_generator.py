@@ -56,6 +56,7 @@ async def synthesize_line(text: str, voice: str, rate: str, output_path: str):
 async def generate_all_lines(script: list[tuple[str, str]], temp_dir: str) -> list[str]:
     """全セリフを音声化して一時ファイルパスのリストを返す"""
     paths = []
+    failures = []
     for i, (speaker, text) in enumerate(script):
         voice, rate = VOICE_MAP.get(speaker, (TTS_VOICE_A, TTS_RATE_A))
         path = f"{temp_dir}/line_{i:04d}.mp3"
@@ -64,7 +65,13 @@ async def generate_all_lines(script: list[tuple[str, str]], temp_dir: str) -> li
             paths.append(path)
             logger.debug(f"TTS [{speaker}] line {i}")
         except Exception as e:
-            logger.warning(f"TTS failed line {i}: {e}")
+            failures.append((i, speaker, str(e)))
+            logger.error(f"TTS failed line {i}: {e}")
+    if failures:
+        failed = ", ".join(f"{i}:{speaker}" for i, speaker, _ in failures[:5])
+        raise RuntimeError(f"TTS failed for {len(failures)} lines ({failed})")
+    if len(paths) != len(script):
+        raise RuntimeError(f"TTS generated {len(paths)} files for {len(script)} script lines")
     return paths
 
 
