@@ -65,27 +65,6 @@ PROMPT_TEMPLATE = """あなたはポッドキャスト番組「{show_name}」の
 【ショート動画用30秒台本】（ハルトとアヤカの短い掛け合いかナレーションで、インパクトと今日の一歩を伝えるもの1本）
 """
 
-FALLBACK_ENDING = [
-    ("{mc_a}", "さて、本日もそろそろお別れの時間です。"),
-    ("{mc_b}", "明日も気になるAIニュース、お届けしますね。"),
-    ("{mc_a}", "それではまた明日、同じ時間にお会いしましょう。"),
-    ("{mc_b}", "お相手は {mc_b} と、"),
-    ("{mc_a}", "{mc_a} でした。良い一日を！"),
-]
-
-_BRIDGE_KEYWORDS = (
-    "次のニュース",
-    "続いて of ニュース",
-    "続いてのニュース",
-    "続いて",
-    "本日もそろそろお別れ",
-    "そろそろお別れ",
-    "では最後",
-    "最後のニュース",
-)
-
-_SENTENCE_ENDS = ("。", "！", "？", ".", "!", "?", "♪", "〜")
-
 
 def format_news(articles: list[dict]) -> str:
     """ニュースリストを台本生成用テキストに整形"""
@@ -122,16 +101,14 @@ def parse_sections(text: str) -> tuple[str, str, str, str]:
     return title, summary, script_raw, sns_draft
 
 
-def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
-    """台本テキストをパースして((話者, セリフ)のリスト, END到達フラグ)を返す"""
+def parse_script(text: str) -> list[tuple[str, str]]:
+    """台本テキストをパースして(話者, セリフ)のリストを返す"""
     lines: list[tuple[str, str]] = []
-    has_end = False
     for raw in text.strip().split("\n"):
         line = raw.strip()
         if not line:
             continue
         if "<<END>>" in line:
-            has_end = True
             continue
         match = re.match(rf"^({MC_A}|{MC_B}):(.+)$", line)
         if match:
@@ -139,53 +116,10 @@ def parse_script(text: str) -> tuple[list[tuple[str, str]], bool]:
             content = match.group(2).strip()
             if content:
                 lines.append((speaker, content))
-    return lines, has_end
+    return lines
 
 
-def _looks_truncated(parsed: list[tuple[str, str]], has_end: bool) -> bool:
-    """途中切れと推定できるか判定"""
-    if has_end:
-        return False
-    if not parsed:
-        return True
-    last_text = parsed[-1][1].strip()
-    if not last_text.endswith(_SENTENCE_ENDS):
-        return True
-    tail_blob = "".join(l for _, l in parsed[-4:])
-    ending_markers = ("また明日", "お別れ", "お相手は", "良い一日", "良い夜", "おやすみ")
-    return not any(m in tail_blob for m in ending_markers)
 
-
-def _trim_to_last_complete_news(parsed: list[tuple[str, str]]) -> list[tuple[str, str]]:
-    """途中切れと判定された台本を、最後に完結したニュース境界まで戻す"""
-    if not parsed:
-        return []
-    bridge_indices = [
-        i for i, (_, txt) in enumerate(parsed) if any(k in txt for k in _BRIDGE_KEYWORDS)
-    ]
-    if bridge_indices:
-        cutoff = bridge_indices[-1]
-        trimmed = parsed[:cutoff]
-    else:
-        trimmed = list(parsed)
-    while trimmed and not trimmed[-1][1].strip().endswith(_SENTENCE_ENDS):
-        trimmed.pop()
-    return trimmed
-
-
-def _append_fallback_ending(
-    parsed: list[tuple[str, str]], slot: str = "morning"
-) -> list[tuple[str, str]]:
-    """エンディング雛形を末尾に追加"""
-    out = list(parsed)
-    closing = "良い一日を！" if slot == "morning" else "良い夜を！"
-    for spk_tmpl, line_tmpl in FALLBACK_ENDING:
-        speaker = spk_tmpl.format(mc_a=MC_A, mc_b=MC_B)
-        text = line_tmpl.format(mc_a=MC_A, mc_b=MC_B)
-        if "良い一日を！" in text:
-            text = text.replace("良い一日を！", closing)
-        out.append((speaker, text))
-    return out
 
 
 def generate_script(
@@ -254,19 +188,12 @@ def generate_script(
         summary = "【今日の話題】\n" + "\n".join(summary_lines)
         logger.warning("Failed to parse SUMMARY. Use fallback.")
 
-    parsed, has_end = parse_script(script_raw)
+    parsed = parse_script(script_raw)
     if not parsed:
         # script_rawがうまくパースできなかった場合の保険
-        parsed, has_end = parse_script(raw_text)
+        parsed = parse_script(raw_text)
         if not parsed:
             raise ValueError("Failed to parse script lines")
 
-    if _looks_truncated(parsed, has_end):
-        logger.warning("Script appears truncated. Reconstructing ending.")
-        parsed = _trim_to_last_complete_news(parsed)
-        if not parsed:
-            raise ValueError("Truncated script could not be recovered")
-        parsed = _append_fallback_ending(parsed, slot=slot)
-
-    logger.info(f"Script lines: {len(parsed)} (has_end={has_end})")
+    logger.info(f"Script lines: {len(parsed)}")
     return parsed, title, summary, sns_draft
