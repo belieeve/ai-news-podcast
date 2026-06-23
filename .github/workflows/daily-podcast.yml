@@ -16,6 +16,11 @@ on:
         options:
           - morning
           - evening
+      publish_now:
+        description: 'Publish evening immediately instead of using the evening publish-time guard'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   generate-episode:
@@ -57,10 +62,14 @@ jobs:
           else
             SLOT="morning"
           fi
+          EXTRA_ARGS=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.publish_now }}" = "true" ]; then
+            EXTRA_ARGS="--publish-now"
+          fi
           echo "SLOT=$SLOT" >> "$GITHUB_ENV"
           cd src
           mkdir -p output/episodes output/scripts logs
-          python main.py --no-deploy --slot "$SLOT"
+          python main.py --no-deploy --slot "$SLOT" $EXTRA_ARGS
 
       - name: Copy generated files
         run: |

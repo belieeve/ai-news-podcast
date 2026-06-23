@@ -191,6 +191,7 @@ def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
 
 def main():
     no_deploy = "--no-deploy" in sys.argv
+    publish_now = "--publish-now" in sys.argv
     slot = parse_slot(sys.argv)
     slot_config = EPISODE_SLOTS[slot]
 
@@ -282,7 +283,14 @@ def main():
     # Step 4: RSS更新
     logger.info("=" * 50)
     logger.info("Step 4: RSS更新")
-    update_rss(episode_filename, title, summary, duration, published_at=now)
+    update_rss(
+        episode_filename,
+        title,
+        summary,
+        duration,
+        published_at=now,
+        allow_early_evening=publish_now,
+    )
 
     # Step 5: デプロイ（--no-deployの場合はスキップ）
     if no_deploy:

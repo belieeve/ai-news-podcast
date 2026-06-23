@@ -112,14 +112,22 @@ def parse_pub_date(pub_date: str) -> datetime:
         return datetime.min.replace(tzinfo=JST)
 
 
-def normalize_publish_time(filename: str, published_at: datetime) -> datetime:
+def normalize_publish_time(
+    filename: str,
+    published_at: datetime,
+    allow_early_evening: bool = False,
+) -> datetime:
     """夕刊が早朝扱いでRSSに載るのを防ぐ。"""
     if published_at.tzinfo is None:
         published_at = published_at.replace(tzinfo=JST)
     else:
         published_at = published_at.astimezone(JST)
 
-    if "_evening" in filename and published_at.timetz() < time(18, 0, tzinfo=JST):
+    if (
+        "_evening" in filename
+        and not allow_early_evening
+        and published_at.timetz() < time(18, 0, tzinfo=JST)
+    ):
         corrected = datetime.combine(published_at.date(), time(21, 0), tzinfo=JST)
         logger.warning(
             "夕刊の公開時刻が早すぎるため補正: %s -> %s",
@@ -144,9 +152,14 @@ def update_rss(
     summary: str,
     duration_seconds: float,
     published_at: datetime | None = None,
+    allow_early_evening: bool = False,
 ):
     """RSSフィードを更新"""
-    now = normalize_publish_time(filename, published_at or datetime.now(JST))
+    now = normalize_publish_time(
+        filename,
+        published_at or datetime.now(JST),
+        allow_early_evening=allow_early_evening,
+    )
 
     file_path = AUDIO_DIR / filename
     file_size = os.path.getsize(file_path) if file_path.exists() else 0
