@@ -178,14 +178,14 @@ def script_text_length(script: list[tuple[str, str]]) -> int:
 
 def is_script_plausible(script: list[tuple[str, str]], slot: str) -> bool:
     """放送として成立しない短すぎる台本を弾く。"""
-    min_lines = 35 if slot == "morning" else 12
-    min_chars = 2800 if slot == "morning" else 800
+    min_lines = 45 if slot == "morning" else 30
+    min_chars = 4200 if slot == "morning" else 2600
     return len(script) >= min_lines and script_text_length(script) >= min_chars
 
 
 def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
     """公開してよい最低限の音声尺かを見る。短すぎる音声はRSSに載せない。"""
-    min_duration = 240 if slot == "morning" else 120
+    min_duration = 420 if slot == "morning" else 300
     return duration_sec >= min_duration
 
 
