@@ -1,4 +1,6 @@
 """Google News RSSからAIニュースを収集"""
+from __future__ import annotations
+
 import feedparser
 import requests
 import time

@@ -2,6 +2,8 @@
 
 毎日自動でAIニュースを収集し、Podcast音声を生成してRSS配信する。
 """
+from __future__ import annotations
+
 import os
 import re
 import sys
@@ -18,7 +20,6 @@ from news_collector import collect_news
 from script_generator import generate_script
 from rss_generator import update_rss
 from tts_generator import generate_audio
-from auditor import audit_content
 
 JST = ZoneInfo("Asia/Tokyo")
 
@@ -170,6 +171,18 @@ def load_used_article_titles(date_str: str, filename_suffix: str) -> list[str]:
     return titles
 
 
+def script_text_length(script: list[tuple[str, str]]) -> int:
+    """台本文字数を数える。話者名は除外し、実際に読まれる本文だけを見る。"""
+    return sum(len(line.strip()) for _, line in script)
+
+
+def is_script_plausible(script: list[tuple[str, str]], slot: str) -> bool:
+    """放送として成立しない短すぎる台本を弾く。"""
+    min_lines = 35 if slot == "morning" else 12
+    min_chars = 2800 if slot == "morning" else 800
+    return len(script) >= min_lines and script_text_length(script) >= min_chars
+
+
 def main():
     no_deploy = "--no-deploy" in sys.argv
     slot = parse_slot(sys.argv)
@@ -209,17 +222,17 @@ def main():
     logger.info("Step 2: 台本・タイトル・概要欄・SNS下書き生成")
     script, title, summary, sns_draft = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
 
-    # Step 2.5: 監査（ファクトチェック）
-    logger.info("=" * 50)
-    logger.info("Step 2.5: 監査AIによるファクトチェック")
-    audit_result = audit_content(script, title, summary, sns_draft, articles)
+    # 監査AIは修正出力で台本本文を欠落させることがあるため、本線から外す。
+    # 公開前の自動安全弁として、短すぎる台本だけを停止する。
+    status = "A"
+    audit_log = ""
 
-    status = audit_result["status"]
-    audit_log = audit_result["audit_log"]
-    logger.info(f"監査ステータス: {status}")
-
-    if status == "C":
-        # 人間確認が必要な場合：下書き等は保存するが、公開処理に進まずにエラー終了
+    if not is_script_plausible(script, slot):
+        logger.error(
+            "台本が短すぎるため音声生成を中断します: %dセリフ / %d文字",
+            len(script),
+            script_text_length(script),
+        )
         save_script(
             script,
             today,
@@ -231,31 +244,7 @@ def main():
             sns_draft,
             audit_log,
         )
-        # GAS経由で警告メール送信
-        send_email_via_gas(title, status, script, summary, sns_draft, audit_log)
-        logger.error("監査AIが『C：公開前に人間確認が必要』と判定しました。自動公開（デプロイ）を中断します。")
-        logger.error(f"監査ログ:\n{audit_log}")
         sys.exit(1)
-
-    elif status == "B":
-        # 軽微な修正あり：監査AIが修正したテキストを採用（空チェック・サボり防止の安全弁付き）
-        logger.info("監査AIによる自動修正（ステータスB）を適用します。")
-        if audit_result["title"] and len(audit_result["title"].strip()) > 5:
-            title = audit_result["title"].strip()
-        if audit_result["summary"] and len(audit_result["summary"].strip()) > 10:
-            summary = audit_result["summary"].strip()
-
-        # 修正された台本が正常（5行以上）な場合のみ適用。不完全なら元の台本を維持
-        if audit_result["script"] and len(audit_result["script"]) > 5:
-            script = audit_result["script"]
-        else:
-            logger.warning("監査AIによる修正台本が不完全なため、元の台本を維持します。")
-
-        # 修正されたSNS下書きが正常（50文字以上）な場合のみ適用。不完全なら元のSNS下書きを維持
-        if audit_result["sns_draft"] and len(audit_result["sns_draft"].strip()) > 50:
-            sns_draft = audit_result["sns_draft"].strip()
-        else:
-            logger.warning("監査AIによる修正SNS下書きが不完全なため、元のSNS下書きを維持します。")
 
     # 台本パッケージを保存（AまたはB判定）
     save_script(

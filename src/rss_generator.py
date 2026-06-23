@@ -1,4 +1,6 @@
 """Podcast RSSフィードを生成・更新（Spotify互換XML出力）"""
+from __future__ import annotations
+
 import logging
 import os
 from datetime import datetime
