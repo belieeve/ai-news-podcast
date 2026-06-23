@@ -39,10 +39,10 @@ MC_B = "アヤカ"   # サブMC（女性）
 # Edge-TTS 音声（日本語）
 TTS_VOICE_A = "ja-JP-KeitaNeural"    # 男性（ハルト）
 TTS_VOICE_B = "ja-JP-NanamiNeural"   # 女性（アヤカ）
-TTS_RATE_A = "+8%"
-TTS_RATE_B = "+6%"
-TTS_PITCH_A = "+18Hz"
-TTS_PITCH_B = "+12Hz"
+TTS_RATE_A = "+12%"
+TTS_RATE_B = "+10%"
+TTS_PITCH_A = "+32Hz"
+TTS_PITCH_B = "+24Hz"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
 PODCAST_TITLE = "AIニュースデイリー"
