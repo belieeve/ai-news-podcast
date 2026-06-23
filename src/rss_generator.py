@@ -3,8 +3,8 @@ from __future__ import annotations
 
 import logging
 import os
-from datetime import datetime
-from email.utils import format_datetime
+from datetime import datetime, time
+from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
@@ -101,6 +101,35 @@ def load_episodes() -> list[dict]:
         return []
 
 
+def parse_pub_date(pub_date: str) -> datetime:
+    """RSSのpubDateをdatetimeに変換する。失敗時は最古扱い。"""
+    try:
+        parsed = parsedate_to_datetime(pub_date)
+        if parsed.tzinfo is None:
+            return parsed.replace(tzinfo=JST)
+        return parsed
+    except (TypeError, ValueError):
+        return datetime.min.replace(tzinfo=JST)
+
+
+def normalize_publish_time(filename: str, published_at: datetime) -> datetime:
+    """夕刊が早朝扱いでRSSに載るのを防ぐ。"""
+    if published_at.tzinfo is None:
+        published_at = published_at.replace(tzinfo=JST)
+    else:
+        published_at = published_at.astimezone(JST)
+
+    if "_evening" in filename and published_at.timetz() < time(18, 0, tzinfo=JST):
+        corrected = datetime.combine(published_at.date(), time(21, 0), tzinfo=JST)
+        logger.warning(
+            "夕刊の公開時刻が早すぎるため補正: %s -> %s",
+            format_datetime(published_at),
+            format_datetime(corrected),
+        )
+        return corrected
+    return published_at
+
+
 def save_feed(xml_str: str):
     """RSSをファイルに保存"""
     RSS_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -117,7 +146,7 @@ def update_rss(
     published_at: datetime | None = None,
 ):
     """RSSフィードを更新"""
-    now = published_at or datetime.now(JST)
+    now = normalize_publish_time(filename, published_at or datetime.now(JST))
 
     file_path = AUDIO_DIR / filename
     file_size = os.path.getsize(file_path) if file_path.exists() else 0
@@ -139,7 +168,9 @@ def update_rss(
         "duration": format_duration(duration_seconds),
         "episode_number": episode_number,
     }
+    episodes = [ep for ep in episodes if ep.get("guid") != new_episode["guid"]]
     episodes.insert(0, new_episode)
+    episodes.sort(key=lambda ep: parse_pub_date(ep.get("pub_date", "")), reverse=True)
 
     # フィードを生成・保存
     xml_str = build_feed_xml(episodes)
