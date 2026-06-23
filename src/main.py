@@ -9,6 +9,7 @@ import re
 import sys
 import logging
 from datetime import datetime
+from difflib import SequenceMatcher
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -189,6 +190,108 @@ def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
     return duration_sec >= min_duration
 
 
+def is_audio_duration_consistent(script: list[tuple[str, str]], duration_sec: float) -> bool:
+    """台本文量に対して音声が短すぎる場合は本文欠落として扱う。"""
+    expected_min = script_text_length(script) / 10
+    if duration_sec < expected_min:
+        logging.getLogger(__name__).error(
+            "音声尺が台本文量に対して短すぎます: %.1f秒 / 最低目安 %.1f秒",
+            duration_sec,
+            expected_min,
+        )
+        return False
+    return True
+
+
+def _clean_fragment(text: str) -> str:
+    """記事タイトル比較用に記号や空白をならす。"""
+    return re.sub(r"[\s　・「」『』（）()【】\[\]、。,:：!！?？….\-〜～]+", "", text)
+
+
+def _title_fragments(title: str) -> list[str]:
+    """台本本文内で照合しやすい記事タイトル断片を作る。"""
+    parts = re.split(r"[、。,:：|｜／/「」『』（）()【】\[\]\-〜～…\s　]+", title)
+    fragments: list[str] = []
+    for part in parts:
+        cleaned = _clean_fragment(part)
+        if len(cleaned) >= 5 and cleaned not in fragments:
+            fragments.append(cleaned)
+    cleaned_title = _clean_fragment(title)
+    if len(cleaned_title) >= 8:
+        fragments.append(cleaned_title[:18])
+    return fragments
+
+
+def _article_is_covered(article: dict, body_text: str) -> bool:
+    """1本の記事が本文解説側で扱われているかをゆるく判定する。"""
+    normalized_body = _clean_fragment(body_text)
+    for fragment in _title_fragments(article.get("title", "")):
+        if fragment in normalized_body:
+            return True
+        if SequenceMatcher(None, fragment, normalized_body).quick_ratio() > 0.92:
+            return True
+    return False
+
+
+def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
+    """ラインナップではなく、各ニュースの解説に当たる本文部分を抜き出す。"""
+    texts = [line for _, line in script]
+    start_markers = (
+        "まず一つ目のニュース",
+        "一つ目のニュース",
+        "最初のニュース",
+        "まず一つ目",
+        "1つ目のニュース",
+    )
+    end_markers = (
+        "さて、今日のニュース",
+        "今日のニュースを振り返",
+        "今日からできる",
+        "今日の一歩",
+        "ニュースレター",
+        "それではまた",
+        "本日もそろそろ",
+    )
+
+    start = next((i for i, line in enumerate(texts) if any(m in line for m in start_markers)), None)
+    if start is None:
+        return []
+
+    end = len(texts)
+    for i in range(len(texts) - 1, start, -1):
+        if any(m in texts[i] for m in end_markers):
+            end = i
+    return texts[start:end]
+
+
+def has_substantial_news_body(script: list[tuple[str, str]], articles: list[dict], slot: str) -> bool:
+    """オープニング・エンディングだけの放送をRSS掲載前に止める。"""
+    body_lines = _news_body_lines(script)
+    body_text = "\n".join(body_lines)
+    min_body_lines = 22 if slot == "evening" else 35
+    min_body_chars = 2200 if slot == "evening" else 3400
+
+    if len(body_lines) < min_body_lines or len(body_text) < min_body_chars:
+        logging.getLogger(__name__).error(
+            "ニュース本文が不足: %d行 / %d文字",
+            len(body_lines),
+            len(body_text),
+        )
+        return False
+
+    covered = sum(1 for article in articles if _article_is_covered(article, body_text))
+    required = min(5, len(articles))
+    if covered < required:
+        logging.getLogger(__name__).error(
+            "ニュース本文で扱われた記事数が不足: %d/%d",
+            covered,
+            required,
+        )
+        return False
+
+    return True
+
+
 def main():
     no_deploy = "--no-deploy" in sys.argv
     publish_now = "--publish-now" in sys.argv
@@ -253,6 +356,21 @@ def main():
         )
         sys.exit(1)
 
+    if not has_substantial_news_body(script, articles, slot):
+        logger.error("ニュース本文が不足しているため音声生成を中断します")
+        save_script(
+            script,
+            today,
+            slot_config["label"],
+            slot_config["filename_suffix"],
+            articles,
+            title,
+            summary,
+            sns_draft,
+            audit_log,
+        )
+        sys.exit(1)
+
     # 台本パッケージを保存（AまたはB判定）
     save_script(
         script,
@@ -278,6 +396,9 @@ def main():
             duration,
             audio_path,
         )
+        sys.exit(1)
+    if not is_audio_duration_consistent(script, duration):
+        logger.error("音声本文が欠落している可能性があるためRSS更新を中断します")
         sys.exit(1)
 
     # Step 4: RSS更新
