@@ -45,8 +45,8 @@ TTS_PITCH_A = "-5Hz"
 TTS_PITCH_B = "+10Hz"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
-PODCAST_TITLE = "今週のAI仕事術"
-PODCAST_DESCRIPTION = "1週間のAIニュースから、仕事と副業に効く話だけをわかりやすく解説します。"
+PODCAST_TITLE = "週刊AI仕事術｜仕事と副業に効くAIニュース"
+PODCAST_DESCRIPTION = "1週間のAIニュースから、仕事と副業に効く話だけを解説します。"
 PODCAST_AUTHOR = "ハルト＆アヤカ"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"

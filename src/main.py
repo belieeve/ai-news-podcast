@@ -27,7 +27,7 @@ JST = ZoneInfo("Asia/Tokyo")
 EPISODE_SLOTS = {
     "weekly": {
         "label": "週刊",
-        "show_name": "今週のAI仕事術",
+        "show_name": "週刊AI仕事術｜仕事と副業に効くAIニュース",
         "filename_suffix": "weekly",
     }
 }
