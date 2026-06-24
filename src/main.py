@@ -25,16 +25,11 @@ from tts_generator import generate_audio
 JST = ZoneInfo("Asia/Tokyo")
 
 EPISODE_SLOTS = {
-    "morning": {
-        "label": "朝刊",
-        "show_name": "AIニュースデイリー 朝刊",
-        "filename_suffix": "morning",
-    },
-    "evening": {
-        "label": "夕刊",
-        "show_name": "AIニュースデイリー 夕刊",
-        "filename_suffix": "evening",
-    },
+    "weekly": {
+        "label": "週刊",
+        "show_name": "今週のAI仕事術",
+        "filename_suffix": "weekly",
+    }
 }
 
 
@@ -136,15 +131,15 @@ def save_script(
 
 
 def parse_slot(argv: list[str]) -> str:
-    """--slot morning/evening を読み取る。未指定時は朝刊扱い。"""
+    """--slot weekly を読み取る。未指定時は週刊扱い。"""
     if "--slot" not in argv:
-        return "morning"
+        return "weekly"
     idx = argv.index("--slot")
     if idx + 1 >= len(argv):
-        raise ValueError("--slot requires morning or evening")
+        raise ValueError("--slot requires weekly")
     slot = argv[idx + 1]
     if slot not in EPISODE_SLOTS:
-        raise ValueError(f"Unknown slot: {slot}. Use morning or evening.")
+        raise ValueError(f"Unknown slot: {slot}. Use weekly.")
     return slot
 
 
@@ -179,14 +174,14 @@ def script_text_length(script: list[tuple[str, str]]) -> int:
 
 def is_script_plausible(script: list[tuple[str, str]], slot: str) -> bool:
     """放送として成立しない短すぎる台本を弾く。"""
-    min_lines = 45 if slot == "morning" else 30
-    min_chars = 4200 if slot == "morning" else 2600
+    min_lines = 40
+    min_chars = 3800
     return len(script) >= min_lines and script_text_length(script) >= min_chars
 
 
 def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
     """公開してよい最低限の音声尺かを見る。短すぎる音声はRSSに載せない。"""
-    min_duration = 420 if slot == "morning" else 300
+    min_duration = 720  # 最低12分
     return duration_sec >= min_duration
 
 
@@ -244,13 +239,13 @@ def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
         "1つ目のニュース",
     )
     end_markers = (
-        "さて、今日のニュース",
-        "今日のニュースを振り返",
-        "今日からできる",
-        "今日の一歩",
-        "ニュースレター",
+        "さて、今週のニュース",
+        "今週のニュースを振り返",
+        "今週の判断",
+        "今週やること",
         "それではまた",
         "本日もそろそろ",
+        "クロージング",
     )
 
     start = next((i for i, line in enumerate(texts) if any(m in line for m in start_markers)), None)
@@ -268,8 +263,8 @@ def has_substantial_news_body(script: list[tuple[str, str]], articles: list[dict
     """オープニング・エンディングだけの放送をRSS掲載前に止める。"""
     body_lines = _news_body_lines(script)
     body_text = "\n".join(body_lines)
-    min_body_lines = 22 if slot == "evening" else 35
-    min_body_chars = 2200 if slot == "evening" else 3400
+    min_body_lines = 30
+    min_body_chars = 3000
 
     if len(body_lines) < min_body_lines or len(body_text) < min_body_chars:
         logging.getLogger(__name__).error(
@@ -280,7 +275,7 @@ def has_substantial_news_body(script: list[tuple[str, str]], articles: list[dict
         return False
 
     covered = sum(1 for article in articles if _article_is_covered(article, body_text))
-    required = min(5, len(articles))
+    required = min(3, len(articles))
     if covered < required:
         logging.getLogger(__name__).error(
             "ニュース本文で扱われた記事数が不足: %d/%d",

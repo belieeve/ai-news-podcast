@@ -49,7 +49,7 @@ def collect_news(exclude_titles: list[str] | None = None) -> list[dict]:
     """AIニュースを収集して返す"""
     exclude_titles = exclude_titles or []
     all_entries = []
-    cutoff = datetime.now() - timedelta(hours=36)
+    cutoff = datetime.now() - timedelta(days=7)
 
     for query in NEWS_QUERIES:
         url = build_rss_url(query)

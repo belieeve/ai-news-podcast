@@ -26,7 +26,7 @@ NEWS_QUERIES = [
     "生成AI 新サービス", "AIエージェント", "無料 AIツール",
     "AI 業務効率化", "AI スタートアップ 資金調達", "AIアプリ 話題",
 ]
-MAX_ARTICLES = 5
+MAX_ARTICLES = 15
 
 # Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -45,8 +45,8 @@ TTS_PITCH_A = "-5Hz"
 TTS_PITCH_B = "+10Hz"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
-PODCAST_TITLE = "AIニュースデイリー"
-PODCAST_DESCRIPTION = "毎日朝夕に届けるAIニュース番組。ハルトとアヤカが、ChatGPT・Claude・画像生成AI・話題のAIツールやサービスの最新動向を、10分でわかりやすく解説します。"
+PODCAST_TITLE = "今週のAI仕事術"
+PODCAST_DESCRIPTION = "1週間のAIニュースから、仕事と副業に効く話だけをわかりやすく解説します。"
 PODCAST_AUTHOR = "ハルト＆アヤカ"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"
@@ -59,7 +59,7 @@ GITHUB_PAGES_URL = os.getenv("GITHUB_PAGES_URL", "")
 
 # エピソード管理
 MAX_EPISODES = 50
-MAX_SCRIPT_CHARS = 2700  # 約10分（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
+MAX_SCRIPT_CHARS = 7000  # 4000〜6000文字の週刊台本に対応（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
 
 # 発音・イントネーション補正辞書
 # Edge-TTSが固有名詞を誤読する場合、ここに「元の表記 → TTSが正しく読む表記」を追加。
