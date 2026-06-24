@@ -1,4 +1,4 @@
-"""AIニュースデイリー - 設定ファイル"""
+"""週刊AI仕事術 - 設定ファイル"""
 import os
 from pathlib import Path
 from dotenv import load_dotenv

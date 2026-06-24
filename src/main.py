@@ -1,6 +1,6 @@
 """AI News Podcast - メインスクリプト
 
-毎日自動でAIニュースを収集し、Podcast音声を生成してRSS配信する。
+毎週日曜日朝にAIニュースを収集し、Podcast音声を生成してRSS配信する。
 """
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 # プロジェクトルートをパスに追加
 sys.path.insert(0, str(Path(__file__).parent))
 
-from config import AUDIO_DIR, SCRIPTS_DIR, LOG_DIR
+from config import AUDIO_DIR, SCRIPTS_DIR, LOG_DIR, PODCAST_TITLE
 from news_collector import collect_news
 from script_generator import generate_script
 from rss_generator import update_rss
@@ -103,7 +103,7 @@ def save_script(
     day_dir.mkdir(parents=True, exist_ok=True)
     path = day_dir / f"script_{date_str}_{filename_suffix}.txt"
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"AIニュースデイリー {episode_label} 台本パッケージ  {date_str}\n")
+        f.write(f"{PODCAST_TITLE} {episode_label} 台本パッケージ  {date_str}\n")
         f.write("=" * 40 + "\n\n")
         f.write(f"【エピソードタイトル】\n{title}\n\n")
         f.write("=" * 40 + "\n\n")
@@ -242,7 +242,6 @@ def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
         "さて、今週のニュース",
         "今週のニュースを振り返",
         "今週の判断",
-        "今週やること",
         "それではまた",
         "本日もそろそろ",
         "クロージング",
