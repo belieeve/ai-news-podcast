@@ -237,6 +237,14 @@ def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
         "最初のニュース",
         "まず一つ目",
         "1つ目のニュース",
+        "最重要ニュース",
+        "重要ニュース",
+        "仕事に効くAIニュース",
+        "仕事に効く",
+        "副業・個人ビジネス",
+        "副業に効く",
+        "クリエイター・発信者",
+        "クリエイター向け",
     )
     end_markers = (
         "さて、今週のニュース",
@@ -250,7 +258,9 @@ def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
 
     start = next((i for i, line in enumerate(texts) if any(m in line for m in start_markers)), None)
     if start is None:
-        return []
+        # Geminiの言い回しが揺れて章名が出ない場合でも、冒頭挨拶だけを除いて
+        # 本文量の検証を続ける。短い台本は後段の行数・文字数チェックで弾く。
+        start = min(4, len(texts))
 
     end = len(texts)
     for i in range(len(texts) - 1, start, -1):
