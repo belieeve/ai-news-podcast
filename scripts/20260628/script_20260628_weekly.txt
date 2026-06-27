@@ -1,0 +1,131 @@
+週刊AI仕事術｜仕事と副業に効くAIニュース 週刊 台本パッケージ  20260628
+========================================
+
+【エピソードタイトル】
+AIが「指示待ち」から「任せる」へ！GPT-5.6が示す新常識と仕事術
+
+========================================
+
+【Spotify概要欄】
+1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・GPT-5.6発表とエージェントAIの安全性議論
+・Google「機密AI」で企業内でのデータ活用が加速
+・非エンジニアも活用！AIエージェントが仕事のやり方を根本から変える
+・自分だけのAIアシスタントを育てる時代へ！
+今週やること：
+いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。
+
+========================================
+
+【元になったニュース】
+1. ホワイトハウスがOpenAIにGPT 5.6の限定公開を要請 - mezha.net（mezha.net） - https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRSmZDQVBLLWpBY0lTTTZTUHlhQVlzcGUyU3dWX1BzSlk4c1ROZVhHTU5JWHZLOVlUTFdyeGlYU0MxMElBYzhWdV8zZjhlaVh1MG1zRnRfTlEtZUNkRmVWTF9NNHo?oc=5
+2. NVIDIA、データセンター向けEthernetスイッチで首位に：AI基盤の主戦場はネットワークまで広がった - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmUydVpRdVdzSlpKVFRHQXQtNGNSNkNyVm9PQjloR2lTVFg2RUhOdnd5SEJUZDlMejNGMXN5emw1NENRRUtkLUplUXNJMWpwNDVMeV9NZkRFLWtROGY2ejZaMUVzNnZnZzBRRjhLazFUTUNwMnU4QWVvaHVMQkM2ZndB?oc=5
+3. OpenAI GPT-5.6発表、米政府要請で限定提供—エージェントAIの安全と逸脱リスク - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMmgxS2ItTEp1YzFxWG1JZzQ2Q3VuRzExMnh4VGF4cUxILTFDWjFaamNFenZxTzQtZ295T0k0UHlUUHJPS2hzN0pHSlE5ZGNVMXZB?oc=5
+4. サティア・ナデラCEO、全企業に自社最適化AIモデルを提唱 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmtMWE9vSm1UTEl1eVQ0S0ltTElGdC11QmhGQllkaGQ2S0VwOGFPRGN1ejByMUFzNjJGazJFckh2MDhmMU9jUFZETFNsN3ZUTkw5SDREdFJDem92V0pwQ1dSd21VbGllNEQtUkdKVGswbHF3emhlcnl0alNzWk9PNTlsOHpKbVUzOHp1NGxPZmJZaktrc2N4ZFR6UEJ3bDYzQ18xRzVjdHBlV1psMWw2WEZqSDM?oc=5
+5. 世界最強のサイバー防御を「Anthropic Mythos」が突破、は盛りすぎだった - Gizmodo（Gizmodo） - https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHQ5ZVNJT1JiQ2lxemFud0RHTGdlbmlJQlUxZVZybkdaV1JvQ2hrQ1JxbWZpb0pGYTI3TnVDbWloczlrNmY2emRUZzBwSEs1OEV1NlRDRm9pX251QkxlNHl5TU53NURFT0tmVGRrdWVHS2FiYWFFUU1ucTBQWTc4Mnc3b25KRWxaN1RlWmcxZ00wV1h1MTdMYXNEZlRlX3FiT0lJSVRvY1ZOSS1kamhpLVFpMXkxdw?oc=5
+6. 「AIに機密データは使えない」はもう古い？ Googleが「機密AI」を拡充 - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1xYUFhbWJlY2NrN1pHbGd6ZFJ0VmZJQzVxTG5MX21EcFVTbWppd3cwSkl2bFliZ05KbENWbVBuNFFFUl9kVWxwak1oSDlOWENjVkdNdzlUNVFGWDlJb3YyVnFGTW1FeU1RMlFxSWhIUzlZNHZ5?oc=5
+7. KDDI・NVIDIA・Keysight・サムスンが「デジタルツインRAN」構築へ｜6G向けAI学習基盤の開発を開始 - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMibkFVX3lxTE1hN2dleUVsbkNzb0loYkVTX0lmRnlWWGJfRVpaMXRaRmVqaF82T0xLbi1zcXRTQjFRaThZMVlZOWdoRm4wWXhCdE9TeFRuNldCdm5YZjR5WXg1STlxa24tZDhEZUtXSk9Vb0ZWLXRn?oc=5
+8. OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む - ビジネス+IT（ビジネス+IT） - https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETUdZWGRjazk4aEYwNV9xWHVUWlktemJBeXpHUWN6X1ZZVFRLWW1LVWRNTE45allDRE05dEZac2F2blJDckVyakQyV3c0VXlFV2NZ?oc=5
+9. Anthropic「Fable5」のアクセス制限、1週間以内に解除の可能性 Axios報道 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZVFicEVodXNWRHdBOVpiaDNoX1NaYTJCanV3RnlDYU1feXpMajNudGphRFBkcGVBZ2VHaUZFS3VPZExBQVVrQXpHNWt4LS14RVhYdEpLM3gzNGRkVDU2MzVRUmtaVDNtOFd1bUxGQWo4MmpDSFN4RGJxczFOYkZQd3lDTVRVYThFblBmN3hhdkNTQVNhbVZmMHpIZG8zenR0Y0xHakNPd0NwenlhcGhER2NXLWZFajA4TEl4Z3NuXzVvV1dNQlRTWVZhMUpGV21paVpLdG5fVDhiNnU2M3c?oc=5
+10. Mythos解禁、GPT-5.6は限定公開 フロンティアAIは誰が公開を決めるのか - 株式会社エクサウィザーズ（株式会社エクサウィザーズ） - https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pU1FkYkw4RDdJZGN4cXQzTmF6aURGY0t6bG16aU90SlltTjZiQVZBMmphSHdOTmhCdFR6T1RaV291SnZJM2NLMmtKMFQtYld5MnB5blZMa3h0c25DT3ZiWkN4ZkhDdw?oc=5
+11. 中国AIモデル、Anthropic・OpenAIに迫る - BeInCrypto（BeInCrypto） - https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMXVXNzJlS3VIcXZuTlRiRWdMVFBaYmd5ZldpR1VXbFA0Yk9abnFpb19MRUxVdlBITEJ6bzhscE9jVlluM0JsQ0tYbm9fSklMNHdla3o1ZDhHWC1KenhQQ2xxczJFXzE4VENyRXhFTWZfTjE1VFhna2p1MWJiUQ?oc=5
+12. 金融庁、AIエージェント開発 27年3月に無償提供 - nikkinonline.com（nikkinonline.com） - https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkZmdKdGJBcWZodDYxZ3dmbnVHczN2aXBkbXNJZW5Yb1ZNdmVfOF9meTZIOGRtY0Jma0lUQVlNWWROQUhxRHhxcFUxN1VnSlJ6RHdlUWFB?oc=5
+13. OpenAI、元ウーバー・インディア社長のプラブジート・シン氏を初のインド統括責任者に任命 - finance.biggo.jp（finance.biggo.jp） - https://news.google.com/rss/articles/CBMidEFVX3lxTE53eEN5UUkzVERDX2Q5M1VlcXF4OUQwdlJvR0o1blNySFVMYl90aDZTZ3hLb25jUHY2OHhlRDY5Rms0NDQ0RE1hNlR4NTlwS1BSaVZOMjU1dDNnSlhueTVMZXVIUEdjbHh4Rk01bFB1Y3M4eHdU?oc=5
+14. Anthropic、H-1Bスタッフに最大138万ドルの給与支給——OpenAIは競合の半額でGPT-5.6を発表 - finance.biggo.jp（finance.biggo.jp） - https://news.google.com/rss/articles/CBMidEFVX3lxTE03c3NmTGZlVG5CLVd2a18xb2VXdEdoNmNMQV9RZG1VRER2S3c1M1g4ek03UGNSdUtoQjFfX2hRLWpYR2JtNGt1MzBqYXdTdW13dXNIU2c5MG9PbkdnTkkyQUlYV2d5N2lQV2hTMnNXT2tBc2l2?oc=5
+15. AppleのVision Pro責任者ポール・ミードが退社しOpenAIのハード部門に移る - mezha.net（mezha.net） - https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SYTRMRkd4aVUyV0VzbjJzLUZGZjQxZFlQMmw1YjFWN1V2bzYtRmpYOXM0bF9XYVNXZF9QaExKV1NrVXdieDR5Mk4zVlFQYkNVOXlTd0FTX2ltWXVFTWItdFJ6NS10RVZy?oc=5
+
+========================================
+
+【掛け合い台本】
+ハルト: 週刊AI仕事術、今週も始まりました。AIを仕事と副業に活かしたい会社員、個人事業主、クリエイターの皆さんに、役立つAIニュースを厳選してお届けします。編集長のハルトです。
+アヤカ: そして、リスナー代表のアヤカです！ハルトさん、今週もよろしくお願いします。
+ハルト: はい、アヤカさん、よろしくお願いします。今週のAI業界を一言でまとめると、「AIが『指示待ち』から『任せる』段階へ、本格的に進化し始めた一週間」と言えるでしょう。
+アヤカ: 「指示待ち」から「任せる」ですか？なんだかAIが秘書になってくれるみたいでワクワクしますね！
+ハルト: まさにその通りです。これまでのAIは、私たちが一つ一つ指示を出して動かすのが主流でしたが、今後はAI自身が状況を判断し、複数のタスクを自律的にこなす「エージェントAI」が注目されています。今日の放送を聴けば、この大きな変化が皆さんの仕事や副業にどう影響するのか、そして今週何を試すべきかが明確になりますよ。
+アヤカ: それは楽しみです！ぜひ教えてください！
+ハルト: さて、まずは今週の最重要ニュースからご紹介しましょう。OpenAIが次世代モデル「GPT-5.6」を発表し、米政府の要請で限定的に提供を開始したという話題です。
+アヤカ: GPT-5.6ですか！GPT-4でも十分すごいのに、また進化するんですね！
+ハルト: そうなんです。このGPT-5.6は、これまでのモデルよりもさらに高度な推論能力と、複数のツールを組み合わせて複雑なタスクをこなす「エージェントAI」としての機能が強化されていると言われています。
+アヤカ: エージェントAI、先ほども出てきましたけど、具体的にはどういうことですか？
+ハルト: 簡単に言うと、私たちが「〇〇をしてほしい」と指示すると、AIがその目的を達成するために必要なステップを自分で考え、情報収集や他のツールとの連携も含めて、自律的にタスクを完了させてくれるようになる、ということです。まるで優秀な秘書やアシスタントが、言われたことを自分で考えて実行してくれるようなイメージですね。
+アヤカ: なるほど！それはすごい！でも、政府が限定公開を要請したっていうのは、何か理由があるんですか？
+ハルト: 良い質問ですね。そこが今回のニュースの重要なポイントです。この限定公開は、AIが高度化するにつれて懸念される「安全性」や「逸脱リスク」を慎重に評価するため、と言われています。AIが自律的に動くようになるからこそ、倫理的な問題や予期せぬ行動を防ぐための検証が不可欠だ、という考えですね。
+アヤカ: AIが勝手に変なことをしちゃわないか、ちゃんと見てるってことですね。私たち一般の利用者には、まだ関係ない話ですか？
+ハルト: 今すぐGPT-5.6を試せるわけではありませんので、まだ様子見で大丈夫です。しかし、このエージェントAIという概念は、今後AIを仕事や副業に活用していく上で非常に重要になります。
+アヤカ: と言うと？
+ハルト: これまではAIに「この文章を要約して」「このアイデアを5つ出して」と単発の指示を出していましたが、これからは「来週の会議の資料を作成して」「新しいブログ記事の企画を考えて、構成案とタイトル案をいくつか出して」といった、複数のステップを含むタスクを丸ごと任せられるようになるかもしれません。
+アヤカ: 自分で考えて動いてくれるってことですね！それは仕事が本当に変わりそうです。
+ハルト: そうです。ですから、今のうちから「自分の仕事の中で、AIに任せられる部分はどこか」「AIに任せることで、自分はどんなクリエイティブな仕事に集中できるか」といった視点を持っておくことが、非常に重要になってきますよ。
+ハルト: 続いては、皆さんの「仕事」に直結するAIニュースです。Googleが「機密AI」を拡充し、「AIに機密データは使えない」という常識が変わりつつあるという話題です。
+アヤカ: 「機密データはAIに使えない」って、会社の情報漏洩とかが怖くて、AIツールの利用を躊躇している人も多いんじゃないですか？
+ハルト: まさにその通りです。企業がAIを導入する上で、情報セキュリティは最大の障壁の一つでした。しかし、Googleは、セキュリティを強化したAIサービスを提供することで、企業が安心して機密性の高いデータをAIで扱えるようにしているんです。
+アヤカ: それは画期的ですね！具体的にはどういう仕組みなんですか？
+ハルト: 例えば、企業内の特定のデータだけを使って学習させたり、外部のインターネットに情報が漏洩しないようにしたり、アクセス権限を厳しく管理したりといった技術的な工夫がされています。これにより、企業は顧客データや社内の機密文書などを、安全にAIで分析したり、資料作成に活用したりできるようになるんです。
+アヤカ: なるほど、じゃあ、これで会社でもAIを導入しやすくなるってことですね。私たち会社員や個人事業主にはどう関係ありますか？
+ハルト: はい、大きく関係します。企業でAI導入が進めば、皆さんの業務にもAIが組み込まれる機会が増えるでしょう。また、個人事業主の方も、顧客の個人情報やプロジェクトの機密情報などを扱う際に、「どこまでAIに任せていいのか」という判断基準が変わってくる可能性があります。
+アヤカ: じゃあ、今すぐ何か試すべきことはありますか？
+ハルト: まだ様子見で大丈夫ですが、もし皆さんの会社でAI導入が検討されているなら、セキュリティに関する情報に注目しておくと良いでしょう。個人事業主の方も、AIツールを選ぶ際に「データ保護の仕組み」について少し意識してみるだけでも、今後の情報リテラシー向上につながりますよ。
+ハルト: 次に、副業や個人ビジネスに効くAIニュースです。OpenAIの自律型AI「Codex」の利用が、企業の非エンジニアの間で急増しているという話題です。チャットからエージェントへの移行が進んでいる象徴的な動きと言えます。
+アヤカ: 「非エンジニアの利用が189倍」ですか！すごい伸びですね！CodexってどんなAIなんですか？
+ハルト: Codexはもともとプログラミングコードを生成するAIとして知られていましたが、ここで言う「Codex」は、より広範な意味で「自律的にタスクをこなすAIエージェント」の概念を指していると捉えてください。つまり、AIがプログラミングだけでなく、様々な業務を自律的に実行する能力を指します。そして、その利用がエンジニアではない一般のビジネスパーソンにまで広がっている、という点が重要です。
+アヤカ: それって、副業や個人ビジネスをしている人にとって、すごく大きな変化ですよね？
+ハルト: まさにその通りです。これまでは「AIにどうプロンプトを打てばいいんだろう？」と悩むことが多かったかもしれませんが、エージェントAIが普及すれば、「このブログの企画書を作って」「この商品のSNS投稿を毎日自動で生成して」といった、より高レベルで漠然とした指示でもAIが自分で考えて実行してくれるようになります。
+アヤカ: 企画書作成とか、SNS投稿の自動生成とか、副業で時間がかかる作業をAIに任せられるようになるってことですか！それは助かります！
+ハルト: そうです。データ収集から分析、資料作成、メール返信、SNS運用など、複数のステップが必要なタスクをAIに「任せる」働き方が可能になります。これにより、副業や個人ビジネスで最も貴重な「時間」を大幅に創出できる可能性が高まります。
+アヤカ: 今すぐ試すべきことはありますか？
+ハルト: Codex自体はまだ一般的に広く使えるわけではありませんが、この「エージェントAI」という概念は今すぐ意識すべきです。ChatGPTなどの既存のAIツールでも、複数のステップを含むタスクを一度に指示する練習を始めてみてください。例えば、「〇〇のテーマでブログ記事の構成を考えて、その構成に基づいてタイトル案を5つ出して、さらに各見出しの導入文を書いてみて」といった、少し複雑な指示を出す練習ですね。
+ハルト: 最後に、クリエイターや発信者の皆さんに向けたニュースです。Microsoftのサティア・ナデラCEOが、「全企業に自社最適化AIモデルを提唱」したという話題をご紹介します。
+アヤカ: 「自社最適化AIモデル」ですか。企業の話だと、クリエイターには関係ないように聞こえるんですけど…？
+ハルト: いえいえ、これが実はクリエイターの皆さんにも非常に重要な示唆を与えてくれるんです。ナデラCEOは、汎用的なAIだけでなく、それぞれの企業が自分たちのデータや目的に合わせてカスタマイズしたAIを持つべきだと提唱しています。これをクリエイターに置き換えて考えてみましょう。
+アヤカ: クリエイターが自分だけのAIを持つ、ということですか？
+ハルト: その通りです。例えば、皆さんがこれまで書いてきたブログ記事、制作したデザイン、撮影した動画、発信してきたSNS投稿など、独自のコンテンツやスタイルをAIに学習させることで、「自分専用のAIアシスタント」を作れるようになる、ということです。
+アヤカ: 私の過去の作品を学習したAIが、新しいアイデアを出してくれたり、私の絵柄でイラストを描いてくれたりするってことですか！
+ハルト: そうです！企画提案の壁打ち相手になったり、コンテンツのテーマ出しを手伝ったり、あるいは皆さんのユニークな文体や画風を維持しながら、効率的にコンテンツを生成できるようになるかもしれません。
+アヤカ: それは夢が広がりますね！今すぐ何かできることはありますか？
+ハルト: まだ「自分専用AI」を簡単に構築できる段階ではありませんが、将来を見据えて、自分のこれまでの作品や発信したコンテンツをデジタルデータとして整理しておくことを意識してみてください。そして、汎用AIを使う際にも、自分の専門分野やテイストに関するプロンプトを工夫して、より自分らしいアウトプットを引き出す練習を始めてみるのも良いでしょう。
+ハルト: さて、今週のAIニュースを振り返って、私からの「今週の判断」です。今週は、AIが「指示を待って実行するツール」から、「目的を理解して自律的に動くエージェント」へと、その役割を大きく変えつつある過渡期を象徴する一週間でした。GPT-5.6の登場やCodexの利用拡大が示すように、AIは私たちの「働き方」そのものを根本から変えようとしています。
+アヤカ: 自分で考えて動くAIが当たり前になる未来が近づいているんですね。
+ハルト: ええ。焦って最新ツールに飛びつく必要はありませんが、「AIに何を任せられるのか」という視点を持ち、日々の業務や副業の中でAIに少しずつ「複数のステップを含むタスク」を任せる練習を始めることが、これからの時代を生き抜く上で非常に重要になってくるでしょう。
+ハルト: それでは今週の「今週やること」です。リスナーの皆さんが今週やるべきことは1つだけ。
+アヤカ: 1つだけですね！
+ハルト: はい。いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみてください。例えば、「今日の会議の議事録を3行で要約して、その要約に基づいて、次回の会議の議題案を3つ出して」といった形で、AIに連続したタスクを依頼してみるんです。
+アヤカ: なるほど！いつもは「要約して」と「議題案を出して」を別々に指示していたのを、一度にやってみるんですね！
+ハルト: そうです。この練習を通じて、AIがどれだけ自律的に動けるのか、そして自分の仕事の中で「任せられる部分」がどこにあるのかを体感してみてください。たったこれだけのことで、AIとの付き合い方が大きく変わるきっかけになるはずです。
+ハルト: 今週のポイントは、AIを情報収集で使う段階から、仕事の流れに組み込む段階へ進んでいることでした。
+ハルト: 今週やることは1つです。
+ハルト: いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。
+ハルト: それではまた来週、同じ時間にお会いしましょう。
+アヤカ: お相手は アヤカ と、
+ハルト: ハルト でした。良い一週間を！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【ニュースレター導入文】
+今週のAIニュースは、「AIが指示待ちから自律へ」という大きな転換点を示しました。OpenAIのGPT-5.6がエージェントAIとしての可能性を秘め、Googleは機密データを扱える「機密AI」を拡充。さらに、非エンジニアの間で自律型AIの利用が急増し、個人の「自分だけのAIアシスタント」を持つ未来も見えてきました。これからのAIは、単なるツールではなく、私たちの目的を理解し、自律的にタスクをこなすパートナーへと進化します。この変化を理解し、あなたの仕事と副業にどう活かすか、今週の学びと具体的な行動プランをまとめました。
+
+【X投稿文】
+1.  ✨【週刊AI仕事術】今週はAIが「指示待ち」から「任せる」段階へ大きく進化！GPT-5.6やエージェントAIの普及で、あなたの仕事・副業が激変する兆し。セキュリティ強化の「機密AI」も登場。今すぐ聴いて、未来の働き方を先取りしよう！ #AI仕事術 #AI副業
+2.  🚨AIの使い方が根本から変わる！OpenAIの自律型AI「Codex」が非エンジニアの間で利用189倍増！これからはAIに「複数のステップを含むタスク」を丸ごと任せる時代へ。副業の効率化、個人ビジネスの時間創出に直結！ #AI活用 #エージェントAI
+3.  💡Googleが「機密AI」を拡充！「AIに機密データは使えない」はもう古い？企業内のAI導入障壁が解消され、あなたの業務もAI化が進むかも。個人クリエイターも「自分だけのAI」を育てる時代に備えよう！ #AIニュース #仕事術
+
+【Threads投稿文】
+1.  今週のAIニュース、めちゃくちゃ熱い展開でしたね🔥特にOpenAIのGPT-5.6と、AIが「指示待ち」から「任せる」エージェント型に進化する話は、個人の働き方を根本から変える予感がします。これまでは「AIに何をお願いしよう？」と考えるのが私たちの仕事でしたが、これからは「AIに何を任せよう？」に変わるかも。副業でタスクに追われている人、これは要チェックです！
+2.  会社のAI導入が進まない理由の一つが「セキュリティ不安」だったんですが、Googleの「機密AI」拡充のニュースは、この壁を大きく壊しそうですね。個人事業主としても、顧客データや企画書など、機密情報をAIでどう扱うかは常に気になるところ。安全性が確保されるなら、もっとAIに頼れる範囲が広がりそう。情報収集は欠かせませんね！
+3.  クリエイターや発信者の皆さん、MicrosoftのCEOが「自社最適化AIモデル」を提唱した話、これって「自分だけのAIアシスタント」を持つ未来を示唆していると思いませんか？自分の過去の作品やスタイルを学習させたAIが、新しいアイデア出しやコンテンツ生成を手伝ってくれるなんて、想像するだけでワクワクしますよね。今のうちから自分のデジタル資産を整理しておくのが吉かも！
+
+【ショート動画用30秒台本】
+ハルト: こんにちは、ハルトです！
+アヤカ: アヤカです！
+ハルト: 今週のAIニュース、一言で言うと「AIが指示待ちから卒業！」
+アヤカ: え、どういうことですか？
+ハルト: OpenAIのGPT-5.6が登場し、AIが自分で考えて複数のタスクをこなす「エージェントAI」が本格化！
+アヤカ: まるで優秀な秘書みたい！
+ハルト: そう！資料作成もSNS運用も、AIに「丸投げ」できる時代がそこまで来ています！
+アヤカ: 私たちの仕事、激変しそう！
+ハルト: 今週は「複数のステップでAIに指示」する練習をしましょう！詳しくはPodcastで！
+アヤカ: 週刊AI仕事術、聴いてね！
+
+========================================
+
