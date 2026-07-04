@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
+・企業がAI利用を禁止？セキュリティとガバナンスの重要性
+・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
+・Midjourney著作権訴訟、クリエイターが知るべき法的動向
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260705_weekly.mp3" length="12537645" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260705_weekly</guid>
+      <pubDate>Sun, 05 Jul 2026 06:45:24 +0900</pubDate>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
+・企業がAI利用を禁止？セキュリティとガバナンスの重要性
+・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
+・Midjourney著作権訴訟、クリエイターが知るべき法的動向
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIが「指示待ち」から「任せる」へ！GPT-5.6が示す新常識と仕事術</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
 今週のテーマ：
@@ -1118,26 +1142,6 @@
 • 米国の半導体規制緩和でも、中国がNVIDIAに飛びつかない理由 - ASCII.jp
 • 「お買い物マラソン」の店舗選びもAIが支援。楽天が進めるAIエージェントコマース戦略の現在地 - ネットショップ担当者フォーラム</itunes:summary>
       <itunes:episode>18</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月17日</title>
-      <description>今日の話題:
-• Box、ワークフロー自動化ソリューション「Box Automate」を提供（クラウド Watch） - Yahoo!ニュース
-• 100のAIエージェントで月額130万ドルを消費：OpenClawが提示する「トークン制約なき」ソフトウェア開発の未来 - XenoSpectrum
-• グーグルとアドビの衝撃デモが示す、AIエージェント時代の「予言」…ホルムズ海峡封鎖に対応できるAIシナリオ【尾原和啓の深堀り】 - Business Insider Japan
-• アクセンチュアがAIを中核に据えた企業改革の支援体制構築に向けてAnthropicとの協業体制を強化 - @DIME アットダイム
-• SBG「純利益5兆円」の衝撃とOpenAI狂騒曲 - ビジネスジャーナル</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260517.mp3" length="4483629" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260517</guid>
-      <pubDate>Sun, 17 May 2026 22:03:03 +0000</pubDate>
-      <itunes:duration>04:40</itunes:duration>
-      <itunes:summary>今日の話題:
-• Box、ワークフロー自動化ソリューション「Box Automate」を提供（クラウド Watch） - Yahoo!ニュース
-• 100のAIエージェントで月額130万ドルを消費：OpenClawが提示する「トークン制約なき」ソフトウェア開発の未来 - XenoSpectrum
-• グーグルとアドビの衝撃デモが示す、AIエージェント時代の「予言」…ホルムズ海峡封鎖に対応できるAIシナリオ【尾原和啓の深堀り】 - Business Insider Japan
-• アクセンチュアがAIを中核に据えた企業改革の支援体制構築に向けてAnthropicとの協業体制を強化 - @DIME アットダイム
-• SBG「純利益5兆円」の衝撃とOpenAI狂騒曲 - ビジネスジャーナル</itunes:summary>
-      <itunes:episode>17</itunes:episode>
     </item>
   </channel>
 </rss>

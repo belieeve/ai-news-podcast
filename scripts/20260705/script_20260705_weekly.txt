@@ -1,0 +1,167 @@
+週刊AI仕事術｜仕事と副業に効くAIニュース 週刊 台本パッケージ  20260705
+========================================
+
+【エピソードタイトル】
+AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース
+
+========================================
+
+【Spotify概要欄】
+1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
+・企業がAI利用を禁止？セキュリティとガバナンスの重要性
+・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
+・Midjourney著作権訴訟、クリエイターが知るべき法的動向
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。
+
+========================================
+
+【元になったニュース】
+1. 米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活／Googleが画像生成AI「Nano Banana 2 Lite」を発表 - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1NM0hqbnVYb0lvell2dFB4dzF1VEUtbnR3Q21VSzZJc3ZJRVFCMFh3WkFGWGdkUzNtQ0RNYzhqeGVCSlhiOHJrZjdfR0VSU3VuV2hkRWZsdGpSVnhwVWxSOTV3MGYzR0cyZDIzMDFWWTlrejc4YVlOUXFaYjBxNTQ?oc=5
+2. アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため - GIGAZINE（GIGAZINE） - https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQW5INGlrUVRTZTdWVi1LS21XWDRKQnNNeFBUZlltVDNVVVkzVFpIQks1MXBBMUJhM1EybHluU2lPMC1WT3dUb2d5NXZtcDFBWEJBU211T0NSa2kyaUFManZDSC1nc1RpSUh6bg?oc=5
+3. ERPC、x402 決済対応の Solana RPC を公開 — AI エージェントが必要な API にその場で支払う時代の幕開け - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1tODR6Rkh3Sk9JcWEySFotenZxcUpHTVctQndjZ1dyMjBTZnVndHhVN0N4UUMzbWVuZnJtc3hwM3Q3bEliNWpkR2xIaVFxQWlhRmVtNXM1WFc5Z2N0cnhaQlBCSU9PT2lfTVE?oc=5
+4. AI制御層の時代③ 日本の勝ち筋は「業務の中身」にあり - 株式会社エクサウィザーズ（株式会社エクサウィザーズ） - https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQX05sOUI4ZTlic2VwQWlEOTJLcnFMZ1pNSVFuQWJQdzJrYzRUeW9Gell2YVJWbk9zTTlXdU1lTWZpQUIxSUNRSzRKWDdYWHlNWG0zY0h0ejFWNFc5TUxkWTdsSFBtTU9z?oc=5
+5. トランプ政権はAnthropicへの国有化を検討していないと関係者が明かす - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQktwWXdMcTc2V096RENSZHVENFVGcW9XWmQweWxYaGdWbF9acXUwOWNfREpFSVk1Smx2bUZuWHoyeTJjYUtZeERFeDQwZGhpdFRFel9XLWQwdGZHX1laU1NGVUFCTHV6MjdzMGJ3?oc=5
+6. MicrosoftがCopilotを統合アプリ化へ、AutoPilotは業務実行の入口になるか - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMid0FVX3lxTE5IV1R4MTBMSnh4WmtkanhVVFMwWEpxcGl4XzAxMEFtQ1RrQVZVZDlzSjhYeHpOTERlSnpCQlM3UUxTY3RINXB2XzVaYmdfWEo4NzNpaERBaGlyZGlMUjVfRzlPS2ZaTmFPdHlZT1VjYXNqbm9nVEw0?oc=5
+7. KiteRa 「AI利用実態調査」管理・専門部門の約９割が生成AIを日常利用 AI機能付きSaaS活用層は８割を超える満足度 - ニュープリネット（ニュープリネット） - https://news.google.com/rss/articles/CBMiyAJBVV95cUxNLUwzNEVGMDE5bWF1ME5rSlpNZTFuN2VtejRta1I5dEVYQndqMXd5MEcyckROaEhVbW9oVnZRSU1fakRjbmt2RzlMSVZwdUs3aG1xZ3VHc01OaW9uaTdjTUNZeFpzVFR4SFpyVmw1UHROSmE4cHdZUElMbmlQb1A1SFJYVzdpYmdpOG5xMVRmM1NpUEVtSEstYVNSZlNsVDg4NkFFMWF5cTlqRm8zWWhBMGppaGljc19BQ0hldkx3d2VxbHhoc3FVSElSYk5fMDlfRlI1YklGSzJZUkRBcFlRbm1iZDZFR0hXMHdXWnM2RUFYQUpLZUdGU001LXg1ZTBFRDE4Mk5qRFgyZWd5UWJjZnVNV09GZzl1WFBaeE1xT2JOUDJ0bi02cGI0cEQwNTBXcm85M0hwb0RJSG9hRjNoWmc5VmpMa3hu?oc=5
+8. Midjourneyが開示を求める、ディズニーらのAI利用資料を巡り裁判で争う - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaE50cXdPT0x3ZVktZWFONWlYZC1rRG9WdW5zU0VOaVpWQTFyeDdFZXBEeUFveGhiYmhXbnZaRkRic3M2M1EtaWpjUTN4QXRrZUdyNi1lekN0UDFtTUhWcElwT2Q1S0VxdWc?oc=5
+9. アップルの新型Siri AI、今秋提供開始も対応はiPhone 15 Pro以降に限定 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9CWFpqbW01Z0JmZ2xrUTh6X0VQYlVpMEF5cE9GREVXZDhfcHhDZDBGTmpWTUhCUzgyUXVWa1RUbHBheWZweXFCdTh5SEM3czZqWDAwX1lCOU9OVUhMVDZVZUJ6NFB5dXVkY0FMUVZFY2oyLWp1?oc=5
+10. メモリー逼迫、スマホ価格に影 エヌビディア、AIサーバー採用 アップル、値上げ検討か - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVBlUk1sUl94NW5mc1lCZVBkaGJhby1ZTlZvOVpwMFoySWtuZHNUZGh4d2QyQTdGQUJNMFh5TFNNX1A0ZmZBQk1PcmVLNFFOX2daaXYwM3BqaEw3WDlXcnY5NVQza293Q0Jad0NibjdiWnRheDV5cENSZzZvOWhnQkhXeG9kRGp6Q1h3TWVBTmtNbzNiRS05Uk1B?oc=5
+11. GoogleがMetaのGemini利用を制限 生成AI需要の爆発でインフラ逼迫が深刻化 - 東京報道新聞（東京報道新聞） - https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoTERmWURZOTkwTkQ5dUlSZVpkSklRWkNqYTc1NjBWaF9GTGJnblVRM2dBUWYzaHRoNzRsQU9vSXNuRlpSOVBNdFJhNFc0MHVMNXRR?oc=5
+12. iPhone18はRAM9GBでもiOS27の新AI機能2つに非対応か - iPhone Mania - iPhone Mania（iPhone Mania） - https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZzdGUHZfb1ZPWHpxOUtJWVpOSnhXQ1Ffc0ZuQWJESFM2aEhhRVdhRXZHelZlbWZwdllkRkxSSV9KX05NaEF4VTRLWEh5LVVaVnfSAVdBVV95cUxPZUd1WmdEWTJnbzI4SFRJR3QzUVRnem9OZWFmdXNUVm9ZeG5GS2V6Q1Jvb3B5cnFEMEVRckxVaDdmU1lsbFNrbU9iemk5VHdUM1dPSVFqVUk?oc=5
+13. 提訴された画像生成AIのMidjourney、大手に「社内でのAI利用有無を明かせ」と要求（映画.com） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE9SZndwUXRIczA1TklUM0trbzZLSEJiSkxQR0dIMlRKeGVqM2I3b2ZaR0ZqY2k0TEl0VXJ6SUllVlBnZjNLcnd6LUNTcTlqNHRGTHJVNDdrQVBEUVRmeUtPMDRCN0Jibk1zMThPSjIzSE5SN0IzLWVwRmNVUlE0ems?oc=5
+14. 乱立するAIエージェント、管理ツール徹底解剖 - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUjJTcHZJRnNadkhlZHFhWnFLSHk1aWFYUHprYzRxQUt3NVBPbWlkUFpWWjNWMXNPOUQwTzVncHhLZXU5N09Zd0laUlNwTVYtMmp1MVpkb3FJVTdMazFj?oc=5
+15. 非上場のAnthropic・OpenAI、IPO控えETF・クローズドエンド型ファンド投資法に「注目」 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9iZWtaclotRE40dGl4RVRyWG0xNkxiTi11SFpRSUR2YTdMd2tob1dOTjZ2YlFwSjdIeWdGNkdUaFN3NVZISzVHYzUxWXV5OTItZHo4WDlBQUlCdEcwZF91VGRtM2VSNHdyMlhpck5SN21oUk91?oc=5
+
+========================================
+
+【掛け合い台本】
+ハルト: おはようございます！週刊AI仕事術、仕事と副業に効くAIニュースの時間です。MCのハルトです。
+アヤカ: おはようございます！MCのアヤカです。今週もAIニュースを仕事や副業にどう活かすか、一緒に深掘りしていきましょう。
+ハルト: 今週のAI業界は、AIが単なる質問に答えるツールから、私たちの仕事や生活を「一緒に進める相棒」へと大きく進化していることを感じさせる一週間でしたね。
+アヤカ: まさにそうですね！特にMicrosoftやAppleの動きを見ていると、AIがもっと身近になって、日々の業務やクリエイティブな活動にどう組み込んでいくかが、ますます重要になってきているように感じます。
+ハルト: その通りです。今日は、そんなAIの進化の波を捉えて、皆さんが今週、何を理解し、何を試せばいいのかをしっかりお伝えしていきます。最後までお聴きいただければ、AIを仕事や副業に活かすヒントが必ず見つかるはずですよ。
+ハルト: さて、まずは今週の最重要ニュースからご紹介しましょう。
+アヤカ: はい、お願いします！
+ハルト: MicrosoftがCopilotを統合アプリ化し、将来的にはAutoPilotのような業務実行の入り口になる可能性があると報じられています。
+アヤカ: Copilotが統合アプリ化ですか！それはまた大きな変化ですね。具体的に何が起きているんでしょうか？
+ハルト: 事実として確認できるのは、MicrosoftがCopilotをWindowsのOS全体に深く統合し、単なるチャットボットではなく、より広範なタスクを自動化できるAIアシスタントへと進化させている点です。これはMicrosoftの公式発表やイベントで言及されています。報道ベースでは、将来的には「AutoPilot」という形で、さらに複雑な業務をAIが自律的に実行するようになる可能性も示唆されています。
+アヤカ: 公式発表と報道ベース、ありがとうございます。なぜこのニュースが今週最重要なんですか？
+ハルト: なぜなら、これはAIが「指示待ち」から「任せる」段階へ進む、という私たちの番組コンセプトをまさに体現する動きだからです。CopilotがOSに深く統合されることで、これまで一つずつクリックしていた作業や、複数のアプリをまたぐタスクを、AIに一言で指示してまとめて実行してもらえるようになる可能性が高まります。
+アヤカ: すごいですね！それは日本の会社員や副業者、個人事業主にも大きく関係してきそうですね。
+ハルト: その通りです。会社員の方なら、資料作成、メールの返信、会議の議事録要約といった日常業務が、よりスムーズになります。例えば、「今日の午前中の会議の議事録を要約して、関係者にメールで共有、そして次回の会議の議題案を3つ考えて」といった複数のステップを含む指示を、AIにまとめて任せられるようになるかもしれません。
+アヤカ: それは業務効率が格段に上がりそうです！副業や個人事業主の方だとどうでしょう？
+ハルト: ブログ記事の構成案作成からSNS投稿文の生成、簡単な画像素材の選定まで、一連のタスクをAIに任せられるようになります。これにより、クリエイティブな作業や戦略立案に、より多くの時間を割けるようになるでしょう。
+アヤカ: 今すぐ使える話ですか？それとも、まだ様子見すべき話ですか？
+ハルト: Copilotの統合は段階的に進んでいますので、今すぐ全ての機能が使えるわけではありません。しかし、Copilot自体はすでに利用可能ですから、今のうちから「AIに複数ステップの指示を出す」練習を始めるのがおすすめです。
+アヤカ: 今週できる小さな行動としては、そういったプロンプトを試してみることですね。
+アヤカ: 続いては、仕事に効くAIニュースです。
+ハルト: アリババが従業員のClaude Code使用を禁止したという報道がありました。セキュリティリスクが懸念されているため、とされています。
+アヤカ: アリババのような大企業がAIツールの使用を禁止するというのは、かなりインパクトがありますね。これは公式発表なんですか？
+ハルト: いいえ、これはGIGAZINEなど複数のメディアが報じている内容で、アリババの公式発表ではありません。報道ベースの話として捉える必要があります。
+アヤカ: なるほど。では、なぜこのニュースが重要なのでしょうか？
+ハルト: これは、AIツールを業務で使う際に、データセキュリティと情報ガバナンスがいかに重要かを示しています。特に企業内で機密情報や顧客データを扱う場合、外部のAIツールにそれらを安易に入力することには大きなリスクが伴うという警鐘です。
+アヤカ: 日本の会社員や個人事業主にはどう関係してきますか？
+ハルト: 会社員の方は、社内で利用が許可されているAIツールや、利用に関するガイドラインを必ず確認してください。許可なく外部のAIツールに社内情報を入力することは、情報漏洩のリスクだけでなく、就業規則違反になる可能性もあります。個人事業主の方も、顧客情報や機密性の高いデータを扱う際は、利用規約やデータ保護の条件をしっかり確認することが大切です。
+アヤカ: 今すぐ使える話か、様子見かというと？
+ハルト: これは「今すぐ意識すべき話」です。AIツールの利便性は高いですが、セキュリティは常にトレードオフの関係にあります。利用するAIツールのデータ取り扱い方針を理解し、機密情報の入力は避けるという基本的なルールを徹底することが重要です。
+アヤカ: 今週できる行動としては、普段使っているAIツールの利用規約やプライバシーポリシーをざっと確認してみることですね。
+ハルト: 次は、副業・個人ビジネスに効くAIニュースです。
+アヤカ: はい！Appleの新型Siri AIが、今秋提供開始予定で、対応はiPhone 15 Pro以降に限定されると報じられていますね。
+ハルト: これはAppleがWWDC24で発表した「Apple Intelligence」に関する内容で、公式発表です。新型SiriやOSに統合されるAI機能は、A17 Proチップを搭載したiPhone 15 Pro/Pro Max以降のモデルで利用可能とされています。
+アヤカ: そうなんですね！iPhoneユーザーにとっては特に気になるニュースです。なぜこれが副業や個人ビジネスに重要なんですか？
+ハルト: Apple Intelligenceは、Siriの応答能力向上だけでなく、文章の要約や生成、画像作成、通知の優先順位付けなど、OS全体でAIが機能するようになります。つまり、皆さんのiPhoneが、より賢い「個人的なAIアシスタント」になるということです。
+アヤカ: それは、まさに副業や個人ビジネスの強い味方になりそうですね！
+ハルト: その通りです。例えば、ブログの下書きをSiriに音声で指示して作成してもらったり、SNS投稿用の画像を簡単に生成したり、メールの返信文をAIに提案してもらったりと、移動中やちょっとした隙間時間でも、iPhone一つで効率的に作業を進められる可能性が広がります。
+アヤカ: 忙しい副業者にはありがたい機能ですね。今すぐ使える話ですか？それとも様子見ですか？
+ハルト: 今秋の提供開始なので、まだ様子見の段階です。しかし、iPhone 15 Pro以降のモデルに限定されるということは、高性能なチップが必要な処理が多いことを示唆しています。もし皆さんが最新のAI機能をフル活用したいと考えるなら、今後のデバイス選びの基準の一つになるかもしれません。
+アヤカ: 今週できる行動としては、Apple Intelligenceでどんなことができるようになるのか、公式の情報を少し調べてみることですね。自分の副業やビジネスにどう活かせるか、想像を膨らませておくのもいいかもしれません。
+ハルト: 最後に、クリエイター・発信者向けAIニュースです。
+アヤカ: 画像生成AIのMidjourneyが、ディズニーなどの大手企業に対し、社内でのAI利用に関する資料開示を求めているという報道がありましたね。
+ハルト: はい。これはMidjourneyが著作権侵害で提訴されている訴訟の中で、Midjourney側が反論の一環として資料開示を求めていると報じられている内容です。報道ベースの情報として捉えてください。
+アヤカ: 報道ベースですね。これはクリエイターや発信者にとって、なぜ重要なのでしょうか？
+ハルト: この訴訟の行方は、生成AIの著作権に関する今後の法的な解釈や、業界全体の慣行に大きな影響を与える可能性があります。Midjourney側が他社のAI利用状況の開示を求めているのは、著作権侵害の責任が生成AIの提供元にあるのか、それとも利用側にもあるのか、という非常に重要な論点を浮き彫りにしています。
+アヤカ: なるほど。責任の所在がどこにあるのか、という話になってくるんですね。日本のクリエイターや発信者にはどう関係しますか？
+ハルト: 生成AIを使って画像やテキストを作成しているクリエイターや発信者の方は、特に注意が必要です。現状、生成AIの出力物に関する著作権の扱いは、まだ明確に定まっていない部分も多いです。そのため、生成AIで作成したコンテンツを商用利用する際には、著作権侵害のリスクを常に意識し、利用規約をしっかり確認することが大切です。
+アヤカ: 今すぐ使える話ですか？それとも様子見すべき話ですか？
+ハルト: この訴訟自体は進行中なので、具体的な結論が出るまでには時間がかかります。しかし、著作権に関する意識は「今すぐ持つべき」です。
+アヤカ: 今週できる小さな行動としては、自分が使っている生成AIツールの利用規約を改めて確認し、特に商用利用に関する項目を読んでみることですね。
+ハルト: 今週の判断です。
+アヤカ: AIは、質問に答える道具から、私たちの仕事の流れを一緒に進める相棒へと、確実にステップアップしていますね。
+ハルト: まさにその通りです。MicrosoftのCopilotの統合やApple Intelligenceの登場は、AIがOSやアプリに深く組み込まれ、より自律的に、そして複数ステップのタスクをこなせるようになる未来を示しています。
+アヤカ: 一方で、アリババのニュースやMidjourneyの著作権訴訟のように、AIの利用にはセキュリティや著作権という重要な側面が伴うことも忘れてはなりませんね。
+ハルト: そうですね。新しい技術の波に乗ることは重要ですが、同時にリスク管理や倫理的な利用への意識も高めていく必要があります。焦って全てを導入するのではなく、まずは小さく試しながら、それぞれのAIツールの特性を理解していくのが現実的です。
+アヤカ: 個人が今から準備することとしては、AIに「任せる」使い方を意識し始めることでしょうか。
+ハルト: その通りです。AIに単発の質問をするだけでなく、複数の作業をまとめて任せるエージェント的な使い方を少しずつ試していくことで、未来のAI活用にスムーズに対応できるようになります。
+ハルト: 今週やることは1つだけです。
+アヤカ: はい！
+ハルト: いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。例えば、「会議の議事録を要約して、次回の議題案まで出してもらう」とか、「ブログのテーマを決めて、構成案とタイトル案まで作ってもらう」といった具合です。
+アヤカ: これまで分けて指示していた作業を、一連の流れとしてAIに任せる練習ですね！確かに、AIが私たちの相棒になる第一歩になりそうです。
+ハルト: この番組では、毎週AIニュースを仕事や副業にどう活かすかを整理しています。よければ番組のフォローもお願いします。
+アヤカ: それでは、また来週の週刊AI仕事術でお会いしましょう！
+ハルト: ありがとうございました！
+アヤカ: ありがとうございました！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 今週の #週刊AI仕事術 は「AIを相棒にする方法」がテーマ！🚀 Microsoft Copilotの進化、Apple AIのiPhone統合、そしてアリババのAI利用禁止から学ぶセキュリティ。Midjourney著作権訴訟の動向も解説。AIを仕事と副業に活かすヒント満載です。 #AI活用 #副業AI
+2. 【今週の最重要】Microsoft Copilotが「指示待ち」から「業務の相棒」へ大進化！複数ステップのタスクをAIに任せる時代が来ます。今すぐプロンプトの練習を始めましょう！👇 #Copilot #業務効率化
+3. iPhoneユーザー必見🍎 Apple Intelligenceが今秋登場。Siriがさらに賢く、あなたの副業を強力サポート！ただし対応はiPhone 15 Pro以降。デバイス選びの参考にどうぞ。#AppleAI #副業
+
+【Threads投稿文】
+1. 今週の週刊AI仕事術、聴いてくれましたか？AIが本当に「指示待ち」から「任せる」段階に進んでいるのを肌で感じる一週間でしたね。特にMicrosoft Copilotの進化は、日々の業務がどう変わるか想像するとワクワクします。でも、同時にアリババのAI利用禁止ニュースからは、セキュリティの意識も高めないと、と改めて思いました。新しい技術を使いこなすには、便利さだけでなく、リスク管理もセットで考えるのが大切ですね。
+2. iPhoneユーザーの皆さん、今秋登場のApple Intelligence、気になりますよね！私のiPhoneも15 Proなので、Siriがどれだけ賢くなるのか今から楽しみです。副業でコンテンツ作成をしている方は、Siriが文章の要約や画像生成をサポートしてくれるとなると、移動中のちょっとした時間も有効活用できそう。AIはもう、私たちのスマホに深く入り込んで、個人的なアシスタントになっていくんだなと実感します。
+3. クリエイターさん、Midjourneyの著作権訴訟のニュースは要チェックです！AI生成物の著作権、どうなるんだろうって常に気になりますよね。大手企業にまでAI利用状況の開示を求めているという話は、今後の法的な動きに大きく影響しそうです。今はまだ結論が出ていませんが、自分が使っているAIツールの利用規約は、今のうちからしっかり確認しておくのが賢明だと思います。安全にAIを活用して、クリエイティブを最大化していきましょう！
+
+【ショート動画用30秒台本】
+ハルト: AIは質問に答えるだけじゃない！今週のAIニュースで、あなたの仕事と副業が変わるヒントをギュッと凝縮しました。
+アヤカ: Microsoft Copilotは、もはや「相棒」に進化！複数ステップの作業をAIにまとめて任せる時代が来てますよ！
+ハルト: Apple IntelligenceでiPhoneが超賢いアシスタントに！副業の効率が爆上がりするかも？
+アヤカ: でも待って！アリババがAI利用を禁止したニュースから学ぶ、セキュリティの落とし穴にも注意が必要です。
+ハルト: Midjourney著作権訴訟の行方もクリエイター必見。AIを賢く安全に使うための情報を毎週お届けします。
+アヤカ: 今すぐ「週刊AI仕事術」で検索して、最新AI情報をチェック！
+
+【エピソードタイトル案】
+1. AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース
+2. Copilot進化、Apple AI、著作権問題…仕事と副業に効くAI活用術
+3. 週刊AI仕事術：エージェントAIの波に乗る！今週試すべきこと
+
+【ニュース出典リンク一覧】
+ニュース名：MicrosoftがCopilotを統合アプリ化へ、AutoPilotは業務実行の入口になるか
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMid0FVX3lxTE5IV1R4MTBMSnh4WmtkanhVVFMwWEpxcGl4XzAxMEFtQ1RrQVZVZDlzSjhYeHpOTERlSnpCQlM3UUxTY3RINXB2XzVaYmdfWEo4NzNpaERBaGlyZGlMUjVfRzlPS2ZaTmFPdHlZT1VjYXNqbm9nVEw0?oc=5
+公式発表か報道ベースか：報道ベース（ただしCopilotの統合化自体はMicrosoft公式発表と合致）
+
+ニュース名：アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため
+出典名：GIGAZINE
+URL：https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQW5INGlrUVRTZTdWVi1LS21XWDRKQnNNeFBUZlltVDNVVVkzVFpIQks1MXBBMUJhM1EybHluU2lPMC1WT3dUb2d5NXZtcDFBWEJBU211T0NSa2kyaUFManZDSC1nc1RpSUh6bg?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：アップルの新型Siri AI、今秋提供開始も対応はiPhone 15 Pro以降に限定
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9CWFpqbW01Z0JmZ2xrUTh6X0VQYlVpMEF5cE9GREVXZDhfcHhDZDBGTmpWTUhCUzgyUXVWa1RUbHBheWZweXFCdTh5SEM3czZqWDAwX1lCOU9OVUhMVDZVZUJ6NFB5dXVkY0FMUVZFY2oyLWp1?oc=5
+公式発表か報道ベースか：公式発表（WWDC24でのApple Intelligence発表内容）
+
+ニュース名：提訴された画像生成AIのMidjourney、大手に「社内でのAI利用有無を明かせ」と要求（映画.com）
+出典名：Yahoo!ニュース（元記事は映画.comなど）
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE9SZndwUXRIczA1TklUM0trbzZLSEJiSkxQR0dIMlRKeGVqM2I3b2ZaR0ZqY2k0TEl0VXJ6SUllVlBnZjNLcnd6LUNTcTlqNHRGTHJVNDdrQVBEUVRmeUtPMDRCN0Jibk1zMThPSjIzSE5SN0IzLWVwRmNVUlE0ems?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。: OK
+- 報道ベースの内容を「発表しました」と言っていないか。: OK
+- 未公開モデルや政府要請を断定していないか。: OK
+- セキュリティや機密データを「安全」と言い切っていないか。: OK
+- 強すぎる断定や煽り表現がないか。: OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK
+- 最後の「今週やること」が1つに絞られているか。: OK
+- 最後に同じ内容を繰り返していないか。: OK
+- 番組フォローへの導線が自然に入っているか。: OK
+- 出典リンク一覧があるか。: OK
+
+========================================
+
