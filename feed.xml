@@ -22,6 +22,32 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Google AI学習に公開データ活用？仕事と副業に効くAI活用の本質</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
+・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
+・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
+・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
+・AIエージェントがもたらす「クリエイティビティの均質化」と対策
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260712_weekly.mp3" length="13509549" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260712_weekly</guid>
+      <pubDate>Sun, 12 Jul 2026 08:00:49 +0900</pubDate>
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
+・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
+・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
+・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
+・AIエージェントがもたらす「クリエイティビティの均質化」と対策
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
 今週のテーマ：
@@ -1122,26 +1148,6 @@
 • OpenClawの開発者が1か月で130万ドル相当のAIトークンを使用し、AI界隈を騒然とさせた - Business Insider Japan
 • NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供 - キーマンズネット</itunes:summary>
       <itunes:episode>19</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月18日</title>
-      <description>今日の話題:
-• 対OpenAI訴訟でマスク氏敗訴：実体審理ゼロ、IPO最大障壁が消滅 - XenoSpectrum
-• Googleが生成AI検索の最適化ガイドを公開。AEO/GEOは「SEOと同じ」と明言 - tech-noisy.com
-• ただの生成AIじゃない…150兆円市場を下支え、東京エレクトロン「特化型AI」の全貌 ｜Seizo Trend - ビジネス+IT
-• 米国の半導体規制緩和でも、中国がNVIDIAに飛びつかない理由 - ASCII.jp
-• 「お買い物マラソン」の店舗選びもAIが支援。楽天が進めるAIエージェントコマース戦略の現在地 - ネットショップ担当者フォーラム</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260518.mp3" length="4138029" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260518</guid>
-      <pubDate>Mon, 18 May 2026 22:10:24 +0000</pubDate>
-      <itunes:duration>04:18</itunes:duration>
-      <itunes:summary>今日の話題:
-• 対OpenAI訴訟でマスク氏敗訴：実体審理ゼロ、IPO最大障壁が消滅 - XenoSpectrum
-• Googleが生成AI検索の最適化ガイドを公開。AEO/GEOは「SEOと同じ」と明言 - tech-noisy.com
-• ただの生成AIじゃない…150兆円市場を下支え、東京エレクトロン「特化型AI」の全貌 ｜Seizo Trend - ビジネス+IT
-• 米国の半導体規制緩和でも、中国がNVIDIAに飛びつかない理由 - ASCII.jp
-• 「お買い物マラソン」の店舗選びもAIが支援。楽天が進めるAIエージェントコマース戦略の現在地 - ネットショップ担当者フォーラム</itunes:summary>
-      <itunes:episode>18</itunes:episode>
     </item>
   </channel>
 </rss>
