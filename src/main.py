@@ -335,34 +335,31 @@ def main():
     # Step 2: 台本・タイトル・概要・SNS下書き生成
     logger.info("=" * 50)
     logger.info("Step 2: 台本・タイトル・概要欄・SNS下書き生成")
-    script, title, summary, sns_draft = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
 
     # 監査AIは修正出力で台本本文を欠落させることがあるため、本線から外す。
     # 公開前の自動安全弁として、短すぎる台本だけを停止する。
+    # 生成文量は毎回ぶれるため、チェックNGでも一定回数まで再生成してから諦める。
     status = "A"
     audit_log = ""
+    max_attempts = 3
 
-    if not is_script_plausible(script, slot):
-        logger.error(
-            "台本が短すぎるため音声生成を中断します: %dセリフ / %d文字",
-            len(script),
-            script_text_length(script),
-        )
-        save_script(
-            script,
-            today,
-            slot_config["label"],
-            slot_config["filename_suffix"],
-            articles,
-            title,
-            summary,
-            sns_draft,
-            audit_log,
-        )
-        sys.exit(1)
-
-    if not has_substantial_news_body(script, articles, slot):
-        logger.error("ニュース本文が不足しているため音声生成を中断します")
+    for attempt in range(1, max_attempts + 1):
+        script, title, summary, sns_draft = generate_script(articles, show_name=slot_config["show_name"], slot=slot)
+        if not is_script_plausible(script, slot):
+            logger.warning(
+                "台本が短すぎます（%d/%d回目）: %dセリフ / %d文字",
+                attempt,
+                max_attempts,
+                len(script),
+                script_text_length(script),
+            )
+            continue
+        if not has_substantial_news_body(script, articles, slot):
+            logger.warning("ニュース本文が不足しています（%d/%d回目）", attempt, max_attempts)
+            continue
+        break
+    else:
+        logger.error("再生成してもチェックを通る台本ができなかったため音声生成を中断します")
         save_script(
             script,
             today,
