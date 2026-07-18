@@ -1,0 +1,167 @@
+週刊AI仕事術｜仕事と副業に効くAIニュース 週刊 台本パッケージ  20260719
+========================================
+
+【エピソードタイトル】
+AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと
+
+========================================
+
+【Spotify概要欄】
+1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
+・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
+・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。
+
+========================================
+
+【元になったニュース】
+1. GoogleがAIモデル「Gemma 4」の大規模改善を発表／Windows 11における既知の不具合を公表（ITmedia PC USER） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bVpCcWlWQmRFTzA4R0REN043MkZMeEtWT2YtRXVLZEVBcGJWSUt6TDZfYVZsVUEzZEZZLXdZcWZaWE1xdVpJYllXS0Z4MlpieXhNZC1uU1ZUNWhFQ2lKN3hvckZEZTdUd2pCdDFKLWRCMGFOVTY1blpleXpFak0?oc=5
+2. ファン氏の来日に沸く日本の産業界 深まる「NVIDIA頼み」 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE5xZThpZFJPaDhPNU1na0t5VWU1T3E5NzdRQ295ZDVPdkJBUmVlVG9NZjFqMEE1ZXlDMktKV042ZXBYM0xaQ25xUk5kUVdDdXlqV2lBU1RlZVBad1R0RG02bVNDckZtZW1wZHlKTA?oc=5
+3. ジェンスン・フアンCEO、Vera Rubin遅延報道を一蹴──NVIDIAは1兆ドルのAIブームとロボティクス拡大へ布石 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1WNUxnQkE3RjBKTjhmVHctdDRYQ1FmRkllLTlmX2lTTjh4eFFsREp0dEF2ZGRSUjJrNDRtUnVUOHJ1bmg1MXB4eUttdENXWXQxVjNUNEh4YTBfQk01cmZDaDZ5S29sMDZvMVEtT2U1UHRxOWJw?oc=5
+4. NVIDIAジェンセン・フアン来日やきとんサミットなどまとめ（Gemini簡易版） - オルタナティブ・ブログ（オルタナティブ・ブログ） - https://news.google.com/rss/articles/CBMickFVX3lxTFBPQTBCRjBEekt2bURFcHJ2ZXREMFJYSkxHWUVEc3hkVHNhbWRsM3VzS0UtaVl5VVVOTE1PNFZJaVEyOWlQWHJhaFRnc0pES0xCWXJUN1dKWVBuT2ZyUlVfWTVxUEJ3bkQwenQ5RGpjLXFHZw?oc=5
+5. SolかFable 5か――創造性テストで勝利するAIモデルはどちらか - Yellow.com（Yellow.com） - https://news.google.com/rss/articles/CBMi5AJBVV95cUxObjRDTURTT1RNRkZ0VHgwLVh3bWlhNFhLam0wVElsUmFWTzBPSFZ4T2kzeG5mZ1BtZlFPZGlvUDVBcWM3d0ttYkczanFYWTFNZFRmc2VOelJzbjYzSWp0c2M2OVFub1R3YmNNNTRGT0lkU1NxMjVPODd1cWlDQU5yTjczd3BWbDFXNTF3a1RnNUxrX1pMcHY0eEdveEdialNTb29pRWQ4aGFpbnUySm9CY3VxVVZpODB6Wk5SWVlwaDEybmJsakpFNDEzUzNKN09FN2ZGRUhiNHZXZE1SRGlUTHZNX09UYUl0aDVsaUJ0UVBMN29RWGJLM08taXh2ZEt6dkYtV2FWQUdSZzkyUi15anJMMDZwMFRtYmhTdnVOOURhQnpxQTJVUERrWlhpV0h2aHBCT1d6NmZrTkV4RTZscjZrTXhEa3Ata0ZwMExJa1FJZ3R0ZGdXbzVXc3lGYXR5ZG42Qw?oc=5
+6. 上海で世界AI大会 人型ロボットやAIエージェントに注目 - au Webポータル（au Webポータル） - https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cndaSGtUdWdnSjVCMWhzN2U2UDBoVS1uSjhXandvbGpPd0prQUVuWm5jWDVYbzdiUjB5cVNoRExMdWJnTWFNQlZ3WURXQzJlS3diZWlqVS1TMUM1LW9rNWZUWFAwUDZjR0ZIakkzUkJRbjVGU1h5bm5FOA?oc=5
+7. 時価総額世界一の光と影、エヌビディアが「創業の志」よりAIの利を選んだ代償（小久保重信） - エキスパート - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckJTSTNCMGhhYmdIU045TGo3dmZ0aEFHNHlWMFVUTFJvcWI5V2RKYWx4ZEluVG1VU2FsWjZNWmZTUFhLZEZfTmxDWFdCTEF1dGtoZjRCeVBNMW15NVdtZXVpMklXTjJUcXZoVE5yejY4M0FyNnNxZk1zUlkzTlZ5YW5ITDZsNnFN?oc=5
+8. クアルコムのシュー・ハオ氏、「AIエージェントスマホ」が集中爆発、端末AIは「受け身の応答」から「自律的なサービス」へ - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTFB3a3lrdE81NDQ0NGZSTHlDa2tDWFNoZkpmQ2FyS3VhR25LaWxGTGQ1Z2dmQmVfRzJndlhUdkZvV3lZbUpxNXJKQ2Q4eEktZ05zVkVHVmtmOVB6TW16MlFlR2NfOWpqSm1SY2VYUG1oYXBFbElt?oc=5
+9. 1兆Token時代の先へ、AI産業の価値指標は「消費量」から「デイリーアクティブエージェント」へ転換 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9CYUJ0MEd4d2FfaXBCX29PdDBkdzJ4TUtuYjJjNWc5UnhRY25WeEJNVmFGS25MSFZQNjFmRHJIN1k4aVBUcEFDMTRuMlRZNlR5cFRlVmkzMUpxRGs2OHNOdFNlay1MOG1lWnlVNjVzajNaeHpx?oc=5
+10. Claude Fable 5は7月20日以降もMax枠には残留：Proには一度限りの100ドル分クレジットが付与されその後は従量課金に - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMickFVX3lxTFA0Qko2NEVPMkNIdmtUemptVU5NLXpGekpBUk5XQXhXS0Jfa2tPNW9nQzFUUFhDZm9WZFQ0SzEzbTQ2MndrNkd0SHhmZTNMS21qZTE1U1d4SFF0WnVnM3F1c05xWFNoYXRoLURwYXdDWGN1QQ?oc=5
+11. 中国のスタートアップ企業は、OpenAIやAnthropicと競合できる能力があると主張している。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMilgFBVV95cUxONzVKaXZXSC04R3VDUFRzM2dBeFlUd1hUaGRVR2pTajhMMnJsZ1FWa1JjdW14WVluaGV2TFpCcVpuajVvTnlIT3FLMHF1VVBMRnF2REprYjE5NkxSSVNSWjNtaWZiVlpmeHhMN1VUQ196b21ndzFtWFVXa0lBMTVaeExfRmdwNnNXMm1xQ0MxTzRlMk4tWmc?oc=5
+12. S&P 500指数見通し：メタ、マイクロソフト、アルファベットなどがAI投資拡大を継続、2026年後半の8,000突破を支える可能性 - TradingKey（TradingKey） - https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUG5rYzJQSjFMenVCNFhYQlZ5Z01GbW9vc2hfS3dmZnNLRFNjcEQ5UzRYN2hicG1yQnY4Zkk4S2xobmx1OVVBSnBTS2Nab0t5QXBBZ3pEbk81VVJfMEktWFdLdGlaRzVNM3lLdi1OdUhLSFVzR0lpY3J2cFFLUk9JQWtTUmowSWhla0h5SUJGLXlQNTdhM04zcTNFZjdwWnc2OUJ5SlZEclpFM3ZwajF6U2pLTF8yNzd2czlBOGVBS2JOdkZ4Uzlqbk1rMU55N1k4NjJtTENaUWhaYzJvaEVCQVVhWjZ1X3VtRF9MaQ?oc=5
+13. AIは店長の仕事をどこまで代われる？ 富士通がイオンで実店舗検証 - DXマガジン（DXマガジン） - https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2SjVWR3BXNV9KMjloS0pwbXQwcVA5Z28zaWc1U1FObTU3cmlOZW5DV2J2QmhRY0VQczJldTNia3B0S2FiTU9ZaXprNDA?oc=5
+14. WAIC 2026が示すAI産業の三大潮流：チップ競争からシステムレベルの生産性へ - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9WaExUSmtTNTI2Rk5wN3l1aGVhV0tvdzlnVWUtWlZZQmdMZFdDSm5ReWVjMGFKMU1zc0JFeHptc3NsV3VBaWpTb0c5LUhjaTN6VWFRRGE4cXowWURtU0FQdFhsXzUwc2JCTm1KRHlCTlVtem0y?oc=5
+15. GPT-5.6がファイルを削除、OpenAIは「不慮のミス」と説明 ― システムカードが示す想定内の失敗 - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OaXIzcWlXS2lvYXk4ZjdyeU9ZU1FqdjJtY1FZM0hheTBfQUFzcjNrTkV1SHBhOUtnMWltcGpzYkpGWlJVQnh1N2VzZ196Zm9RR2x3?oc=5
+
+========================================
+
+【掛け合い台本】
+ハルト: おはようございます、ハルトです。
+アヤカ: こんにちは、アヤカです！
+ハルト: 今週も「週刊AI仕事術」の時間です。この番組では、1週間のAIニュースから、皆さんの仕事や副業にすぐに役立つ情報だけを厳選してお届けしていきます。
+アヤカ: 毎日たくさんのAIニュースが流れてきますけど、どれが本当に重要で、何を試せばいいのか、迷ってしまうんですよね。
+ハルト: そうなんです。だからこそ、今週は「AIが単なる指示待ちツールから、複数のタスクをまとめて任せられる相棒へと進化している」という大きな流れを深掘りしていきます。これからのAIの使い方がガラッと変わる可能性を秘めているので、ぜひ最後まで聴いて、今週何を試すべきかを見つけてくださいね。
+アヤカ: はい、楽しみにしています！
+ハルト: さて、今週の最重要ニュースは、ズバリ「AIエージェントの本格化と、AI産業の価値指標の変化」です。
+アヤカ: AIエージェント、最近よく聞くようになりましたね。具体的に何が起きているんですか？
+ハルト: はい。まず、先日上海で開催された世界AI大会では、人型ロボットやAIエージェントが大きな注目を集めたと報じられています。さらに、クアルコムのシュー・ハオ氏が「AIエージェントスマホ」の集中爆発を予測するなど、端末レベルでのAIエージェントの普及にも期待が高まっているようです。
+アヤカ: スマホでAIエージェントが使えるようになるのは、すごく身近に感じられますね。
+ハルト: そうですね。そして、AI産業の価値指標も、「消費量」、つまりどれだけ多くのトークンを使ったか、というところから「デイリーアクティブエージェント」、つまりどれだけ多くのAIエージェントが日常的に活用されているか、へと転換する可能性が指摘されています。これは、AIが単発のタスク処理から、より複雑な業務を自律的にこなす方向へと進化していることを示しています。
+アヤカ: なるほど。AIがもっと賢くなって、私たち人間の仕事をサポートしてくれるようになる、ということでしょうか？
+ハルト: まさにその通りです。これまでのAIは、私たちが一つ一つ指示を出す「指示待ち」の道具でしたが、AIエージェントは、複数のステップをまとめて理解し、自律的にタスクを遂行する「任せる」段階へと進んでいます。
+アヤカ: なぜこれが重要なんですか？
+ハルト: これは、私たちの仕事のやり方を根本的に変える可能性を秘めているからです。例えば、これまでは「この文章を要約して」と指示し、次に「その要約を元にメールを作成して」と別の指示を出す必要がありましたよね。でもAIエージェントなら、「この会議の議事録を要約して、次回の議題案まで出して、さらにその内容をチームに共有するメールのドラフトを作成して」といった複数のステップをまとめて指示できるようになるんです。
+アヤカ: それはすごい！会社員や個人事業主にはどう関係するんですか？
+ハルト: ルーティンワークの多い会社員の方なら、資料作成のプロセス全体を任せたり、データ分析から報告書作成までを自動化したりできるようになります。個人事業主や副業者の方なら、ブログ記事の企画から構成、タイトル案の作成までを一貫してAIに任せたり、SNS投稿の企画からスケジュール管理までをサポートしてもらったりといった使い方が考えられます。
+アヤカ: 今すぐ使える話ですか？それとも、まだ様子見すべきですか？
+ハルト: まだ本格的なAIエージェントの普及はこれからですが、その概念を理解し、現在のAIツールで「複数のタスクをまとめて指示する」練習は今すぐできます。例えばChatGPTなどのLLMでも、一度のプロンプトで複数のステップを含む指示を出すことは可能です。
+アヤカ: 具体的には、どんな行動を試せばいいですか？
+ハルト: はい。まずは、自分がいつもAIに頼んでいる作業を振り返ってみてください。その作業を、複数のステップでまとめてAIに指示してみるんです。例えば、「会議の議事録を要約して、その要約を元に次回の議題案を3つ提案してください」とか、「ブログのテーマをいくつか考えて、その中から一つ選んで構成案とタイトル案を5つ作ってください」といった具合です。これを試すことで、AIエージェントが当たり前になる未来への準備ができますよ。
+アヤカ: なるほど、今のAIでもできる範囲で、エージェント的な使い方を試してみるんですね！
+ハルト: 次に、仕事に効くAIニュースです。富士通がイオンでAIを活用した実店舗検証を開始し、AIが店長の仕事をどこまで代われるか検証していると報じられています。
+アヤカ: 店長の仕事って、多岐にわたりますよね。AIがどこまでできるんでしょう？
+ハルト: 本当にそうですね。商品の発注、在庫管理、従業員のシフト作成、売上分析、顧客対応など、店長の業務は非常に複雑です。今回の検証では、AIがこれらの業務の一部、あるいは全体をサポートすることで、店舗運営の効率化や人手不足の解消に繋がる可能性を探っているとされています。
+アヤカ: これは公式発表なんですか？それとも報道ベースですか？
+ハルト: こちらは報道ベースで報じられている内容です。具体的な詳細については、今後の発表に注目したいところですね。
+アヤカ: なぜこのニュースが重要なんですか？
+ハルト: 小売業だけでなく、あらゆる現場業務におけるAI活用の可能性を示しているからです。AIが単なるデータ分析だけでなく、意思決定のサポートや、場合によっては自律的な業務遂行にまで踏み込む可能性を秘めています。これは、現場で働く会社員や個人事業主にとって、自身の業務がどう変化していくかを考える上で非常に重要な指標になります。
+アヤカ: 日本の会社員、副業者、個人事業主にはどう関係しますか？
+ハルト: 現場で働く会社員の方なら、自分の業務の中でAIに任せられる部分はないか、AIと連携することで効率化できる部分はないか、といった視点で日常業務を見直すきっかけになります。例えば、データ入力や集計、簡単な資料作成などは、AIに任せられる部分が多いかもしれません。個人事業主の方なら、店舗運営や顧客管理、マーケティング活動の一部をAIにサポートさせることで、より本質的な業務に集中できる時間が増える可能性があります。
+アヤカ: 今すぐ使える話ですか、それとも様子見すべき話ですか？
+ハルト: 大規模な店舗でのAI導入は、まだ企業レベルでの検証段階なので、すぐに皆さんの職場に導入されるわけではありません。しかし、個人の業務レベルであれば、既存のAIツールを使って「店長の仕事の一部」を試すことは今すぐ可能です。
+アヤカ: 今週できる具体的な行動はありますか？
+ハルト: はい。自分の日常業務の中で、特に時間がかかっているルーティン作業を一つ選んでみてください。例えば、「売上データの集計と簡単な傾向分析」や「顧客からの問い合わせに対するFAQの作成」などです。それをAIに任せられないか、ChatGPTなどのAIツールを使って試してみるんです。AIに「売上データを入力するから、前年比と月次トレンドを分析して、改善点を3つ提案して」といった具体的な指示を出してみることで、AIがどこまでサポートできるか、その可能性を感じられるはずです。
+アヤカ: 自分の業務に置き換えて考えてみるのが大事なんですね！
+ハルト: 続いて、クリエイター・発信者向けのAIニュースです。GoogleがオープンAIモデル「Gemma 4」の大規模改善を発表しました。
+アヤカ: Gemmaって、Googleが提供しているオープンなAIモデルですよね？
+ハルト: その通りです。Gemmaは、Googleが開発した高性能なモデルでありながら、開発者や研究者が比較的自由に利用・カスタマイズできるオープンモデルです。今回の発表は、そのGemma 4が大規模な改善を施されたという内容で、Googleの公式ブログで詳細が公開されています。
+アヤカ: 大規模改善というのは、具体的にどういう点が良くなったんですか？
+ハルト: 一般的に、大規模改善というのは、モデルの性能向上、例えばより複雑な指示を理解できるようになる、より自然な文章を生成できるようになる、処理速度が速くなる、といった点が挙げられます。これにより、Gemmaをベースにしたアプリケーションやサービス開発の可能性がさらに広がることが期待されます。
+アヤカ: なぜこのニュースが重要なんですか？
+ハルト: 高性能なオープンモデルの進化は、特定の企業が提供するAIサービスに依存せず、AIを活用したいクリエイターや開発者にとって非常に重要だからです。費用を抑えつつ、よりカスタマイズ性の高いAI利用が可能になるため、個人のアイデアを形にするハードルが下がります。
+アヤカ: 日本のクリエイター、発信者、副業者にはどう関係しますか？
+ハルト: AIを活用してコンテンツ制作、プログラミング、データ分析を行うクリエイターや個人開発者、副業者の方々にとって、Gemmaのようなオープンモデルは強力な味方になります。例えば、ブログ記事のドラフト作成、SNS投稿文のバリエーション生成、簡単なプログラミングコードの生成、画像生成AIのプロンプト作成補助など、多岐にわたるクリエイティブ活動に活用できます。
+アヤカ: 今すぐ使える話ですか、それとも様子見すべき話ですか？
+ハルト: Gemma 4自体は開発者向けのモデルですが、これをベースにしたツールやサービスは今後増えていくでしょう。現時点でも、Gemmaのようなオープンモデルをローカルで実行できる環境（例えばOllamaなど）を使って、その性能を試すことは今すぐ可能です。
+アヤカ: 今週できる具体的な行動はありますか？
+ハルト: はい。もしあなたがコンテンツクリエイターや発信者であれば、Gemmaのようなオープンモデルをベースにした文章生成ツールや画像生成ツールを一つ選んで、普段のコンテンツ作成に活用してみることをお勧めします。例えば、ブログのタイトル案を10個出してもらったり、SNSの投稿キャプションのアイデアを複数生成してもらったりするんです。オープンモデルは、特定のプラットフォームの規約に縛られにくいというメリットもあるので、ぜひ積極的に試してみてください。
+アヤカ: オープンモデルも選択肢に入れると、表現の幅が広がりそうですね！
+ハルト: 今週の判断です。AIは、質問に答える道具から、仕事の流れを一緒に進める相棒へ近づいています。特に「AIエージェント」という概念が、これからのAI活用の中心になっていくでしょう。
+アヤカ: そうですね。AIに任せられる範囲がどんどん広がっていくのは、本当にワクワクします。
+ハルト: ただし、焦って高額なツールを導入する必要はありません。まずは、今使っているAIツールで、複数のステップをまとめて指示する練習をしてみるのが現実的です。
+アヤカ: 自分の業務を棚卸しして、AIに任せられる部分がないか考える良い機会になりそうですね。
+ハルト: 今週やることは1つだけです。いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。
+アヤカ: 例えば、「会議の議事録を要約して、次回の議題案まで出してもらう」とか、「ブログのテーマを決めて、構成案とタイトル案まで作ってもらう」といった具合ですね。
+ハルト: この番組では、毎週AIニュースを仕事や副業にどう活かすかを整理しています。よければ番組のフォローもお願いします。
+アヤカ: それでは、また来週の週刊AI仕事術でお会いしましょう！
+ハルト: ありがとうございました！
+アヤカ: ありがとうございました！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. AIが「指示待ち」から「任せる」時代へ！今週の週刊AI仕事術では、AIエージェントの本格化に注目。仕事や副業で複数のタスクをAIにまとめて任せる具体的な方法を解説します。 #AI仕事術 #AIエージェント #業務効率化
+2. 富士通がイオンでAI店長を検証中！現場のDX最前線から、あなたの仕事にAIをどう活かすかヒントをお届け。ルーティン業務の自動化、今すぐ試せるAI活用術を深掘り。 #AI活用 #DX #副業AI
+3. Google Gemma 4が大規模改善！オープンAIモデルの進化はクリエイター・副業者必見。コストを抑えてカスタマイズ性の高いAI活用で、コンテンツ制作の幅を広げましょう。 #Gemma #AIクリエイター #オープンAI
+
+【Threads投稿文】
+1. AIが単なる「質問に答える道具」から、複数の仕事をまとめてこなす「相棒」へと進化中！今週のAIニュースで一番注目したのは、AIエージェントの本格化です。これって、私たちが普段AIに頼んでいる作業のやり方を根本的に変える可能性を秘めているんです。例えば、ブログ記事の企画から構成、タイトル案まで一気にAIに任せる、なんてことも夢じゃなくなるかも。まずは今のAIツールで、複数のステップをまとめて指示する練習から始めてみませんか？未来の仕事術を先取りしましょう！
+2. 富士通とイオンがAIで「店長業務」を検証しているニュース、気になりました！お店の運営って本当にやることが多いから、AIがどこまでサポートできるのか興味津々。これは小売業に限らず、私たちの日常業務にも示唆を与えてくれますよね。自分の仕事の中で「これ、AIに任せられたらもっと楽になるのに…」って思うこと、ありませんか？データ集計や簡単な資料作成など、AIに任せられる部分を見つけて、まずは小さく試してみるのがおすすめです。現場の効率化は、きっとあなたの働き方も変えてくれますよ。
+3. GoogleがオープンAIモデルのGemma 4を大規模改善したというニュースも要チェックです！特定の企業に依存せず、自分でAIをカスタマイズして使いたいクリエイターや副業者にとっては、ものすごく大きなチャンス。高性能なAIモデルがもっと身近になることで、コンテンツ制作やプログラミング、データ分析の幅がぐっと広がります。例えば、オリジナリティあふれるブログ記事のドラフト作成や、SNS投稿のバリエーション生成など、アイデア次第で可能性は無限大。ぜひ、オープンモデル系のツールも選択肢に入れて、あなたのクリエイティブを加速させてみてください！
+
+【ショート動画用30秒台本】
+ハルト: AIが「指示待ち」から「任せる」時代へ！
+アヤカ: え、どういうことですか？
+ハルト: これまでのAIは単発の質問に答えるだけでしたが、これからは複数の作業をまとめて自律的にこなす「AIエージェント」が主流になるんです！
+アヤカ: じゃあ、会議の議事録要約から次回の議題案まで、一気にAIに任せられるってことですか？
+ハルト: その通り！ブログの構成案とタイトル案をまとめて作ってもらったり、SNS投稿の企画からスケジュールまで任せたり。
+アヤカ: それは仕事も副業も劇的に変わりそう！
+ハルト: 今週やることは一つ！いつものAI作業を、複数のステップでまとめて指示してみてください。未来のAI仕事術を先取りしましょう！
+
+【エピソードタイトル案】
+1. AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと
+2. 【週刊AI仕事術】エージェントAIが業務効率化を変える未来
+3. 仕事と副業に効く！AIエージェント、店舗AI、オープンモデル最前線
+
+【ニュース出典リンク一覧】
+ニュース名：GoogleがAIモデル「Gemma 4」の大規模改善を発表
+出典名：ITmedia PC USER / Yahoo!ニュース
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bVpCcWlWQmRFTzA4R0REN043MkZMeEtWT2YtRXVLZEVBcGJWSUt6TDZfYVVsVUEzZEZZLXdZcWZaWE1xdVpJYllXS0Z4MlpieXhNZC1uU1ZUNWhFQ2lKN3hvckZEZTdUd2pCdDFKLWRCMGFOVTY1blpleXpFak0?oc=5
+公式発表か報道ベースか：公式発表（GoogleによるGemma 4の改善発表）
+
+ニュース名：上海で世界AI大会 人型ロボットやAIエージェントに注目
+出典名：au Webポータル
+URL：https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cndaSGtUdWdnSjVCMWhzN2U2UDBoVS1uSjhXandvbGpPd0prQUVuWm5jWDVYbzdiUjB5cVNoRExMdWJnTWFNQlZ3WURXQzJlS3diZWlqVS1TMUM1LW9rNWZUWFAwUDZjR0ZIakkzUkJRbjVGU1h5bm5FOA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：クアルコムのシュー・ハオ氏、「AIエージェントスマホ」が集中爆発、端末AIは「受け身の応答」から「自律的なサービス」へ
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTFB3a3lrdE81NDQ0NDRmU0x5Q2trQ1hTaGZKY2FyS3VhR25LaWxGTGQ1Z2dmQmVfRzJndlhUdkZvV3lZbUpxNXJKQ2Q4eEktZ05zVkVHVmtmOVB6TW16MlFlR2NfOWpqSm1SY2VYUG1oYXBFbElt?oc=5
+公式発表か報道ベースか：報道ベース（クアルコム幹部の発言を報じる記事）
+
+ニュース名：1兆Token時代の先へ、AI産業の価値指標は「消費量」から「デイリーアクティブエージェント」へ転換
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9CYUJ0MEd4d2FfaXBCX29PdDBkdzJ4TUtuYjJjNWc5UnhRY25WeEJNVmFGS25MSFZQNjFmRHJIN1k4aVBUcEFDMTRuMlRZNlR5cFRlVmkzMUpxRGs2OHNOdFNlay1MOG1lWnlVNjVzajNaeHpx?oc=5
+公式発表か報道ベースか：報道ベース（AI産業のトレンド分析を報じる記事）
+
+ニュース名：AIは店長の仕事をどこまで代われる？ 富士通がイオンで実店舗検証
+出典名：DXマガジン
+URL：https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2SjVWR3BXNV9KMjloS0pwbXQwcVA5Z28zaWc1U1FObTU3cmlOZW5DV2J2QmhRY0VQczJldTNia3B0S2FiTU9ZaXprNDA?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- 最後の「今週やること」が1つに絞られているか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
+・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
+・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260719_weekly.mp3" length="12231213" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260719_weekly</guid>
+      <pubDate>Sun, 19 Jul 2026 06:38:42 +0900</pubDate>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
+・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
+・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Google AI学習に公開データ活用？仕事と副業に効くAI活用の本質</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
 今週のテーマ：
@@ -1128,26 +1150,6 @@
 • バーチャレクス、次世代ＡＩエージェント「ＣＣ－ＥｘｐＡＩ」チャット版βを公開 - kabu-ir.com
 • OpenAI・アンソロピックら巡る危うい“資金ゲーム”…専門家が警告、IPO最大のリスク - ビジネス+IT</itunes:summary>
       <itunes:episode>20</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月19日</title>
-      <description>今日の話題:
-• SprocketがAI「SproAgent」の「データ分析エージェント」に「仮想ペルソナレビュー」機能追加（Web担当者Forum） - Yahoo!ニュース
-• AIエージェント、RAGを金融機関にも導入 - オフライン動作可能なAI基盤とは - ビジネス+IT
-• サムスンとGoogleAI眼鏡公開 今秋発売へ - CHOSUNBIZ - Chosunbiz
-• OpenClawの開発者が1か月で130万ドル相当のAIトークンを使用し、AI界隈を騒然とさせた - Business Insider Japan
-• NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供 - キーマンズネット</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260519.mp3" length="3822381" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260519</guid>
-      <pubDate>Tue, 19 May 2026 22:23:14 +0000</pubDate>
-      <itunes:duration>03:58</itunes:duration>
-      <itunes:summary>今日の話題:
-• SprocketがAI「SproAgent」の「データ分析エージェント」に「仮想ペルソナレビュー」機能追加（Web担当者Forum） - Yahoo!ニュース
-• AIエージェント、RAGを金融機関にも導入 - オフライン動作可能なAI基盤とは - ビジネス+IT
-• サムスンとGoogleAI眼鏡公開 今秋発売へ - CHOSUNBIZ - Chosunbiz
-• OpenClawの開発者が1か月で130万ドル相当のAIトークンを使用し、AI界隈を騒然とさせた - Business Insider Japan
-• NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供 - キーマンズネット</itunes:summary>
-      <itunes:episode>19</itunes:episode>
     </item>
   </channel>
 </rss>
