@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
+・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
+・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260726_weekly.mp3" length="13458861" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260726_weekly</guid>
+      <pubDate>Sun, 26 Jul 2026 06:42:12 +0900</pubDate>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
+・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
+・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
 今週のテーマ：
@@ -1130,26 +1152,6 @@
 • 生成AIから「AIエージェント」による高度な移行支援と自律稼働へ～Red Hatが伴走する、実用化への最短ルートと内製化への道 - ビジネス+IT
 • Google、AIを悪用したゼロデイ攻撃の証拠を発見 - ギズモード・ジャパン</itunes:summary>
       <itunes:episode>21</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月20日</title>
-      <description>今日の話題:
-• 「Yahoo!ショッピング」の「Yahoo!ショッピングAIエージェント」で「AIおまかせ比較」提供（Web担当者Forum） - Yahoo!ニュース
-• 米エヌビディア、最高益 ＡＩ向け好調で２～４月期 - 山陽新聞デジタル｜さんデジ
-• 「データの一元化 ✕ AI」でパチンコホール業務効率化の「その先」へ - グリーンべると
-• バーチャレクス、次世代ＡＩエージェント「ＣＣ－ＥｘｐＡＩ」チャット版βを公開 - kabu-ir.com
-• OpenAI・アンソロピックら巡る危うい“資金ゲーム”…専門家が警告、IPO最大のリスク - ビジネス+IT</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260520.mp3" length="4365741" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260520</guid>
-      <pubDate>Wed, 20 May 2026 22:29:36 +0000</pubDate>
-      <itunes:duration>04:32</itunes:duration>
-      <itunes:summary>今日の話題:
-• 「Yahoo!ショッピング」の「Yahoo!ショッピングAIエージェント」で「AIおまかせ比較」提供（Web担当者Forum） - Yahoo!ニュース
-• 米エヌビディア、最高益 ＡＩ向け好調で２～４月期 - 山陽新聞デジタル｜さんデジ
-• 「データの一元化 ✕ AI」でパチンコホール業務効率化の「その先」へ - グリーンべると
-• バーチャレクス、次世代ＡＩエージェント「ＣＣ－ＥｘｐＡＩ」チャット版βを公開 - kabu-ir.com
-• OpenAI・アンソロピックら巡る危うい“資金ゲーム”…専門家が警告、IPO最大のリスク - ビジネス+IT</itunes:summary>
-      <itunes:episode>20</itunes:episode>
     </item>
   </channel>
 </rss>

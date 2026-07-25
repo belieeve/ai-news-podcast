@@ -1,0 +1,158 @@
+週刊AI仕事術｜仕事と副業に効くAIニュース 週刊 台本パッケージ  20260726
+========================================
+
+【エピソードタイトル】
+週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向
+
+========================================
+
+【Spotify概要欄】
+1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
+・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
+・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。
+
+========================================
+
+【元になったニュース】
+1. NVIDIAが次世代AI超解像技術「DLSS 5」の今秋投入を明らかに／MicrosoftとMistralが欧州におけるAI演算能力の拡大で戦略的提携を発表（ITmedia PC USER） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRHNGbjZMVE1makRMSzN3UWk5MlpsN2F5UEhkRWdmNG1OVkpDMWJlTm5FVzkxQ3RTdHNEbG5OMm81enpWZVNxUF9sRHdhTGt6UXVDdW9ZLVRaTWNYSDh0dFFJZFlaVmZNLXI4N09RTl9abTJKMHVCbEV0bm1yLUk?oc=5
+2. なぜトヨタはNVIDIAを選んだのか？どの部分で使い、どの部分で使っていないか？事実関係を精密に確認したレポート - オルタナティブ・ブログ（オルタナティブ・ブログ） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ONGJqQXUzM0d1bHNXclNETmhCWXRNT3pUcFg1emluNzUxLWkxdXR3dVVkVmZyYkZuWVZONFNoQjFtSUJvVUEwUXh2N01Lb3lmcWZiV2dybkdFTmRiUl9Hd0stWE1BV1U?oc=5
+3. リングセントラル、OpenAIとのAIネイティブ提携と好調な第2四半期決算で急騰 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9ybEFaTVM2UmRKNzJ2Vy1tbXdjSXRQMWVXcEo3bFFRU2Q2X1EybGtvTElfRGJIYjlHR2hDNWdmcE5lOGVyNFZmZTFZOVVCRnRrekVWYkNZYnBqdjIwWUdNUUJCbU92cjUwcVY4eWhxQU1lRGZh?oc=5
+4. DeepSeekが資金調達を一時停止、創業者発言のネット拡散に反発－関係者 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTFBmSjZ0cE40cUQ4TVFzblI5Y0RoOVdNaDV3TWZkdW1RNUhMMXBRTUo4R1BMSHp1akVGVW81WFJ2d0k3ekFKUjVHR3VfaUdVeDVmWkthdWJob01DXzd3YzYtNFA0aWsyeFNsQno2d2dHeU1fOUl4?oc=5
+5. 李在明氏とアルトマン氏、OpenAI本社で会談…HBM・ファウンドリー協力を協議 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTFBHVVREeXlLVUFIVkxFN3cxMlJDNENSWXZCRFgtSktYRmZMYjV5VnRZOE50cEZ0YTVfbWRrV1NpNHR0UzlVRmY0eE1ZZXhyTW91OWYwbE8xS1VMLUFKVFlOWXlZcEZ3NW01eE13WFBPWlhVR2Rr?oc=5
+6. 日本総研の内川淳社長「業務効率化ではなく、価値創造にAI活用を」 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE1TUWhRSTh2Ni1Cc1ZhdFFDVkpDV04wZGNPdUpGTG5ta0loYS14U19wd0ZQUUdtM1h3SkRtMko1RVBaTjlubXZGc0VEaENyWlBkOW1aczZHU2dyZF9ranBaeVJLNXNUTlVTd3B0Mw?oc=5
+7. XRP Ledger、マスターカードの「検証可能な意図」を統合しAIエージェント決済を強化、取引件数140万件を突破 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE82cjRsaDl3N1RBS1YwTVdsN1BDMFdjWHgyQ3psV0s4RFE0UHA3WUcyWTRpZWpwSjdON25NT1dLMmxDMTkxSVBhNC1iSmhwQUJFSkEza1lxc3Rpb0ZNWnZUc3c4Q1RzQVBXSlVMME43c0tkSmFL?oc=5
+8. SKが最大2GWのVera Rubin基盤、NVIDIAとの協力はHBM4の長期供給まで一体化 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hREhSQmVIbXM4ZzFVS2F5blBrdmstSXVDamFkd3BBWUU3akF4eWdhdUR5dUVUU3JHZ3ZZSXR0OC03QjVFWHdNM0I4REdtc0JRZ21jOWpPbXZGQ2M?oc=5
+9. トヨタとNVIDIAの提携。全ヒストリー・詳細レポート - さっつーのAIエージェント（さっつーのAIエージェント） - https://news.google.com/rss/articles/CBMiYkFVX3lxTE90d28wNjA3Z2N6MDU5TXpjRjdhVzdDUHZkdkNJSEtkWGVxakNnWHR2OUdJUG1kQlREWG5CNTYxdnhSWi13cm5JYU5SeVpYLTd6S1QwMjJmcE5vaGJrdmJPdUVB?oc=5
+10. エヌビディアとSKグループ、次世代データセンターとメモリーで5000億ドル規模のAI提携 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTFA5M21PLXhmdWs4dURUQUdqejNyZ2RfS3l5N2NQQlkwMXB6QXhwRlhzUE5OQm5zY3dfOVktWFVJaGk2VWNkSXk4NnI5ZFZmRk4tc1Q0V3JOX0pTZVdIREIxWllpMkV3WWltcGl4clpqeHhjTGp3?oc=5
+11. Nvidia、KAISTに続きソウル大学とAI共同研究所を設立…韓国工学人材の確保を加速 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNWtNS0Zlb0dLMENiSnJRSV9WSzNzTklhZjFYbEtaaDAyMWdoWHZqVnBXYUpfeWUyWDJmcG1zQWVOak50cm1WWmFxQnhqNUVPVERxMjlBVElwRWptLWNVWjhQWHpHdTktazJLdHJ5MkRCTE5M?oc=5
+12. 【AIニュース】OpenAIから「Sora 2」リリース！現状はアメリカ・カナダのみ提供！Notebook LMに図解機能が追加か！？Suno AIにTikTok的な機能が実装！ Trump Economic Policies Poll (mMPtuVu4wL) - Mshale（Mshale） - https://news.google.com/rss/articles/CBMiYEFVX3lxTE12eHVjZ2d1dVliUTNVeUdRbTdxTFBuTWRmZGFyWWRybzl1enRNWkttWkFRQXFGcXVIaEpXNm9oQ3lnRUk4YllpRnJ3cDFmYTFLb1lJX3M2bVlvZWU5Q3p3TQ?oc=5
+13. Google「AI利用量が1年で7倍に」、エージェントへの投資拡大 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVmg1SUhIY21TRGc3RFdLeTRXTXpZS255cDktSW9QM3U1RENsdkxtcGp1SGVvNFFFb0dIZ01UWkk5dWp1N2JFZVA1QUNRaVRMeE9fMXl5VHlFRVowY2NURXFOMEVtdk5ranJQSQ?oc=5
+14. iPhoneの便利なAI機能 重要な通知、優先表示し見逃さず - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE4wdzBDNnNIUlY2aTRLY0tJSGRMSi1RYkdtbHYwcklKWGxhcENCYlYwMl9ScGJDZllWZU9BOXNPRGRkam81WjRKbDAzcEJIMGNHWGh0b1lEeVl5Yms1WXJIRWNXZnZqRUtZSmE4Mg?oc=5
+15. NVIDIA-SKグループ、約81.9兆円規模の「AI同盟」…データセンター・次世代メモリーを共同構築 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE96aGh6Z3RYT2VpMGJQWXljVTNCNENaZVM1eW10bGxySGhWQWlhNjZGemUzTEdjcTRXTVZlSWtMOFVlVDcyQ0VlTnpJU0p3S0VLUF93dmNMSF9XdDg0N2JIZmdaaUx6VlhZS0JQemdMM09jWS1Q?oc=5
+
+========================================
+
+【掛け合い台本】
+ハルト: おはようございます、ハルトです。
+アヤカ: こんにちは、アヤカです。
+ハルト: 週刊AI仕事術、今週も始まりました。この番組では、1週間のAIニュースの中から、皆さんの仕事や副業に直接役立つ情報だけを厳選して、わかりやすく解説していきます。
+アヤカ: 難しい専門用語は抜きにして、今週何を理解して、何を試せばいいのかをしっかりお伝えしますね。
+ハルト: 今週のAI業界は、まさに「AIが指示待ちから、仕事の流れを一緒に進める相棒へ」というテーマが色濃く出た1週間でした。特に、GoogleがエージェントAIへの投資を拡大しているというニュースは、私たちの働き方を根本から変える可能性を秘めています。
+アヤカ: エージェントAI、気になります！具体的に、今日聴くことでどんなメリットがあるんでしょうか？
+ハルト: 今日の放送を聴けば、AIを単発の質問ツールとして使うだけでなく、もっと複雑な業務を丸ごと任せるためのヒントが見つかるはずです。さらに、動画やグラフィックの制作に関わるクリエイターの方は、最新の技術動向から今後の準備についても理解が深まるでしょう。
+アヤカ: それは楽しみですね！では、早速今週の最重要ニュースからお願いします！
+ハルト: 今週の最重要ニュースは、**GoogleのAI利用量が1年で7倍に増加し、エージェントAIへの投資を拡大している**という話題です。
+アヤカ: 7倍ですか！すごい伸びですね。
+ハルト: はい、これは日本経済新聞が報じたところによると、GoogleのピチャイCEOが明らかにしたとされています。AIの利用が爆発的に増えているだけでなく、特にエージェントAIという方向性に力を入れていることがわかります。
+アヤカ: エージェントAIというのは、この番組でも「AIに単発の質問をするのではなく、複数の作業をまとめて任せる使い方」と説明していますよね。具体的にはどういうことなんでしょうか？
+ハルト: まさにその通りです。これまでのAIは、例えば「この文章を要約して」とか「このテーマでアイデアを出して」といった、単発の指示に対して答えるのが得意でした。しかし、エージェントAIは、例えば「会議の議事録を要約して、さらに次回の議題案まで出して」とか、「ブログのテーマを決めて、構成案とタイトル案まで作って」といったように、複数のステップをまとめて任せられるAIを指します。
+アヤカ: なるほど、より複雑なタスクを丸ごとお願いできるようになるイメージですね。これがなぜ重要なんですか？
+ハルト: なぜ重要かというと、AIが私たちの働き方を根本から変える可能性を秘めているからです。AIが単発の作業だけでなく、一連の業務プロセス全体をサポートできるようになることで、私たちはルーティンワークから解放され、より創造的で戦略的な仕事に集中できるようになります。Googleのような巨大企業がこの分野に大規模な投資をしているということは、この流れが今後さらに加速する証拠と言えるでしょう。
+アヤカ: それは会社員にとっても、個人事業主にとっても、すごく大きな変化になりそうですね。誰に関係する話ですか？
+ハルト: AIを仕事や副業に活用したいと考えている全ての会社員、個人事業主、クリエイターの皆さんに関係します。特に、日常業務の効率化や、複数のステップを伴うタスクをAIに任せたいと考えている方には、エージェントAIの活用が必須になっていくでしょう。
+アヤカ: これは今すぐ使える話ですか？それとも、まだ様子見でいいんでしょうか？
+ハルト: これは「今すぐ試すべき話」です。Googleが投資を拡大しているということは、今後さらに使いやすくなることが期待されますが、今のうちからその使い方に慣れておくことが重要です。既存のAIツールでも、プロンプトの工夫次第で、複数のステップを指示するエージェント的な使い方は十分に可能ですからね。
+アヤカ: 具体的に、私たちの仕事や副業にどう使えるのか教えてください。
+ハルト: はい。例えば、会社員の方であれば、会議の議事録をAIに要約してもらい、さらにその内容から次回の会議で話し合うべき議題案を3つ提案してもらうといった使い方です。これで、議事録作成と次のアクションの準備までを一気に進められます。
+アヤカ: 議事録の要約だけでなく、次の会議の準備までAIが手伝ってくれるのはすごく助かりますね！
+ハルト: そうなんです。個人事業主や副業をしている方なら、ブログ記事のテーマをAIに伝えて、構成案とタイトル案を複数作ってもらう。さらに、その構成案に基づいて、導入部分の原稿まで執筆してもらうといった活用が考えられます。企画から執筆の初期フェーズまでをAIに任せられるわけです。
+アヤカ: ゼロから考える手間が省けて、大幅に時間短縮になりそうですね。クリエイターやSNS発信者の方だとどうですか？
+ハルト: 特定のイベントやキャンペーンに合わせて、SNSの投稿案を複数生成し、さらに最適な投稿時間やハッシュタグの提案までAIに依頼する。これで、コンテンツ企画から運用までの一部を効率化できます。AIを単なるツールとしてではなく、まるで有能なアシスタントのように使いこなすイメージですね。
+アヤカ: なるほど、AIが私たちの「相棒」になってくれる未来がもう来ているんですね。
+ハルト: 続いて、仕事に効くAIニュースです。**NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入すると発表しました。**
+アヤカ: NVIDIAのDLSS、ゲームで画質を向上させる技術ですよね。それがさらに進化するんですか？
+ハルト: はい、その通りです。NVIDIAが公式に発表した情報によると、「DLSS」という技術の次世代版、「DLSS 5」を今秋に投入するとのことです。DLSSは、AIを使ってゲームの映像を低解像度でレンダリングし、それをAIで高解像度化することで、画質を維持しつつフレームレートを向上させる技術です。これにより、より滑らかで美しい映像体験が可能になります。
+アヤカ: それが「5」になったらどうなるんでしょう？
+ハルト: なぜ重要なのかというと、この技術は単にゲームの画質を上げるだけでなく、AIによる画像・映像品質向上がさらに進化していることを示しているからです。将来的には、ゲーム以外の動画編集や画像処理、さらにはメタバースのようなクリエイティブ分野全般に影響を与える可能性があります。高品質なコンテンツ制作の効率化に繋がる重要な技術革新と言えます。
+アヤカ: ゲームをしない人にはあまり関係ない話かと思っていましたが、そうではないんですね。誰に関係するニュースですか？
+ハルト: もちろん、PCゲーマーやゲーム開発者には直接関係しますが、それだけでなく、動画クリエイター、グラフィックデザイナー、そして将来的にリアルタイムレンダリングを扱う可能性のある全ての人に関係してきます。AIによる高品質な画像・映像生成の基盤技術が進化することで、私たちのコンテンツ制作のあり方も変わっていくでしょう。
+アヤカ: これは今すぐ使える話ですか、それとも様子見ですか？
+ハルト: これは「様子見すべき話」という側面が強いです。今秋投入と発表されたばかりなので、今すぐ皆さんが使えるようになるわけではありません。ただし、NVIDIA製のGPUを使っているクリエイターや、今後PCのアップグレードを検討している方は、この技術の動向を注視し、アップデートに備える価値は十分にあります。
+アヤカ: なるほど。では、仕事や副業にどう使える可能性があるんでしょう？
+ハルト: 将来的に、DLSSのような技術が動画編集ソフトウェアや画像処理ツールにさらに深く統合されれば、高品質な映像コンテンツをより少ないレンダリング時間で作成できるようになる可能性があります。例えば、高画質の動画を制作する際のPCの負荷が軽減され、作業効率が向上したり、より少ないリソースでリッチなコンテンツを作成できるようになるかもしれません。
+アヤカ: それは動画編集でPCが重くて困っている人には朗報ですね。副業でYouTubeをやっている人なんかにも影響がありそうです。
+ハルト: ええ。また、メタバースやVR/ARコンテンツ開発といった、リアルタイムレンダリングが重要となる分野では、DLSS 5のような技術が普及することで、よりリアルで没入感のある体験を、より多くのユーザーに提供できるようになるかもしれません。
+アヤカ: 今はまだ直接使えなくても、今後のクリエイティブな仕事の可能性を広げる技術なんですね。
+ハルト: 続いて、クリエイター・発信者向けのAIニュースです。**OpenAIから動画生成AIの「Sora 2」がリリースされたと報じられています。ただし、現状はアメリカ・カナダのみ提供とされています。**
+アヤカ: Sora 2ですか！Soraの動画は本当にリアルで驚きましたけど、もう次世代版が出たんですか！
+ハルト: はい、Mshaleという情報サイトの報道によると、OpenAIの動画生成AI「Sora」の次世代版「Sora 2」がリリースされたとされています。ただし、これはまだ公式発表ではなく、報道ベースの情報であることに注意が必要です。そして、現時点ではアメリカとカナダのみの提供とされています。
+アヤカ: まだ報道ベースなんですね。でも、Soraの進化は本当に速いですね。なぜこのニュースが重要なんですか？
+ハルト: なぜ重要かというと、動画生成AIの進化の速さと、その品質の高さが、クリエイターの働き方を大きく変える可能性を秘めているからです。Soraは、テキストから非常に高品質な動画を生成できることで世界的に注目されています。その次世代版となると、さらに表現力や生成速度、コントロール性が向上していることが期待されます。これは将来的に動画コンテンツ制作の民主化を加速させるでしょう。
+アヤカ: 誰に関係ある話ですか？
+ハルト: 動画クリエイター、映像制作者、SNSで動画を発信している方、コンテンツマーケター、そして副業で動画コンテンツの制作を考えている全ての人に関係します。将来的に、プロモーション動画やSNS向けのショート動画などを、より手軽に、より高品質に作れるようになるかもしれません。
+アヤカ: 日本ではまだ使えないということですが、これは今すぐ使える話ですか、それとも様子見すべき話ですか？
+ハルト: 現状は日本で利用できないため、「様子見すべき話」が妥当です。焦って何かを試す必要はありません。しかし、情報収集を続け、利用可能になった際にすぐに試せる準備をしておくことが重要です。
+アヤカ: 今から準備できることってありますか？
+ハルト: はい。仕事や副業にどう使えるかという点で言えば、将来的にSora 2のような動画生成AIが一般に開放されれば、動画コンテンツ制作の時間とコストを大幅に削減できる可能性があります。例えば、ブログ記事の補完動画や、SNSで使う短いプロモーション動画などを、テキストから簡単に生成できるようになるでしょう。
+アヤカ: アイデア出しや構成作成の部分でAIを活用して、さらに動画生成もAIに任せられるようになれば、個人でも本格的な動画コンテンツが作れるようになりそうですね。
+ハルト: その通りです。簡単なアニメーション制作や、動画の初期段階のプロトタイプ作成などにも活用できるかもしれません。今はまだ遠い話に聞こえるかもしれませんが、こうした技術が手の届く範囲に来る日もそう遠くはないでしょう。
+ハルト: 今週の判断です。AIは、質問に答える道具から、仕事の流れを一緒に進める相棒へ、確実に近づいています。GoogleのエージェントAIへの投資拡大は、まさにその流れを加速させるものです。
+アヤカ: そして、NVIDIAのDLSS 5やOpenAIのSora 2といった技術は、クリエイティブな分野において、AIが私たちの表現力をどこまで広げてくれるのか、未来を感じさせてくれますね。
+ハルト: 焦って全てを追いかける必要はありませんが、こうした大きな流れを理解し、自分の仕事や副業にどう活かせるかを考える視点を持つことが大切です。
+アヤカ: 今週やることは1つだけです。
+ハルト: いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。例えば、会議メモをAIに貼って3行で要約させ、さらに次回の会議で話し合うべき議題を3つ提案させる。あるいは、ブログ記事のテーマをAIに伝えて、構成案とタイトル案を複数作ってもらう、というように。
+アヤカ: この番組では、毎週AIニュースを仕事や副業にどう活かすかを整理しています。よければ番組のフォローもお願いします。
+ハルト: それでは、また来週の週刊AI仕事術でお会いしましょう。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 【週刊AI仕事術】GoogleがエージェントAIに本腰！AI利用が1年で7倍に急増。AIは「指示待ち」から「任せる相棒」へ進化中。あなたの仕事も劇的に変わるかも？今週の最重要ニュースを解説！ #AI仕事術 #副業AI
+2. クリエイター必見！NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入へ。さらにOpenAIの「Sora 2」もリリース報道。動画・画像制作の未来が加速！今から注目すべきポイントとは？ #AIクリエイター #動画生成AI
+3. AIニュース、多すぎて追いきれないあなたへ。今週のAI仕事術では、GoogleのエージェントAI、NVIDIAのDLSS 5、Sora 2を厳選解説。今すぐ試せる「AIへの任せ方」も提案します！ #AI活用 #業務効率化
+
+【Threads投稿文】
+1. こんにちは！今週のAIニュースは、まさに「AIが私たちの相棒になる」未来を予感させる内容ばかりでしたね。GoogleがエージェントAIに大規模な投資をしているという話は、AIが単なる質問箱ではなく、もっと複雑なタスクをこなしてくれるようになる、ということ。私たち会社員や個人事業主にとって、これはルーティン業務から解放される大きなチャンス。AIに「これとあれと、ついでにそれもやっておいて」と頼める日がもうすぐそこに来ていると思うとワクワクします！今から「任せる練習」を始めるのが吉ですよ。
+2. クリエイターの皆さん、AIの進化は本当に止まりませんね！NVIDIAのDLSS 5はゲームだけでなく、高品質な映像制作の効率を爆上げする可能性を秘めています。そして、OpenAIのSora 2のリリース報道！テキストからリアルな動画が作れる技術が、さらに進化しているなんて驚きです。まだ日本で使えるわけではないけれど、将来的に動画編集の常識が変わることは間違いなさそう。今のうちに情報収集して、いざという時のために準備しておきましょう！あなたのクリエイティブがAIでどこまで広がるか、楽しみです。
+3. 毎週AIニュースを追うのは大変だけど、仕事や副業にどう活かすかは知りたい…そんなあなたに朗報です！今週の「週刊AI仕事術」では、そんな悩みを解決する情報だけを厳選しました。特にGoogleのエージェントAIの話は、AIを「もっと賢く、もっと幅広く」使うためのヒントが満載。会議の議事録から次回の議題案までAIに任せる、なんてことも夢じゃありません。今週はぜひ、AIに複数のタスクをまとめて指示する練習をしてみてください。きっと新しい発見があるはず！
+
+【ショート動画用30秒台本】
+ハルト: AIはもう「質問に答えるだけ」じゃない！
+アヤカ: え、どういうことですか？
+ハルト: GoogleがエージェントAIに投資拡大！AIが複数のタスクをまとめてこなす「あなたの相棒」になる時代が来ています！
+アヤカ: すごい！会議の議事録作成から次回の議題案まで、AIにお任せできるってことですか？
+ハルト: そうなんです！さらにNVIDIAのDLSS 5やOpenAIのSora 2も進化中。クリエイターの表現力が爆上がりする未来がすぐそこに！
+アヤカ: 今週やることは？
+ハルト: AIに複数の作業をまとめて指示する練習をしてみましょう！
+アヤカ: 週刊AI仕事術、フォローしてね！
+
+【エピソードタイトル案】
+1. 週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向
+2. AI利用7倍！Googleのエージェント進化とNVIDIAのDLSS 5が拓く未来
+3. 仕事と副業に効くAIニュース：Googleエージェント、NVIDIA DLSS 5、Sora 2の今
+
+【ニュース出典リンク一覧】
+ニュース名：NVIDIAが次世代AI超解像技術「DLSS 5」の今秋投入を明らかに／MicrosoftとMistralが欧州におけるAI演算能力の拡大で戦略的提携を発表
+出典名：ITmedia PC USER - Yahoo!ニュース
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRHNGbjZMVE1makRMSzN3UWk5MlpsN2F5UEhkRWdmNG1OVkpDMWJlTm5FVzkxQ3RTdHNEbG5OMm81enpWZVNxUF9sRHdhTGt6UXVDdW9ZLVRaTWNYSDh0bFFJZFlaVmZNLXI4N09RTl9abTJKMHVCbEV0bm1yLUk?oc=5
+公式発表か報道ベースか：公式発表（NVIDIAの発表を報じている）
+
+ニュース名：Google「AI利用量が1年で7倍に」、エージェントへの投資拡大
+出典名：日本経済新聞
+URL：https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVmg1SUhIY21TRGc3RFdLeTRXTXpZS255cDktSW9QM3U1RENsdkxtcGp1SGVvNFFFb0dIZ01UWkk5dWp1N2JFZVA1QUNRaVRMeE9fMXl5VHlFRVowY2NURXFOMEVtdk5ranJQSQ?oc=5
+公式発表か報道ベースか：報道ベース（CEOの発言を報じている）
+
+ニュース名：【AIニュース】OpenAIから「Sora 2」リリース！現状はアメリカ・カナダのみ提供！Notebook LMに図解機能が追加か！？Suno AIにTikTok的な機能が実装！ Trump Economic Policies Poll (mMPtuVu4wL)
+出典名：Mshale
+URL：https://news.google.com/rss/articles/CBMiYAFVX3lxTE12eHVjZ2d1dVliUTNVeUdRbTdxTFBuTWRmZGFyWWRybzl1enRNWkttWkFRQXFGcXVIaEpXNm9oQ3lnRUk4YllpRnJ3cDFmYTFLb1lJX3M2bVlvZWU5Q3p3TQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。: OK
+- 報道ベースの内容を「発表しました」と言っていないか。: OK
+- 未公開モデルや政府要請を断定していないか。: OK (Sora 2は報道ベースで、日本未提供を明記)
+- セキュリティや機密データを「安全」と言い切っていないか。: OK (該当ニュースなし)
+- 強すぎる断定や煽り表現がないか。: OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK (Sora 2は日本未提供を明記)
+- 最後の「今週やること」が1つに絞られているか。: OK
+- 最後に同じ内容を繰り返していないか。: OK
+- 番組フォローへの導線が自然に入っているか。: OK
+- 出典リンク一覧があるか。: OK
+
+========================================
+
