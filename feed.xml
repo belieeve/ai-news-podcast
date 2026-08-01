@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AI利用料激減の衝撃！エージェントAIで仕事はこう変わる</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AI利用料が激減！エージェントAIで仕事が変わる未来
+・AI活用でシニア層が無双状態？若手との差を埋めるには
+・AI生成物、著作権侵害の判断！クリエイターが注意すべきこと
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260802_weekly.mp3" length="13383981" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260802_weekly</guid>
+      <pubDate>Sun, 02 Aug 2026 06:42:13 +0900</pubDate>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AI利用料が激減！エージェントAIで仕事が変わる未来
+・AI活用でシニア層が無双状態？若手との差を埋めるには
+・AI生成物、著作権侵害の判断！クリエイターが注意すべきこと
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
 今週のテーマ：
@@ -1132,26 +1154,6 @@
 • AI規制の大統領令発表をドタキャンしたトランプ大統領、ホワイトハウスを引き裂く規制派vs規制反対派の暗闘 【生成AI事件簿】MAGA、安全保障派、シリコンバレーが争うフロンティアAI規制、サイバー安全保障と対中競争に揺れるAI政策 - JBpress
 • ECのAI導入効果を無料診断｜ModaAI『 ROIシミュレーター 』機能を提供開始 - ニコニコニュース</itunes:summary>
       <itunes:episode>22</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月21日</title>
-      <description>今日の話題:
-• NVIDIA、Vera CPUで“次の成長軸”へ 中国ではHuawei台頭、事業構造も再編｜Semiconductor Geek - note
-• OpenAIとDellがCodex提携。オンプレミスでAIエージェント運用へ - tech-noisy.com
-• AIエージェントが再定義するシステム投資の未来 ULSコンサルティング株式会社取締役副社長桜井 賢一 氏 - ビジネス+IT
-• 生成AIから「AIエージェント」による高度な移行支援と自律稼働へ～Red Hatが伴走する、実用化への最短ルートと内製化への道 - ビジネス+IT
-• Google、AIを悪用したゼロデイ攻撃の証拠を発見 - ギズモード・ジャパン</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260521.mp3" length="3790893" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260521</guid>
-      <pubDate>Thu, 21 May 2026 22:27:42 +0000</pubDate>
-      <itunes:duration>03:56</itunes:duration>
-      <itunes:summary>今日の話題:
-• NVIDIA、Vera CPUで“次の成長軸”へ 中国ではHuawei台頭、事業構造も再編｜Semiconductor Geek - note
-• OpenAIとDellがCodex提携。オンプレミスでAIエージェント運用へ - tech-noisy.com
-• AIエージェントが再定義するシステム投資の未来 ULSコンサルティング株式会社取締役副社長桜井 賢一 氏 - ビジネス+IT
-• 生成AIから「AIエージェント」による高度な移行支援と自律稼働へ～Red Hatが伴走する、実用化への最短ルートと内製化への道 - ビジネス+IT
-• Google、AIを悪用したゼロデイ攻撃の証拠を発見 - ギズモード・ジャパン</itunes:summary>
-      <itunes:episode>21</itunes:episode>
     </item>
   </channel>
 </rss>
