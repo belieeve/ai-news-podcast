@@ -41,25 +41,25 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # MC名（固定）
-MC_A = "ハルト"   # メインMC（男性）
-MC_B = "アヤカ"   # サブMC（女性）
+MC_A = "リナ"   # メインMC（お姉ギャル）
+MC_B = "モモ"   # サブMC（ハイテンションギャル）
 
 # Edge-TTS 音声（日本語）
-TTS_VOICE_A = "ja-JP-KeitaNeural"    # 男性（ハルト）
-TTS_VOICE_B = "ja-JP-NanamiNeural"   # 女性（アヤカ）
-TTS_RATE_A = "+3%"
-TTS_RATE_B = "+7%"
-TTS_PITCH_A = "-5Hz"
-TTS_PITCH_B = "+10Hz"
+TTS_VOICE_A = "ja-JP-NanamiNeural"   # 女性（リナ）※Edge-TTSの日本語女性はNanamiのみ。2人はピッチ・速度で差別化
+TTS_VOICE_B = "ja-JP-NanamiNeural"   # 女性（モモ）
+TTS_RATE_A = "+2%"
+TTS_RATE_B = "+10%"
+TTS_PITCH_A = "-6Hz"
+TTS_PITCH_B = "+18Hz"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
-PODCAST_TITLE = "毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ"
-PODCAST_DESCRIPTION = "AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。海外やSNSで今話題になっていることを、毎朝10分でまとめてお届けします。"
-PODCAST_AUTHOR = "ハルト＆アヤカ"
+PODCAST_TITLE = "リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ"
+PODCAST_DESCRIPTION = "AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。ギャルMC2人のリナとモモが、今話題になっていることを毎朝10〜15分でゆるっと楽しくお届けします。"
+PODCAST_AUTHOR = "リナ＆モモ"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"
 PODCAST_CATEGORY = "Technology"
-PODCAST_IMAGE = "artwork_v2.jpg"
+PODCAST_IMAGE = "artwork_v4.jpg"
 
 # GitHub Pages
 GITHUB_PAGES_REPO_PATH = os.getenv("GITHUB_PAGES_REPO_PATH", "")
@@ -67,7 +67,7 @@ GITHUB_PAGES_URL = os.getenv("GITHUB_PAGES_URL", "")
 
 # エピソード管理
 MAX_EPISODES = 50
-MAX_SCRIPT_CHARS = 7000  # デイリー台本は2,600〜3,600文字が目安（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
+MAX_SCRIPT_CHARS = 7000  # デイリー台本は3,500〜4,800文字が目安（Edge-TTS日本語ボイスで概ね5〜6文字/秒＝10〜15分）
 
 # 発音・イントネーション補正辞書
 # Edge-TTSが固有名詞を誤読する場合、ここに「元の表記 → TTSが正しく読む表記」を追加。
