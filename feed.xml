@@ -3,42 +3,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ</title>
+    <title>リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ</title>
     <link>https://belieeve.github.io/ai-news-podcast</link>
     <language>ja</language>
-    <description>AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。海外やSNSで今話題になっていることを、毎朝10分でまとめてお届けします。</description>
-    <itunes:author>ハルト＆アヤカ</itunes:author>
+    <description>AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。ギャルMC2人のリナとモモが、今話題になっていることを毎朝10〜15分でゆるっと楽しくお届けします。</description>
+    <itunes:author>リナ＆モモ</itunes:author>
     <itunes:owner>
-      <itunes:name>ハルト＆アヤカ</itunes:name>
+      <itunes:name>リナ＆モモ</itunes:name>
       <itunes:email>believe.spotify33@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
-    <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg" />
+    <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork_v4.jpg" />
     <image>
-      <url>https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg</url>
-      <title>毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ</title>
+      <url>https://belieeve.github.io/ai-news-podcast/artwork_v4.jpg</url>
+      <title>リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ</title>
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
-      <title>AIウォレット解禁で自律進化へ！AppleとOpenAIの法廷闘争、キングダム大ヒットの秘訣</title>
+      <title>AIがお金を使う時代到来!? クラウドフレアが「AI財布」発表で未来爆速！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
-・CloudflareがAIエージェント専用ウォレットを発表
-・OpenAI、Appleの提訴に全面反論
-・AIが27年眠っていたソフトウェアの脆弱性を発見
-・邦画実写『キングダム』シリーズが大ヒット</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260805_daily.mp3" length="9711021" type="audio/mpeg" />
+・クラウドフレアがAIエージェント専用のウォレット機能を発表！
+・OpenAIがAppleの著作権侵害訴訟に全面反論！
+・AIを支える半導体産業に「異次元の投資合戦」が勃発！
+・企業向けAI導入の鍵「マルチエージェント」成功の5ステップ！
+・邦画実写No.1ヒット『キングダム』人気の秘密を徹底解剖！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260805_daily.mp3" length="13115949" type="audio/mpeg" />
       <guid isPermaLink="false">episode_20260805_daily</guid>
-      <pubDate>Wed, 05 Aug 2026 07:54:43 +0900</pubDate>
-      <itunes:duration>10:06</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 08:13:45 +0900</pubDate>
+      <itunes:duration>13:39</itunes:duration>
       <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
-・CloudflareがAIエージェント専用ウォレットを発表
-・OpenAI、Appleの提訴に全面反論
-・AIが27年眠っていたソフトウェアの脆弱性を発見
-・邦画実写『キングダム』シリーズが大ヒット</itunes:summary>
+・クラウドフレアがAIエージェント専用のウォレット機能を発表！
+・OpenAIがAppleの著作権侵害訴訟に全面反論！
+・AIを支える半導体産業に「異次元の投資合戦」が勃発！
+・企業向けAI導入の鍵「マルチエージェント」成功の5ステップ！
+・邦画実写No.1ヒット『キングダム』人気の秘密を徹底解剖！</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
     <item>
