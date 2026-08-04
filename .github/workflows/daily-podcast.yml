@@ -1,18 +1,18 @@
-name: 今週のAI仕事術 - 毎週自動配信
+name: 毎朝トレンドラジオ - 毎日自動配信
 
 on:
   schedule:
-    # 毎週日曜日 6:00 AM JST = 毎週土曜日 21:00 UTC
-    - cron: '0 21 * * 6'
+    # 毎日 6:00 AM JST = 前日 21:00 UTC
+    - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       slot:
         description: 'Episode slot'
         required: true
-        default: 'weekly'
+        default: 'daily'
         type: choice
         options:
-          - weekly
+          - daily
       publish_now:
         description: 'Publish evening immediately instead of using the evening publish-time guard'
         required: false
@@ -55,7 +55,7 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             SLOT="${{ github.event.inputs.slot }}"
           else
-            SLOT="weekly"
+            SLOT="daily"
           fi
           EXTRA_ARGS=""
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.publish_now }}" = "true" ]; then

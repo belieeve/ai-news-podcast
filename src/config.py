@@ -1,4 +1,4 @@
-"""週刊AI仕事術 - 設定ファイル"""
+"""毎朝トレンドラジオ - 設定ファイル"""
 import os
 from pathlib import Path
 from dotenv import load_dotenv
@@ -14,17 +14,25 @@ RSS_FILE = OUTPUT_DIR / "feed.xml"
 LOG_DIR = PROJECT_ROOT / "logs"
 
 # Google News（日本語）
+# AIを軸に、マーケティング・ビジネス・エンタメ・SNSトレンドまで幅広く拾う
 NEWS_QUERIES = [
-    # AIツール・サービス
+    # AI（番組の軸）
     "ChatGPT 新機能", "Claude AI 最新", "Gemini 最新",
-    "Copilot 最新", "Perplexity AI", "NotebookLM",
-    "Midjourney", "Stable Diffusion 最新", "Suno AI", "Runway AI",
-    # AI業界
-    "OpenAI", "Anthropic", "Google AI", "Apple AI",
-    "Meta AI", "NVIDIA AI", "Microsoft AI",
-    # トレンド
-    "生成AI 新サービス", "AIエージェント", "無料 AIツール",
-    "AI 業務効率化", "AI スタートアップ 資金調達", "AIアプリ 話題",
+    "OpenAI", "Anthropic", "生成AI 新サービス",
+    "AIエージェント", "AIツール 話題", "AI 業務効率化",
+    "AI スタートアップ 資金調達",
+    # マーケティング・ビジネス
+    "マーケティング 話題", "SNSマーケティング 事例",
+    "広告 キャンペーン 話題", "ヒット商品 なぜ",
+    "スタートアップ 新サービス 発表", "ビジネス トレンド",
+    # エンタメ
+    "Netflix 話題 作品", "映画 ヒット 興行収入",
+    "アニメ 話題", "音楽 ヒット 話題",
+    "ゲーム 新作 話題", "YouTube 話題",
+    # SNS・トレンド全般
+    "SNS バズ 話題", "TikTok 流行",
+    "X トレンド 話題", "海外 話題 バズ",
+    "Z世代 流行",
 ]
 MAX_ARTICLES = 15
 
@@ -45,8 +53,8 @@ TTS_PITCH_A = "-5Hz"
 TTS_PITCH_B = "+10Hz"
 
 # Podcast メタデータ（Spotify for Podcasters と一致させる）
-PODCAST_TITLE = "週刊AI仕事術｜仕事と副業に効くAIニュース"
-PODCAST_DESCRIPTION = "1週間のAIニュースから、仕事と副業に効く話だけを解説します。"
+PODCAST_TITLE = "毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ"
+PODCAST_DESCRIPTION = "AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。海外やSNSで今話題になっていることを、毎朝10分でまとめてお届けします。"
 PODCAST_AUTHOR = "ハルト＆アヤカ"
 PODCAST_EMAIL = "believe.spotify33@gmail.com"
 PODCAST_LANGUAGE = "ja"
@@ -59,7 +67,7 @@ GITHUB_PAGES_URL = os.getenv("GITHUB_PAGES_URL", "")
 
 # エピソード管理
 MAX_EPISODES = 50
-MAX_SCRIPT_CHARS = 7000  # 4000〜6000文字の週刊台本に対応（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
+MAX_SCRIPT_CHARS = 7000  # デイリー台本は2,600〜3,600文字が目安（Edge-TTS日本語ボイスで概ね5〜6文字/秒）
 
 # 発音・イントネーション補正辞書
 # Edge-TTSが固有名詞を誤読する場合、ここに「元の表記 → TTSが正しく読む表記」を追加。

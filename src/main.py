@@ -1,6 +1,7 @@
-"""AI News Podcast - メインスクリプト
+"""毎朝トレンドラジオ - メインスクリプト
 
-毎週日曜日朝にAIニュースを収集し、Podcast音声を生成してRSS配信する。
+毎朝、AI・ビジネス・エンタメ・SNSのトレンドニュースを収集し、
+Podcast音声を生成してRSS配信する。
 """
 from __future__ import annotations
 
@@ -8,7 +9,7 @@ import os
 import re
 import sys
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -25,10 +26,10 @@ from tts_generator import generate_audio
 JST = ZoneInfo("Asia/Tokyo")
 
 EPISODE_SLOTS = {
-    "weekly": {
-        "label": "週刊",
-        "show_name": "週刊AI仕事術｜仕事と副業に効くAIニュース",
-        "filename_suffix": "weekly",
+    "daily": {
+        "label": "デイリー",
+        "show_name": PODCAST_TITLE,
+        "filename_suffix": "daily",
     }
 }
 
@@ -131,15 +132,15 @@ def save_script(
 
 
 def parse_slot(argv: list[str]) -> str:
-    """--slot weekly を読み取る。未指定時は週刊扱い。"""
+    """--slot daily を読み取る。未指定時はデイリー扱い。"""
     if "--slot" not in argv:
-        return "weekly"
+        return "daily"
     idx = argv.index("--slot")
     if idx + 1 >= len(argv):
-        raise ValueError("--slot requires weekly")
+        raise ValueError("--slot requires daily")
     slot = argv[idx + 1]
     if slot not in EPISODE_SLOTS:
-        raise ValueError(f"Unknown slot: {slot}. Use weekly.")
+        raise ValueError(f"Unknown slot: {slot}. Use daily.")
     return slot
 
 
@@ -167,6 +168,16 @@ def load_used_article_titles(date_str: str, filename_suffix: str) -> list[str]:
     return titles
 
 
+def load_recent_article_titles(now: datetime, days: int = 3) -> list[str]:
+    """直近数日の放送で扱ったニュースタイトルを集め、翌日以降の重複を防ぐ。"""
+    titles: list[str] = []
+    for delta in range(1, days + 1):
+        date_str = (now - timedelta(days=delta)).strftime("%Y%m%d")
+        for suffix in ("daily", "weekly"):
+            titles.extend(load_used_article_titles(date_str, suffix))
+    return titles
+
+
 def script_text_length(script: list[tuple[str, str]]) -> int:
     """台本文字数を数える。話者名は除外し、実際に読まれる本文だけを見る。"""
     return sum(len(line.strip()) for _, line in script)
@@ -174,14 +185,14 @@ def script_text_length(script: list[tuple[str, str]]) -> int:
 
 def is_script_plausible(script: list[tuple[str, str]], slot: str) -> bool:
     """放送として成立しない短すぎる台本を弾く。"""
-    min_lines = 40
-    min_chars = 3800
+    min_lines = 25
+    min_chars = 2300  # デイリー台本の目安2,600〜3,600文字に対する下限
     return len(script) >= min_lines and script_text_length(script) >= min_chars
 
 
 def is_audio_duration_plausible(duration_sec: float, slot: str) -> bool:
     """公開してよい最低限の音声尺かを見る。短すぎる音声はRSSに載せない。"""
-    min_duration = 720  # 最低12分
+    min_duration = 360  # 最低6分（デイリーの目安は8〜12分）
     return duration_sec >= min_duration
 
 
@@ -232,25 +243,25 @@ def _news_body_lines(script: list[tuple[str, str]]) -> list[str]:
     """ラインナップではなく、各ニュースの解説に当たる本文部分を抜き出す。"""
     texts = [line for _, line in script]
     start_markers = (
+        "今日の注目ニュース",
+        "注目ニュース",
         "まず一つ目のニュース",
         "一つ目のニュース",
         "最初のニュース",
+        "最初の話題",
+        "一つ目の話題",
         "まず一つ目",
         "1つ目のニュース",
-        "最重要ニュース",
-        "重要ニュース",
-        "仕事に効くAIニュース",
-        "仕事に効く",
-        "副業・個人ビジネス",
-        "副業に効く",
-        "クリエイター・発信者",
-        "クリエイター向け",
+        "AIの話題",
+        "ビジネスの話題",
+        "マーケの話題",
+        "エンタメの話題",
+        "SNSの話題",
     )
     end_markers = (
-        "さて、今週のニュース",
-        "今週のニュースを振り返",
-        "今週の判断",
-        "今週やること",
+        "今日のまとめ",
+        "今日をひとことでまとめ",
+        "また明日",
         "それではまた",
         "本日もそろそろ",
         "クロージング",
@@ -273,8 +284,8 @@ def has_substantial_news_body(script: list[tuple[str, str]], articles: list[dict
     """オープニング・エンディングだけの放送をRSS掲載前に止める。"""
     body_lines = _news_body_lines(script)
     body_text = "\n".join(body_lines)
-    min_body_lines = 30
-    min_body_chars = 3000
+    min_body_lines = 18
+    min_body_chars = 1800
 
     if len(body_lines) < min_body_lines or len(body_text) < min_body_chars:
         logging.getLogger(__name__).error(
@@ -309,14 +320,11 @@ def main():
     now = datetime.now(JST)
     today = now.strftime("%Y%m%d")
     episode_filename = f"episode_{today}_{slot_config['filename_suffix']}.mp3"
-    exclude_titles: list[str] = []
 
-    if slot == "evening":
-        exclude_titles = load_used_article_titles(today, EPISODE_SLOTS["morning"]["filename_suffix"])
-        if exclude_titles:
-            logger.info("朝刊で扱ったニュースを夕刊から除外: %d件", len(exclude_titles))
-        else:
-            logger.info("朝刊のニュース一覧が見つからないため、夕刊の既出除外はスキップ")
+    # 直近3日の放送で扱ったニュースは候補から除外する（毎日配信の重複対策）
+    exclude_titles = load_recent_article_titles(now, days=3)
+    if exclude_titles:
+        logger.info("直近の放送で扱ったニュースを除外: %d件", len(exclude_titles))
 
     # 重複実行防止
     if (AUDIO_DIR / episode_filename).exists():
@@ -326,7 +334,7 @@ def main():
     # Step 1: ニュース収集
     logger.info("=" * 50)
     logger.info("Step 1: ニュース収集")
-    articles = collect_news(exclude_titles=exclude_titles)
+    articles = collect_news(exclude_titles=exclude_titles, days=2)
     if not articles:
         logger.warning("ニュースが見つかりませんでした。終了します。")
         return

@@ -1,4 +1,4 @@
-"""Google News RSSからAIニュースを収集"""
+"""Google News RSSからAI・ビジネス・エンタメ・SNSのトレンドニュースを収集"""
 from __future__ import annotations
 
 import feedparser
@@ -45,11 +45,11 @@ def extract_article_text(url: str) -> str:
         return ""
 
 
-def collect_news(exclude_titles: list[str] | None = None) -> list[dict]:
-    """AIニュースを収集して返す"""
+def collect_news(exclude_titles: list[str] | None = None, days: int = 7) -> list[dict]:
+    """トレンドニュースを収集して返す。daysで収集対象の期間を指定する。"""
     exclude_titles = exclude_titles or []
     all_entries = []
-    cutoff = datetime.now() - timedelta(days=7)
+    cutoff = datetime.now() - timedelta(days=days)
 
     for query in NEWS_QUERIES:
         url = build_rss_url(query)
