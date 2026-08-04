@@ -3,10 +3,10 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>週刊AI仕事術｜仕事と副業に効くAIニュース</title>
+    <title>毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ</title>
     <link>https://belieeve.github.io/ai-news-podcast</link>
     <language>ja</language>
-    <description>1週間のAIニュースから、仕事と副業に効く話だけを解説します。</description>
+    <description>AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。海外やSNSで今話題になっていることを、毎朝10分でまとめてお届けします。</description>
     <itunes:author>ハルト＆アヤカ</itunes:author>
     <itunes:owner>
       <itunes:name>ハルト＆アヤカ</itunes:name>
@@ -18,9 +18,29 @@
     <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg" />
     <image>
       <url>https://belieeve.github.io/ai-news-podcast/artwork_v2.jpg</url>
-      <title>週刊AI仕事術｜仕事と副業に効くAIニュース</title>
+      <title>毎朝トレンドラジオ｜AI・ビジネス・エンタメの話題まとめ</title>
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
+    <item>
+      <title>AIウォレット解禁で自律進化へ！AppleとOpenAIの法廷闘争、キングダム大ヒットの秘訣</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・CloudflareがAIエージェント専用ウォレットを発表
+・OpenAI、Appleの提訴に全面反論
+・AIが27年眠っていたソフトウェアの脆弱性を発見
+・邦画実写『キングダム』シリーズが大ヒット</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260805_daily.mp3" length="9711021" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260805_daily</guid>
+      <pubDate>Wed, 05 Aug 2026 07:54:43 +0900</pubDate>
+      <itunes:duration>10:06</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・CloudflareがAIエージェント専用ウォレットを発表
+・OpenAI、Appleの提訴に全面反論
+・AIが27年眠っていたソフトウェアの脆弱性を発見
+・邦画実写『キングダム』シリーズが大ヒット</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
     <item>
       <title>AI利用料激減の衝撃！エージェントAIで仕事はこう変わる</title>
       <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
@@ -1134,26 +1154,6 @@
 • 🚨速報：ニューヨーク・タイムズ紙によると、ホワイトハウスはAnthropic社との契約に近づいており、同社のAIツールを米国情報機関全体に導入する見込みとのこと。 - Moomoo
 • 「Claude」Anthropicが開発したAIモデル／AIチャットボット - 窓の杜</itunes:summary>
       <itunes:episode>23</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月22日</title>
-      <description>今日の話題:
-• 【"AIエージェント”に必要なツールは全てGoogle製】今井翔太「ClaudeやOpenClawよりも性能は上になる」／“重課金プラン限定”はミュトス級Geminiへの“伏線”？【AI QUEST】 - TBS NEWS DIG
-• 生成AIの“使いっぱなし”を防ぐ、FCEが研修から定着までAI活用を支援 - キーマンズネット
-• AI企業のIPO観測が続々 SpaceXは6月、OpenAIは9月？ - Moomoo
-• AI規制の大統領令発表をドタキャンしたトランプ大統領、ホワイトハウスを引き裂く規制派vs規制反対派の暗闘 【生成AI事件簿】MAGA、安全保障派、シリコンバレーが争うフロンティアAI規制、サイバー安全保障と対中競争に揺れるAI政策 - JBpress
-• ECのAI導入効果を無料診断｜ModaAI『 ROIシミュレーター 』機能を提供開始 - ニコニコニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260522.mp3" length="4990509" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260522</guid>
-      <pubDate>Fri, 22 May 2026 22:16:19 +0000</pubDate>
-      <itunes:duration>05:11</itunes:duration>
-      <itunes:summary>今日の話題:
-• 【"AIエージェント”に必要なツールは全てGoogle製】今井翔太「ClaudeやOpenClawよりも性能は上になる」／“重課金プラン限定”はミュトス級Geminiへの“伏線”？【AI QUEST】 - TBS NEWS DIG
-• 生成AIの“使いっぱなし”を防ぐ、FCEが研修から定着までAI活用を支援 - キーマンズネット
-• AI企業のIPO観測が続々 SpaceXは6月、OpenAIは9月？ - Moomoo
-• AI規制の大統領令発表をドタキャンしたトランプ大統領、ホワイトハウスを引き裂く規制派vs規制反対派の暗闘 【生成AI事件簿】MAGA、安全保障派、シリコンバレーが争うフロンティアAI規制、サイバー安全保障と対中競争に揺れるAI政策 - JBpress
-• ECのAI導入効果を無料診断｜ModaAI『 ROIシミュレーター 』機能を提供開始 - ニコニコニュース</itunes:summary>
-      <itunes:episode>22</itunes:episode>
     </item>
   </channel>
 </rss>
