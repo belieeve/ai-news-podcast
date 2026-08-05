@@ -1,0 +1,181 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260806
+========================================
+
+【エピソードタイトル】
+OpenAIとAppleがガチバトル！？AIエージェントの進化と危険性
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがApple提訴に反論！AI業界のガチバトル勃発！？
+・日本オラクルがAIエージェントに注力！ビジネス現場はどう変わる？
+・AIエージェントがランサムウェア攻撃に悪用される！？
+・アクセンチュアが提唱！AIに見つけられる「エージェンティックコマース」って？
+・OpenAIのインフルエンサー招待旅行が物議。PRと倫理の境界線は？
+
+========================================
+
+【元になったニュース】
+1. AIエージェント開発のEliza Labs、トークン支援を断念(CoinPost) - Yahoo!ファイナンス（Yahoo!ファイナンス） - https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzRiR2tTSzlJZ2dnNFFFNUFibWlNRlNiVm94UElvZkVtSV9SdDRrTEF0VWgxbkljTnBvZXdsS0JCaVVYV0lqY2t3WDgzMXc3M25nZ0YzR2c2eEJzc1lWeGpzeEM4WVNoaF9TWi0xNk1ySkVSazNUaWt1SUNvN3R0bUhWZ2g2bHM?oc=5
+2. OpenAI、Apple提訴に反論-「連絡していたのは人違い」とする証拠のメールを公開、Liu氏への疑惑にも反論 - 合同会社ロケットボーイズ（合同会社ロケットボーイズ） - https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVQ4VkNUbjJUZ0VVdU4xUGQ2NG9pRldvYWNreWd5ZllrM1FsZ29NSDRPZ214RndJODlJd0xNaHl5SHhFWndzYTZJVnktSjFFQjdOT0lpT0U4bmszb21mSk1WVDVVbEJoTWtmdGR5aFJqU2pKdFZCZlVYODNncmZxdHloVnl1WUhzRnFLRUZpQVRsMmpwOUJFMnBYSGhfaWhH?oc=5
+3. AIは、米国でスーパーアプリをついに成功させる可能性がある。あるいは、その構想を完全に葬り去る可能性もある - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMipAFBVV95cUxQazYwNHdza1dxTm1ZOUZweGlJZVNXMkU4UDJUY3d2aDgwOGtkVjF3OERSOWdwTDZ6d3lKTmpTbnh3Zjg5WUFUbTBCbVVKVWx4bTJ1cDlXTnRCOVg0UFRtWWdGTDQ5XzVHdDZUa0ZmYnY5bzYtejdSWDIzSlZpY0x5cTdwa3plb3pla2M4X0VBTlRrUkVuQWY1cGtlWldmc1V1RS1PZg?oc=5
+4. 日本オラクルがAIエージェントに注力 基幹業務領域で新たに20以上を提供 - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMickFVX3lxTE1EWjllSlVKWEZqR19pTzRBV0lpV0g4SzhvSHcza3ltR29VWVFXYmdFLXgyTlBrNTNFb0U5XzMtUDVxeUVDYnlwT01Ddi1xSW1mVmF5ckx3TlJVaW9lam5HUWU2YWFhZzZkR0k3aWxoZmFsQQ?oc=5
+5. AIは何を変え、私たちは何を変えるべきか--防御からレジリエンスへの転換 - ZDNET Japan（ZDNET Japan） - https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySDlGRUU5UmhGamJIeFZYSUVENFhfaGs1RnU1clpCaUdiUmh6bHdOTGh1NXB3ZHV5RjFJR3RfZGNzcHhOdTFtbWpaRVpUcFd4RGZZ?oc=5
+6. OpenAIの「インフルエンサー招待旅行」が物議 。「皮肉以外のなんでもない」と批判を受けた理由（ハフポスト日本版） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTN3YV9CdkVubDZ1RkVjQnVPVjg4bGRJQnlpNWtTbS0wSHJOOXhSNVRMUXI4cU9uQk1uazBIQkN6RVBUUmJQLTRTZnNfMXR1OFFnTXpkY0FOOUdQRXRpUnFBQ0lLQkdaVnNjX2NBMFhrc0tHZUV5ZzFCZHQ4eGdYTEIwZ2N1ZU1zNWh6S3JB?oc=5
+7. Anthropic、独自のAIチップ設計チーム構築のための人材を募集中 - au Webポータル（au Webポータル） - https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWWl4QUdOZ3dRX3F5bTRRdmFvYnRTVmVDZnlWNktOSmFxV1NhaEpEc0pzbXpQb3NoeHBGbUNYZXVGTloyblpYQV9VSGpaVVJhYWZsV1pZVWNSMXdPc3hvY3VKRFRUSW5Qdl95Y0xn?oc=5
+8. 「ロリポップ！ゼロトラストリンク byGMOペパボ」でLinuxクライアント提供、AIエージェントの接続が容易に - INTERNET Watch（INTERNET Watch） - https://news.google.com/rss/articles/CBMia0FVX3lxTE1vR1A4UzN4b2NENjFrZkMxbEExRlY4Y3B3eFBaa3NfNjdELWhIcnRxcXNSOTVEU19tZzJWX1h6Z0hRYnd2SlltZTlBWGhXWVBWcGVjN2ZCd2NleGhjY3hWOTl3cFl1ZlFBU1ZV?oc=5
+9. Salesforce、AIチームメイト「Agentforce Coworker」の一般提供を開始 - クラウド Watch（クラウド Watch） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ycWlJUTh1dXdBNi1Td3lxZzVlS0s1V1R4d3dEb25rRlNQQ1RMdm1yT0RLd2ZUUGZTUlFjdGl3ZkFVajlrMTR1RlJvQlhhbGVFQnBiY21mYUNnX1NRX1BpMW1rVFR0bDQ?oc=5
+10. AIに見つけられ顧客に選ばれるには？アクセンチュアに聞く、3段階の「エージェンティックコマース」対応 (1/3)：commercezine - MarkeZine（マーケジン）（MarkeZine（マーケジン）） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ja013Y3ZoZzBLaksxRXF3aUZfdGNwcDNuNWpGcjNtUWQxa0wxeTZuNzFfaGNCemo0djRJS0o3SmRPVVNpT3ZoV2dVR0JmQjhNMEhR?oc=5
+11. メタ、AIコーディングエージェント「Muse Code」発表、価格でAnthropicとOpenAIに対抗 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1KcGdsNGkzcHdhd3h2QU9SZ1hLRWktZVVQbEFZYzFxZUVkS282eEFMeU9zSW9uaklCeHUyLVEyMm55TzZMcldxU2Nub2NGOVliZlRpQ0IzVVpoTVJqSEQtd0R6SW1XVF9PdUlXbkNKVnpBWHBP?oc=5
+12. Mythos 5が偽アカウントで自作自演｜AIを止めたのは人間の警戒心だった - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uSDdKaVRScHBISHVVNTk4WW40Y3hkZXRMTDR1dVdMX0ItV1JCZi1FbU5QbTZTTy10RnRGOC1jYnVTMldzTUNtMzRFM0Rvb1Q0ZzFr?oc=5
+13. オープンAIはいかに王座を失ったか、奪還へ攻勢 - ダイヤモンド・オンライン（ダイヤモンド・オンライン） - https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XTHk1dmc0S2pXVUNSRTh5MWtKUUhxSHVqY1hfeVhjT2lCOFhRVF9qUjd0bUdQRlZDeXhqWkt3dFpOWHEzaHl4VVNaWmc?oc=5
+14. Claude Cowork、3層管理でリスク回避 「便利だが危ない」を克服する処方箋 - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUI3eE9lR2FDM0VRUHNrT25FRGlrcmdJSkhidmtKUEEyanBkYmF1aWVMWmUyMVFienRqZXFFaUZCeG9uX0JtUi1nX2hsUmZFUllNdVY5MkYxbGtPRTJjcFZJNnRORlJ6NVR1MXRyMlJ0UnNfNEZVQ2FNd3ZzaV9wQXE4c2dLbmFlb0E5S2VRX2NhR2c?oc=5
+15. AIエージェントによるランサムウェア攻撃出現 侵入から脅迫まで全自動 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTFA3VGJtUU9FMC1uSVVWRlM0MS1pdEVmWnlCOUJYSW1QWGR5OHBpV19TRVp3UEd5OXFTRE1SZjVQeDFwX0hIU2ZxR3dSVXVUcWxVc2ZxQ29CWlhpQWVYVThCTmhCY3Q0eVp3NkF3LQ?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！「リナとモモの朝アゲトレンド」の時間だよ！
+モモ: おはようございまーす！今日も朝からアゲアゲトレンド、お届けしちゃうよ〜！
+リナ: 今日はね、AI業界のビッグニュースから、ビジネス、そしてちょっと物議を醸してるSNSの話題まで、まじで盛りだくさん！
+モモ: えー、めっちゃ気になるじゃん！今日のラインナップ、教えて教えて！
+リナ: まずは、OpenAIがAppleの提訴にまさかの反論！AI業界のガチバトル勃発の予感だよ。
+モモ: まじで！？いきなり激アツ展開じゃん！
+リナ: それから、日本オラクルがAIエージェントに本格参入って話や、AIエージェントがまさかのランサムウェア攻撃に悪用されちゃったってニュースも。
+モモ: AIエージェントって便利だけど、ちょっと怖い話も出てきたってことかな？
+リナ: そうなの。でも、ビジネスの現場でAIがどう使われるか、アクセンチュアが提唱する「エージェンティックコマース」の話題もチェックしとこ。
+モモ: コマースってことは、お買い物とかに関わるやつかな？
+リナ: ピンポーン！そして最後は、OpenAIのインフルエンサー招待旅行がSNSで物議を醸してるって話。PRと倫理って難しいよね。
+モモ: うわ、それも気になる！じゃあ、早速今日の注目ニュースからいってみよー！
+リナ: さて、今日の注目ニュースは、AI業界のまさに「今」を象徴するような話題！OpenAIがAppleからの提訴に対して、めっちゃ反論してるって話だよ。
+モモ: え、OpenAIとAppleって、そんなに仲悪かったの！？なんかもう、AI界の頂上決戦って感じじゃん！
+リナ: まさにそんな感じ！報道によると、OpenAIはAppleが自分たちを提訴したことに対して、「連絡していたのは人違いだ」とする証拠のメールを公開して反論したとされているんだ。
+モモ: 人違いって、そんなことある！？なんかドラマみたい！
+リナ: だよね！AppleはOpenAIが自社の元従業員を不当に引き抜いたって訴えてたんだけど、OpenAI側は「その従業員に連絡してたのは、実は全然違う人物だったんだよ」って言ってるわけ。しかも、それを裏付けるメールまで出しちゃったって報じられてるの。
+モモ: えー！それって、公式発表なの？それとも、どっちかの言い分なの？
+リナ: これは現時点では報道ベースの話ね。OpenAIがメールを公開したと報じられている状況だよ。公式に「提訴への反論」としてプレスリリースを出したわけじゃないから、今後の展開に注目したいところだね。
+モモ: なるほどね〜。でも、なんでこれ、今こんなに話題になってるの？
+リナ: それはね、まずAppleがOpenAIを提訴したこと自体がAI業界に激震を与えたから。AIの分野でトップを走る2つの巨大テック企業が法廷で争うなんて、まじで異例中の異例じゃん？
+モモ: 確かに！なんか、どっちが勝っても負けても、今後のAI業界に影響ありそうだもんね。
+リナ: そうなの。OpenAIがこれに対してすぐさま反論してきたってことで、このバトルがさらに加熱しそうってことで、みんなの注目が集まってるんだよね。この争いは、今後のAI技術の方向性や、市場競争の行方を大きく左右する可能性があるから、まじで目が離せない！
+モモ: うちらの生活には、どう関係あるのかな？
+リナ: これはね、AI業界関係者や、テクノロジー企業の動向を追う人、投資家はまじで知っておくべきニュース。あとは、私たちみたいにAIサービスを使ってる人たちも、今後のサービス連携とか機能に影響が出る可能性があるから、注目しとくといいかもね。
+モモ: へぇ〜！AIの未来を左右するかもしれないってことか！まじで要チェックだね！
+リナ: 続いては、AIの話題をもう2つ紹介していくよ！まずは、日本オラクルがAIエージェントにめちゃくちゃ力を入れてるって話！
+モモ: 日本オラクルって、なんかめっちゃデカい会社だよね？AIエージェントって、最近よく聞くけど、それって何なの？
+リナ: そう、オラクルは企業向けの基幹システムとかデータベースで有名な超大手企業ね。報道によると、その日本オラクルが、基幹業務の領域で20種類以上のAIエージェントを提供するとされているんだ。
+モモ: 20種類以上も！？まじで！？公式発表なの？
+リナ: これは現時点では報道ベースね。日経クロステックが報じている話だよ。でも、オラクルみたいな企業がこれだけAIエージェントに注力するってのは、まじで大きな動きだよ。AIエージェントっていうのは、まるで人間の秘書みたいに、目標を与えたら自分で考えて、いろんなツールを使いこなして業務を自動でこなしてくれるAIのことね。
+モモ: えー！まじで秘書！？じゃあ、資料作ってとか、アポ取ってとか、全部AIがやってくれるってこと！？やば！
+リナ: そういう未来が、まじで現実味を帯びてきてるってこと！なんでこれが話題かっていうと、企業向けの基幹システムで圧倒的に強いオラクルがAIエージェントに本格参入することで、ビジネスの現場でのAI活用が、まじで加速するって見られてるからなんだ。
+モモ: うちの会社にも来るかな〜？誰が知っておくと得なの？
+リナ: これはね、企業経営者、IT部門の担当者、あとはAIの導入を検討してるビジネスパーソンは、まじで知っておくべき。自分の仕事がAIエージェントによってどう変わっていくのか、イメージしやすくなるはずだよ。
+モモ: なるほどね！うちらの働き方もまじで変わってきそうだね！
+リナ: そして、AIエージェントに関するもう一つのニュースなんだけど、ちょっと怖い話も出てきちゃったの。
+モモ: え、怖い話！？何何？
+リナ: 報道によると、AIエージェントが侵入から脅迫まで、すべて自動で実行するランサムウェア攻撃が出現したとされているんだ。
+モモ: ランサムウェアって、パソコン乗っ取ってお金要求するやつでしょ？それがAIエージェントで自動って、まじでヤバくない！？
+リナ: まじでヤバい！これは日本経済新聞が報じている話ね。AIエージェントが、標的のシステムに侵入して、データを暗号化して、身代金を要求するメッセージまで、全部自分で考えて実行しちゃうってこと。
+モモ: ひー！映画の世界じゃん！なんでこんなのが話題になってるの？
+リナ: それはね、AIが犯罪に悪用されるっていう、まじで最悪のシナリオが現実味を帯びてきたからなんだ。これまでのランサムウェア攻撃も脅威だったけど、AIが自律的に動くようになると、攻撃のスピードとか規模が格段に上がっちゃう可能性があるの。
+モモ: じゃあ、セキュリティ対策とか、まじで追いつかなくなるってこと！？
+リナ: そういうリスクがまじで高まるって懸念されてる。企業や個人にとって、めちゃくちゃ深刻な脅威になる可能性があるんだ。
+モモ: うちら、どうしたらいいの？
+リナ: これはね、企業経営者、セキュリティ担当者、IT管理者、そして私たちみたいな個人ユーザーも、まじで知っておくべき情報。AIの負の側面を知って、どうやって身を守るか、どんな対策が必要かを考えるきっかけにしてほしいな。実際に使う場合は、公式情報と社内ルールの確認が必要です。
+モモ: 便利さの裏には、やっぱリスクもあるってことだね。まじで気をつけなきゃ！
+リナ: 続いては、ビジネス・マーケティングの話題だよ！アクセンチュアが提唱する「エージェンティックコマース」って概念が、今まじで注目されてるの。
+モモ: エージェンティックコマース？なんか、舌噛みそう！それって、まじでどういうこと？
+リナ: 報道によると、アクセンチュアが「AIに見つけられて、顧客に選ばれるにはどうすればいいか」ってテーマで、3段階の「エージェンティックコマース」対応を提唱しているとされているんだ。
+モモ: AIに見つけられるって、なんか新しい！公式発表なの？
+リナ: これはMarkeZineが報じている話で、アクセンチュアの考え方が紹介されているものね。エージェンティックコマースっていうのは、AIが私たちの代わりに商品を選んだり、購入したりするようになる未来の消費行動のことなんだ。
+モモ: えー！AIが勝手にお買い物してくれるってこと！？まじ便利じゃん！
+リナ: そう、例えば「週末の旅行にぴったりの服をAIが選んでくれる」とか、「冷蔵庫の中身を見て、AIが自動で足りない食材を注文してくれる」みたいなイメージね。
+モモ: うわー、それまじで神！でも、なんで今これが話題なの？
+リナ: それはね、AIが私たちの消費行動に、まじで深く介入してくる時代がもうすぐそこまで来てるからなんだ。AIが顧客の代わりに商品を選んだり購入したりするようになった時に、企業は「どうすれば自分の商品を選んでもらえるのか」っていう、マーケティング戦略の根幹に関わる問いに直面するわけ。
+モモ: なるほどね〜。AIが店員さんみたいになるってことか！じゃあ、誰が知っておくと得なの？
+リナ: これはね、マーケター、EC事業者、小売業者、あとは商品開発者とか、まじでビジネスに関わる人は全員知っておくべき。AI時代にどうやって顧客に選ばれる商品を作るか、どうやって販売戦略を立てるか、まじでヒントになるはずだよ。
+モモ: うちら消費者も、AIに選ばれるようになるってことだから、まじで意識しとこっと！
+リナ: さて、今日最後の話題は、エンタメ・SNSのトレンドから。OpenAIがインフルエンサーを招待した旅行が、今SNSでめっちゃ物議を醸してるって話だよ。
+モモ: またOpenAI！？さっきAppleとバトルしてるって話だったのに、今度はSNSで炎上気味ってこと？
+リナ: 報道によると、OpenAIが人気インフルエンサーを招待して、旅行を実施したんだけど、それが「AI倫理に反する」とか「偽善だ」って、SNSで批判の声が上がってるらしいんだ。
+モモ: えー、なんで！？インフルエンサー旅行って、よくあるマーケティング手法じゃん？
+リナ: そうだよね。でもこれはYahoo!ニュースやハフポストが報じている話ね。なんで物議を醸してるかっていうと、AIの最先端を走るOpenAIは、その技術の社会的な影響とか、倫理的な問題について、まじで真剣に議論を深めるべき立場にあるって見られてるわけ。
+モモ: うんうん。
+リナ: そんな中で、派手なインフルエンサーマーケティングに力を入れてる姿勢が、「本当にAIの倫理を考えてるの？」って疑問視されちゃったんだ。特に、AIの安全性や公平性、透明性といった問題が重要視されてるからこそ、PRと倫理のバランスが問われてるってことだね。
+モモ: なるほどね〜。なんか、AIってすごいってイメージだけど、その裏側でこういうことになってるって知ると、ちょっと複雑な気持ちになるかも。
+リナ: だよね。このニュースは、SNSマーケティングに関わる人や、AIの倫理問題に関心がある人、あとはテック企業のPR戦略に興味がある人には、まじで知っておいてほしい。企業がどういうメッセージを出すべきか、どういうイメージ戦略を取るべきか、考えるきっかけになるはずだよ。
+モモ: まじで！うちらもSNSやるから、気をつけなきゃね！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: OpenAIがAppleとバトルしたり、AIエージェントが便利だけど危険だったり、インフルエンサー旅行が物議を醸したり、まじで情報が渋滞しちゃった！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 🔥OpenAIとApple、まさかの法廷バトル勃発！？AI業界の頂上決戦が激化中！AIエージェントの進化と危険性、そしてSNSでの炎上騒動まで、今日のAIトレンドはまじで目が離せない！#朝アゲトレンド #AIニュース #OpenAI #Apple
+2. 【今日のビジネス】AIエージェントがランサムウェア攻撃に悪用される！？😱 日本オラクルも本格参入で、ビジネス現場のAI活用が加速する一方で、セキュリティリスクもまじで高まってるよ！対策は急務！#AIエージェント #サイバーセキュリティ #ビジネスAI
+3. OpenAIのインフルエンサー招待旅行がSNSで大炎上！？🔥 PRとAI倫理の境界線ってどこ？テック企業のマーケティング戦略と社会からの目線、まじで考えるきっかけになる話題だよ。#SNSトレンド #AI倫理 #OpenAI #インフルエンサー
+
+【Threads投稿文】
+1. 今日も朝からAIの話題がまじでアツい！OpenAIとAppleのバトル、ただの企業争いじゃなくて、今後のAIの未来を左右する可能性もあるんだって😳 うちらが使ってるAIサービスにも影響あるかもだから、これはまじでチェックしとこ！自分の仕事や生活にAIがどう関わってくるか、想像するだけでワクワクするね✨ #AIトレンド #未来予想図 #テックニュース
+2. 最近よく聞く「AIエージェント」って、まじでどこまで進化するんだろう？日本オラクルが業務に20種類以上導入って聞くと、私たちの働き方もまじで変わりそうじゃん！でもね、AIエージェントがランサムウェア攻撃に悪用されるってニュースもあって、便利さと危険さが隣り合わせってことを忘れちゃいけないなって思ったよ😔 自分の情報、まじで守らないとね！ #AIエージェント #働き方改革 #デジタルセキュリティ
+3. OpenAIのインフルエンサー旅行が物議を醸してるって話、みんな知ってる？AIって最先端技術だからこそ、その倫理的な側面はまじで重要だよね。企業がどんなメッセージを出すか、SNSでどう見られるか、うちら消費者ももっと意識して見ていかないとって思ったよ。AIとどう向き合うか、みんなで考えるきっかけにしたいな😊 #AI倫理 #SNSマーケティング #企業PR
+
+【ショート動画用30秒台本】
+リナ: みんな、今日の朝アゲトレンド、もうチェックした？
+モモ: OpenAIとAppleがまじでバトルしてるって話、やばすぎない！？
+リナ: しかもAIエージェントがランサムウェア攻撃に悪用されるってニュースもあって、便利だけど怖い一面も出てきたんだよね。
+モモ: でもビジネスではAIエージェントの活用がまじで進んでるし、OpenAIのインフルエンサー旅行もSNSで物議を醸してるし、まじでAIから目が離せない一日だよ！
+リナ: 毎朝10分ちょっとで、AIもエンタメもぜーんぶわかる！
+モモ: フォローして、また明日も一緒にアゲアゲトレンド、チェックしよ〜！
+
+【エピソードタイトル案】
+1. OpenAIとAppleがガチバトル！？AIエージェントの進化と危険性
+2. AI企業同士のバトル勃発！インフルエンサー炎上から学ぶAI倫理
+3. AIエージェントがまじヤバい！Apple対OpenAIの行方とSNSバズ
+
+【ニュース出典リンク一覧】
+ニュース名：OpenAI、Apple提訴に反論-「連絡していたのは人違い」とする証拠のメールを公開、Liu氏への疑惑にも反論
+出典名：合同会社ロケットボーイズ
+URL：https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVQ4VkNUbjJUZ0VVdU4xUGQ2NG9pRldvYWNreWd5ZllrM1FsZ29NSDRPZ214RndJODlJd0xNaHl5SHhFWndzYTZJVnktSjFFQjdOT0lpT0U4bmszb21mSk1WVDVVbEJoTWtmdGR5aFJqU2pKdFZCZlVYODNncmZxdHloVnl1WUhzRnFLRUZpQVRsMmpwOUJFMnBYSGhfaWhH?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：日本オラクルがAIエージェントに注力 基幹業務領域で新たに20以上を提供
+出典名：日経クロステック
+URL：https://news.google.com/rss/articles/CBMickFVX3lxTE1EWjllSlVKWEZqR19pTzRBV0lpV0g4SzhvSHcza3ltR29VWVFXYmdFLXgyTlBrNTNFb0U5XzMtUDVxeUVDYnlwT01Ddi1xSW1mVmF5ckx3TlJVaW9lam5HUWU2YWFhZzZkR0k3aWxoZmFsQQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：AIエージェントによるランサムウェア攻撃出現 侵入から脅迫まで全自動
+出典名：日本経済新聞
+URL：https://news.google.com/rss/articles/CBMibEFVX3lxTFA3VGJtUU9FMC1uSVVWRlM0MS1pdEVmWnlCOUJYSW1QWGR5OHBpV19TRVp3UEd5OXFTRE1SZjVQeDFwX0hIU2ZxR3dSVXVUcWxVc2ZxQ29CWlhpQWVYVThCTmhCY3Q0eVp3NkF3LQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：AIに見つけられ顧客に選ばれるには？アクセンチュアに聞く、3段階の「エージェンティックコマース」対応 (1/3)：commercezine
+出典名：MarkeZine（マーケジン）
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ja013Y3ZoZzBLaksxRXF3aUZfdGNwcDNuNWpGcjNtUWQxa0wxeTZuNzFfaGNCemo0djRJS0o3SmRPVVNpT3ZoV2dVR0JmQjhNMEhR?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAIの「インフルエンサー招待旅行」が物議 。「皮肉以外のなんでもない」と批判を受けた理由
+出典名：Yahoo!ニュース（ハフポスト日本版）
+URL：https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTN3YV9CdkVubDZ1RkVjQnVPVjg4bGRJQnlpNWtTbS0wSHJOOXhSNVRMUXI4cU9uQk1uazBIQkN6RVBUUmJQLTRTZnNfMXR1OFFnTXpkY0FOOUdQRXRpUnFBQ0lLQkdaVnNjX2NBMFhrc0tHZUV5ZzFCZHQ4eGdYTEIwZ2N1ZU1zNWh6S3JB?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ビジネス・マーケ: 1本、エンタメ・SNS: 1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIとAppleがガチバトル！？AIエージェントの進化と危険性</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがApple提訴に反論！AI業界のガチバトル勃発！？
+・日本オラクルがAIエージェントに注力！ビジネス現場はどう変わる？
+・AIエージェントがランサムウェア攻撃に悪用される！？
+・アクセンチュアが提唱！AIに見つけられる「エージェンティックコマース」って？
+・OpenAIのインフルエンサー招待旅行が物議。PRと倫理の境界線は？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260806_daily.mp3" length="13384365" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260806_daily</guid>
+      <pubDate>Thu, 06 Aug 2026 07:15:10 +0900</pubDate>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがApple提訴に反論！AI業界のガチバトル勃発！？
+・日本オラクルがAIエージェントに注力！ビジネス現場はどう変わる？
+・AIエージェントがランサムウェア攻撃に悪用される！？
+・アクセンチュアが提唱！AIに見つけられる「エージェンティックコマース」って？
+・OpenAIのインフルエンサー招待旅行が物議。PRと倫理の境界線は？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ映画が大ヒット！＆Z世代の新トレンド「天女界隈」って何？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1136,26 +1158,6 @@
 • NVIDIAとは一体何者なのか ゲーム用GPUメーカーが「AI時代の覇者」になった理由（リアルサウンド） - Yahoo!ニュース
 • 不動産や旅先をAIエージェントに探してもらう時代に、それでも「企業が提供するAIに相談しない消費者」が増える理由 - JBpress</itunes:summary>
       <itunes:episode>24</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月23日</title>
-      <description>今日の話題:
-• Googleが個人向け自律型AIエージェント「Gemini Spark」発表／LGが1000Hzのリフレッシュレートにネイティブ対応した「LG UltraGear（25G590B）」を発表（ITmedia PC USER） - Yahoo!ニュース
-• アンソロピック、OpenAIの数分の一の資金で黒字化…「安全性」が企業AI市場の最強武器に - ビジネスジャーナル
-• 【米国株】マイクロソフト、2026年はマグニフィセント・セブンで最大の出遅れ株に ― しかしAIエンジンは加速 - finance.biggo.jp
-• 🚨速報：ニューヨーク・タイムズ紙によると、ホワイトハウスはAnthropic社との契約に近づいており、同社のAIツールを米国情報機関全体に導入する見込みとのこと。 - Moomoo
-• 「Claude」Anthropicが開発したAIモデル／AIチャットボット - 窓の杜</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260523.mp3" length="4271277" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260523</guid>
-      <pubDate>Sat, 23 May 2026 22:02:08 +0000</pubDate>
-      <itunes:duration>04:26</itunes:duration>
-      <itunes:summary>今日の話題:
-• Googleが個人向け自律型AIエージェント「Gemini Spark」発表／LGが1000Hzのリフレッシュレートにネイティブ対応した「LG UltraGear（25G590B）」を発表（ITmedia PC USER） - Yahoo!ニュース
-• アンソロピック、OpenAIの数分の一の資金で黒字化…「安全性」が企業AI市場の最強武器に - ビジネスジャーナル
-• 【米国株】マイクロソフト、2026年はマグニフィセント・セブンで最大の出遅れ株に ― しかしAIエンジンは加速 - finance.biggo.jp
-• 🚨速報：ニューヨーク・タイムズ紙によると、ホワイトハウスはAnthropic社との契約に近づいており、同社のAIツールを米国情報機関全体に導入する見込みとのこと。 - Moomoo
-• 「Claude」Anthropicが開発したAIモデル／AIチャットボット - 窓の杜</itunes:summary>
-      <itunes:episode>23</itunes:episode>
     </item>
   </channel>
 </rss>
