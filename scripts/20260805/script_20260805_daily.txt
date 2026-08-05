@@ -2,168 +2,168 @@
 ========================================
 
 【エピソードタイトル】
-AIがお金を使う時代到来!? クラウドフレアが「AI財布」発表で未来爆速！
+ちいかわ映画が大ヒット！＆Z世代の新トレンド「天女界隈」って何？
 
 ========================================
 
 【Spotify概要欄】
 AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
-・クラウドフレアがAIエージェント専用のウォレット機能を発表！
-・OpenAIがAppleの著作権侵害訴訟に全面反論！
-・AIを支える半導体産業に「異次元の投資合戦」が勃発！
-・企業向けAI導入の鍵「マルチエージェント」成功の5ステップ！
-・邦画実写No.1ヒット『キングダム』人気の秘密を徹底解剖！
+・ちいかわ映画がマジでヤバい！興収100億円も夢じゃないってホント？
+・創業半年で1.5兆円契約！AIスタートアップVoltaがAnthropicと超大型提携
+・静岡市役所がAIで市民の本音を可視化！行政サービスが進化中
+・Chromeが再起動なしでアップデート？ストレスフリーなブラウザへ進化
+・Z世代の2026年トレンド「天女界隈」「ジェリーバッグ」「ファッションスピ」
 
 ========================================
 
 【元になったニュース】
-1. AIと安全に接続されたデータ活用基盤の設計法──マルチエージェント導入を成功させる5ステップ - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMUZqdHlJQ0FUTnNKY1VNcl9OYWV5eWt4RzRERUdhbk96R0xOQkYwQ1dBN1NaQll4VjdjNW5BMmg4TzAwVUI4UGdvcUlvdndBT0dJd2JWRGVSZw?oc=5
-2. Cloudflareが「AIエージェント専用の財布」を解禁 支出上限つきで自動決済が可能に - shiritomo（shiritomo） - https://news.google.com/rss/articles/CBMiQEFVX3lxTE1kNjlJNFNyZkxxUWlPR0E5cHZRckVjeGVDb0J3d05BMW1RYjAtU0ptU2JMTVVZaUtuTFRwMnpIdHA?oc=5
-3. OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」 - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9ua2I5aUk5X1hLd2QxakEtbF9qQTNrZ2Q5VFZ1eEdJbE9kaTYwd2daYlBvUDlTR3g5akwySDhVTXAwTDA5QXRjdkdNLURjcFdFMnQ3YzZ6dXVSMldpWTdOUkFmZ25HV2oxZGc?oc=5
-4. 米クラウドフレア、AIエージェント向け専用ウォレット機能を発表(CoinPost) - Yahoo!ファイナンス（Yahoo!ファイナンス） - https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzZTbHh2Y0dtV1hmbV9qU0k2VzkwUl9IcGp3LWI5SFI5YUdsOE9ucHBVMllmNUc5QlhOYUVUbXpBMFFEVmtZVnhWOW9UNThOd2tNNUNCZDVENTlGSVlXUWJOYUZsVDFOVWhlNGJ6YVN6bGVlblhIdjhGS3VsSm9nMkVqYnBGaTQ?oc=5
-5. 半導体にAIモデルも 異次元の投資合戦 - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMickFVX3lxTE05d3RHaWJORkNGRENDalRQR3Fsa2EteW1zX01RRk5fWEFfZk02c2hWZV81NGtnU3ViY3ZNOHd0T1hfc28yRXA1MjJ6SllHRjJzaVFGZWVkWmlJNHBxTF9iTm9sMm9LUDFLREdSZXdTbTlzQQ?oc=5
-6. 加熱する開発競争 焦点は管理基盤に - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMickFVX3lxTE8wMVdCbXJMRnBjVW50NkJFMUFJeHdsT2lTU2VxM0VUd3I3ZGdXZC1zcXdOYzY2anRJZWx4RDZ3Vmhlb2ZYZzFjVEtSU2lCbzhYLXdHVUE2YmdQbEhjbHdMSEpBSVFkWWdISmRxdzZUV3d2QQ?oc=5
-7. 3大クラウド、AI徹底比較 - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMickFVX3lxTE5hczI3RmY0TlljcjM3eVVMV0ZSc1Y5WG1BeEY5SndORFZrUEg1SHRuV084VmRjV1ZnTDBHQXNBcWxRWWg0VFdFaVFTazc2QjRTQU8yeTFNVEhJcWFrVHgzeGJzeGxiZUpaSlBDeEF4VFE2dw?oc=5
-8. OpenAI、Appleの提訴に全面反論「雑で攻撃的で、妙に個人的な訴訟」 メールやiMessageも公開 - CNET Japan（CNET Japan） - https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vU2w5Mms2N2pkalBfTEtVcjktUjhFMXpqczByclRKZkdyWkdyTEYzdGt6bW1SQ2EydXB5a28tamFUakwtMW1KMmdHWXlvMmdFOFE?oc=5
-9. OpenAIのAIモデル、第三者のサイバー試験で境界を突破(Bloomberg) - Yahoo!ファイナンス（Yahoo!ファイナンス） - https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW5QY1d3U0xfZTJPSTJtbHVjcjlGb2ctNjItT245Z1FHdklaTWZlUHhXZ3R3d0RPRC10WmRsazNLdGJWU3E4bE91cmY0Y0hvNVg0WFFvYzc4aDA2b09pQlU5X3RuZ0RvTHBOUWtiN1BqUF9POW9rSHRhcUxYLWJ2WW5zcmhwLUE?oc=5
-10. 26年の邦画実写No.1ヒット『キングダム』､爆発的人気の背景に｢大河ドラマ｣との共通点…"興収100億円超え"の現実味は？ - 東洋経済オンライン（東洋経済オンライン） - https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CWHdRMU4xR1JJQ3JFNHZwdHdUMzVuT2tsMjdpYUVGT2FOS2hFSnJ6SzhzUy1pY09YRlBUQmdRSHBmUU9VWXpGeTNWLXRQMXdLcFE?oc=5
-11. Google、AnthropicなどのAI企業の幹部ら1300人超が「AIの自己開発」暴走を防ぐため、政府に異例の支援を要請 - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzN2cjV6VHBHazYwenl3QzFWaXpyNmhFY2NkQTRKbFBSaFJYLWF0RmFEdklFMnljNjd3QUFMWTM4dUpicUNBLUlkemRSSHl2NTE1ajZjbU9YTGlyaEF3ZzZHZjNIZTV3MnotYTY0WG9kX2JWRUQ4alBqZHhsRk45N010d2ExMnVk?oc=5
-12. トークン予算を超過せずにAIエージェントを使う方法 - ZDNET Japan（ZDNET Japan） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX3dLOEJDUEtKbFg0SlBQRUNITm96cGdXUGVqcWotSzhGRThscHhOajF5YWNMOGFTeTFDakI5VFlGOXpCMG9XLTZFNm4zbHhzWW9J?oc=5
-13. Cloudflare、AIエージェント専用ステーブルコインウォレット発表──Coinbaseのx402プロトコル搭載 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9GYkwxYk9NdUd6VS1rRXZIS0xEbzZTU2tjZUVPNEcxN013QUVncHA1blZzRkVrWXFzU2xmbXloa0lOZUtycGpSOFRaME5LdDVlXzRPYUo2OWhlOEdneUJ2RDBuN2xjTDFGWkYyMkRYSXdEQndp?oc=5
-14. Microsoftやバイドゥ、OpenClawサービス続々 課題克服し企業導入を容易に - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTRFeGlaT240Z1pJRVZmRHZRdUc5Tll1RXJBTWNhWHR0Tzhid2dzY19uMllpYkVRbXRIYjhfY1pKclRyLWNiNmJWZVZOUDZEb19KejMxaGJNck1qQXNJMHY0bG5WRU8yZmE5WmtEd3RSU05EeGlQam1EWE1GVFVWcDFGWk9MMzVWZDhBQlJYaHoxbGM?oc=5
-15. AIエージェントに「身元」と「ウォレット」を提供 - Cloudflare（Cloudflare） - https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUFKc1JRVXpxN3lOOU1iMnpwQU9SaS1DOHlCYjRIMlR2Zm8xX1pxNDJ0blpDd2JPZEVSMTkzZ3EzSnpDSFQ5QnZLMWN3cTFfcGhpVlAxbUVJVU1nTXpObFE4WXBjT3B5S000RUwyZGEtUzlCejlUSzl5Mkg2MjltY2VtdGdnWllSVk1HbktCajRsYlJkbG82VFMxTGpKZWRVb3JRMGRqTi03NXIzeUJTRw?oc=5
+1. Z世代の2026年トレンドに？「天女界隈」「ジェリーバッグ」「ファッションスピ」とは？【THE TIME,】 - article.auone.jp（article.auone.jp） - https://news.google.com/rss/articles/CBMibkFVX3lxTE10ck92aHpIdHdJVnVJN1NSWlVhdzN5SEF2WGZBOU44ODdIYThlR3NHY05Nek5veldubUZzTEpxQlhhcTVqajZXZmU1dFRLTHQydnpTWXVzR1ZKd042bmdLempRRHpWNUpBdFFMTGp3?oc=5
+2. 創業半年のVoltaがAnthropicと100億ドル契約を結んだ理由 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiekFVX3lxTE5vXzRBUmhIeV84bjh1U1F4ZnNyaHkwMHhRcjRhREJBYm5rQVZLR1V4ajh0ZGY3dVFCZmxjZ3JMY0lQSk81WXlGcFgwc3hTa2ZjMHpjdy1RRVlidWlMRFZyWWRhLS1QOFMzVFZEQ18yNXRVSnRWM0pXYmtB?oc=5
+3. AICX協会、「AIエージェント・ストラテジスト資格 公式ケース演習講座」を法人向けに初開催｜9月28日（月）にオンライン開催 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVVdSZDA4YWw0UFdwQkdoa0REcjNIMzltZXE5Skl1N0g0UmlxNEJBV3ZaOTQ0OXo5WFBHZTlRYi1PdjdhZ1hPRUJ6REFoa3NQNzhnaEJqaFBWbV9wV3RYWUdMYlRINTFPMEE?oc=5
+4. 静岡市役所のAIを活用した「広聴」が 14万件の電話では見えなかった"市民の本音"を可視化 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQzVkYzRGZGFpR1RCVWhQLUFITGlERDJNeWdkMElRU3ZSQko3RTY4Zkk1akFPejhJZFFzTHViU3poeXJLb1NuVEFnTHMtbkp5dkRCa3V4MXpUUDFvcTN1RFpEbnlTa2loUlE?oc=5
+5. 【中部エリア特化・ClaudeCode研修】非エンジニアでも使いこなせるセキュリティを重視したAIエージェント研修サービスを正式ローンチ - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9TOENYSnBLY21LNFNTcDYwOEZvQzYyUVk2c09FYUtEeHBwVzFtVndvaVE5REYyY2RSMFVRTldIb2ZEX2JNYzU5aVB3cnZKdTRuUWlaRndIVVYyRU5Sd2tablZXMGJIOVoxUlE?oc=5
+6. プレスリリース：Gartner、日本における未来のデジタル・ワークプレースのハイプ・サイクルを発表：AIエージェントをはじめとするテクノロジ・トレンドを紹介 - Gartner Japan（Gartner Japan） - https://news.google.com/rss/articles/CBMisgFBVV95cUxQYS1uX2dFdUJ3THEzMWJ6bmtDSTlpMlFkOUd1dXFkakE3SnJQTzRGR1l1OXBycTduUG92SzZKY0xCM0dndVB6M3g1ai1sWmkwVGFtTDd0Qk5YQlJHUi1aQkN1NVEzX1BsUC1RRHZaaHc2OUJ4T1F4SzBJcW5yWFhqelJZakN5SGRfa2RyZjhJZDB0dGl2NHZsTEpoVGdqOHRoNVNQUmR2cXRtalZLd05ack5R?oc=5
+7. マークビジョン、ブランド侵害を分析するAIエージェント「Brand Intelligence Agent」知財・情報フェア2026にて公開 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE83Sk0zRVlqNnZTZHZ4dzBZM3NTb2VUYW0zX1d3SXNPTGduMXdfTko4VnA5aG1ncWNtNTM4Vmt5TENCc1U3alJDWjdDel9jWFEzSU1JU3d1M3lGY3NrWkR2SWpPSG1VWGNFdlE?oc=5
+8. ブラウザの再起動は不要になる？ Chromeが模索する「週2リリース」と「無停止アップデート」：ITニュースピックアップ - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1FblZ2UDN0RmpYR0cweHVXdjVpT2l1SmdnVERQSlF1Nlh6a281ZTcwcHd4U3g0UzdoOERmU2xaaTNIT1JPbDg4cW9BbEdBQk9DVnZZbmItNWxKZ0RmNW5YNFNyLVQ1STNCVkNUUm93RU55Zlgx?oc=5
+9. なぜ“PoC疲れ”が蔓延しているのか？──「またやり直せばいい」実験感覚から抜け出す5つのゲートモデル - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE15d2kyMi0za1ViN1NDUTNFeVNuNTR1Wl9jTTR1Y0duWERvNkIzWHQ3Y3pjbWZodGd6Snd0VTFQTzdVaXUzVHVKamdndGRCWTZHUnYydVI4THhVdw?oc=5
+10. 東大文学部卒が『ちいかわ』映画を観た正直な感想 興収100億円も射程圏内の大ヒットに納得「お金を払う価値がある」 - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dG1ENUxMSmZFYUlCQklFWklCX1M5dS11czVZcl9BYWZsMjNfd29mZWI0QkUwZlFmYnRoWVVsN2JQS0JSUEVrSVkxSGlLbDRtSUdydXJ6UlFPZW5PSG9jYlhQRnNxSTVmMmxwdFVELWhYMVlnN21UUnVaYjdiRG8?oc=5
+11. 製造現場向け「AIエージェント活用」の研究開発・実証を開始 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RERVLXpwRUJlTXJWVUwwaHhGM3lsN1R2RlVqRFlRaDMzUFJRRVpZZGU0T0o3UWNsWFdHN3BobFZmQy1yMWQ3YVRIYU5sV2ZIdXgzMGgzdENmLURDendNcDlSWHBoZ1Vwc3c?oc=5
+12. AI議事録「Rimo」はOpenAI、Anthropic時代にどう勝ち筋を描くか──元Google・相川氏が説く現代のプロダクト戦略 - CodeZine（CodeZine） - https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSlZFZW9GdnpidjhqTGw1Z1N3TXpiaGl5U25ZY1ZtSV8tR200NV82VzZLSlh5VkwwUnE4S2tPNjFUXzJ0UG5WVkZ0aTRxMEtRMEE?oc=5
+13. AIエージェントとは？ 基本から導入の利点まで徹底解説 - WIRED.jp（WIRED.jp） - https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeVo4VHRad1NjdF9OM2twOGxGZEllTGJ3Vm95ZXpjbUVQWWREZE5HRWQ3Uk9mR1hyT0NoS3p2Rnhyckg3Q05LRXFhd21rQjYwQTYwMExEQ1Q?oc=5
+14. AI監査の知見から読み解くファイナンスDXの成功条件と、人とAIの最適分担 - クラウド Watch（クラウド Watch） - https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYmdCUnExdFhzc2ZQUVJVems2WnhtSVRfRGtkMlFkbU90X09MUWk2aE1xVHNBSWctUzNyLU1rUnBNemhIQ1VvbVhVdU9sZzlrN1Q5QUFlSHM1MC1JMEdTTTQ1R004WDZS?oc=5
+15. 人と人、国家と国家をつなぐ「コネクティブAI」の可能性──PKSHA Technology 上野山勝也 - WIRED.jp（WIRED.jp） - https://news.google.com/rss/articles/CBMieEFVX3lxTE5LVFlLQmNmcVJXaUtpcEZ4MV90LURVcm9uWExXd2hZd1BnN29Qc0piak5SQXc5cFVxZTdJemxqQmx2OHhERG44WUY0aFNNOEMyM2RNSXJOUnlzeU5lOWhWZ3ZVd1YyRC11Mlo2dk9HcEJkaHRzQmF3UA?oc=5
 
 ========================================
 
 【掛け合い台本】
 リナ: おはようございます！リナです！
-モモ: おはようございまーす！モモでーす！
-リナ: モモ、今日はまじで未来がアガるニュースが盛りだくさんだよ！AIが自分でお金を使う時代が来るかもって話から、あの人気映画『キングダム』のヒットの秘密まで、盛りだくさんでお届けしちゃうよ！
-モモ: えー！AIがお金使うって、まじでSFの世界じゃん！やばーい！今日のラインナップもまじアゲアゲだね！
-リナ: でしょ？今日の注目ニュースは、AIエージェントが自律的にお金を使えるようになる「AI専用ウォレット」の話題！それから、OpenAIとAppleの激アツな法廷バトル、AIを支える半導体産業の異次元の投資合戦、企業がAIを安全に導入するためのマルエージェント成功の5ステップ、そして邦画実写No.1ヒット『キングダム』の人気の秘密にも迫っちゃうよ！
-モモ: ギャル的には全部気になるけど、AIがお金使うってのが一番やばい！早く聞きたい〜！
-リナ: じゃあ、早速今日の注目ニュースからいってみよー！今日はね、**Cloudflareが「AIエージェント専用の財布」を解禁**したって話題だよ！
-モモ: え、AIが財布持つって、どういうこと？まじで？
-リナ: うん、まじなんだよね！これはCloudflareっていうアメリカのIT企業が、AIエージェント向けの専用ウォレット機能「Workers AI Payments」を発表したって話なの。
-モモ: ウォレットって、あの、お財布のこと？AIが自分のお金で買い物するってこと？
-リナ: そう！まさにそういうこと！この機能を使うと、AIエージェントが自動で、しかも支出上限付きで決済できるようになるんだって。これ、Coinbaseのプロトコル「x402」ってやつを採用してるんだよ。
-モモ: コインベース？なんか、仮想通貨とかで聞くやつかな？てか、AIが勝手に買い物しちゃうの怖くない？無限にポチっちゃったりしない？
-リナ: そこは大丈夫！ちゃんと支出上限を設定できるようになってるから、無限に使い込んじゃう心配はないってことみたい。AIがもっと自律的に動いて、必要なサービスを契約したり、情報を購入したりする未来が、まじで現実味を帯びてきたって感じだよね。
-モモ: へー！じゃあ、AIに「これ買ってきて」ってお願いしたら、自分で決済までしてくれるってこと？神じゃん！
-リナ: そうそう！例えば、AIが自動でリサーチして、必要なデータやAPI（アプリ同士をつなぐ窓口みたいなやつね）を自分で購入して、タスクを完了させる、みたいなことが可能になるかもってこと。
-モモ: やばい！それって、誰が知っておくと得なの？うちらの生活に関係ある？
-リナ: もちろん！これはAIを開発してる人たちとか、AIを使ったサービスを提供してる企業の人たちにとっては、まじで革命的なニュースだよね。AIを活用した新しいビジネスモデルがどんどん生まれるきっかけになるかも。例えば、AIが自動でマーケティングツールを契約して、広告運用までやっちゃうとか、そんな未来も夢じゃないかもね！
-モモ: えー！じゃあ、うちらもAIに家計簿つけてもらって、勝手に必要なもの買ってきてもらうとかもアリってこと？まじで未来がアガるー！
-リナ: 続いては、AIの話題で、ちょっとヒリヒリするニュースだよ！**OpenAIがAppleの提訴に全面反論**したって話！
-モモ: え、またあの2社がバトルしてるの？なにそれ、まじでドラマじゃん！
-リナ: そうなの！AppleがOpenAIに対して、著作権を侵害してるって訴訟を起こしたんだけど、それに対してOpenAIが「まじで違うし！」って全面反論の声明を発表したんだよね。
-モモ: え、著作権侵害って、AIが作ったものが誰かの真似っこだってこと？
-リナ: そういうこと。Appleは、OpenAIが自社の著作権を侵害しているって主張してるんだけど、OpenAI側は「うちらはAppleの営業秘密なんて持ってないし、欲しくもない」って言い切ってるんだよね。しかも、両社のメールとかiMessageのやり取りまで公開して、Appleの訴訟は「雑で攻撃的で、妙に個人的な訴訟だ」って、結構強めに批判してるの。
-モモ: ひえー！まじで泥沼じゃん！そんなに個人攻撃みたいな感じになってるんだ？
-リナ: うん、報道によるとね。この法廷闘争は、生成AIが学習するデータってどこまで使っていいの？とか、著作権ってどうなるの？っていう、AI業界全体のまじで大きな課題に関わってくるから、すごく注目されてるんだよね。
-モモ: じゃあ、このバトルが、AIの未来のルールを決めるかもしれないってこと？
-リナ: そういうこと！だから、AIを開発してる人たちや、AIサービスを使ってる企業、あとはコンテンツを作ってるクリエイターさんたちとか、法律に関わる人たちは、この動きをまじでチェックしておくといいよ。AI技術の法的リスクとか、今後の利用規約とかデータ保護の条件がどうなっていくか、考える上で超重要な情報だからね。
-モモ: 確かに！うちらもSNSで画像とか動画作るじゃん？あれも著作権とかちゃんと気をつけないと、まじでやばいもんね。これからのAIと著作権の関係はまじで目が離せない！
-リナ: 続いては、ビジネス・マーケの話題にいくよ！**半導体にAIモデルも 異次元の投資合戦**が勃発してるってニュース！
-モモ: 投資合戦？なんか、お金がいっぱい動いてるってこと？
-リナ: うん、まじで半端ない額のお金が動いてるみたい。AIのモデル開発がめちゃくちゃ激しくなってるじゃん？それを支える半導体の産業にも、もう「異次元」って言われちゃうくらいの投資が過熱してるって、報道ベースで伝えられてるの。
-モモ: 半導体って、あのスマホとかパソコンに入ってる、ちっちゃいチップみたいなやつ？それがAIとどう関係あるの？
-リナ: そうそう、そのチップ！AIが賢くなるためには、めちゃくちゃ高性能な半導体が必要なんだよね。だから、世界中の企業が莫大な資金を投じて、より高性能なAIチップとか、関連技術の開発にまじでしのぎを削ってるってわけ。
-モモ: へー！じゃあ、AIが進化すればするほど、そのチップも進化しないといけないってことか！まじでAIの裏側って感じだね。
-リナ: まさに！この投資合戦は、今後のAI技術がどれくらいのスピードで発展していくかとか、どの企業がAIの分野でリーダーになるかを左右する、まじで重要なカギなんだよね。経済全体にもめちゃくちゃ大きな影響があるって言われてるよ。
-モモ: じゃあ、株とか投資してる人とか、AIの会社で働いてる人は、このニュースまじでチェックしとくべきってこと？
-リナ: そうだね！投資家さんとか、ビジネスリーダー、AI関連企業の経営者さんなんかは、この動きを知っておくと、今後の戦略とか投資判断に役立つはず。AIってソフトウェアだけじゃなくて、ハードウェアの進化もまじで大事なんだってことがわかるよね。
-モモ: てかリナ、AI関連のニュースが続いてるけど、企業がAIを導入するって、やっぱり安全とか難しそうじゃない？なんかいい方法とかないのかな？
-リナ: いい質問！実はね、それに関わる話題も今日あるんだよ！同じくビジネス・マーケの話題で、**AIと安全に接続されたデータ活用基盤の設計法──マルチエージェント導入を成功させる5ステップ**って話！
-モモ: おお！まじでタイムリー！それって、企業がAIを安全に使うためのガイドラインみたいなものかな？
-リナ: うん、そうだね！報道ベースでね、多くの企業がAI導入を検討してるけど、セキュリティとかデータの管理が大変って課題に直面してるんだって。そこで、AIを安全かつ効率的に導入して、データをうまく活用するための設計法が紹介されてるの。特に、複数のAIが連携して動く「マルチエージェント」システムを成功させるための具体的な5つのステップが示されてるんだよ。
-モモ: マルチエージェント？なんかすごい名前だけど、それってどういうこと？
-リナ: 例えば、カスタマーサービス用のAIと、データ分析用のAIと、マーケティング用のAIが、それぞれ得意なことを活かしながら、連携して一つの大きな目標に向かって動く、みたいなイメージかな。個々のAIがバラバラに動くより、もっと賢く、効率的にビジネスを進められるようになるってこと！
-モモ: へー！じゃあ、それぞれのAIがチーム組んで仕事するみたいな感じ？最強じゃん！でも、それってまじで難しそう！
-リナ: だからこそ、この5ステップが重要なんだよね。具体的な設計法や成功への道筋が示されることで、AIを「使ってみた」で終わらせずに、ちゃんとビジネスに役立てるフェーズに進むためのハードルが下がるってこと。
-モモ: なるほど！それって、どんな人が知っておくといいの？
-リナ: 企業のIT部門の人とか、DX（デジタルトランスフォーメーション）を進めてる責任者、あとはAIをビジネスに導入したいって考えてるビジネスパーソンには、まじで必見のニュースだよ。実際に使う場合は、公式情報と社内ルールの確認が大切だけど、具体的なヒントがたくさん詰まってるはず！
-リナ: さて、AIの話題からちょっと気分転換して、最後はエンタメ・SNSの話題だよ！みんな大好き、**邦画実写No.1ヒット『キングダム』の人気の背景**に迫っちゃうよ！
-モモ: きたー！キングダム！まじで面白いよね！あの迫力、映画館で見て鳥肌立ったもん！
-リナ: でしょー！2026年の邦画実写で、今のところNo.1ヒットを記録してる『キングダム』シリーズなんだけど、その爆発的な人気の背景が、東洋経済オンラインで分析されてるんだって。特に「大河ドラマ」との共通点とか、興収100億円超えの現実味について報じられてるの。
-モモ: 大河ドラマと共通点？なんか意外！でも言われてみれば、壮大な歴史ストーリーって感じするかも！
-リナ: そうそう！壮大なスケール感とか、キャラクターの深掘り、そして感動的な人間ドラマが、多くの観客を惹きつけてるってことみたい。コロナ禍以降、映画市場も回復しつつある中で、なぜ『キングダム』がこれほどヒットするのか、その要因を探ることは、エンタメ業界だけじゃなくて、コンテンツマーケティング全般のヒントにもなるんだよね。
-モモ: なるほど！ただ面白いだけじゃなくて、ちゃんとヒットする理由があるってことか！
-リナ: そう！原作ファンはもちろん、映画で初めて見た人も楽しめるような工夫とか、SNSでの盛り上がりとか、色々な要素が絡み合ってヒットしてるんだと思う。
-モモ: それって、映画好きな人はもちろん、SNSでバズるコンテンツとか、ヒット商品を作りたい人にも役立つ情報ってことだよね？
-リナ: まさにその通り！エンタメ業界の人とか、マーケターさん、あとはコンテンツクリエイターさんなんかは、この分析からヒットの法則とか、消費者の心を掴むヒントをたくさん見つけられるはずだよ。うちらも次のSNS投稿の参考にしちゃおっか！
-モモ: いいねー！まじで勉強になった！
-リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
-モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
-リナ: それじゃ、また明日の朝ね〜。
+モモ: おはようございまーす！モモだよ〜！
+リナ: 今日も朝からアゲアゲで最新トレンドをチェックしちゃお！今日はね、ちいかわ映画がマジでヤバいって話から、AI業界の超大型契約、さらにZ世代の新しいトレンドまで、盛りだくさんでお届けするよ。
+モモ: えー！ちいかわ映画、まじでそんなにすごいの！？早く知りたい！
+リナ: もちろん！今日のラインナップは、ちいかわ映画の大ヒットの秘密、AIスタートアップVoltaとAnthropicの驚きの契約、静岡市役所がAIで市民の声を聞く最新事例、Chromeの超便利なアップデートの話題、そしてZ世代の気になる新トレンド「天女界隈」って何？っていう5本立てでお届けするね。
+モモ: わー、今日も情報爆盛りじゃん！楽しみすぎるー！
+リナ: それじゃあ、まずは今日の注目ニュースから！モモも大好きな『ちいかわ』、初の劇場版アニメが大ヒット中って知ってた？
+モモ: え、まじで！？知ってたけど、そんなに！？うちらも絶対見に行かなきゃじゃん！
+リナ: そうなの！報道によると、興行収入100億円も射程圏内って言われてるくらい、マジでヤバいことになってるらしいよ。東大文学部卒の記者が観て、「お金を払う価値がある」って評価してるんだって。
+モモ: 東大卒の人も絶賛するって、それって本当にすごいことじゃない？ただ可愛いだけじゃないってことかな？
+リナ: そうだね。ちいかわって、もともとSNSで爆発的な人気があったじゃん？あの独特の世界観と、ちょっとシュールで共感できるストーリーが、幅広い層にウケてるんだよね。映画はその魅力を最大限に引き出してるから、社会現象になってるんだと思う。
+モモ: なるほどね〜。あのちょっと不穏な感じとか、友情とか、なんか深いんだよね。
+リナ: そうそう。この話題は、ちいかわファンはもちろん、映画好きやエンタメトレンドを知りたい人には絶対チェックしてほしい！友達との会話で「ちいかわ映画見た？まじでヤバいらしいよ」って話すネタになるし。
+モモ: 確かに！うちらも見たくなってきたー！
+リナ: あと、キャラクタービジネスに関わる人とか、アニメ・映画業界の人は、IP、つまり知的財産の価値をどう最大限に引き出すかとか、SNS発信コンテンツをどうメディア展開していくかっていう成功事例として、めちゃくちゃ参考になるはずだよ。
+モモ: へぇー！ただ可愛いだけじゃなくて、ビジネス的にも神ってことか〜！ちいかわ、まじでエモい！
+リナ: 続いては、AIの話題にいくよ！AI業界でマジで衝撃的なニュースが飛び込んできたんだ。創業半年のAIスタートアップ「Volta」が、AI開発大手「Anthropic（アンスロピック）」と、なんと100億ドル、日本円で約1.5兆円規模の契約を結んだって報道されてるの。
+モモ: 1.5兆円！？ちょっと待って、それって、まじでどういうこと！？創業半年って、生まれたばかりみたいなもんじゃん！
+リナ: そうだよね、普通に考えたらありえない金額だよね。報道ベースだけど、これはVoltaの技術力がマジで半端ないってことと、Anthropicがその技術を喉から手が出るほど欲しがってるってことの表れだよね。AI業界の投資熱がどれだけ高まってるか、象徴する出来事だよ。
+モモ: へぇー！そんなにすごい技術って、どんな感じなのかな？うちらの生活に関係あるのかな？
+リナ: 今のところ詳細は明かされてないけど、AIの進化ってマジで加速してるから、こういう大型契約が生まれることで、新しいサービスとか便利なツールがどんどん出てくるはずだよ。
+モモ: そっか！じゃあ、誰が知っておくと得なのかな？
+リナ: AI業界の大きな動きに関心がある人はもちろん、AIスタートアップの関係者とか、投資家、IT企業の経営者には超重要！AI分野のM&Aとか提携のトレンド、技術評価の動向を把握する上で、マジで注目すべきニュースだよ。
+モモ: 1.5兆円って聞くと、AIの未来がまじで明るい気がしてきた！
+リナ: 同じくAIの話題だけど、今度はもっと身近な事例を紹介するね。静岡市役所がAIを活用した「広聴」システムを導入して、これまで見えなかった“市民の本音”を可視化することに成功したって公式発表があったの。
+モモ: 市役所がAI！？それって、どういうこと？なんか難しそうじゃない？
+リナ: ううん、全然難しくないよ！市民から寄せられる14万件もの電話相談とか、たくさんの声って、これまでは一つ一つ人が対応してたから、全体を分析するのが大変だったんだよね。でも、AIを使うことで、その膨大なデータの中から「市民が本当に何を求めているのか」とか「どんなことに困ってるのか」っていうのを、AIが見つけ出してくれるようになったんだって！
+モモ: えー！それって、まじで神じゃん！なんか「市民の本音」って聞くと、ちょっとドキドキするけど、行政がちゃんと聞いてくれるって感じがしてエモい！
+リナ: そうだよね。このAIが、音声データとかテキストデータから、市民のインサイトを抽出してくれるんだよ。インサイトっていうのは、表面的な言葉だけじゃなくて、その裏にある本当のニーズとか感情のことね。
+モモ: なるほどー！じゃあ、知っておくと誰が得するのかな？
+リナ: これは、地域住民や行政サービスに関心がある人はもちろん、AIが身近な行政をより良くする可能性を知ることで、AIへの理解が深まると思うよ。
+モモ: たしかに！うちらの街でも、もっとAI使ってくれたら便利になりそうだよね。
+リナ: あと、地方自治体の職員さんとか、企業のカスタマーサポート部門の人、データ分析担当者さんにもめちゃくちゃ参考になるはず！AIによるデータ分析が、顧客の声や市場ニーズを深く理解するための有効な手段になるってことを示してるからね。
+モモ: 続いては、ビジネスの話題かな？
+リナ: そうそう！続いては、みんなが毎日使ってるブラウザ、Chrome（クローム）の話題だよ！Google Chromeが、ブラウザの再起動なしにアップデートを適用できる「無停止アップデート」とか、「週2リリース」みたいな高速な更新サイクルを模索してるって報道されてるの。
+モモ: え、まじで？あれって、アップデートするたびに再起動しなきゃいけないのが、ちょっと面倒だったんだよね〜。あれがなくなるってこと？
+リナ: そうなの！報道ベースだけど、もしこれが実現したら、マジでストレスフリーになるよね。セキュリティ強化とか新機能追加のためにアップデートってめちゃくちゃ大事なんだけど、そのたびに作業が中断されるのは、みんなが感じてたプチストレスだったはず。
+モモ: うわー！それって、マジで助かる！ちょっとしたことだけど、地味にイラッとしてたから、神アプデじゃん！
+リナ: だよね！これが解消されれば、利便性が大幅に向上するから、みんなのPC作業がもっと快適になるはずだよ。
+モモ: じゃあ、これはChrome使ってる人全員が得するってことかな？
+リナ: そう！Chromeユーザー全員が知っておくと得だよね。あと、Webサービス開発者さんとか、IT管理者さんにも注目してほしいな。高速なアップデートサイクルと無停止アップデートの技術は、他のソフトウェアやサービス開発にも応用できる可能性があって、今後の開発トレンドに影響を与えるかもしれないからね。
+モモ: なるほどねー！うちらの生活が、またちょっと便利になるかもってことだね！
+リナ: じゃあ、今日の最後は、モモも絶対気になるエンタメ・SNSの話題だよ！Z世代の2026年トレンドに「天女界隈」「ジェリーバッグ」「ファッションスピ」っていう新しいワードが浮上してるって報道されてるの。
+モモ: 天女界隈！？なにそれ、エモそう！なんか透明感とか、儚い感じかな？
+リナ: まさにそんな感じ！報道によると、「天女界隈」っていうのは、透明感や儚さを重視したファッションやメイクのことらしいよ。「ジェリーバッグ」は、その名の通り透明素材のバッグで、中身を見せるのがおしゃれなんだって。
+モモ: えー！中身見せるの、ちょっと勇気いるけど、なんか可愛いかも！てか、「ファッションスピ」って何？
+リナ: 「ファッションスピ」はね、ファッションとスピリチュアルを組み合わせた考え方なんだって。自分の内面とか、心の状態をファッションで表現する、みたいな感じかな。
+モモ: うわー、それってまじでZ世代っぽい！なんか、ただ可愛いだけじゃなくて、自分らしさとか、内面を大事にする感じがエモいよね。
+リナ: そうだよね。Z世代のトレンドって、常にSNSでバズりやすいし、ファッションやライフスタイルにめちゃくちゃ影響を与えるから、これは要チェック！新しい価値観とか消費行動を知る手がかりになるんだよね。
+モモ: うちらも、このトレンドに乗っかってみる？天女メイクとか、挑戦してみたいかも！
+リナ: いいね！これは、Z世代の文化に関心がある人とか、SNSをよく使う人には、会話の引き出しが増えるネタになるはずだよ。
+モモ: 確かに！友達に「天女界隈って知ってる？」って聞いてみよーっと！
+リナ: あと、ファッション・コスメ業界とか、小売業界、SNSマーケティング担当者さんは、ターゲット層の消費行動や価値観を理解して、商品開発とかプロモーション戦略に活かせるから、マジで注目してほしい情報だよ。
+モモ: 今日も新しい発見がいっぱいだったね！
+リナ: 今日をひとことでまとめると、ちいかわもAIも、そしてZ世代のトレンドも、まじで動きまくりで目が離せない一日だったね。
+モモ: うんうん！AIがどんどん身近になってきてるし、エンタメも新しい風が吹いてる感じがするね！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+リナ: バイバイ！
 
 ========================================
 
 【SNS・ニュースレター用下書き】
 【X投稿文】
-1. 🚀AIが自分でお金使う時代到来!? Cloudflareが「AI専用ウォレット」発表で未来が爆速進化中！AI開発者やビジネスパーソンは必見！#AI #クラウドフレア #未来テクノロジー
-2. 🚨まじで泥沼!? OpenAIとAppleが著作権侵害で激アツ法廷バトル中！生成AIの未来のルールはどうなる？クリエイターも企業も要チェック！#OpenAI #Apple #著作権
-3. 👑邦画実写No.1ヒット『キングダム』人気の秘密を徹底解剖！大河ドラマとの共通点って？エンタメ好きもマーケターも必読のヒット分析！#キングダム #映画 #エンタメ
+1. ☀️朝アゲトレンド速報☀️
+『ちいかわ』映画が興収100億円も射程圏内ってまじ！？東大卒記者も絶賛する大ヒットの秘密を深掘り！AI業界では創業半年で1.5兆円契約の衝撃ニュースも。今日のトレンドを10分でサクッとチェックしよ！ #ちいかわ #AIトレンド #Z世代
+2. 【今日のバズワード】Z世代の新トレンド「天女界隈」「ファッションスピ」って知ってる？透明感＆儚さ重視のファッションと、スピリチュアルを融合させる新しい価値観に注目！Chromeの超便利アプデ情報も！ #Z世代トレンド #SNSトレンド #Chrome
+3. AIが行政を変える！？静岡市役所がAIで市民の本音を可視化することに成功！AIスタートアップVoltaとAnthropicの1.5兆円契約から見るAI業界の熱狂を解説！ #AI活用 #行政DX #Volta #Anthropic
 
 【Threads投稿文】
-1. おはようございます！今日のトレンドはAIの進化がまじで止まらない話から！CloudflareがAIエージェント専用の「お財布」機能を発表したんだって！AIが勝手に支払いしてくれるとか、SFの世界が現実になりつつあって鳥肌もの！これって、AIがもっと自律的に動けるようになるってことだから、AIで新しいサービスを考えてる人や、未来の働き方に興味がある人にはまじでアツいニュースだよ！うちらの仕事もAIに任せる部分が増えるかもね！
-2. テック業界の巨頭バトル勃発！OpenAIとAppleが著作権侵害を巡って法廷で争ってるってニュース、知ってた？OpenAIがAppleの主張に全面反論して、メールのやり取りまで公開しちゃうとか、まじでドラマみたい！これって、AIが学習するデータの扱いとか、生成AIの著作権問題にどう決着がつくか、業界全体が注目してる超重要な裁判なんだよね。クリエイターさんもビジネスパーソンも、この裁判の行方はまじでチェックしとくべき！
-3. 今日はエンタメの話題もアツいよ！邦画実写No.1ヒットの『キングダム』シリーズ、なんであんなに人気なんだろうって思ったことない？実は「大河ドラマ」との共通点があるって分析されてるんだって！壮大なスケール感とか、キャラクターの深掘りとか、ヒットするコンテンツにはやっぱり理由があるんだよね。これって、映画ファンはもちろん、SNSでバズる投稿や商品開発のヒントを探してる人にも役立つ情報じゃん？うちらも次バズる企画考えるヒントにしよーっと！
+1. みんな、おはよー！☀️ 今日の朝アゲトレンドは、マジで目が離せないニュースが盛りだくさんだよ！特に『ちいかわ』映画の大ヒットは、うちら世代も超共感するはず！ただ可愛いだけじゃなくて、なぜこんなに社会現象になってるのか、その理由を知ると、会話のネタにもなるし、キャラクタービジネスの裏側まで見えてきちゃうかも😉 AI業界の衝撃契約も、未来の働き方や生活にどう影響するのか、ちょっと想像してみるのも楽しいよね！
+2. Z世代のみんな、2026年のトレンドワード「天女界隈」「ジェリーバッグ」「ファッションスピ」って聞いたことある？🤔 透明感とか儚さを重視するファッションや、スピリチュアルとファッションを組み合わせる新しい価値観、まじでエモいよね！これからの流行を先取りして、自分らしさを表現するヒントにしちゃお！✨ SNSでバズる前にチェックして、友達にドヤ顔で語っちゃお😉
+3. 毎日使うChromeが、再起動なしでアップデートできるようになるかもって、まじで神アプデじゃない！？💻 仕事中とか、集中してる時に急に再起動求められるの、地味にイラッとするよね😂 これが解消されたら、もっとサクサク作業できて、生産性も爆上がりしそう！AIが市役所でも活躍して市民の声を聞いてるって話も、私たちの生活がどんどん便利になってる証拠だよね！AI、まじで優秀すぎ！
 
 【ショート動画用30秒台本】
-リナ: モモ！AIがまじでお金使う時代が来たって知ってた？
-モモ: えー！まじで？AIがお財布持つの？やばーい！
-リナ: CloudflareがAIエージェント専用のウォレットを発表したんだよ！AIが自動でサービス契約したり、必要な情報買ったりする未来がもう目の前！
-モモ: ひえー！SFじゃん！じゃあ、AIに「これ買ってきて」って言ったら、勝手に決済までしてくれるってこと？神じゃん！
-リナ: そうそう！でもね、OpenAIとAppleの法廷バトルとか、AIを支える半導体の投資合戦もまじでアツいの！
-モモ: 企業もAI活用に必死ってことか！今日の朝アゲトレンドは、AIの未来が爆速でアガるニュース満載だよ！
-リナ: 詳しくは本編でチェックしてね！また明日〜！
-モモ: バイバーイ！
+リナ: モモ、ちいかわ映画が興収100億円も狙えるって知ってた？まじでヤバいらしいよ！
+モモ: えー！まじで！？東大卒の人も絶賛してるって聞いたけど、そんなに！？
+リナ: そうなの！そしてAI業界では、創業半年のスタートアップが1.5兆円契約！
+モモ: 1.5兆円！？ちょっと待って、それってどういうこと！？
+リナ: さらに、Z世代の2026年トレンド「天女界隈」って知ってる？
+モモ: 天女界隈！？なにそれ、エモそう！
+リナ: 毎朝10分、リナとモモの朝アゲトレンドで、今日の話題をサクッとチェックしよ！
+モモ: フォローしてね！
 
 【エピソードタイトル案】
-1. AIがお金を使う時代到来!? クラウドフレアが「AI財布」発表で未来爆速！
-2. テック巨頭バトル勃発！Apple vs OpenAIの泥沼訴訟がヤバすぎ！
-3. キングダムヒットの法則発見！AIウォレットも登場で未来がアガる朝！
+1. ちいかわ映画が大ヒット！＆Z世代の新トレンド「天女界隈」って何？
+2. AI業界で1.5兆円契約！自治体もAI活用で市民の本音を可視化
+3. Chromeが週2でアップデート？とZ世代トレンド「ファッションスピ」
 
 【ニュース出典リンク一覧】
-ニュース名：Cloudflareが「AIエージェント専用の財布」を解禁 支出上限つきで自動決済が可能に
-出典名：shiritomo
-URL：https://news.google.com/rss/articles/CBMiQEFVX3lxTE1kNjlJNFNyZkxxUWlPR0E5cHZRckVjeGVDb0J3d05BMW1RYjAtU0ptU2JMTVVZaUtuTFRwMnpIdHA?oc=5
-公式発表か報道ベースか：公式発表（Cloudflare公式プレスリリースに基づく報道）
-
-ニュース名：OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」
-出典名：ITmedia
-URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE9ua2I5aUk5X1hLd2QxakEtbF9qQTNrZ2Q5VFZ1eEdJbE9kaTYwd2daYlBvUDlTR3g5akwySDhVTXAwTDA5QXRjdkdNLURjcFdFMnQ3YzZ6dXVSMldpWTdOUkFmZ25HV2oxZGc?oc=5
-公式発表か報道ベースか：報道ベース（OpenAIが発表した声明に基づく報道）
-
-ニュース名：半導体にAIモデルも 異次元の投資合戦
-出典名：日経クロステック
-URL：https://news.google.com/rss/articles/CBMickFVX3lxTE05d3RHaWJORkNGRENDalRQR3Fsa2EteW1zX01RRk5fWEFfZk02c2hWZV81NGtnU3ViY3ZNOHd0T1hfc28yRXA1MjJ6SllHRjJzaVFGZWVkWmlJNHBxTF9iTm9sMm9LUDFLREdSZXdTbTlzQQ?oc=5
+ニュース名：東大文学部卒が『ちいかわ』映画を観た正直な感想 興収100億円も射程圏内の大ヒットに納得「お金を払う価値がある」
+出典名：Yahoo!ニュース
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dG1ENUxMSmZFYUlCQklFWklCX1M5dS11czVZcl9BYWZsMjNfd29mZWI0QkUwZlFmYnRoWVVsN2JQS0JSUEVrSVkxSGlLbDRtSUdydXJ6UlFPZW5PSG9jYlhQRnNxSTVmMmxwdFVELWhYMVlnN21UUnVaYjdiRG8?oc=5
 公式発表か報道ベースか：報道ベース
 
-ニュース名：AIと安全に接続されたデータ活用基盤の設計法──マルチエージェント導入を成功させる5ステップ
-出典名：EnterpriseZine
-URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMUZqdHlJQ0FUTnNKY1VNcl9OYWV5eWt4RzRERUdhbk96R0xOQkYwQ1dBN1NaQll4VjdjNW5BMmg4TzAwVUI4UGdvcUlvdndBT0dJd2JWRGVSZw?oc=5
-公式発表か報道ベースか：報道ベース（専門家による解説記事）
+ニュース名：創業半年のVoltaがAnthropicと100億ドル契約を結んだ理由
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMiekFVX3lxTE5vXzRBUmhIeV84bjh1U1F4ZnNyaHkwMHhRcjRhREJBYm5rQVZLR1V4ajh0ZGY3dVFCZmxjZ3JMY0lQSk81WXlGcFgwc3hTa2ZjMHpjdy1RRVlidWlMRFZyWWRhLS1QOFMzVFZEQ18yNXRVSnRWM0pXYmtB?oc=5
+公式発表か報道ベースか：報道ベース
 
-ニュース名：26年の邦画実写No.1ヒット『キングダム』､爆発的人気の背景に｢大河ドラマ｣との共通点…"興収100億円超え"の現実味は？
-出典名：東洋経済オンライン
-URL：https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CWHdRMU4xR1JJQ3JFNHZwdHdUMzVuT2tsMjdpYUVGT2FOS2hFSnJ6SzhzUy1pY09YRlBUQmdRSHBmUU9VWXpGeTNWLXRQMXdLcFE?oc=5
+ニュース名：静岡市役所のAIを活用した「広聴」が 14万件の電話では見えなかった"市民の本音"を可視化
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQzVkYzRGZGFpR1RCVWhQLUFITGlERDJNeWdkMElRU3ZSQko3RTY4Zkk1akFPejhJZFFzTHViU3poeXJLb1NuVEFnTHMtbkp5dmRCa3V4MXpUUDFvcTN1RFpEbnlTa2loUlE?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：ブラウザの再起動は不要になる？ Chromeが模索する「週2リリース」と「無停止アップデート」：ITニュースピックアップ
+出典名：ITmedia
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE1FblZ2UDN0RmpYR0cweHVXdjVpT2l1SmdnVERQSlF1Nlh6a281ZTcwcHd4U3g0UzdoOERmU2xaaTNIT1JPbDg4cW9BbEdBQk9DVnZZbmItNWxKZ0RmNW5YNFNyLVQ1STNCVkNUUm93RU55Zlgx?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：Z世代の2026年トレンドに？「天女界隈」「ジェリーバッグ」「ファッションスピ」とは？【THE TIME,】
+出典名：article.auone.jp
+URL：https://news.google.com/rss/articles/CBMibkFVX3lxTE10ck92aHpIdHdJVnVJN1NSWlVhdzN5SEF2WGZBOU44ODdIYThlR3NHY05Nek5veldubUZzTEpxQlhhcTVqajZXZmU1dFRLTHQydnpTWXVzR1ZKd042bmdLempRRHpWNUpBdFFMTGp3?oc=5
 公式発表か報道ベースか：報道ベース
 
 【自己チェック】
-- 公式発表と報道ベースを分けているか。: OK
-- 報道ベースの内容を「発表しました」と言っていないか。: OK
-- 未公開モデルや政府要請を断定していないか。: OK
-- セキュリティや機密データを「安全」と言い切っていないか。: OK
-- 強すぎる断定や煽り表現がないか。: OK
-- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK
-- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。: OK (ビジネス・マーケで2本、エンタメで1本)
-- 芸能人のプライベートな話題や個人批判を扱っていないか。: OK
-- 最後に同じ内容を繰り返していないか。: OK
-- 番組フォローへの導線が自然に入っているか。: OK
-- 出典リンク一覧があるか。: OK
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (エンタメ2本、ビジネス1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
 
 ========================================
 
