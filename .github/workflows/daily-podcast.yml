@@ -2,8 +2,17 @@ name: 毎朝トレンドラジオ - 毎日自動配信
 
 on:
   schedule:
-    # 毎日 6:00 AM JST = 前日 21:00 UTC
+    # 毎日 6:00 AM JST = 前日 21:00 UTC（本命の枠）
     - cron: '0 21 * * *'
+    # --- 予備枠（フォールバック）---
+    # GitHub Actions の定時実行は混雑時に数十分〜数時間ずれたり、丸ごとスキップされることがある。
+    # （実例: 2026-08-07 は 21:00 UTC の枠が発火せず、当日分が配信されなかった）
+    # そのため 40分おきに予備枠を用意し、どれか1つが動けば当日分が必ず出るようにする。
+    # 当日分が既に生成済みの場合、main.py の重複防止で何もせず終了するので二重配信にはならない。
+    - cron: '40 21 * * *'   # 6:40 JST
+    - cron: '20 22 * * *'   # 7:20 JST
+    - cron: '0 23 * * *'    # 8:00 JST
+    - cron: '0 0 * * *'     # 9:00 JST
   workflow_dispatch:
     inputs:
       slot:
@@ -18,6 +27,11 @@ on:
         required: false
         default: false
         type: boolean
+
+# 予備枠と手動実行が重なっても同時に走らせない（重複配信・pushの衝突を防ぐ）
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
 
 jobs:
   generate-episode:
@@ -42,9 +56,13 @@ jobs:
 
       - name: Restore previous feed
         run: |
-          mkdir -p src/output
+          mkdir -p src/output/episodes
           cp -f feed.xml src/output/feed.xml 2>/dev/null || true
           cp -rf scripts src/output/scripts 2>/dev/null || true
+          # 当日分の音声だけ戻す。これが無いと main.py の重複防止が効かず、
+          # 予備枠が動くたびに同じ日のエピソードを作り直してしまう。
+          TODAY_JST=$(TZ=Asia/Tokyo date +%Y%m%d)
+          cp -f episodes/episode_${TODAY_JST}_*.mp3 src/output/episodes/ 2>/dev/null || true
 
       - name: Generate episode
         env:
@@ -84,5 +102,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add episodes/ feed.xml scripts/
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Add ${SLOT} episode $(date +%Y-%m-%d)"
-          git push
+          # 日付はJSTで記録する（UTCだと前日の日付になり、台帳と1日ずれる）
+          git commit -m "Add ${SLOT} episode $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          # 他のpushと競合しても諦めずに3回まで再試行する
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "push失敗。rebaseして再試行します（$i回目）"
+            git pull --rebase origin main || true
+            sleep 5
+          done
+          echo "3回試しましたがpushできませんでした" >&2
+          exit 1
