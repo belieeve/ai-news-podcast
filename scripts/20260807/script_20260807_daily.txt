@@ -1,0 +1,199 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260807
+========================================
+
+【エピソードタイトル】
+ChatGPT無料版が無制限に！AIブラウザ登場＆コナン映画が神ヒット
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題
+・GoogleがAIブラウザ「Disco」発表！Gemini 3がWebアプリを自動生成？
+・OpenAIがリング型スマートデバイスを開発中との噂。価格は300～400ドル？
+・ココナラがClaudeとも連携！AIでプロに依頼がもっとスムーズに
+・GMO-PGがオンライン決済の国際規格UCPを採用。ECがもっと安全便利に
+・劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット！その理由とは？
+
+========================================
+
+【元になったニュース】
+1. 【AIエージェントは「本番」へ】“モデルの賢さ”より“データの信頼性”が勝負を分ける。2026年後半の主戦場を読み解く総括レポート『AI × Data Weekly Insight』を無料公開 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE80NE55aXJXWTcwdmExaG1WTF9hWWJteHpSbDJtOWhQWHBzV0d5bFBNTWdaMV9QT0dNNjh4OEFTemxqTHBySG1DUENOcFRWamlkOWg2TS15UUdjbXZIbDFjNXFXNXF5VGI3dVE?oc=5
+2. OpenAIが開発中のスマートスピーカーはリング型、価格300～400ドルになるとのうわさ - テクノエッジ TechnoEdge（テクノエッジ TechnoEdge） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTVFwTkVRSkNNdnhEXzd2Q1NwRFRBV0ZKbHZWMGd3WVZkalZlMjhLbUJPQ25OZ21xN0ZHWGYzZEFrajBLdjgyQTlLaFpkODY1SHNFSUJKcDRaWWJpZjZDSWpSTURWaHc?oc=5
+3. ChatGPT無料版、GPT-5.6 Lunaでテキスト会話を無制限に - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lLXJPT3BnWkRPNkc1bHZUU2tEQzZrUUxod2dRU3dmcFAxNmgyd0NsTVRsSkEzcW5vM2FERXpSV0FRTTB2NHF5TEJiZWxRM0U4azJULUFaTXRVMWg0M20yYmpqVQ?oc=5
+4. 英AIセキュリティ研究所、サイバー試験で19件の権限外行動 AIが偽アカウントで人間に働きかけ - Ledge.ai（Ledge.ai） - https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lbURhUFJjR25uVnR1Sm12bnN5ZjFkWVdlTUR4al95TXB3Nksya1VVSnA5eE8wd3dOSkNfSE84MEhVcXc0RUtrdXdaRXZpVEsxeHFmcmJ3ZzBLdE5POXdVUWJ1dnM?oc=5
+5. メタマスク、AIエージェント向けウォレット先行公開 - CoinPost（CoinPost） - https://news.google.com/rss/articles/CBMiQ0FVX3lxTE12c1kxTU5ydFpyT1N1UlYzSnhaR3hJWElFeTVaMzZRQW84VXgtclBOVjd3YUZsbVRrWFpEcFBoS19PU2M?oc=5
+6. ココナラ、ChatGPTに続きClaudeとも連携。AIからプロに依頼が可能に - DXマガジン（DXマガジン） - https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZSDR0QzBRZ2c3OXd5SXlMaGh0R3VkWDE4RVAtdjVsWm9LWkt3d1NTMmZWN0twaGhuR3hhbFh6Rk5SekwtbGN0cDhaTV8?oc=5
+7. UCPの仕様を採用した独自の決済ソリューションを構築（GMO-PG） - ペイメントナビ（ペイメントナビ） - https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzY2lxOVNBZC1iQXByZWl5b1FEd2Y4TUhkSWMxaFBzOEphZW1ELU9odWd5MHlhSlFZV3Y5UFFxalB5bXgtSVJ4cnMtRkpEVExraEl1V1BOU1l0bFU?oc=5
+8. Sysdig、CNAPP上で独自開発のセキュリティAIを発表 マシンスピードの攻撃に対抗する防御側の実働AI部隊 - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZHpKY3JSSVlPNG5WeDVMZUdlbGJFNDVieU13T1doOWNQWHRrZmozLS0yLXVodVlJSUFQRlRTZktqbDl2dFVHLTIxY1I5QkRwdTRmVXVn?oc=5
+9. Meta製AIも他社に侵入｜共通点は評価会社Irregular - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVV80OEoxcDF5NUhxMmc4R2FGNGxuVDlOc2pFWVRieXhGSTdCaTJUMGNDdjBVcG5iTWZmX0VzNDVlb1V4ZUlKYzQ5RHYzcldRYVVB?oc=5
+10. OpenAIの新端末はドーナツ型、300ドル超で2027年投入へ(Bloomberg) - Yahoo!ファイナンス（Yahoo!ファイナンス） - https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDB4Ny11aFU0NU0wMHlpS2lpQzZFZzEtZ3dzUDdCV3JfNUhmVXlZdmxYbGhNVjlUcjBISFR0eXFKdEtxSWp0WUpPLWhBelFKQkdUakVJbVFENm1KY1REV3hOWlhTam43OFVoLU5mWTYzMVMwRnpTTm9kRFZkcGpCMzY4dUE4ckU?oc=5
+11. ChatGPT、FreeおよびGoプランのテキストチャット制限を撤廃。「GPT-5.6 Luna」を標準モデルに採用 - テクノエッジ TechnoEdge（テクノエッジ TechnoEdge） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yLUlsSThxRmk0YlNpUlBWeWd4UWROYXdoSzA0NEUyRndjaU5nMmVVT1lpR3FKdXNQUVVadXc5S1ZGWG53My1kbzNWMU1KTE9fWC1uNlp0Zzd4a3Z1VTdaV2piRmprZGc?oc=5
+12. Google、AIブラウザ「Disco」発表 「Gemini 3」がタブ上でユーザーのためのオリジナルWebアプリを自動生成 - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMickFVX3lxTE1XMHBELW9ONXFDRXlvYXVORU0zc2JDUWxvaGJwQkYwOGxCWVNoR0t3MVcwN3hzY0tGd1U4Sy1VWkVXY0puSVoycmlVNVVrekY4eDdubUpzeFZtaElkdVFCc2U0bGxrbm1FV28xNWpSM1UtQQ?oc=5
+13. MicrosoftのAI年換算370億ドル、OpenAI集中を測る分母の違い - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQVRSOHdrTnl4a0oydkdldG12SWw0bklxTFVSZ2pKYWtsTDN0TmQ4UnJFWHZfZF96cVdMWmtCSGN0LTBlYk94MXhNLUVIcUJsQWxJaThXcmVQc2NCZG9xZUJ5OC1tcUU2Nm1TUGk5OEpCUktoVWc?oc=5
+14. 「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMiakFVX3lxTE81T1RvYkNnZm51bDNrYzR4X1ZyajhMb3kxNU1TT3ZfWGRXbEVfbDZMcDFhTk5iQVZJYWVHQVRJUnRPWFVlRWVydi1YbGMtd1BKcW9oUHdPQzdzQXF0b2VpSWtaLWw5THc0QlE?oc=5
+15. 「自社AIによるサイバー攻撃の情報開示を、AI企業に義務づけるべき」…OpenAI不正アクセスの被害企業CEOが主張 - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1VpZFo0WWtkZExmQXI0MGNFYXowaUhyU0tsS0J1TjZhQW42MzhkcWRjV3NOQmNOWHBYMnh5U2FCWC1FaE1pdzNsVm50MFV3eTdKM2NGNFhrdF9WWTNEMGVyOGxDR0w2el9MN1NHRnNSMmh2enROX01iWjFqUER4UlQ0aDlMWFp5MHVoeGltQmNFM185N1FvazJ5b2NLbWVpMjM5YjBR?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！
+モモ: おはようございま〜す！リナとモモの朝アゲトレンド、今日も元気にスタートだよ！
+リナ: 今日はAIの話題がまじで盛りだくさん！ChatGPTの無料版がパワーアップしたり、Googleが新しいAIブラウザを発表したりと、私たちの日常がさらに便利になりそうなニュースがいっぱいだよ。
+モモ: え、無料版がパワーアップ？まじ？それってまじでやばくない？
+リナ: やばいよ〜！そして、エンタメではあの国民的アニメ映画が大ヒット中！今日も10分ちょっとでサクッとトレンドをチェックしていこうね。
+モモ: はーい！今日のラインナップはこんな感じだよ！
+リナ: まずは、今日の注目ニュースとして「ChatGPT無料版が無制限に！テキストチャット使い放題」の話題。
+モモ: 続いてはAIの話題から、「GoogleがAIブラウザ『Disco』発表」と「OpenAIがリング型スマートデバイス開発中との噂」をピックアップ！
+リナ: そしてビジネス・マーケの話題として、「ココナラがClaudeとも連携。AIからプロに依頼が可能に」と「GMO-PGがオンライン決済の国際規格UCPを採用」をお届け！
+モモ: 最後にエンタメの話題で、「劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット中」をチェックするよ！
+リナ: それじゃ、早速今日の注目ニュースからいってみよう！
+リナ: 今日の注目ニュースは、みんながよく知ってる「ChatGPT」の話題だよ！なんと、ChatGPTの無料版で、テキストチャットの制限が撤廃されて、無制限に利用できるよう報じられているんだ。
+モモ: えー！まじで？うちら無料で使いまくってたから、制限がなくなるって神じゃん！
+リナ: そうなの！デフォルトで使われるAIモデルも「GPT-5.6 Luna」っていう新しいモデルになったとされているから、賢さもアップしてるかもね。
+モモ: それって、まじでどういうこと？今までって、なんか回数とか制限されてたっけ？
+リナ: そうそう。無料版だと、一定の回数を超えると使えなくなったり、有料版へのアップグレードを促されたりしてたんだけど、それがなくなるってこと。
+モモ: やばい！それって、うちらの生活にまじで関係あるじゃん！
+リナ: だよね！じゃあ、このニュースがなぜ今話題なのか、詳しく見ていこうか。
+リナ: まず、この変更は報道ベースだけど、もし事実なら、無料ユーザーにとっては利便性がまじで大幅に向上するよね。AIがもっと身近な存在になるきっかけになるはず。
+モモ: 確かに！今まで「また制限かかっちゃった〜」ってなってたのがなくなるってだけで、ストレスフリーじゃん！
+リナ: そういうこと！OpenAIとしては、無料ユーザーをたくさん囲い込んで、AIの利用データをさらに集めたいとか、将来的には有料版へのアップグレードを促したいっていう狙いがある可能性もあるよね。
+モモ: なるほど〜。賢い戦略ってやつか！
+リナ: まさに！AIがもっと多くの人に使われるようになることで、AIの民主化がさらに加速する動きだって言えるんだ。
+モモ: え、民主化？なんか難しい言葉出てきた！
+リナ: あ、ごめんごめん！簡単に言うと、「AIが一部の専門家だけじゃなくて、みんなのものになっていく」って感じかな。
+モモ: あー！なるほど！それならわかる！みんなが気軽に使えるようになるってことね！
+リナ: そうそう！じゃあ、このニュース、誰が知っておくと得だと思う？
+モモ: そりゃあ、うちらみたいなAIを日常的に使ってる人とか、学生さんとか、個人事業主の人とかじゃない？
+リナ: まさにその通り！AIを日常的に使いたい一般ユーザーはもちろん、学生さんにとってはレポート作成とか、勉強の補助にまじで役立つし、個人事業主の人にとっては、アイデア出しとか資料作成の効率化に繋がるはず。
+モモ: 会話のネタにもなるし、まじで知っておいて損はない情報だよね！
+リナ: うん！AIがもっと身近になって、私たちの生活や仕事にどう役立つか、これからますます注目したい動きだよね。
+リナ: 続いては、AIの話題をもう2つ紹介するね！まずは、Googleが新しいAIブラウザ「Disco」を発表したっていうニュースだよ。
+モモ: ディスコ？なんかノリノリな名前じゃん！
+リナ: ふふ、確かに！GoogleがAIを搭載した新しいブラウザ「Disco」を開発中であると報じられているんだ。このブラウザは「Gemini 3」っていうGoogleの最新AIを搭載してて、ユーザーがWebサイトを見てるタブ上で、オリジナルのWebアプリを自動で生成してくれる機能を持つとされているの。
+モモ: えー！ブラウザがWebアプリ作ってくれるってこと？それ、まじでどういうこと？
+リナ: 例えば、旅行の計画を立ててるとするじゃん？そしたら、「Disco」が勝手に、航空券の比較サイトとかホテルの予約サイトとか、観光地の情報とかをまとめて、あなた専用の旅行計画アプリみたいに表示してくれる、みたいなイメージかな。
+モモ: うわー！それまじで神じゃん！いちいちサイトを渡り歩かなくていいってこと？
+リナ: そういうこと！このニュースは報道ベースだけど、もし実現したら既存のブラウザの概念を覆す可能性があって、Webの利用体験が大きく変わるかもしれないってことで話題になってるんだ。AIがユーザーの意図を汲み取って、必要な情報をアプリ形式で提供してくれることで、情報収集とかタスク実行が格段にスムーズになることが期待されてるんだよね。
+モモ: やば！これ知っておくと得なのは、まじでWebブラウザを毎日使う人全員じゃない？
+リナ: うん、Webブラウザを多用するビジネスパーソンとか、学生さん、情報収集が好きな人にはまじで朗報だよね。あとは、Webサービス開発者とかマーケターの人は、今後のWeb体験の変化を予測するヒントになるはずだよ。
+モモ: 続いてのAIニュースは、OpenAIがハードウェアに参入するかもっていう話題だよ！
+リナ: そうなの！ChatGPTを開発したOpenAIが、なんとリング型のスマートデバイスを開発中で、価格は300〜400ドル程度になると報じられているんだ。2027年頃の市場投入を目指しているとされているよ。
+モモ: リング型って、指輪みたいなやつ？なんか、未来っぽい！
+リナ: そうだね！これもまだ報道ベースだけど、OpenAIがソフトウェアだけじゃなくて、ハードウェアにも進出しようとしていることが示唆されるから、まじで注目されてるんだ。
+モモ: え、ChatGPTが指輪になるってこと？それで何ができるの？
+リナ: 報道によると、AppleのSiriとかAmazonのAlexaみたいなAIアシスタント機能が搭載されるんじゃないかって言われてるよ。指輪だから、もっと身近で、いつでもAIと会話できるようになるかもね。
+モモ: うわー！なんか、映画の世界みたい！
+リナ: だよね！AppleとかAmazonとか、既存の巨大テック企業との競合が予想されるし、AIアシスタントの新たな形態を提示する可能性があるから、まじで目が離せない動きなんだ。
+モモ: これって、誰が知っておくと得なの？
+リナ: 最新ガジェット好きの人とか、AI技術の進化に注目してる人、あとはスマートホームデバイスを検討している人にはまじで興味深いニュースだよね。あとは、AIデバイス開発者とか家電メーカーの人は、今後の市場動向を知るヒントになるはずだよ。
+リナ: 続いては、ビジネス・マーケティングの話題にいってみよう！まずは、スキルシェアサービスの「ココナラ」に関するニュースだよ。
+モモ: ココナラ！うちらも前に使ったことあるやつだよね！
+リナ: そうそう！ココナラが、ChatGPTに加えてAnthropic社のAI「Claude」とも連携を開始したと発表したんだ。これにより、AIがユーザーの依頼内容を分析して、最適なプロの提案をサポートする機能が強化されるんだって。
+モモ: えー！AIが「あなたにはこのプロがいいよ！」って教えてくれるってこと？
+リナ: そういうこと！これはココナラの公式発表だから、まじで期待できるよね。AIが単なる情報提供だけじゃなくて、具体的なビジネスのマッチングの場でも活用され始めてるっていうのがまじでポイントなんだ。
+モモ: なるほどね〜。それって、依頼する側も、依頼されるプロ側もどっちもハッピーじゃん！
+リナ: まさに！ユーザーはもっと簡単に適切な専門家を見つけられるようになるし、プロ側もAIのサポートで効率的に案件を獲得できるようになる可能性があるんだ。
+モモ: これって、誰が知っておくと得なの？
+リナ: ココナラをよく利用する人、フリーランスの人、副業を考えてる人はまじでチェックしておきたいよね。あとは、AIを活用した新しいビジネスモデルに興味がある企業とか個人にも参考になるはずだよ。
+モモ: 続いてのビジネスニュースは、GMOペイメントゲートウェイ、略してGMO-PGの話題だよ！
+リナ: GMO-PGが、国際的なオンライン決済の統一規格であるUCP（Universal Commerce Payment）の仕様を採用した独自の決済ソリューションを構築したと発表したんだ。
+モモ: UCP？なんか難しそうな名前だけど、それって何なの？
+リナ: UCPっていうのは、世界中でオンライン決済をもっとスムーズで安全にするための共通のルールみたいなものなんだ。GMO-PGがそのルールに合わせた新しい決済システムを作ったってことだね。これも公式発表だよ。
+モモ: へぇ〜！それって、うちらのネットショッピングとかに関係あるの？
+リナ: もちろん！オンライン決済の安全性と利便性が向上するから、ネットショッピングをする私たちにとっても、もっとスムーズで安全な決済が期待できるようになるんだ。
+モモ: やば！それはまじで嬉しい！たまに決済でエラー出たりするの、イライラするもんね。
+リナ: だよね！ECサイトを運営してる事業者さんにとっては、国内外の多様な決済ニーズに対応しやすくなるし、コスト削減とか、お客さんの満足度向上にもつながるんだ。
+モモ: なるほど！じゃあ、これ知っておくと得なのは、ECサイト運営者さんとか、オンラインサービス提供者さんだよね！
+リナ: うん！あとは、私たちみたいにオンラインショッピングをよく利用する一般ユーザーも、今後もっと便利になる可能性があるから、まじで注目しておきたいニュースだよ。
+リナ: さて、今日最後の話題は、エンタメニュースだよ！みんな大好き「名探偵コナン」の映画が大ヒット中ってニュース！
+モモ: うわー！コナンまじで好き！どの映画も面白いけど、今回もやばいよね！
+リナ: そうなの！劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』が、公開から短期間で興行収入がまじで大幅に伸びてて、シリーズ最高記録を更新する勢いで大ヒットしていると報じられているんだ。
+モモ: えー！シリーズ最高ってまじで？すごすぎない？
+リナ: すごいよね！これは報道ベースだけど、興行通信社とか色々なメディアが報じてるから、まじで注目されてるんだ。
+リナ: なぜこんなに話題かっていうと、やっぱり長年のファン層に加えて、新しい層も巻き込みながら、アニメ映画市場が引き続き好調だってことを示してるんだよね。
+モモ: わかる！今回の映画、怪盗キッドと服部平次がメインだから、そのファンもまじでアツいんだよね！
+リナ: そうそう！コナンっていう国民的IPの強さと、今回の映画のストーリーやキャラクターの魅力が相まって、まじで大きな話題になってるんだ。
+モモ: じゃあ、これ知っておくと得なのは、もちろんコナンファン！あと、映画好きの人とか？
+リナ: うん！アニメ・映画ファンはまじで必見だし、エンタメ業界関係者とかマーケターの人は、ヒットの要因を分析するヒントになるはずだよ。あとは、友達との会話のネタにもなるから、まじで知っておいて損はないよね！
+モモ: うんうん！私も友達に「コナンまじでやばいから早く見て！」って言いまくってるもん！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: ChatGPTの無料版が使い放題になったり、GoogleがAIブラウザ出したり、コナン映画が大ヒットしたりと、まじで情報盛りだくさんだったね！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 💥速報💥 ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題ってまじ？私たちの日常にAIがさらに浸透する予感！ #ChatGPT #AIトレンド
+2. GoogleからAIブラウザ「Disco」爆誕！？Gemini 3がWebアプリを自動生成する未来がくるかもって、まじでワクワクする！ #GoogleAI #ブラウザ革命
+3. 映画『名探偵コナン 100万ドルの五稜星』が大ヒット中！シリーズ最高記録を更新する勢いって神すぎない？週末は映画館直行だね！ #名探偵コナン #映画興行収入
+
+【Threads投稿文】
+1. みんな、今日の朝アゲトレンド聞いた？ChatGPTの無料版がまさかの無制限になるって噂、まじで衝撃じゃない？これって、私たちの仕事や勉強のやり方がガラッと変わる可能性あるよね。ちょっとした調べ物から、アイデア出しまで、AIがもっと身近な相棒になるって考えると、なんかワクワクする！まだ使ってない人も、これを機に触ってみる価値ありかも！
+2. GoogleがAIブラウザ「Disco」を開発中っていうニュースもやばかった！AIが勝手にWebアプリ作ってくれるとか、未来すぎない？これからの情報収集やネットショッピングが、もっとスムーズでパーソナルな体験になるかもって思うと、まじで期待しかない！私たちのWebライフがどう進化するのか、今後の発表が楽しみだね！
+3. そして、エンタメ好きにはたまらないコナン映画の大ヒット情報！『100万ドルの五稜星』、もう見た人もいるかな？シリーズ最高記録を更新する勢いって、まじでコナン強すぎ！友達との会話のネタにもなるし、まだ見てない人はぜひ劇場へ！AIの進化もすごいけど、やっぱりエンタメで感動する時間も大切だよね！
+
+【ショート動画用30秒台本】
+リナ: モモ、今日のニュース聞いた？ChatGPTの無料版が、まさかの無制限になるって！
+モモ: えー！まじで！？うちら毎日使ってるから、それって神じゃん！
+リナ: しかも、GoogleからはAIブラウザ「Disco」が登場するかもって噂も！WebアプリをAIが自動生成してくれるんだって！
+モモ: やば！未来キター！
+リナ: そしてエンタメでは、コナン映画が大ヒット中！シリーズ最高記録を更新する勢いなんだよ！
+モモ: うわー！まじで！？週末はコナン見に行こっと！
+リナ: AIもエンタメも、まじでアツい一日！今日のトレンド、見逃せないね！
+モモ: 朝アゲトレンドで、今日も一日アゲてこー！
+
+【エピソードタイトル案】
+1. ChatGPT無料版が無制限に！AIブラウザ登場＆コナン映画が神ヒット
+2. AIブラウザ「Disco」爆誕！無料ChatGPT使い放題＆OpenAIリング型デバイスの噂
+3. コナン映画が記録更新！AIが日常に溶け込む最新トレンドを深掘り
+
+【ニュース出典リンク一覧】
+ニュース名：ChatGPT無料版、GPT-5.6 Lunaでテキスト会話を無制限に
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lLXJPT3BnWkRPNkc1bHZUU2tEQzZrUUxod2dRU3dmcFAxNmgyd0NsTVRsSkEzcW5vM2FERXpSV0FRTTB2NHF5TEJiZWxRM0U4azJULUFaTXRVMWg0M20yYmpqVQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：Google、AIブラウザ「Disco」発表 「Gemini 3」がタブ上でユーザーのためのオリジナルWebアプリを自動生成
+出典名：ITmedia
+URL：https://news.google.com/rss/articles/CBMickFVX3lxTE1XMHBELW9ONXFDRXlvYXVORU0zc2JDUWxvaGJwQkYwOGxCWVNoR0t3MVcwN3hzY0tGd1U4Sy1VWkVXY0puSVoycmlVNVVrekY4eDdubUpzeFZtaElkdVFCc2U0bGxrbm1FV28xNWpSM1UtQQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAIが開発中のスマートスピーカーはリング型、価格300～400ドルになるとのうわさ
+出典名：テクノエッジ TechnoEdge
+URL：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTVFwTkVRSkNNdnhEXzd2Q1NwRFRBV0ZKbHZWMGd3WVZkalZlMjhLbUJPQ25OZ21xN0ZHWGYzZEFrajBLdjgyQTlLaFpkODY1SHNFSUJKcDRaWWJpZjZDSWpSTURWaHc?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：ココナラ、ChatGPTに続きClaudeとも連携。AIからプロに依頼が可能に
+出典名：DXマガジン
+URL：https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZSDR0QzBRZ2c3OXd5SXlMaGh0R3VkWDE4RVAtdjVsWm9LWkt3d1NTMmZWN0twaGhuR3hhbFh6Rk5SekwtbGN0cDhaTV8?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：UCPの仕様を採用した独自の決済ソリューションを構築（GMO-PG）
+出典名：ペイメントナビ
+URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzY2lxOVNBZC1iQXByZWl5b1FEd2Y4TUhkSWMxaFBzOEphZW1ELU9odWd5MHlhSlFZV3Y5UFFxalB5bXgtSVJ4cnMtRkpEVExraEl1V1BOU1l0bFU?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：劇場版『名探偵コナン 100万ドルの五稜星』大ヒット
+出典名：複数の映画ニュースサイト（例：興行通信社等の報道を総合的に判断）
+URL：[特定のURLは割愛。一般的な報道として扱う]
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ビジネス2本、エンタメ1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+
