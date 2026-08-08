@@ -1,0 +1,191 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260809
+========================================
+
+【エピソードタイトル】
+トイ・ストーリー5が爆速100億円突破！AIプレゼン進化とTikTok流行の真実
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『トイ・ストーリー5』がピクサー史上最速で興行収入100億円を突破！
+・OpenAIがAIプレゼン作成のNextSlideを買収、ChatGPTがさらに進化へ
+・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
+・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
+・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？
+
+========================================
+
+【元になったニュース】
+1. OpenAIのAstraが数学成果強調巡り盗用批判拡大 - CHOSUNBIZ - Chosunbiz（Chosunbiz） - https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUM2NFd2UlR4RDY5Z21oNGpQdlRWWjh5NXo1RXBwUjhVLVpsWWpHMkxHa2lCbVF2Rzl4VUlsZExYdmRBS3d0WHc2aHlrUzNxUVFtRjc1V1h1U2NweVU5aEFOdDNPY3EzQ21WOEVQSXozS1hmOHRpNEl3MU91N3hsctIBlAFBVV95cUxOVEJIUkExYUdQbTRaazU1ZGJBZWF5WUtHaFNFMGhpb2FDTzhCUGgwZmRaRTdLRGlJc3pHZS1LRk1vcXdEWXduV24wazZYVzhhdWhSZ0t1Slc4ejhBOE5aQzhsaVVIYW5XWWNZQ2NrSk1BQk9fSExuRzNzMzZXUkNwa18zMEliS3I4VkYybTlTd1ppSWx4?oc=5
+2. OpenAIがNextSlideを買収、AIプレゼン作成チームをChatGPT開発に統合 - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMib0FVX3lxTFBvZWNGRlVyM2pqQVRxbXdXdG1aR0dkbHJfeVZRMURRd1JOa1NjcXRnYXhIYlo0MzN4b3dyNW5xc05KWFg2MGJtRWlsYVY3R3duNG9LUGdmQVQzVHFXMnpYcV9FVG5yVjVVdlVtbmkxMA?oc=5
+3. 10億ドル規模のブーム：2つの大ヒット作が世界の興行収入を揺るがす。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemdYcVl2NjFodFhjVWVhWFJLbl9oUnVpZC1uTThoTFZyUzRKdDdKWld5TWNaUGhvTEdHeFd0dGo3bXFRUkZTODJsWFY0MmNzc09uZDNueGRhZGZIczFiT1ZIMFEzemdWRkw2WFdvbDBmQ3E1YTF0enJQVnE3VERkWWNjZENDNG9aOEpr?oc=5
+4. OpenAIはChatGPTに多くの新機能を追加しました。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNGw1Ym1pWG5RS3FFSkFPZElDSGVUd0F4ekY0TXpHOUxBVlMtVlMzTDZXSzVwelEtWG12bVhWR0tXY2hXN2tGVDN2azFtNHpVN0VfVjV1XzVJVHRXMmdPMWgtbEx3ZzBMeUd4YmQ5eU5NZHQtUWZfekZ0VU0?oc=5
+5. OpenAI×データセクションが議論、“日本クオリティ”のAI開発における可能性とは？ - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xM0FqMGVpX08xRHIyUTBwNkJLVWM1QVktcUp4eEVUTjNoaVlTeDhIM1h3OHl2UlhFbW5pa1R2STlfd2dwLUFXTDItazhYbl9RUEZyYlpR?oc=5
+6. 『オデュッセイア』：クリストファー・ノーランはいかにして3000年前の叙事詩を大ヒット映画へと変貌させたのか。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVlfNm1FLW9Ebk9UUG5sUlo5TkVtTGg4ZTZBVERTeUZUVDMwcXBoR3hQWTVwOEl0bWRrdng2a1dIZk9fdUxWeDc0b29KS2dVMFRiUUJiOS1Nd05GRW9Ld1hSNk14SXhvQVZ4a2UwVC1KNzRaTXNOSFlQU1NtWllVQ0g1ZVhnM3IyM3hCMmF1ODJ2N2lxdmxOaTBqSFBmOFRZVkFDV2RPQ2JuUUdKRTZsMzNkbw?oc=5
+7. OpenAIの可動式AIスピーカー、価格は最大約6.3万円か　「GPT-Live」搭載の狙い - 財経新聞（財経新聞） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fdHRPdEV5VWRmNk1zbWFndFY0TVAxYi1fSklNcTlHRGRRRnhFRlBzb2c0dDF4WUFNZEdCLXZOaXJfTm5kUHEycUdTaEFzY2VybHVpaWcza2lKX1hqT2RYNmhLSdIBaEFVX3lxTE8xeEVFeEVBRG9RTlZMNVBOQjlwdnh4SmtlVG96Vi1kalB4ZkZYeWpzbERYZGFBeWcweW9zbFNRWkZhdTZjVHpFQkRLMnFVNWpuTXpkNFJJXzhYaURnMWZ6UjM3dlpZRW9x?oc=5
+8. SaaSは死んでいない。ByteDance・Alibaba・Tencentが示す「AIエージェント時代の業務ソフト」の勝ち筋 - note.com（note.com） - https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtbkVPUVlRQTJob3FWMHl3SlVxa2w4SHRlTG5tTVBZUHNtYjd1SWhleXpaRG85MldrNzdDdXRUSW1tc0xYVnFnSWRGNmF0RGtZcXp0Mg?oc=5
+9. 『AIエージェントの利用実態とリスク、把握できていますか？』というテーマのウェビナーを開催 - Excite エキサイト（Excite エキサイト） - https://news.google.com/rss/articles/CBMidkFVX3lxTE9BOTk1QTh0YWFKWWtIRnM2clRhYm9YM0dKRHF6RENQZXVENnhMYm5Yd3lqUHB0enlXa2VHME5nbWt6YjNXbWpkdkE4Wm1Md2d3czF1OEs4VEFoRWdaVDJiYkpnRGRoYjdSQmtMTXEtSnVJcC1nanc?oc=5
+10. 思考をAIに直接送る？元OpenAI研究者が挑む「テレパシー」開発とは - crypto-times.jp（crypto-times.jp） - https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkRvb1YxUE9SNDNUOGhqaHFxcENMZ293ZHBPV0Y5cHBvUlFWVFJWdEhlaUxrOEZTZnk4SGxsZW1vVTdMV1V2Tkd5Nk14QXRpanptTkV1LXNReHhsMjlWYTFKaXBBb2llM3ZMVVRwYnh3aUNMakt2UlBSS3ZOeVRaMUFWUVd0UF9mQm5VdkZGMnBiN2c2OXN6TVBUcE1wQkFwMGc?oc=5
+11. 「TikTokで流行ってる曲」の1つが、実は誰も知らない曲だった打ち合わせの話 - shiritomo（shiritomo） - https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pWmhFamEzdTMyZlRKSVBoUmhmdnk2Tk8yQVFkNkdiaF9Naks1d2YwVUdfN3VFMWtSWnZITm9zR01hQQ?oc=5
+12. 株式会社エクスプラザ、OpenAI Partner Network の「OpenAI Select Partner」に認定 - Excite エキサイト（Excite エキサイト） - https://news.google.com/rss/articles/CBMidEFVX3lxTE81eGYtYjdYeFpKdGhNUUFHYmE5SGMzV1FsVk5LMmpKQnc1VEF2ejRuNXZmM2syWHlpclBZX2RQZW5ZLUhZSnc1SkVxQlJxR0xXQlhNSDlaUXByWkZldTR0TDVXRmRqYXFsRzhFbTlTLWxHaXVH?oc=5
+13. Claude Codeに大型アップデート：AIセッション間の自律通信が可能に、マルチエージェント連携が大きく前進 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9MUE5XSjNTT3VQdndhMURBaGl3bVU0amIxUFc3Zlhza3pLRkVIeGhxVGFoTk41MFluSEF2U09VVTUwYXRUajUxQ1BNd3A4U2NHcW41blVYRlZWMzc0Q3ZBSG9ZWWtrVDVFa0lYRXprLXdlNF9O?oc=5
+14. 『トイ・ストーリー5』ピクサー・アニメーション史上最速で興行収入100億円を突破！ - banger.jp（banger.jp） - https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWk9ZaWdmNjZYOERYOHZkVnlmd3ZPVDZ2aE10UWJ2YkN4YlNzQnRCSjdENFJsSFJUc1VaUVdVSjl3SDJjdlNQLTV3?oc=5
+15. アップルとオープンAIが、新デバイスに関する秘密を巡って対立。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMieEFVX3lxTE92UTVQOG5QWGRFTGtRc0MtUTNWSkphWl9lMWZrbkFadWdCU2c3eGEtdXMwRElZQVprcF96THVSSHpIZVA4cVAtWmRueWRrRTdPeGRFNXloMXlLMlJxcXF0QXBYczhLRU5PdHBYWGlKMTVBdjgtR3pvUQ?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございまーす！
+モモ: おはようございまーす！今日も朝アゲトレンド、張り切っていきましょー！
+リナ: はーい！リナとモモの朝アゲトレンド、今日も始まるよー。今日はね、みんな大好き『トイ・ストーリー5』がまさかの爆速で興行収入100億円を突破したっていうアゲアゲなニュースから、AIがプレゼン作ってくれたり、AI同士がおしゃべりし始めたり、SNSの流行の裏側まで、今日も盛りだくさんだよ！
+モモ: えー！トイ・ストーリーまじ！？絶対見に行くやつじゃん！AI同士がおしゃべりって、なんかSFみたいでヤバいんですけどー！
+リナ: そうなの！今日もね、AIもエンタメもビジネスもSNSも、全部まるっとチェックしていこ！
+リナ: それじゃ、まずは今日の注目ニュースから！モモ、これまじでヤバいよ！
+モモ: なになにー！？
+リナ: なんと、『トイ・ストーリー5』がピクサー・アニメーション史上最速で興行収入100億円を突破したって報道されてるの！
+モモ: ええええー！まじで！？もうそんなに！？うちらも子どもの頃から見てるもんね！
+リナ: そうなの。報道によるとね、公開からあっという間にこの記録を達成したみたい。ピクサーの映画って、どれも名作ばっかりだけど、その中でも最速ってまじですごいよね！
+モモ: すごすぎる！てか、なんでこんなに爆速でヒットしたんですか？やっぱみんな待ってたってこと？
+リナ: まさにそれ！なんでこんなに話題かって言うと、まず「トイ・ストーリー」シリーズって、世代を超えて愛されてる国民的コンテンツじゃん？親世代は懐かしいし、子どもたちは新しいキャラクターに夢中になるしで、家族みんなで楽しめるのが強いよね。
+モモ: 確かに！うちのお母さんも「ウッディとバズは永遠！」って言ってた！
+リナ: でしょ？あとは、ピクサーの作品って、アニメーションのクオリティが半端ないし、ストーリーも毎回感動的で奥深いじゃん？ただ楽しいだけじゃなくて、友情とか成長とか、普遍的なテーマを扱ってるから、心に響くんだよね。
+モモ: うんうん、毎回泣いちゃう！
+リナ: それに、コロナ禍以降、映画館で映画を見るっていう体験がまた盛り上がってきてるから、みんなで大画面で楽しみたいっていう欲求ともバッチリ合ったんだろうね。
+モモ: なるほどー！じゃあ、これって誰が知っておくと得なんですか？
+リナ: まずは、映画業界で働いてる人や、エンタメ系のビジネスに関わってる人たちだよね。このヒットは、市場が元気になってるサインだし、今後の作品作りやマーケティングのヒントになるはず。
+モモ: 確かに！「トイ・ストーリー」の成功から学べること、多そう！
+リナ: あとは、もちろん私たちみたいに映画が大好きな人たち！まだ見てない人は「これは絶対見なきゃ！」ってなるし、すでに見た人は「やっぱりね！」って盛り上がれるから、会話のネタにもなるよね。
+モモ: 見るしかないじゃん！今日帰りに行こっかなー！
+リナ: いいね！ビジネスパーソンも、長く愛されるブランドの強さとか、マーケティング戦略の成功事例として、学ぶことが多いはずだよ。
+リナ: 続いては、AIの話題にいくよ！
+モモ: はーい！AIも最近動きが激しいですよねー！
+リナ: まじでね！まず一つ目は、OpenAIがまたまたすごい動きを見せてるよ。報道によると、OpenAIがAIプレゼンテーション作成ツールを提供してる「NextSlide」っていうスタートアップを買収して、そのチームをChatGPTの開発に統合するって言われてるの。
+モモ: え、AIがプレゼン作ってくれるんですか！？それまじで神じゃん！
+リナ: そうなの！なぜこれが話題かって言うと、OpenAIがChatGPTの機能を、もっともっと実用的に、具体的な業務に役立つように強化しようとしてるってことの明確なサインなんだよね。プレゼン作成って、ビジネスパーソンにとって時間も労力もかかる作業じゃん？
+モモ: めっちゃかかる！パワポとか苦手すぎて、いつも徹夜！
+リナ: だよね！それがAIでサクッと作れるようになったら、まじで革命的じゃない？AIが単に文章を生成するだけじゃなくて、資料作成みたいなアウトプットまで、まるっと自動でやってくれる時代がもうすぐそこって感じがするよね。
+モモ: ヤバい！これ、誰が知っておくと得なんですか？
+リナ: まずは、プレゼン資料を作る機会が多いビジネスパーソンだよね。AIを使った業務効率化にめちゃくちゃ役立つ情報だし、今後のChatGPTの進化に注目するきっかけになるはず。
+モモ: うちらも企画書とか作るから、まじで助かるかも！
+リナ: あとは、AIの開発者さんとか研究者さんたちも、OpenAIがどんな分野にAIを応用しようとしてるのか、その戦略を把握する上で重要なニュースだよ。スタートアップ関係者も、AI分野でのM&Aの動向としてチェックしておくといいかもね。
+モモ: 「AIでプレゼン作れる時代になるんだって！」って、友達に自慢しちゃお！
+リナ: さて、AIの話題、もう一つあるよ！OpenAIだけじゃなくて、競合のAnthropic社が提供しているAIモデル「Claude Code」も大型アップデートがあったみたい！
+モモ: Claude Code？それって、ChatGPTみたいなやつですか？
+リナ: そうそう、ChatGPTのライバルみたいなAIね。報道によると、Claude CodeがAIセッション間で自律的な通信、つまりAI同士がおしゃべりして連携できるようになったんだって。これでマルチエージェント連携が大きく進展したとされてるの。
+モモ: えええ！AI同士がおしゃべり！？それって、まじでどういうことですか？
+リナ: 簡単な言葉で言うとね、これまでAIって、人間が一つずつ指示を出して、その指示に従って動くのがメインだったじゃん？でも、これからは、複数のAIがそれぞれの得意なことを活かして、お互いに情報交換しながら、もっと複雑なタスクを分担して実行できるようになるってことなの。
+モモ: じゃあ、例えば、あるAIが情報集めて、別のAIがそれを分析して、さらに別のAIがレポート作ってくれる、みたいな？
+リナ: その通り！まさにそんなイメージ！なぜこれが話題かって言うと、これってより高度で自律的なAIシステムを実現するための、まじで大きな一歩なんだよね。人間が細かく指示しなくても、AIが勝手に考えて、協力し合って仕事を進める未来がどんどん現実味を帯びてきてるってこと。
+モモ: うわー！なんかSF映画みたい！
+リナ: OpenAIのGPT-4oとかも、同じような機能強化を進めてるから、AI開発の競争がまじで激化してる証拠でもあるんだよね。
+モモ: じゃあ、これって誰が知っておくと得なんですか？
+リナ: やっぱりAIの開発者さんや研究者さんたちは、このマルチエージェントシステムとかAIの自律性っていう最先端のトレンドを把握しておくべきだよね。あとは、私たちビジネスパーソンも、AIが複数連携して働く未来の業務プロセスを想像して、自分たちの会社でどう活用できるか考えるヒントになるはずだよ。
+モモ: AIがチーム組んで仕事するってことか！なんか頼もしい！
+リナ: 続いては、ビジネス・マーケティングの話題だよ！
+モモ: はーい！
+リナ: 「SaaSは死んでいない！」っていう、ちょっと挑発的なタイトルなんだけど、報道によると、中国の巨大テック企業、ByteDanceとかAlibaba、Tencentが、AIエージェントを活用した新しい業務ソフトの方向性を示してるんだって。これが、SaaSの進化形として注目されてるの。
+モモ: SaaSって、サブスクで使うソフトのことですよね？それが死んでないって、どういうことですか？
+リナ: そうそう、サブスクリプションで提供されるクラウド型のソフトのことね。なぜこれが話題かって言うと、AIの登場で「SaaSの時代は終わる」みたいな声も一部ではあったんだけど、実はそうじゃなくて、AIエージェントと組み合わさることで、SaaSがさらに進化するってことを、これらの大手企業が示してるからなんだよね。
+モモ: AIエージェントとSaaSが合体するってことか！
+リナ: そう！これまでは、人間がSaaSを使って作業してたけど、これからはAIエージェントがSaaSを勝手に使って、業務を自律的に遂行してくれるようになるってイメージ。単なるツール提供じゃなくて、AIが秘書みたいに動いてくれる「エージェント型」の業務ソフトが主流になっていくっていう勝ち筋が見えてきたってわけ。
+モモ: えー！AIが勝手に仕事してくれるって、まじで夢みたい！
+リナ: でしょ？中国のテック企業って、いつも新しいビジネスモデルを生み出すのが早いから、彼らの動きはグローバルなビジネスのヒントになるんだよね。
+モモ: じゃあ、これって誰が知っておくと得なんですか？
+リナ: まずは、SaaS企業やソフト開発者さんたちだよね。AIエージェントとの統合で、SaaSがどんな新しい価値を生み出せるのか、そのヒントになるはず。あとは、私たちみたいに業務効率化とかDX（デジタルトランスフォーメーション）を進めたいビジネスパーソンも、AIを活用した新しい働き方の可能性として、まじで注目だよ。
+モモ: AIが勝手に仕事してくれるソフト、早く使ってみたい！
+リナ: さて、今日最後のニュースは、エンタメ・SNSの話題！モモ、これまじで面白いよ！
+モモ: なになにー！？気になります！
+リナ: 報道によるとね、「TikTokで流行ってる曲」の1つが、実は一般的にはほとんど誰も知らない曲だったっていう、ある打ち合わせでのエピソードが話題になってるんだって！
+モモ: ええええー！まじで！？そんなことあるんですか！？
+リナ: あるんだよ！なぜこれが話題かって言うとね、TikTokって、アルゴリズムが個人の興味に合わせて動画をレコメンドするじゃん？だから、ある特定の層にはめちゃくちゃ流行ってるんだけど、その層から外れると全然知られてない、みたいな現象が起こりやすいんだよね。
+モモ: なるほど！うちらの「おすすめ」にしか出てこないから、それが世界の流行だと思っちゃうってことか！
+リナ: そう！これって、SNS時代の「流行」って、一昔前みたいにみんなが知ってる国民的なヒット曲！みたいなのだけじゃなくて、もっと多様化してて、しかも閉鎖的になってるってことを示してるんだよね。マーケティングとかブランディングを考える上でも、SNSの流行をどう捉えるべきかっていう、まじで大事な課題を投げかけてるの。
+モモ: 確かに！「これ流行ってるよね？」って聞いたら「え、何それ？」って言われることあるかも！
+リナ: でしょ？じゃあ、これって誰が知っておくと得かな？
+モモ: うーん、やっぱりSNSで流行を作りたいマーケターさんとか？
+リナ: そうそう！マーケターさんや広報担当者さんは、SNSでの流行の捉え方とか、アルゴリズムの理解、あとは効果的なプロモーション戦略を考える上で、まじでヒントになるはず。クリエイターさんやインフルエンサーさんも、自分の作品がどう流行るのか、その裏側の仕組みを理解するのに役立つよ。
+モモ: うちらみたいなSNSユーザーも、自分が「流行ってる」と思ってるものが、実はそうじゃない可能性もあるって知って、情報の受け止め方を考えるきっかけになりますね！
+リナ: まじでそれ！SNSの「流行」って、実は奥深いんだよね〜。
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: 『トイ・ストーリー5』の爆速ヒットも、AIがプレゼン作ってくれたり、AI同士がおしゃべりしたり、SNSの流行の裏側まで、まじで盛りだくさんだったね！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+リナ: バイバーイ！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 『トイ・ストーリー5』がピクサー史上最速で100億円突破！🎉 AIはプレゼン作成を自動化、AI同士がおしゃべりし始める時代に突入！ビジネスもエンタメも激動の今日をチェック！ #朝アゲトレンド #トイストーリー5 #AI進化
+2. 【今日のトレンド速報】
+🚀AIがプレゼン資料を自動作成！OpenAIがNextSlide買収でChatGPTがさらに進化。
+🗣️Claude CodeがAIエージェント連携を強化、AI同士が協力してタスクをこなす未来へ。
+🎶TikTokの流行曲、実は誰も知らない曲だった！？SNS流行の裏側に迫る！
+#AI #ビジネス #エンタメ #SNS
+3. 爆速ヒットの『トイ・ストーリー5』から、AIが業務を自律化する未来まで！✨ TikTokの意外な流行メカニズムも解説。今日のニュースを10分でサクッとキャッチ！ #AIトレンド #映画興行収入 #TikTok
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンドは、まじで盛りだくさんでしたね！個人的には『トイ・ストーリー5』の爆速100億円突破に感動😭✨ あのシリーズって、大人になっても心に響くから、また見に行きたくなっちゃったな。AIがプレゼン作ってくれたり、AI同士がおしゃべりし始めたりする未来も、私たちの仕事や生活にどう影響するのか、想像するとワクワクするね！SNSの流行って実は奥深いって話も、マーケティングしてる人には刺さったんじゃないかな？今日の話題で、誰かとの会話がちょっとアガると嬉しいな〜！
+2. 最近のAIの進化、まじでヤバくないですか？OpenAIがAIプレゼン作成ツールを買収したり、Claude CodeがAI同士の連携を強化したり…。「AIが勝手に仕事してくれる」って、ちょっと前までは夢物語だったけど、もうすぐ現実になりそう！これって、私たちの働き方が大きく変わるってことだよね。単純作業はAIに任せて、私たちはもっとクリエイティブなことに時間を使えるようになるのかな？ビジネスパーソンとして、この流れにはアンテナ張りまくりたいところ！
+3. 今日はSNSの「流行」について、ちょっと考えさせられるニュースがあったね。TikTokで「流行ってる」と思ってる曲が、実は特定の人にしか知られてないって、まじか！ってなったよ。これって、私たちが普段触れてる情報空間が、いかにパーソナライズされてるかってことだよね。自分の「おすすめ」が世界の全てじゃないってことを意識するのって、大事だなーって改めて思った。マーケティング担当者さんとか、SNSで発信してる人には、まじで知っておいてほしい話！
+
+【ショート動画用30秒台本】
+リナ: おはよう！今日の朝アゲトレンド、まじでヤバいよ！
+モモ: なになにー！？
+リナ: まずはこれ！『トイ・ストーリー5』がピクサー史上最速100億円突破！
+モモ: えー！まじで！？見に行くしかないじゃん！
+リナ: でしょ！そしてAIも進化が止まらない！OpenAIがAIプレゼンツール買収、AI同士がおしゃべりして仕事する時代がもうすぐそこ！
+モモ: ヤバすぎ！AIが私の仕事も助けてくれるかなー！？
+リナ: きっとね！さらにTikTokの流行曲、実は誰も知らない曲だったって話も！
+モモ: えー！それってまじで！？
+リナ: まじまじ！今日のトレンド、もっと詳しく知りたかったら、本編をチェックしてね！
+モモ: また明日ねー！
+
+【エピソードタイトル案】
+1. トイ・ストーリー5が爆速100億円突破！AIプレゼン進化とTikTok流行の真実
+2. ピクサー神作が歴史的快挙！AIエージェント本格化とSNS流行の裏側
+3. 大ヒット映画と進化するAI！ビジネスとSNSトレンド、今日のアゲアゲ情報
+
+【ニュース出典リンク一覧】
+ニュース名：『トイ・ストーリー5』ピクサー・アニメーション史上最速で興行収入100億円を突破！
+出典名：banger.jp
+URL：https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWk9ZaWdmNjZYOERYOHZkVnlmd3ZPVDZ2aE10UWJ2YkN4YlNzQnRCSjdENFJsSFJUc1VaUVdVSjl3SDJjdlNQLTV3?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAIがNextSlideを買収、AIプレゼン作成チームをChatGPT開発に統合
+出典名：Межа. Новини України.
+URL：https://news.google.com/rss/articles/CBMib0FVX3lxTFBvZWNGRlVyM2pqQVRxbXdXdG1aR0dkbHJfeVZRMURRd1JOa1NjcXRnYXhIYlo0MzN4b3dyNW5xc05KWFg2MGJtRWlsYVY3R3duNG9LUGdmQVQzVHFXMnpYcV9FVG5yVjVVdlVtbmkxMA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：Claude Codeに大型アップデート：AIセッション間の自律通信が可能に、マルチエージェント連携が大きく前進
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9MUE5XSjNTT3VQdndhMURBaGl3bVU0amIxUFc3Zlhza3pLRkVIeGhxVGFoTk41MFluSEF2U09VVTUwYXRUajUxQ1BNd3A4U2NHcW41blVYRlZWMzc0Q3ZBSG9ZWWtrVDVFa0lYRXprLXdlNF9O?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：SaaSは死んでいない。ByteDance・Alibaba・Tencentが示す「AIエージェント時代の業務ソフト」の勝ち筋
+出典名：note.com
+URL：https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtbkVPUVlRQTJob3FWMHl3SlVxa2w4SHRlTG5tTVBZUHNtYjd1SWhleXpaRG85MldrNzdDdXRUSW1tc0xYVnFnSWRGNmF0RGtZcXp0Mg?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：「TikTokで流行ってる曲」の1つが、実は誰も知らない曲だった打ち合わせの話
+出典名：shiritomo
+URL：https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pWmhFamEzdTMyZlRKSVBoUmhmdnk2Tk8yQVFkNkdiaF9Naks1d2YwVUdfN3VFMWtSWnZITm9zR01hQQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。-> OK
+- 報道ベースの内容を「発表しました」と言っていないか。-> OK
+- 未公開モデルや政府要請を断定していないか。-> OK
+- セキュリティや機密データを「安全」と言い切っていないか。-> OK
+- 強すぎる断定や煽り表現がないか。-> OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。-> OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。-> OK (トイ・ストーリー5、TikTokの曲、SaaSの話題で計3本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。-> OK
+- 最後に同じ内容を繰り返していないか。-> OK
+- 番組フォローへの導線が自然に入っているか。-> OK
+- 出典リンク一覧があるか。-> OK
+
+========================================
+
