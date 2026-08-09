@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIがサイバー攻撃を画策？OpenAIが開発停止＆スパイダーマン強すぎ！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
+・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
+・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
+・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260810_daily.mp3" length="13335981" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260810_daily</guid>
+      <pubDate>Mon, 10 Aug 2026 06:36:07 +0900</pubDate>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
+・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
+・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
+・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>トイ・ストーリー5が爆速100億円突破！AIプレゼン進化とTikTok流行の真実</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1146,26 +1166,6 @@
 • OpenAIの“危機対応のプロ”は、AIへの不信感を払拭できるのか？ - WIRED.jp
 • アンソロピック、企業価値9000億ドルに到達──OpenAIを抜き世界最高額のAIスタートアップに - Forbes JAPAN</itunes:summary>
       <itunes:episode>28</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月27日</title>
-      <description>今日の話題:
-• ２７日の動意株＞富士通、ＯｐｅｎＡＩおよびＡｎｔｈｒｏｐｉｃと連携開始(ウエルスアドバイザー) - Yahoo!ファイナンス
-• 【AIで開発の質も向上】インターファクトリー 水野謙CTO「AI時代でもプロダクトの肝は人が握る」 - 日本ネット経済新聞
-• Anthropic、バチカンへ―クリス・オラー氏が教皇と並んで訴えた「AIラボ単独の限界」 - innovaTopia
-• Meta、Instagramなど主要アプリに新サブスク「Plus」導入へ 将来は「Meta One」に一本化 - ITmedia
-• 「開発時間70％削減」「新機能リリース24→5日に短縮」 Claude Codeが開発者に選ばれる、納得の理由 - ニコニコニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260527.mp3" length="3666477" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260527</guid>
-      <pubDate>Wed, 27 May 2026 22:48:27 +0000</pubDate>
-      <itunes:duration>03:49</itunes:duration>
-      <itunes:summary>今日の話題:
-• ２７日の動意株＞富士通、ＯｐｅｎＡＩおよびＡｎｔｈｒｏｐｉｃと連携開始(ウエルスアドバイザー) - Yahoo!ファイナンス
-• 【AIで開発の質も向上】インターファクトリー 水野謙CTO「AI時代でもプロダクトの肝は人が握る」 - 日本ネット経済新聞
-• Anthropic、バチカンへ―クリス・オラー氏が教皇と並んで訴えた「AIラボ単独の限界」 - innovaTopia
-• Meta、Instagramなど主要アプリに新サブスク「Plus」導入へ 将来は「Meta One」に一本化 - ITmedia
-• 「開発時間70％削減」「新機能リリース24→5日に短縮」 Claude Codeが開発者に選ばれる、納得の理由 - ニコニコニュース</itunes:summary>
-      <itunes:episode>27</itunes:episode>
     </item>
   </channel>
 </rss>
