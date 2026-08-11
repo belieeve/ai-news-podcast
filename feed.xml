@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>「声優AI」がマジで動き出す！「攻殻機動隊」最新作もアツいAIトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AnthropicがAI生成テキストに「見えない透かし」を導入へ
+・声優業界に新サービス！AIが好きなセリフを生成する時代到来
+・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
+・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
+・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260812_daily.mp3" length="11615277" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260812_daily</guid>
+      <pubDate>Wed, 12 Aug 2026 06:53:30 +0900</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AnthropicがAI生成テキストに「見えない透かし」を導入へ
+・声優業界に新サービス！AIが好きなセリフを生成する時代到来
+・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
+・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
+・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>スパイダーマン爆アゲ！AIも進化止まらんDaybreak再編＆モナリザ爆盛れ！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1148,26 +1170,6 @@
 • 【AIエージェント開発の現在地】「スキル」の登場とコーディングエージェントの進化から紐解く作業の設計 - CodeZine
 • Anthropic が 650 億米ドルの調達で評価額 9,650 億米ドルに到達、IPO 直前に OpenAI を追い抜く - finance.biggo.jp</itunes:summary>
       <itunes:episode>30</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月29日</title>
-      <description>今日の話題:
-• iOS 27におけるSiriとAIの大幅な刷新が明らかに：Appleの反撃。 - Vietnam.vn
-• 【米国株】クラウド監視銘柄が5%超の急騰でソフトウェア株を牽引、マイクロソフトはAIインフラ強化で4%近く上昇 - finance.biggo.jp
-• OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も - ｄメニューニュース
-• 中国にAIチップを売るべきか？ エヌビディアCEOとアンソロピックCEO、公然と批判合戦 - Yahoo!ニュース
-• 【創業以来で最大の変革】Google CEO「ただの“出発点”」／「Gemini Spark」は24時間無休で働くAIエージェント／OpenAI撤退の動画生成で最強「Omni」登場【AI QUEST】 - TBS NEWS DIG</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260529.mp3" length="5043885" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260529</guid>
-      <pubDate>Fri, 29 May 2026 22:43:08 +0000</pubDate>
-      <itunes:duration>05:15</itunes:duration>
-      <itunes:summary>今日の話題:
-• iOS 27におけるSiriとAIの大幅な刷新が明らかに：Appleの反撃。 - Vietnam.vn
-• 【米国株】クラウド監視銘柄が5%超の急騰でソフトウェア株を牽引、マイクロソフトはAIインフラ強化で4%近く上昇 - finance.biggo.jp
-• OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も - ｄメニューニュース
-• 中国にAIチップを売るべきか？ エヌビディアCEOとアンソロピックCEO、公然と批判合戦 - Yahoo!ニュース
-• 【創業以来で最大の変革】Google CEO「ただの“出発点”」／「Gemini Spark」は24時間無休で働くAIエージェント／OpenAI撤退の動画生成で最強「Omni」登場【AI QUEST】 - TBS NEWS DIG</itunes:summary>
-      <itunes:episode>29</itunes:episode>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,168 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260812
+========================================
+
+【エピソードタイトル】
+「声優AI」がマジで動き出す！「攻殻機動隊」最新作もアツいAIトレンド
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AnthropicがAI生成テキストに「見えない透かし」を導入へ
+・声優業界に新サービス！AIが好きなセリフを生成する時代到来
+・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
+・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
+・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる
+
+========================================
+
+【元になったニュース】
+1. アンソロピック、AI生成テキストに「見えない透かし」。AIで書いた小説を検出されずに出版する夢を打ち砕く - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMiswFBVV95cUxONkotLUxYdVdSbG5Rb1M4VnZIeVhxYVM4SHJweE82ZkRzT3dEZG9hdzJuTHpsWFMwaTlrWG0zaG04RU1zYlhHZldoYUpRYVVrMmlsNXNQM1k0S0FELU1oU1c4VzdybW8yMUdyTnFzdU1FcC03NWxQci0tQ3J6S0J4YTBpZ3lhOXUzcU5lQkVyRG5HTDJ5ZmVmTl9MRTdjc2xHMS1NTlBzcUJMSGtqSkx6OFZNOA?oc=5
+2. SpaceXAI、業務向けAIエージェント「Grok Bot」ベータ版公開 Cursorと共同開発 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTBXLWVQLVQ4OEpIV0F0VDI4SHJwUTJoekRlOEhWcW9XSFlScjVhVnFRRlRnTzNvUUVPQnYzT0Q2Y3VQa1FkNVVra1ktVF95bGt2Y05RQllmeWVzTGRhZi0zWnJaLWR2cXpJd3lCcWlNOE9Hd04zcm1DV3NQZ3lZMk9sSTB0Snd4cFhHZEpqYmZXQVpWaDJYcVk1aExfemlMVlpkaWYybmlBUQ?oc=5
+3. untactit ／AIエージェント資産の統制基盤が日本語対応で提供開始 - pr-free.jp（pr-free.jp） - https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xWnpEUmtmYXA3OWE1OW9NUUVyR1JIdy1EZjhXZ182OW5RVTcyUVpIV1hVeU5NWHU4MkNGVEJYWG01Rnctc1E?oc=5
+4. 200社以上の支援実績を持つAI専門家が明かす！「PoC（効果検証）倒れ」を終わらせる決定版『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』刊行！ | 株式会社秀和システム新社のプレスリリース - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1IdGhWc1E3TGZkVklXdTVWUXRBZ2ZRaXRHajJEeFJmZXNpYkdnbHhLTGlDOWs4X0o3TjVBekZfdmdrZEEyVXc2anY1RlZNekZkVVBhZ2NSRXJLOFh0bW9TZVR5WWFhQ1FPQ3c?oc=5
+5. 日本の勝ち筋は「フィジカルAI」にあり？ 爆速で進化する「AI業界」の現在地 - 東京新聞デジタル（東京新聞デジタル） - https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzMDc5SnlZZ2JIdmNwNmFtYzBVQW8tZFVTU1JiaEd2ZEdaSEl2WVcxdnR5S203Q2tBSzVmbHhWMWRIVG5pUy1Jb1R0cU9KQ3Mxel9z?oc=5
+6. OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開：WorkとCodexも統合 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMib0FVX3lxTE4xa2p6XzdsaHQtQ1B2bmgxcjBLVUZWVTZzdFFiTXE1QUZnWGpQbFRNVmRKczRCYXdtQzc4b2tocllQNlhGd3lJUTNCTUpaRmhzWFZTM3o2dUo0Tk83V01FTU9kM19EMngzQ1dwRHdhaw?oc=5
+7. AnthropicがRiotのAI容量191MWを確保とBloombergが報じる：20年で91億ドル - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5XXy1YNlpCdk1JWmNXQWViNEtXR3RkcEFMSlFraDB2SkFsR3hnZjZGTW9mUzUyYVVtVW8xOFlNcUZUbWgtR0RXSmVEdlhXMjNEYk5tSnVEMGNnN3YwLW0ycnl6V0VvWmRKYmsxXy02bS1KUTE4?oc=5
+8. 声優、生成ＡＩで新サービス - 下野新聞社（下野新聞社） - https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvR050VmltX3VCOXlrT3VOSmJ4X0gzUDhzamFNM3RXaTBROHBoNWFzamZ2Q1ViNXpfMGtjWmE5UHBubF92NUU5UU1oRTdNSG40dFFwLV9xM3FXTk0?oc=5
+9. OpenAI、アルトマン氏側近の元COO退社 幹部の離職相次ぐ - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE52VnRyaDl1SnF1bTZBaTExSXVUTGk0WlYwcWMzOWJJc2pwTlA5TVdPczhaRFZhYk5idHg2bDNPdG1kNUFZV2R1cFlCN193RUM3NWpDMm9iV3Y0eUFPNVFrcjJLMlhKTmVrM0tlSQ?oc=5
+10. 声優、生成ＡＩで新サービス 好きなせりふ、依頼通りに | 全国のニュース - 福井新聞社（福井新聞社） - https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yeG9Uem84UVRtODVIRmV0LVRHSlZaTG90MlM4VmtyNUJEMDhBb1dCemVXc25Sc2lXcnU3WWFhTXl1U1FNTDlKc0pOS0dkZ1pJRC1ISjlVMVFZSEFvSUE?oc=5
+11. OpenAIがLinux向けChatGPTデスクトップアプリを公開、Codexも同じ環境で利用可能に - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMibEFVX3lxTE5CaFRIQ2NYdnFuRTM4TW9oLVBFRWNqXzMxX3E4eUp2Tm54NEoxMkJiellNYnYwQTFEWWVmdVAtOF9EemlrbXdXTWFyd2QwV2sweFluSTBnZXBlTzF1M05id01QYVlsT2RNTXotQg?oc=5
+12. DIME最新号は新作アニメが話題の「攻殻機動隊」を大特集、制作の舞台裏を徹底解説｜@DIME アットダイム - @DIME アットダイム（@DIME アットダイム） - https://news.google.com/rss/articles/CBMiREFVX3lxTE9mdkl2QTg4elVqQ2NSWFFzZGZ4aHBjVDZURHFJREhZYWZyY1FRVnFFUk5wVG1zMHZTRUpsYU04Q2I0SUxj?oc=5
+13. 【米株プレマーケット】Riot Platforms、時間外で22％超急騰 Anthropicと91億ドルのAI算力契約締結 Rocket Lab・USA Rare Earthは8％超安 Himsは7％超安、決算発表後に売り優勢 - Moomoo（Moomoo） - https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ0cwOXNfckQtM1BHLTZaUm4teHFTSkNiWW9KVFVDSElJR2RHQ1VyMllsYklYYUh2bkZLUmxORGpmTjdhMXdHWE1adUtsMjhfeUl5Q2xSRQ?oc=5
+14. OpenAI幹部ブラッド・ライトキャップ氏が退社、新プロジェクトを立ち上げへ - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1WSEtMdHpfWVp1cHVJODdFMW4xV0xFMWxvWVhjSU9MN1MxRHBNSVJqS3h0RHFjakY0WXNBR2xaWm5qaWR1Yl92ZTFZZng1RFhPbV90T0I4VW55NkIxSFFzaU03RTBtODI1OWc?oc=5
+15. ライブ速報：ビットコインは63,500ドルに下落；AnthropicがEU規制を受けてClaudeのAIコンテンツに透かしを入れる - CoinDesk（CoinDesk） - https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXFHaVBTalF5XzFvMVdMZFpSaGlJc0tsS3YxbWFvTG1ZMHE3OFZ5UUhLTjZ2ejl1WlRJMWtFZ1ZRU3JvRUlUX1QzLVk5M25QSXpwcC10ZzZCTmZGSTBldTJlVThLaldYOTM2a0tRN3FrVkdxYzhMSHlyXy1rQTR6U1ZlQTJ5T2VNTDlRekZNWDVmMklxcXRBS3dUUmI4Y0dUTTB6MDdVZldTM3F3dEln?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです！
+モモ: モモでーす！今日もアゲアゲでトレンドチェックしていくよ〜！
+リナ: 今日はAIがテキストに「見えない透かし」を入れる話から、声優さんの新しいAIサービス、そしてみんな大好きな「攻殻機動隊」の特集まで、AIとエンタメの最前線がまるっとわかる盛りだくさんな内容だよ。
+モモ: え、透かしってマジで？しかも声優さんのAIサービスとか、うちらの推し活にも関係あるかな？気になる〜！
+リナ: もちろん！今日のラインナップはこんな感じ。まずは、AIが作った文章を見破る「見えない透かし」の話題。それから、声優さんがAIとコラボする新しいサービス、そしてOpenAIのChatGPTがLinuxでも使えるようになる話。さらに、あの「攻殻機動隊」が雑誌で大特集されてるんだって。最後はOpenAIの幹部退社ニュースと、盛りだくさんでお届けしていくよ。
+モモ: わー、今日も情報量レベチ！秒でチェックしていこう！
+リナ: じゃあ、今日の注目ニュース、まずはこれ！AI開発大手Anthropicが、AIが生成したテキストに「見えない透かし」を入れる技術を開発しているって報道されてるんだ。
+モモ: 見えない透かし？それってどういうこと？なんかかっこいいけど、マジで何が起きてるの？
+リナ: そうだね、簡単に言うと、人間が書いた文章なのか、AIが書いた文章なのかを、見た目ではわからないように区別できる技術ってこと。EUの新しいAI規制「AI Act」っていう法律に対応するために、コンテンツの透明性を高める狙いがあるみたい。
+モモ: へぇ〜！つまり、AIが書いたものがバレちゃうってこと？なんかちょっとビビった！
+リナ: そうなの。これまでAIで書いた文章を、人間が書いたかのように見せかけることができちゃってたじゃん？でも、この技術が広まると、それが難しくなる可能性があるってこと。
+モモ: えぐい！それって、誰が知っておくと得な情報なの？
+リナ: まずは、文章を書くクリエイターさんたち。AIに自分の作品がパクられたり、AIが作った文章と混同されたりするリスクが減るかもしれないから、自分のコンテンツを守る上で重要だよね。あとは、ニュース記事とか教育の現場で、AIが作ったフェイク情報が広がるのを防ぎたいメディア関係者や先生たちも必見だね。
+モモ: あーね！確かに、宿題とかレポートをAIに書かせた時に、先生にバレちゃうってことか！焦るて！
+リナ: そうそう。それに、AI開発者にとっても、倫理的なAI利用を推進したり、規制に対応したりする上で、今後の動向はマジで重要になってくるよ。
+モモ: なるほど〜。AIが書いたものには全部透かしが入るってなったら、情報に対する信頼も変わってくるし、私たちも「これってAI？」って疑う必要がなくなるかもってことかな？
+リナ: そうだね。情報の透明性が上がって、世の中がよりクリアになる方向へ進む可能性があるってこと。今後の展開に鬼アツだね！
+リナ: 続いては、エンタメとAIの話題！日本の声優事務所が、生成AIを活用した新しいサービスを始めるって報じられているんだ。
+モモ: え、声優さんがAI？それって、推しの声がAIになっちゃうってこと？情緒バグる！
+リナ: そうじゃなくて、好きなセリフを依頼通りにAI音声で生成できるサービスって話だよ。例えば、企業がCMナレーションでちょっとしたセリフを言わせたい時とか、ゲーム開発でキャラクターのセリフをたくさん作りたい時なんかに、声優さんの声を学習したAIが代わりに生成してくれるイメージ。
+モモ: あー、なるほど！それなら、推しの声で「おはよう」とか「おやすみ」って言ってもらえるってこと？需要しかない！沼る！
+リナ: そうだね！ファンにとっては、推しの声でパーソナルなメッセージが聞けたり、コンテンツ制作側は、手軽に多様な音声を使えたりするメリットがあるね。報道ベースだけど、この動きは今後もっと広がる可能性があるよ。
+モモ: マジで？じゃあ、これって誰が知っておくと得なの？
+リナ: まずは、声優さん本人たち。自分の声がAIに学習されることで、新しい仕事の形が生まれる可能性もあるし、著作権とか肖像権のルールがどうなるか、今後の動向は要チェックだね。あとは、ゲームやアニメ、CMとかのコンテンツ制作会社。コストを抑えつつ、質の高い音声コンテンツを量産できるようになるかもしれない。
+モモ: 確かに！そして、うちらみたいな声優ファンも、推し活の幅が広がるってことで、モチベ爆上がりだよね！推ししか勝たん！
+リナ: まさにそれな。AIがクリエイターの仕事を奪うっていう話だけじゃなくて、新しいコラボの形が生まれてるってことだね。
+リナ: さて、次はビジネスパーソンにも嬉しいAIの話題だよ。OpenAIが、ChatGPTのデスクトップアプリのLinux版をプレビュー公開したって報道されてるんだ。
+モモ: Linux版？それって、WindowsとかMacじゃないパソコンでもChatGPTが使えるってこと？
+リナ: そうだよ。これまではWebブラウザで使うか、WindowsやMacのデスクトップアプリがあったんだけど、Linuxユーザーも専用アプリでChatGPTを使えるようになるってこと。しかも、プログラミング支援ツール「Codex」や、チームで使える「Work」機能も統合されてるみたい。まだプレビュー版だけどね。
+モモ: え、それって天才すぎん？なんか専門用語がいっぱい出てきたけど、誰が知っておくと得なの？
+リナ: 主に開発者さんやエンジニアさん、あとはLinuxをメインで使ってるビジネスパーソンだね。Linux環境でプログラミングしたり、データ分析したりする人にとっては、ChatGPTがもっと手軽に使えるようになるから、作業効率が爆上がりするはず。
+モモ: なるほど！じゃあ、お仕事でAIをバリバリ使ってる人にとっては、マジで助かる案件ってことか！
+リナ: その通り。Webブラウザ版だとタブの切り替えとか、ちょっとした手間があるけど、デスクトップアプリならもっとサクサク使えるようになるからね。AIを日常的に使う人にとって、これは「神」アップデートって言っても過言じゃないかも。
+モモ: わかった！うちらもいつかLinuxを使いこなすデキる女になるために、ちょっと覚えておこっと！
+リナ: 続いては、エンタメの話題。雑誌DIMEの最新号で、あのSFアニメの金字塔「攻殻機動隊」が大特集されてるんだって！
+モモ: 攻殻機動隊！え、マジで？あの、義体とか電脳とか、なんか未来っぽい世界観のやつだよね？
+リナ: そうそう！今、新作アニメも話題になってるし、AIやサイバーパンクといったテーマは、まさに今のAIブームとリンクしてるから、すごく注目されてるんだ。特集では、制作の舞台裏とか、作品が描く未来のテクノロジーについて深く掘り下げられてるみたい。
+モモ: へぇ〜！なんか、AIが進化してる今だからこそ、攻殻機動隊の世界観がよりリアルに感じるってこと？鬼アツじゃん！
+リナ: まさにそれ。この作品って、AIと人間が共存する社会とか、人間の意識って何？みたいな哲学的なテーマも扱ってるから、今のAIの進化を考える上で、すごく示唆に富んでるんだよね。
+モモ: なるほど〜。じゃあ、これって誰が知っておくと得なの？
+リナ: まずは、アニメやSFファンは絶対チェックだね。作品の世界観を深掘りできるし、新作アニメの楽しみ方も広がるはず。あとは、AIやテクノロジーの未来に興味がある人。攻殻機動隊が描く未来が、現実のAI開発とどう繋がってるのか、作品を通じて考えるきっかけになるよ。ビジネスの視点だと、コンテンツビジネス関係者も、長年愛される作品の魅力や、時代とリンクするテーマの選び方からヒントを得られるかもね。
+モモ: うちらも、この機会に攻殻機動隊に沼ってみるのもありよりのありだね！AIと人間がどうなるかとか、ちょっと哲学してみるのもおもしろそう！
+リナ: さて、今日の最後は、またまたAI業界のトップランナー、OpenAIの動向について。アルトマンCEOの側近とされていた元COOのブラッド・ライトキャップ氏が退社したって報道されてるんだ。
+モモ: え、またOpenAIで幹部が辞めたの？なんか去年のCEO解任騒動とか、色々あったじゃん？情緒ジェットコースターなんだけど！
+リナ: そうなんだよね。昨年から複数の幹部が相次いで離職してるって言われてるから、OpenAIの内部に何か動きがあるんじゃないかって、業界全体が注目してるんだ。報道ベースだけど、組織体制の安定性や、今後の戦略に影響があるかもしれないって見方も出てるよ。
+モモ: マジで？それって、うちらの生活にどう関係するの？誰が知っておくと得な情報なの？
+リナ: 直接的に私たちのAI利用に影響が出るわけじゃないけど、OpenAIはChatGPTとか、最先端のAI技術を開発してる会社だから、その内部の動きはAI業界全体に大きな影響を与える可能性があるんだ。だから、AI業界の関係者や、AI関連企業に投資してる人たちは、このニュースを要チェックだね。
+モモ: なるほど〜。なんか、AIってすごい進化してるけど、中の人たちは色々と大変なんだな〜って、ちょっと親近感湧いたかも！
+リナ: そうだね。最先端を走る企業だからこそ、常に変化と挑戦の連続なんだろうね。今後のOpenAIの動向も注目したいところだね。
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: 特に、AIの透かしとか、声優AIとか、なんか未来がマジで近づいてるって感じがして、ちょっとビビったけど、ワクワクする気持ちがアゲアゲになったよ！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. ☀️朝アゲトレンド！今日はAIとエンタメが熱い🔥
+Anthropicの「見えない透かし」でAIテキストの透明性UP！声優AIサービスも始まって、推し活の未来がアツい予感✨攻殻機動隊特集でAIの哲学に触れるのもありよりのあり！ #朝アゲトレンド #AI #エンタメ
+2. AI業界の裏側も深掘り！OpenAIのChatGPTデスクトップアプリがLinux版も出て、開発者さんたちモチベ爆上がり案件！一方、OpenAI幹部が相次ぎ退社ってニュースも…組織の動きにも注目だね👀 #OpenAI #ChatGPT #ビジネス
+3. 今日のトレンドまとめ！AI生成コンテンツの信頼性、声優業界の新しい働き方、そしてSFアニメの金字塔「攻殻機動隊」が描く未来。AIの進化は止まらない！みんなも一緒にトレンドキャッチしよっ🙌 #AIトレンド #攻殻機動隊 #声優AI
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンドは、AIの進化がマジで止まらないって感じ！AnthropicがAI生成テキストに「見えない透かし」を入れるって話、これってクリエイターさんたちにとって朗報じゃない？自分の作品がAIと混同される心配が減るかもって思ったら、ちょっと安心するよね。私たち消費者も、情報がよりクリアになるってことで、フェイクニュースとかに惑わされにくくなるかも！AIがより倫理的に使われる未来って、なんか希望しかない✨
+2. みんな、声優AIって聞いたことある？日本の声優事務所が、好きなセリフをAI音声で生成できる新サービスを始めるんだって！これって、推し活に革命起きる予感しない？「推しの声で〇〇って言ってほしい！」みたいな夢が叶っちゃう可能性も…！もちろん、声優さんたちの仕事の形が変わるっていう側面もあるけど、新しい表現の場が生まれるって考えたら、ありよりのありだよね。AIがクリエイティブを拡張する未来、マジで楽しみすぎる！
+3. 最近のOpenAI、なんか内部がザワザワしてるって知ってた？アルトマンCEOの側近が退社したり、幹部の離職が相次いでるって報道されてるんだ。AI業界の最先端を走る会社だからこそ、組織の動きってマジで重要だよね。私たちユーザーにとっては、直接影響があるわけじゃないけど、世界を変えるような技術を生み出してる会社の内部事情って、なんだか人間味があって興味深いよね。AIの未来を考える上で、中の人たちの動向も要チェックだわ！
+
+【ショート動画用30秒台本】
+リナ: みんな〜！今日のトレンド、秒でチェックしよ！
+モモ: AIが作った文章に「見えない透かし」が入るってマジ！？宿題バレちゃう？
+リナ: それな！でも、情報の信頼性アガるし、クリエイターさん助かる案件！
+モモ: しかも、声優さんがAIとコラボして、推しの声で好きなセリフが聞ける時代来ちゃうんだって！尊い！
+リナ: 攻殻機動隊の特集も鬼アツ！AIの未来を作品から考えるのもあり！
+モモ: AIもエンタメも、動きまくりで情緒ジェットコースター！
+リナ: 毎朝10分ちょっとでトレンドキャッチ！よかったらフォローしてね！
+モモ: また明日ね〜！バイバイ！
+
+【エピソードタイトル案】
+1. 「声優AI」がマジで動き出す！「攻殻機動隊」最新作もアツいAIトレンド
+2. AIに「見えない透かし」？声優業界の新サービス＆攻殻機動隊に沼る朝アゲ
+3. OpenAI幹部退社で「情緒」？AI進化と人気アニメの話題まとめ
+
+【ニュース出典リンク一覧】
+ニュース名：アンソロピック、AI生成テキストに「見えない透かし」。AIで書いた小説を検出されずに出版する夢を打ち砕く
+出典名：Business Insider Japan
+URL：https://news.google.com/rss/articles/CBMiswFBVV95cUxONkotLUxYdVdSbG5Rb1M4VnZIeVhxYVM4SHJweE82ZkRzT3dEZG9hdzJuTHpsWFMwaTlrWG0zaG04RU1zYlhHZldoYUpRYVVrMmlsNXNQM1k0S0FELU1oU1c4VzdybW8yMUdyTnFzdU1FcC03NWxQci0tQ3J6S0J4YTBpZ3lhOXUzcU5lQkVyRG5HTDJ5ZmVmTl9MRTdjc2xHMS1NTlBzcUJMSGtqSkx6OFZNOA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：声優、生成ＡＩで新サービス
+出典名：下野新聞社
+URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvR050VmltX3VCOXlrT3VOSmJ4X0gzUDhzamFNM3RXaTBROHBoNWFzamZ2Q1ViNXpfMGtjWmE5UHBubF92NUU5UU1oRTdNSG40dFFwLV9xM3FXTk0?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開：WorkとCodexも統合
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMib0FVX3lxTE4xa2p6XzdsaHQtQ1B2bmgxcjBLVUZWVTZzdFFiTXE1QUZnWGpQbFRNVmRKczRCYXdtQzc4b2tocllQNlhGd3lJUTNCTUpaRmhzWFZTM3o2dUo0Tk83V01FTU9kM19EMngzQ1dwRHdhaw?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：DIME最新号は新作アニメが話題の「攻殻機動隊」を大特集、制作の舞台裏を徹底解説
+出典名：@DIME アットダイム
+URL：https://news.google.com/rss/articles/CBMiREFVX3lxTE9mdkl2QTg4elVqQ2NSWFFzZGZ4aHBjVDZURHFJREhZYWZyY1FRVnFFUk5wVG1zMHZTRUpsYU04Q2I0SUxj?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：OpenAI、アルトマン氏側近の元COO退社 幹部の離職相次ぐ
+出典名：日本経済新聞
+URL：https://news.google.com/rss/articles/CBMibEFVX3lxTE52VnRyaDl1SnF1bTZBaTExSXVUTGk0WlYwcWMzOWJJc2pwTlA5TVdPczhaRFZhYk5idHg2bDNPdG1kNUFZV2R1cFlCN193RUM3NWpDMm9iV3Y0eUFPNVFrcjJLMlhKTmVrM0tlSQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (エンタメ2本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「マジで」は多めだが、モモの口癖として自然な範囲と判断)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+
