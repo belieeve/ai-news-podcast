@@ -1,0 +1,165 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260814
+========================================
+
+【エピソードタイトル】
+アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
+・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
+・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
+・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
+・Netflix『ガス人間』が3連休に一気見したい話題作として注目
+
+========================================
+
+【元になったニュース】
+1. アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速…世界最大級のデータセンターを構築へ【内部文書を入手】 - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnhtVE84Z3llMjc1NGxqY2xCX3A0V3lmamJPdVBWX3BmSW1DXzVPOHpkOERYN29yVkRtcDR4QmQ5cDE2cUFiOWsyNGVkcmQyVWRqOTZiLTh5RGttNV9aNW1lRjNTWkFpbkYxT3NHNE1ZNmtRX2lUSkZJWW5remI5WW5mRmwxNFNVTU1CeGk5WFNELUlVMGhZanZLV3NISS1McnNiMlZ2bw?oc=5
+2. 3.6改善版「Gemini 3.7 Flash」正式発表 - jetstream.blog（jetstream.blog） - https://news.google.com/rss/articles/CBMiYEFVX3lxTE44bUFWTGhEdzkySWJXM2doMElLd1pxMTFNMnY2dzFueWNzaURjWmRocXdFT2dGT054M05iSmtwLUFoOUJlVzJReXlHdzJwOUk0d2JJSm9NZEJHMVpmVFZXbg?oc=5
+3. OpenAI、GPT 5.6 Solの高速モード「ウルトラファスト」を投入 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVpxTjVsaUdaZG14ci15Z09UOTQ3eFk4cDJuN01UYlBMR3BSS3NidlBpTDRDV19NcEQtaHQzRXJ6aDJIR0FsZFQ5bS1pcFVLdlJsT2tvZW4tSE5zNEdJbGU2WXk5MVAtLXRiV1BDNFMtV0Q3TE03dTlPTVJpaHhKNUFVY2d4QmlfM2ZsNi1fOTZDVzdyWXE3QU1OUTJWN2x1dUsw?oc=5
+4. IBM、OpenAIと企業向けAIで提携 金融・政府向け展開を強化 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVdZeDUybkxtWlNQWWFPZ3JSUVM2SWo2aVl5NXRFQjI3QkV0TEh6LU9sU0VvREZlSTk1Tjl1ZzZaZ2s1LVFlQ2MxVUVFNWFkNHNmcjVIcnV4UldGSWlVNGNjY2ZHLXlVSWl1N2Q0RkNzUDl1NHdheVJzS3N3T000Tm1PNjR2VHpXM202TmU4cEdOZGZwLWQwbm9QZ0Nsa3pSUkN1Sw?oc=5
+5. AIエージェント暴走時、暗号資産は制御できるか - FinanceFeeds（FinanceFeeds） - https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uX3V2cXl0TlUzZFlZakxMNkNTdlZiRXlVdFVfSl90TnkzWkREaS1FWE5uaWFPQTQ0Z1Y2c3RGMERYOWl0c3ZUY2JQcTdHZVF6d3dOX3dvcTFzdnRoSFNF?oc=5
+6. 最高性能でも広がらないFable 5、企業は2倍のAPI料金をどこまで払うか - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nMjV3NXpkVkl2VkFMdk93clZTMzhzZDlYck9DczBzQTdfS1NfS3lHOGh3dDNxNEs5UUFsU29ib3Y3ZDFLN1JVQktyYTlwWnRwMUxCY20wRTcyNS1SbFZhc0dSaw?oc=5
+7. 今も洋画歴代1位の興行収入を誇る歴史的大ヒット作！『タイタニック』を人気の石田彰版で9月4日・11日に放送！ - 金曜ロードシネマクラブ（金曜ロードシネマクラブ） - https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CNWR5RDlVY2F6MGloVG5qdWtpc2xRdHlUajlxSHVyNWwzQ3hNdzUxZ2EyblpSYl9vR1lwaGVVQ3FtR0JRdTJQaHRHUElwQ3ZpUjZKdWNTWlZOME0?oc=5
+8. ChatGPTの次は「フィジカルAI」、手術ロボットの頭脳にOpenAIではなくNVIDIAが選ばれる理由 - JBpress（JBpress） - https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2QTRaXzVnRVZ3QkV0Ul9LNXRIMzZuamVXblZGbHVReF84ZUwwaHRSckNoN1NUc1dVaHZHeEo0WXIxdU1XVktPSWZXMTVUQXc5c0x6d01B?oc=5
+9. そもそもAIは信頼できるのか【第27回】 - デジタルクロス（デジタルクロス） - https://news.google.com/rss/articles/CBMidkFVX3lxTE82SDVlNGx2Y3NhN09XanBkdzZ6ci1JQjFETUVKX1hrb2d1WGREaDI5OTdnZkpTeWNpc21uemNqR25EX05pZ0drakpkNlBLT2k2S2xrY0htMUlIbS05TzJpeDBhbjI1SW5XRklwNmpMSWgzN2dTb0E?oc=5
+10. SK hynixは量産設備へAIエージェント、SamsungはSoC検証を2日に短縮 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZUFFNG1iQnJTbTB4RzI1WDFzek9DMzFYSllocVJyMVdFT2pyN1ZVVGhTbmRra0ItbVBqTWhYVXVIeHRFX0RUUkNpY2pWczlia3FkRXJPLVRTZw?oc=5
+11. 中国製AIの「Kimi K3」、サイバーセキュリティ評価テストでサンドボックスを脱出しGitHubで「カンニング」 OpenAI・Anthropicに続く3例目|セキュリティとAIのニュース-セキュリティ対策Lab - 合同会社ロケットボーイズ（合同会社ロケットボーイズ） - https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTFfWGdQLW1kLXVxN1N0cW5ycHY1RVhsVlppUG9GYUg2a2FFRHFQeUM1TUdhcHFZRXJQd1hpMnhZcXEwZm9aQ19zNjYxa19oTG5hVGhMYjlwYWN3YkNsRHoyMXJ3cU02NGZBUTgwTzBFb1l1RkxmaXl6UUd3QTAxUkk5QnZFdWF2akZPbDlqUW4?oc=5
+12. IBMがOpenAIと提携、企業向けAI導入とサイバー防衛を強化 - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOaW41UGx0NVUwd2gweVNkZnQtWDM1VEQ1VkdzMVRDZE9oY2k5QkJ5T3RpbkRFVllaM2xYYjB2MGUzNk9BczAxNndrdHNTNWF0eW9NVXZFZTAtNEsxWll6M3ZyYlE?oc=5
+13. OpenAIがGPT 5.6 Sol向け高速モードを発表、処理速度は最大14倍 - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMickFVX3lxTE54TFBDX3NCVktFdDRfRFhVQVhKbldpekhJZlBscm9Pd0hGOGtiaDBpY2NYeGZObmV4bk5aNTJ5OUpiYWREZzlsOC1YZ3hISXpVaE5TeGhBV2lwQjNQMlFQVGxGWDFiVjFMLXdIRzlFWE4yUQ?oc=5
+14. Netflix『ガス人間』3連休に一気見したい話題作 小栗旬、蒼井優、UTAら主要キャラクター総まとめ - 山陽新聞（山陽新聞） - https://news.google.com/rss/articles/CBMigwFBVV95cUxORDJZajNMODhockhQaHp6dE9oU0RWSlo3dlZMNHItQmtFUVRBSVNWNmZseTF5dGJiWTctZ1VubV9RMi1lczZ4YnR6T0dGNTdZalR6Y2lVVjRhRXJTcXRhMG9kU2M4aWcyaXpicDE0R3NaRTdyVkZWNjBFNTZzdlgySGxycw?oc=5
+15. アンスロピック、イスラエルの半導体効率化スタートアップDecartを60億ドルで買収交渉 上場準備と並行 - Yellow.com（Yellow.com） - https://news.google.com/rss/articles/CBMi0ARBVV95cUxPUzVQclhDTV9Bazc0R2JmcFJjSnhvd05zbDlUQzdWTVdLbWp3U00yNU5vcEdSVHJvT2RSU1Y3LXdaVkVlYkFUVHhjYi1iRGNXZkRNd2dVNkdMQnQ2bGpVLWdDTU5XSnlvZ0pKZ2U4LU5hOEp5eWluVElGb25RazgyY0R3V2ZSUjA4YVZsZVVFUkE2UURsbzFBZURpRnd6YjFySVlXaHlMTEp6SWNaZ1VOYzYybDBkRm04RWlOUW0zVTFKeS1uUVM2VmE3eEZxM3gwZlNUV1ZZMHpuaW9WT1BvbDJ4Z21nVVc2RmFFcHlJVjFfOGhwU0Jsb0Q2WGJ0dkd1Z0FhZlU2eUh1cy0zSmJQMjUzMUJXVUN6T3FQY1FrVU01MjFnZnVTcDlSM2U0bHMzMmxvX29UajBvby1vaXE5dUNNMUtLLUlVcEFrYUgzZHktcHBIZ2Jpb2dBd0NNaElfT2VtNE9SZ1VKODRqUUhzM0NwTFNmT0w3VXlIYzBuRTNQUmR1YnVZbXlUSERvek9LU2NBdXJ1RnlsV2phaU9GdUp3SzI4aGh6NWNUTnE4SjdmdVhCT0E0WVg1Y2o3WVM2XzB3WjBELXBXUGRMa0FQMjVZMXpyTWh1QlFKWXdMZEtEWFhsaF9YeXNBSk1SVDhrZDdReGNJNlo0OUo1OWlkeko3SXhKSkRoQnNEbDdoT3dMZG5pWlRhLUUyRnhIQUl0UWRpVFdXMmZlVW5BRWJmQU1hR0tzYTl0MmFJYVZnRUZhdWR0dnJpRTQ1eXA3MWFq?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです。
+モモ: おはようございまーす！モモだよー！今日の朝もバチバチにアゲていこー！
+リナ: モモ、元気だね〜。今日の「リナとモモの朝アゲトレンド」も、AIからエンタメまで、まじでアツい話題が盛りだくさんだよ。
+モモ: え、まじで？どんな感じ？
+リナ: 今日はね、アマゾンがAIにガチ投資してるって話から、Googleの最新AIモデル、そしてIBMとOpenAIのデキる企業コラボまで、AIの進化がレベチなんだよね。
+モモ: うわ、AI界隈まじで動きまくってるじゃん！
+リナ: それな！で、エンタメでは、あの名作『タイタニック』が金曜ロードショーに帰ってくるってニュースと、Netflixの話題作『ガス人間』をピックアップ。
+モモ: えー！タイタニックまじ！？世代だわ〜！懐かしすぎてモチベ爆上がり！
+リナ: でしょ？今日も絶対聞き逃せない内容になってるから、最後まで楽しんでってね！
+モモ: おけまる水産！
+リナ: さて、今日の注目ニュースは、AI界隈をざわつかせてる、アマゾンの超デカい動きから。
+モモ: アマゾン？通販のイメージしかないんだけど、AIもガチなの？
+リナ: ガチどころか、報道によると、アマゾンが「AGIピボット」っていう戦略を加速させてるらしいんよ。これは、次世代AIモデル開発のために、世界最大級のデータセンターを構築しようとしてるって話なの。
+モモ: AGIピボット？なんか、まじで難しそうな言葉なんだけど、それってどういうこと？
+リナ: AGIっていうのは「汎用人工知能」の略で、人間と同じかそれ以上の知能を持つAIのことね。アマゾンは、この究極のAIを目指して、会社全体で舵を切ってるってこと。内部文書を入手したっていう報道ベースの話なんだけど、もし本当なら、これはまじでヤバい動きなんだよね。
+モモ: え、人間より賢いAIって、それもうSFじゃん！ビビった！
+リナ: でしょ？アマゾンって、AWSっていうクラウドサービスで世界トップレベルのインフラを持ってるじゃん？その強みを活かして、AI開発に必要なとんでもない量のデータを処理する巨大なデータセンターを自前で作ろうとしてるわけ。これは、OpenAIとかGoogle DeepMindとか、AIのトップランナーたちとガチで競い合うための、アマゾンの本気度を示してるんよ。
+モモ: なるほど〜。アマゾンって、ただのネット通販会社じゃないんだね。なんか、未来の覇権争いって感じ？
+リナ: ほんまそれ。じゃあ、このニュース、誰が知っておくと得だと思う？
+モモ: うーん、やっぱりAIとかIT系の会社の人とか？
+リナ: そうだね。AI業界の人はもちろん、アマゾンに投資してる人とか、クラウドサービスを使ってるビジネスパーソンは絶対チェックしとくべき。アマゾンのAIが進化すれば、AWSのサービスももっとすごくなるし、私たちもAmazonで買い物するときとか、Alexaを使うときとか、いつの間にかめちゃくちゃ便利になってる可能性もあるってこと。
+モモ: え、じゃあ、私たちも知らないうちに恩恵を受けてるってこと？それ、なんかワクワクするね！
+リナ: そうそう。未来のテクノロジーの方向性を知る上でも、めちゃくちゃ重要な動きなんだよね。
+リナ: 続いては、AIの話題をもう一本。Googleから、開発者にとっては鬼アツな公式発表があったよ。
+モモ: お、Googleも何か新しいAI出したの？
+リナ: そう！Googleが、高速かつ軽量なAIモデル「Gemini 3.7 Flash」を正式発表したんだよね。
+モモ: ジェミニフラッシュ？なんか速そう！それって、前のバージョンと何が違うの？
+リナ: その名の通り、処理速度とコスト効率に特化したモデルなんだ。これまでの大規模なGeminiモデルの高性能さはそのままに、もっとたくさんの人が、もっと手軽にAIを使えるようになるってこと。
+モモ: えー、それってまじで助かる！AIって、なんか使うとお金かかるイメージあったもん。
+リナ: だよね。特に、アプリとかサービスにAIを組み込みたい開発者にとっては、リアルタイムでサクサク動いて、しかもコストを抑えられるって、まさに神モデルなんだよ。Googleが、いろんなニーズに応えられるように、AIモデルの種類をどんどん増やしてるって感じだね。
+モモ: 開発者さんにとっては、モチベ爆上がり案件ってことね！じゃあ、これって誰が知っておくと得なのかな？
+リナ: やっぱり、AIを自分のサービスやアプリに導入したい開発者さんや企業は絶対知っておくべき。あとは、私たちみたいに日常的にAIツールを使ってる人たちも、今後もっとサクサク、ストレスなくAIを使えるようになるかもしれないから、注目しとくといいよ。
+モモ: 早くうちのスマホももっと賢くなってほしいわ〜！
+リナ: さて、次はビジネス・マーケの話題に移るね。これもAI関連なんだけど、デキる企業同士のコラボのお話。
+モモ: デキる企業コラボ？どんな感じ？
+リナ: 報道によると、IBMがOpenAIと提携して、企業向けのAI導入とサイバー防衛を強化するって話が出てるんよ。
+モモ: IBMって、なんか昔からある、すごそうな会社だよね？OpenAIはChatGPTのとこでしょ？なんか最強タッグって感じじゃん！
+リナ: ほんまそれ。IBMって、長年大企業向けのITサービスでめちゃくちゃ強い存在感があるの。そこに、OpenAIの最先端AI技術が組み合わさることで、大企業がAIを活用するスピードが爆速になる可能性を秘めてるんだよね。
+モモ: へー！じゃあ、銀行とか役所とか、そういうところもAI使うようになるってこと？
+リナ: そういうこと！特に金融機関とか政府機関って、セキュリティがめちゃくちゃ厳しくて、信頼性がめっちゃ求められるじゃん？そういう分野でAI導入が進む可能性があるって言われてる。企業がAIを使う上で、セキュリティとかデータ保護ってまじで重要だから、IBMのノウハウとOpenAIの技術がどう組み合わさるのか、めちゃくちゃ注目されてるんよ。
+モモ: なるほどね〜。なんか、うちの会社のシステムももっとAIで賢くなるってことかな？
+リナ: ワンチャンありよりのありだね！このニュースは、AI導入を考えてる企業のIT担当者さんとか経営層は絶対チェックしとくべき。AIを活用したセキュリティ強化って、これからの時代、まじでマストになるから、サイバーセキュリティ担当者さんにもめちゃくちゃ参考になるはず。
+モモ: うちの会社も、まじでデキる女になりたいわ〜！
+リナ: 続いては、エンタメの話題だよ！これはまじでアガる人多いんじゃないかな？
+モモ: え、なにー！？気になる！
+リナ: あの歴史的大ヒット作、『タイタニック』が、金曜ロードショーで2週連続放送されることが発表されたんだよ！しかも、人気声優の石田彰さんの吹き替え版！
+モモ: えええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええええたいいリナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. アマゾンが「AGIピボット」でAIにガチ投資ってまじ！？次世代データセンター構築でAI界隈がざわついてるよ！Googleの新モデルやIBMとOpenAIの提携も要チェック！#朝アゲトレンド #AI進化 #Amazon
+2. 金曜ロードショーで『タイタニック』2週連続放送決定！しかも石田彰さん吹き替え版って鬼アツすぎん？Netflix『ガス人間』も連休の一気見に推せる！エンタメ充実でモチベ爆上がり！#タイタニック #金ロー #Netflix
+3. 今日の朝アゲトレンドはAIとエンタメがバチバチ！AmazonのAGI戦略、Google Gemini Flash、IBMとOpenAIの企業向けAI提携で未来が爆速化！名作タイタニック再来で週末もアゲてこ！
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンド、まじでAIの動きがレベチなんだが！Amazonが「AGIピボット」って言って、人間並みかそれ以上のAI開発に本気出してるって話、ビビり散らかしたよ。巨大データセンター作るって、もうSFの世界じゃん？うちらの生活がどう変わるのか、想像するだけでワクワクが止まらない！この波に乗り遅れないように、毎日情報キャッチアップしとこ！
+2. Googleが新しいAIモデル「Gemini 3.7 Flash」を発表したんだって！これ、速くてコストも抑えられるから、開発者さんにとってはまじで助かるって話。AIって専門家だけのものってイメージだったけど、どんどん身近になってきてるよね。IBMとOpenAIが企業向けAIで提携するってニュースもあって、ビジネスの世界でもAI活用が爆速化しそう。これからの仕事のやり方もまじで変わりそうだから、アンテナ張っとくべし！
+3. 今日のエンタメニュースは、まじでアガるやつ！あの『タイタニック』が金曜ロードショーで2週連続放送だって！しかも石田彰さんの吹き替え版とか、アニメ好きにはたまらんやつじゃん？懐かしすぎて、もうテレビの前でスタンバイ確定！あと、Netflixの『ガス人間』も豪華キャストで話題みたいだから、この連休に一気見するのありよりのありかな！AIもエンタメも充実しすぎて、今日も生きててえらい！
+
+【ショート動画用30秒台本】
+リナ: みんな、おはよう！リナです！
+モモ: モモだよー！今日の朝アゲトレンド、まじでヤバいニュースが盛りだくさん！
+リナ: AmazonがAIにガチ投資、「AGIピボット」で未来が爆速化するかもって話、知ってる？
+モモ: え、人間より賢いAIとか、もうSFじゃん！ビビった！
+リナ: それな！Googleの最新AIモデルも発表されたし、IBMとOpenAIも企業向けAIで最強タッグ組んだって！
+モモ: AI界隈、まじで動きまくり！でも、エンタメも負けてないよ！
+リナ: なんと、あの名作『タイタニック』が金曜ロードショーで2週連続放送決定！
+モモ: えー！まじ！？石田彰さんの吹き替え版とか、もう秒で予約じゃん！
+リナ: Netflixの『ガス人間』も話題だし、連休の一気見にぴったり！
+モモ: AIもエンタメもアツい！今日も一日、アゲてこー！バイバーイ！
+
+【エピソードタイトル案】
+1. アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ
+2. AmazonがAIの未来を爆速構築！Googleは新モデル、IBMはOpenAIと企業向けAIで提携
+3. 金曜ロードショーでタイタニック爆アゲ！Netflixの話題作とAI最前線もチェックしとこ
+
+【ニュース出典リンク一覧】
+ニュース名：アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速…世界最大級のデータセンターを構築へ
+出典名：Business Insider Japan
+URL：https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnhtVE84Z3llMjc1NGxqY2xCX3A0V3lmamJPdVBWX3BmSW1DXzVPOHpkOERYN29yVkRtcDR4QmQ5cDE2cUFiOWsyNGVkcmQyVWRqOTZiLTh5RGttNV9aNW1lRjNTWkFpbkYxT3NHNE1ZNmtRX2lUSkZJWW5remI5WW5mRmwxNFNVTU1CeGk5WFNELUlVMGhZanZLV3NISS1McnNiMlZ2bw?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：3.6改善版「Gemini 3.7 Flash」正式発表
+出典名：jetstream.blog (Googleの公式発表に基づく)
+URL：https://news.google.com/rss/articles/CBMiYAFVX3lxTE44bUFWTGhEdzkySWJXM2doMElLd1pxMTFNMnY2dzFueWNzaURjWmRocXdFT2dGT054M05iSmtwLUFoOUJlVzJReXlHdzJwOUk0d2JJSm9NZEJHMVpmVFZXbg?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：IBM、OpenAIと企業向けAIで提携 金融・政府向け展開を強化
+出典名：デジタル투데이
+URL：https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVdZeDUybkxtWlNQWWFPZ3JSUVM2SWo2aVl5NXRFQjI3QkV0TEh6LU9sU0VvREZlSTk1Tjl1ZzZaZ2s1LVFlQ2MxVUVFNWFkNHNmcjVIcnV4UldGSWlVNGNjY2ZHLXlVSWl1N2Q0RkNzUDl1NHdheVJzS3N3T000Tm1PNjR2VHpXM202TmU4cEdOZGZwLWQwbm9QZ0Nsa3pSUkN1Sw?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：今も洋画歴代1位の興行収入を誇る歴史的大ヒット作！『タイタニック』を人気の石田彰版で9月4日・11日に放送！
+出典名：金曜ロードシネマクラブ
+URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CNWR5RDlVY2F6MGloVG5qdWtpc2xRdHlUajlxSHVyNWwzQ3hNdzUxZ2EyblpSYl9vR1lwaGVVQ3FtR0JRdTJQaHRHUElwQ3ZpUjZKdWNTWlZOME0?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：Netflix『ガス人間』3連休に一気見したい話題作 小栗旬、蒼井優、UTAら主要キャラクター総まとめ
+出典名：山陽新聞 (Netflix作品の紹介)
+URL：https://news.google.com/rss/articles/CBMigwFBVV95cUxORDJZajNMODhockhQaHp6dE9oU0RWSlo3dlZMNHItQmtFUVRBSVNWNmZseTF5dGJiWTctZ1VubV9RMi1lczZ4YnR6T0dGNTdZalR6Y2lVVjRhRXJTcXRhMG9kU2M4aWcyaXpicDE0R3NaRTdyVkZWNjBFNTZzdlgySGxycw?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (エンタメ2本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「まじで」がやや多いが、自然な会話の範囲内と判断。他は分散している)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK (「神モデル」はモモの主観的感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

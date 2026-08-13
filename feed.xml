@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
+・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
+・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
+・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
+・Netflix『ガス人間』が3連休に一気見したい話題作として注目</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260814_daily.mp3" length="11710125" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260814_daily</guid>
+      <pubDate>Fri, 14 Aug 2026 06:51:00 +0900</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
+・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
+・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
+・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
+・Netflix『ガス人間』が3連休に一気見したい話題作として注目</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ChatGPTの利用上限が8ドルでリセット可能に？ハイキュー!!映画は歴代トップ10目前！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1152,26 +1174,6 @@
 • OpenAI、サイバー防御力と重要分野のレジリエンス強化を目的とした「日本サイバー・アクションプラン」発表 - ｄメニューニュース
 • 博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始（Web担当者Forum） - Yahoo!ニュース</itunes:summary>
       <itunes:episode>32</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年05月31日</title>
-      <description>今日の話題:
-• Anthropicはなぜ、創業8カ月のバイオAI企業に約4億ドルを投じたのか – exaBase コミュニティ（エクサベースコミュニティ） - community.exawizards.com
-• アンソロピック創業者7人が長者番付入り 企業価値がOpenAI初めて超える - 東京報道新聞
-• ChatGPT広告にソフトウェア企業が殺到している - Business Insider Japan
-• 「AIエージェントも老化する」予定消失、宛先間違え、でも流暢に回答（平和博） - エキスパート - Yahoo!ニュース
-• 富士通とAnthropicが戦略的パートナーシップ契約を締結！AIで重要インフラのサイバー防御を加速 - @DIME アットダイム</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260531.mp3" length="3868461" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260531</guid>
-      <pubDate>Sun, 31 May 2026 22:09:19 +0000</pubDate>
-      <itunes:duration>04:01</itunes:duration>
-      <itunes:summary>今日の話題:
-• Anthropicはなぜ、創業8カ月のバイオAI企業に約4億ドルを投じたのか – exaBase コミュニティ（エクサベースコミュニティ） - community.exawizards.com
-• アンソロピック創業者7人が長者番付入り 企業価値がOpenAI初めて超える - 東京報道新聞
-• ChatGPT広告にソフトウェア企業が殺到している - Business Insider Japan
-• 「AIエージェントも老化する」予定消失、宛先間違え、でも流暢に回答（平和博） - エキスパート - Yahoo!ニュース
-• 富士通とAnthropicが戦略的パートナーシップ契約を締結！AIで重要インフラのサイバー防御を加速 - @DIME アットダイム</itunes:summary>
-      <itunes:episode>31</itunes:episode>
     </item>
   </channel>
 </rss>
