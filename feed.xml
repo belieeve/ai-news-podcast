@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
+・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
+・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
+・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
+・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260815_daily.mp3" length="7772589" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260815_daily</guid>
+      <pubDate>Sat, 15 Aug 2026 06:28:58 +0900</pubDate>
+      <itunes:duration>08:05</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
+・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
+・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
+・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
+・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1154,26 +1176,6 @@
 • マイクロソフト、ＡＩ搭載機器の新時代予告 開発者会議で（ロイター） - Yahoo!ニュース
 • Anthropic、Mythosの防御利用を約200組織へ拡大：脆弱性発見より「修正能力」が焦点に - XenoSpectrum</itunes:summary>
       <itunes:episode>33</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月01日</title>
-      <description>今日の話題:
-• スマホをカバンから出す時代は終わる。Meta「AIグラス」が7万3700円で日本の日常をリライトする - DXマガジン
-• 米MicrosoftとNVIDIAが「AIエージェントPC」Surface Laptop Ultraを発表 - ビジネス+IT
-• NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認：人工知能ニュース - MONOist
-• OpenAI、サイバー防御力と重要分野のレジリエンス強化を目的とした「日本サイバー・アクションプラン」発表 - ｄメニューニュース
-• 博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始（Web担当者Forum） - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260601.mp3" length="4366509" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260601</guid>
-      <pubDate>Mon, 01 Jun 2026 23:07:04 +0000</pubDate>
-      <itunes:duration>04:32</itunes:duration>
-      <itunes:summary>今日の話題:
-• スマホをカバンから出す時代は終わる。Meta「AIグラス」が7万3700円で日本の日常をリライトする - DXマガジン
-• 米MicrosoftとNVIDIAが「AIエージェントPC」Surface Laptop Ultraを発表 - ビジネス+IT
-• NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認：人工知能ニュース - MONOist
-• OpenAI、サイバー防御力と重要分野のレジリエンス強化を目的とした「日本サイバー・アクションプラン」発表 - ｄメニューニュース
-• 博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始（Web担当者Forum） - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>32</itunes:episode>
     </item>
   </channel>
 </rss>

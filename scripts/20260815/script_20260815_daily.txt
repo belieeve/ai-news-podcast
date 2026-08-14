@@ -1,0 +1,182 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260815
+========================================
+
+【エピソードタイトル】
+『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
+・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
+・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
+・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
+・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上
+
+========================================
+
+【元になったニュース】
+1. ナレッジセンスのNotebook AI、社内データから自動生成するレポート機能を発表 - ニュースメディアVOIX（ニュースメディアVOIX） - https://news.google.com/rss/articles/CBMigwFBVV95cUxOWG9oLUpSSjQzMmdvZ1BsaWt6aGtMUzRNUlhUNmJyQmpuQkgtM05OU01xVnNIMFhqY2tqNE5LZEJKaFJRQ2ZCbmF2TTZJTHZMOGRxalRZRzJrMVdrYXplYnltVU9rcGRBRXhuZ2VtUEExcXItZVNGZko0ZFZXdFNiSjlOdw?oc=5
+2. なぜ「SaaSの死」でもWorkday買収？ AIエージェント時代に価値が上がる企業の条件 - ビジネス+IT（ビジネス+IT） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iYXNiU0llSmZnVGhmMmROV29zUVJHUFNkMmVQa2RMTEVBUjFFUTRmR0ZZbkFDOHVVcVdyNVhpYmdEVDVSd29YR1oxZk5YdFc4cnVR?oc=5
+3. モジュール： 2.5 まとめと学習リソース - Binance（Binance） - https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzhua1NGTmhIQ19QWTljdFBTMHkzaG9jd1pRcVdhTTlPdzluVnk0UURUSWlxdUlZLUdYUjhERDVoZXVOQ0dnUkNBRUd3dHRibFBPalJ1LTFSbkFmWHB1QTBGeVdZLU5CUkJLTkl6aDJVM0YxdWJuNjh2Tk9EbDUtTmdmTXRSVzZrbWprQ1dvLVE3WGlQa2xTWWhBek14SEJkeW5PRU5tN21uMlZjbzJFNEtvZ003UGlfQi1HbXhKV2dseEdzcVFITFg4VTNiVE5HZWoxQlNDT056X2ZxbjdpMno2bEFoV2FI?oc=5
+4. ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9zMkdBNnZtcWJMc0ZNMlRvNFVEbmVnR3preGZ0U1N4RFRwSlpuMG85cFZjdUE5ZE5NSzBJdS10bFN6eXBpSUV0MkJNekxtejgtZ0tONXFid3gzSzlVQm9RTUJHemFUX1BVNF84bGlVdTZHUWZf?oc=5
+5. OpenAIの収益ランレートが400億ドルを突破、1年足らずで倍増 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1ienBKZFIzMFpXYU03SWxYQ0hfdmNiYUFYZzJYYlVndkZwNnNtN3JITGx0MG16YXpQVm8wVnVGWjZaQTA1OG1Ic2U0R24ySzlCa0phZ1FTeXI5dFlCTnJnakVad2JnZGpmNTh0bGNpTFJydUhJ?oc=5
+6. Sentrux：AIのコード劣化を止めるオープンソースのセンサー - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVJqc2R3NnZIMHh4VGhKXzJhazJWWHh6dERQTDNIU0N1MXg0Y0xpWVNMdWxKT2YtLXZjN0ZkTzg3OG1sUWh3NG9QR09zQXZWU0hmUmk0MnpLTHdWUW81ckxmaGZEbFRENW5oZ1ZrVmZwbWpiT3F0QWFGU0NOWjI3eXYyVGpEcTV1bXc?oc=5
+7. ピエルルカ・ドーロ氏：1メガバイト未満のブラインドスクリプトが最先端AIエージェントに匹敵、あるいは凌駕する - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ekVReGcyRVMtMVNhY2M0aFdqbU4tUk0yNWxxYTg0a1hZdGMwYzdkbVlxMWtQSzZsanJtX1ZWMTNnZUZTRXAtWXFaWGZPejVaeV9IV1hMdmliQQ?oc=5
+8. Wix Stock Launches Symphony AI Agent Platform and Drives Stock Higher by 16% - TIKR.com（TIKR.com） - https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMm9CQVR5QkJZSW1WRzk3R0RwWjByOURRa1pwUGFVemxrbXBLZ0JJaW1nWDE4dkJ2WmthVG5nRmxtUE15MDY3RkpRTVFJNFowU1NobUppTVRrODhTNmR1Vm9sTHpCVU0wV3plX3Bpd0tPVHdwZWE5Mnh5eWtZQQ?oc=5
+9. CaaSの台頭：エージェント型AIのためのContext-as-a-Service — Omer Primor（Bright Data）｜AI Engineer - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ca2c3TmhSSUlHOUxYcFdPMjFCSGw3T3pEZTJvRDhEdkw4c1JPaHZRWkdfSHVLSENxMF9kTmt4STF4REVYcUg5dUUwTzBJeFFpRXhmbkNVa1dfMTZ5enc?oc=5
+10. AnthropicのClaudeウォーターマークは文法チェックで破れると開発者Theo氏が指摘 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMLTBXcjA4WTNwSDU3UjVhMkE0QjNsTkhxalhUNk1uT2dOWEFsdVhxMTRWeHIxYVJ5LTBuOE1UZjJWclg1cHBFY1kzMllKMVRsMDZ5YllBZnpzdw?oc=5
+11. 世界興収4.7億ドル突破！日本でも中毒者続出＆考察合戦が過熱『オブセッション 災愛』第2弾入場者プレゼント配布開始 - banger.jp（banger.jp） - https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kbzdaeEQ5cEFTQjhSRm1DdzBXbzRuQ1dyZnh4NU1wRlhvZm5VdzNSbkl1Mm8wQXF3SGJnYXc3NzBuZ1FqRlBqakFB?oc=5
+12. 中国Z.ai、新オープンソースモデルがAnthropicの制限付きサイバー防御AIに匹敵と主張 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE4tVmxwZXpVc21OSUx4aVl0STNnS254cW80b1hTVHhhNjlEblYySUlzZ3FpZnVzeEpPeE9oTThadTZ1ZlZGUnFKRVFOODdsNEMxbnBMV3dVOGZnOVVrZlJXd2ZOQmZveDJENUQzREpHMGQ2bnF0?oc=5
+13. OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある - GIGAZINE（GIGAZINE） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9SMWZBVm1EY1JGRFhNcy10Rkd6czkwS0pYTzdGa1FTTjRSSTJ4WFB3UWpvZUZIc1VqaGI0WDRKQjlOcFltUFUtSlc1TURHT1lyOFBmMTJpQU1LVU85WmJZN1NzaVgzRXlSRkE?oc=5
+14. 【Geminiの遅れ・辞めGoogle続出・社内政治の「三重苦」】「でも勝利は揺るがない」今井翔太／AnthropicとOpenAIはアプリがない／3.7 Flashで競争してない【AI QUEST】 - TBS NEWS DIG（TBS NEWS DIG） - https://news.google.com/rss/articles/CBMidEFVX3lxTE4wVzhMSFVMMUNxWDBub1FKUnZqYzJOWmtXdmtOZHprTkZ6OFlVLWJsR1A0dVhCTmIxVUhVclNpa3ZtUjNCLVd1M2U3aWVWYjdPaVRXaWttTld0ZFJJVlhEUXBwdThyODNCajJzZTVLbHFZMjRH?oc=5
+15. 「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドを公開 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcUdCb043Vjh4RjI5dC1tQUFtOEVVdEg5bTB6TDZKemZyTWFTMVZlSnBlMFV4Q0VVc3VIYzJpRXVScUQzVzJNQ3VvemNqbW9JRzN4VTdsWHh0REUtWGx3WThHc1ZrNkU0amc?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！
+モモ: おはようございまーす！
+リナ: 今日も始まったね、リナとモモの朝アゲトレンド！
+モモ: アゲみ〜！今日も世の中のトレンド、しっかりキャッチしていくよ！
+リナ: うん、今日の朝アゲトレンドは、マジでエンタメとAIがバチバチにアツい一日だったね。大ヒット映画の話題から、AI界の巨人OpenAIのヤバすぎる収益報告、あとは私たちが毎日使ってるChatGPTのプライバシー問題まで、盛りだくさんだよ。
+モモ: え、まじで？なんかもう、朝から情報過多で情緒ジェットコースターなんだけど！
+リナ: わかる〜。でも大丈夫！今日のラインナップはこんな感じ！
+リナ: まずは、世界中で中毒者続出中の映画『オブセッション 災愛』の大ヒットの話題！
+モモ: うわ、それ気になってたやつ！
+リナ: 続いては、AIの話題から、OpenAIの収益が爆上がりしてるって話と、ナレッジセンスのNotebook AIが発表した超便利なレポート機能について。
+モモ: へぇ〜、AIがどんどん進化してるんだね。
+リナ: そして、ビジネスの現場でAI導入が進まないっていうリアルな課題を解決するガイドの話題。
+モモ: あー、それ、うちの会社でもワンチャンあるかも！
+リナ: 最後は、ChatGPTの「コンピューター履歴」機能にまつわるプライバシー懸念について深掘りするよ。
+モモ: え、それマジ大事なやつじゃん。ビビった。
+リナ: 今日も10分ちょっとでサクッとトレンド掴んで、モチベ爆上がりで一日スタートしちゃお！
+リナ: それじゃあ、まずは今日の注目ニュースから！モモ、最近何か映画見た？
+モモ: 映画かぁ〜。最近はもっぱらSNSでバズってる映画とかドラマをチェックしてるかな。
+リナ: それな！そんなSNSでも話題沸騰中なのが、映画『オブセッション 災愛』なんだよね。
+モモ: あ、あれだ！なんか考察が止まらないってやつじゃん？
+リナ: そう！この映画が今、世界中で大ヒットを記録してるって話。
+モモ: マジで？どれくらいアツいの？
+リナ: **事実として確認できること:**
+モモ: 740億円！？えぐい！
+リナ: **公式発表なのか、報道ベースなのか:**
+リナ: **なぜ今これが話題なのか（背景や文脈）:**
+モモ: あー、わかる！SNSでみんなが「これってこういうこと？」って盛り上がってるの見ると、自分も観て参加したくなるやつ！沼るやつじゃん。
+リナ: **誰が知っておくと得か。仕事・日常・会話のネタとしてどう使えるか:**
+モモ: てか、私も観たくなってきた！週末の予定、これ確定じゃん！
+リナ: さて、続いてはAIの話題にいくよ。AI界の超大物、OpenAIに関するニュースなんだけど、モモ、OpenAIって聞くと何を思い出す？
+モモ: そりゃあもう、ChatGPTしか勝たん！って感じかな。
+リナ: それな！そのOpenAIが、もうマジでとんでもないことになってるって話なんだよね。
+リナ: **事実として確認できること:**
+モモ: え、ちょ待って。6兆円超え？秒で倍増って、マジでレベチすぎん？
+リナ: **公式発表なのか、報道ベースなのか:**
+リナ: **なぜ今これが話題なのか（背景や文脈）:**
+モモ: なるほど〜。AIって未来の話かと思ってたけど、もう「今」なんだね。もうAIなしじゃ無理ってことか。
+リナ: **誰が知っておくと得か。仕事・日常・会話のネタとしてどう使えるか:**
+モモ: マジか。うちもAIスキル磨かなきゃ、ワンチャン置いてかれるやつじゃん。焦るて。
+リナ: モモが焦ってる間に、もう一つAIの話題いくよ！今度は具体的な業務効率化AIの話。
+モモ: おけまる！なんか助かるやつかな？
+リナ: **事実として確認できること:**
+モモ: え、それマジ神すぎん！？うちの会社にも欲しい！
+リナ: **公式発表なのか、報道ベースなのか:**
+リナ: **なぜ今これが話題なのか（背景や文脈）:**
+モモ: あーね。うちの先輩とか、会議の議事録作るのにマジで時間かかってるもん。あれが秒で終わったら、モチベ爆上がりだよね。
+リナ: **誰が知っておくと得か。仕事・日常・会話のネタとしてどう使えるか:**
+モモ: これ導入されたら、うちの会社もしごできになるじゃん。
+リナ: AIの話題が続いたけど、ここからはビジネス・マーケティングの話題にいくよ。AIを導入したのに、なんかイマイチ効果が出ない…って悩んでる会社って、モモの周りにもいない？
+モモ: わかる！なんか「AI入れたはいいけど、使いこなせてない感」ある会社、ちょいちょい聞くかも。
+リナ: **事実として確認できること:**
+モモ: あー、ツールだけポンって入れてもダメってことか。
+リナ: **公式発表なのか、報道ベースなのか:**
+リナ: **なぜ今これが話題なのか（背景や文脈）:**
+モモ: まじで？AIって魔法じゃないんだね。ちゃんと使いこなすための努力が必要ってことか。
+リナ: **誰が知っておくと得か。仕事・日常・会話のネタとしてどう使えるか:**
+モモ: ちょ、それめっちゃ助かる！うちの上司に教えてあげよっかな。
+リナ: さて、今日最後のニュースは、みんなもよく使うChatGPTに関する、ちょっと気になる話題だよ。
+モモ: ChatGPT、私も毎日使ってるんだけど、何？なんかあった？
+リナ: **事実として確認できること:**
+モモ: え、待って無理！私のMacの履歴、ChatGPTが全部見てるってこと！？ビビり散らかしたんだけど！
+リナ: **公式発表なのか、報道ベースなのか:**
+リナ: **なぜ今これが話題なのか（背景や文脈）:**
+モモ: あーね。便利は嬉しいけど、どこまで知られてるかは気になるよね。なんか監視されてるみたいでゾワっとする。
+リナ: **誰が知っておくと得か。仕事・日常・会話のネタとしてどう使えるか:**
+モモ: まじで？ちょっと今から設定見直してくる！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: 『オブセッション 災愛』大ヒットで考察沼確定だし、OpenAIの収益爆上がりはマジでレベチすぎた！
+リナ: ChatGPTのプライバシー問題とか、AI導入のリアルな課題とか、ちょっと考えさせられる話題もあったけど、AIが私たちの生活やビジネスに与える影響は、もう止められないって感じだよね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: バイバイ〜！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 『オブセッション 災愛』が世界興収4.7億ドル突破で大ヒット中！考察沼にハマる人続出でSNSも鬼アツ🔥 OpenAIの収益が1年で倍増の6兆円超えってマジでレベチすぎん？今日のAIとエンタメは動きまくり！ #朝アゲトレンド
+2. ChatGPTの「コンピューター履歴」機能、Macの操作履歴を追跡って報じられててビビったんだけど😱 プライバシー設定、今すぐ見直すべき？AIの進化と私たちの情報、どう向き合うか考えるべき案件だね。 #AIニュース #プライバシー
+3. AI導入したのに業務効率上がらない問題、うちの会社もワンチャンあるかも…って思ってる人必見！ツール入れるだけじゃダメ🙅‍♀️業務再設計がカギだって！今日の朝アゲトレンドでデキる女確定しちゃお。 #ビジネスAI #業務改善
+
+【Threads投稿文】
+1. みんな、今日の朝アゲトレンド聞いた？映画『オブセッション 災愛』がマジでヤバいらしい！世界中で4.7億ドル突破って、もう大優勝じゃん？私も週末に観て考察沼にハマりたいんだけど、誰かもう観た人いる？感想語り合いたい〜！AI界隈ではOpenAIの収益が爆上がりしてて、もうAIなしの生活は考えられないって改めて実感した朝でした！
+2. 最近、AIツール導入したのに「なんかイマイチ効果ないな〜」って思ってる人いない？それって、ツールが悪いんじゃなくて、業務のやり方そのものを見直せてないのかも！今日のニュースで、AI導入を成功させるには業務再設計が重要って聞いて、うちの会社にも刺さる話だなって思ったよ。これ知っておけば、会社で「デキる女」認定されること間違いなし！私も早速上司にシェアしよっと！
+3. 毎日使ってるChatGPT、実はMacの操作履歴を追跡してるかもってニュース見て、ちょ、待って無理！ってなったんだけど😱 便利さとプライバシーのバランスって、本当に難しいよね。みんな、AIの設定とか利用規約ってちゃんと見てる？私は正直、深く考えてなかったから、今日を機にしっかり確認しなきゃって焦ってる💦 自分の情報は自分で守る意識、マジ大事だね！
+
+【ショート動画用30秒台本】
+リナ: モモ、今日のニュース、マジでAIもエンタメもレベチすぎたね！
+モモ: それな！映画『オブセッション 災愛』が世界中で大ヒットって、もう考察沼確定じゃん！
+リナ: そしてAI界の巨頭OpenAI、収益が1年で倍増して6兆円超えって、マジで成長止まらない！
+モモ: けど、ChatGPTの履歴機能とか、AI導入の落とし穴とか、ちょっと考えさせられる話題もあったよね。
+リナ: そう！便利さの裏側も知って、賢くAIと付き合っていくのが私たちの課題ってこと！
+モモ: 今日もトレンド掴んで、モチベ爆上がりで一日スタートしちゃお！
+リナ&モモ: それじゃ、また明日ね〜！
+
+【エピソードタイトル案】
+1. 『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド
+2. 大ヒット映画からAIの裏側まで！OpenAI収益爆増とChatGPTプライバシー問題に注目
+3. AIもエンタメもアツい一日！効率化AI＆考察映画でモチベ爆上がりトレンドまとめ
+
+【ニュース出典リンク一覧】
+ニュース名：ナレッジセンスのNotebook AI、社内データから自動生成するレポート機能を発表
+出典名：ニュースメディアVOIX
+URL：https://news.google.com/rss/articles/CBMigwFBVV95cUxOWG9oLUpSSjQzMmdvZ1BsaWt6aGtMUzRNUlhUNmJyQmpuQkgtM05OU01xVnNIMFhqY2tqNE5LZEJKaFJRQ2ZCbmF2TTZJTHZMOGRxalRZRzJrMVdrYXplYnltVU9rcGRBRXhuZ2VtUEExcXItZVNGZko0ZFZXdFNiSjlOdw?oc=5
+公式発表か報道ベースか：報道ベース（企業発表をメディアが報じている）
+
+ニュース名：OpenAIの収益ランレートが400億ドルを突破、1年足らずで倍増
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE1ienBKZFIzMFpXYU03SWxYQ0hfdmNiYUFYZzJYYlVndkZwNnNtN3JITGx0MG16YXpQVm8wVnVGWjZaQTA1OG1Ic2U0R24ySzlCa0phZ1FTeXI5dFlCTnJnakVad2JnZGpmNTh0bGNpTFJydUhJ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9zMkdBNnZtcWJMc0ZNMlRvNFVEbmVnR3preGZ0U1N4RFRwSlpuMG85cFZjdUE5ZE5NSzBJdS10bFN6eXBpSUV0MkJNekxtejgtZ0tONXFid3gzSzlVQm9RTUJGemFUX1BVNF84bGlVdTZHUWZf?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：世界興収4.7億ドル突破！日本でも中毒者続出＆考察合戦が過熱『オブセッション 災愛』第2弾入場者プレゼント配布開始
+出典名：banger.jp
+URL：https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kbzdaeEQ5cEFTQjhSRm1DdzBXbzRuQ1dyZnh4NU1wRlhvZm5VdzNSbkl1Mm8wQXF3SGJnYXc3NzBuZ1FqRlBqakFB?oc=5
+公式発表か報道ベースか：報道ベース（映画のヒット状況とキャンペーンをメディアが報じている）
+
+ニュース名：「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドを公開
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcUdCb043Vjh4RjI5dC1tQUFtOEVVdEg5bTB6TDZKemZyTWFTMVZlSnBlMFV4Q0VVc3VIYzJpRXVScUQzVzJNQ3VvemNqbW9JRzN4VTdsWHh0REUtWGx3WThHc3ZrNkU0amc?oc=5
+公式発表か報道ベースか：公式発表（企業がガイド公開をプレスリリースで発表）
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。-> OK
+- 報道ベースの内容を「発表しました」と言っていないか。-> OK
+- 未公開モデルや政府要請を断定していないか。-> OK
+- セキュリティや機密データを「安全」と言い切っていないか。-> OK
+- 強すぎる断定や煽り表現がないか。-> OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないかか。-> OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。-> OK
+- 芸能人のプライベートな話題や個人批判を扱っていないか。-> OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。-> OK
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。-> OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。-> OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。-> OK
+- 「◯◯
+
+========================================
+
