@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>スパイダーマン大ヒットで大優勝！AIは透かしと爆速進化、韓国グルメも爆アゲトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』が数々の記録を塗り替え、ハリウッド映画ブームを巻き起こしている
+・AnthropicがClaudeの文章に隠し透かしを導入、AI生成コンテンツの識別を強化
+・OpenAIが「Ultrafast」を発表、GPT-5.6 Solを毎秒最大750トークンで処理可能に
+・バイク関連の販売経営でAI活用が進み、業務効率化や顧客管理に貢献
+・SNSで話題沸騰！韓国の夏定番「ロゼコングクス」が進化してバズり中</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260816_daily.mp3" length="11034669" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260816_daily</guid>
+      <pubDate>Sun, 16 Aug 2026 06:26:46 +0900</pubDate>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』が数々の記録を塗り替え、ハリウッド映画ブームを巻き起こしている
+・AnthropicがClaudeの文章に隠し透かしを導入、AI生成コンテンツの識別を強化
+・OpenAIが「Ultrafast」を発表、GPT-5.6 Solを毎秒最大750トークンで処理可能に
+・バイク関連の販売経営でAI活用が進み、業務効率化や顧客管理に貢献
+・SNSで話題沸騰！韓国の夏定番「ロゼコングクス」が進化してバズり中</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1156,26 +1178,6 @@
 • 従業員の 52 ％は未承認の AI ツールを利用、Okta グローバル調査（ScanNetSecurity） - Yahoo!ニュース
 • GMOあおぞらネット銀行が3つのAIエージェント化を同時宣言 粗利益、法人口座数、BaaS契約数を5年で倍増へ - ペイメントナビ</itunes:summary>
       <itunes:episode>34</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月02日</title>
-      <description>今日の話題:
-• チェック・ポイント、「攻撃者のように推論する」エクスポージャー管理のAIエージェントを提供開始 - EnterpriseZine
-• 今年のCOMPUTEXを一言で言うと〇〇、初日取材まとめ - ASCII.jp
-• Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露 - ITmedia
-• マイクロソフト、ＡＩ搭載機器の新時代予告 開発者会議で（ロイター） - Yahoo!ニュース
-• Anthropic、Mythosの防御利用を約200組織へ拡大：脆弱性発見より「修正能力」が焦点に - XenoSpectrum</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260602.mp3" length="4297773" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260602</guid>
-      <pubDate>Tue, 02 Jun 2026 23:07:43 +0000</pubDate>
-      <itunes:duration>04:28</itunes:duration>
-      <itunes:summary>今日の話題:
-• チェック・ポイント、「攻撃者のように推論する」エクスポージャー管理のAIエージェントを提供開始 - EnterpriseZine
-• 今年のCOMPUTEXを一言で言うと〇〇、初日取材まとめ - ASCII.jp
-• Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露 - ITmedia
-• マイクロソフト、ＡＩ搭載機器の新時代予告 開発者会議で（ロイター） - Yahoo!ニュース
-• Anthropic、Mythosの防御利用を約200組織へ拡大：脆弱性発見より「修正能力」が焦点に - XenoSpectrum</itunes:summary>
-      <itunes:episode>33</itunes:episode>
     </item>
   </channel>
 </rss>
