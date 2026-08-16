@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画大ヒット＆OpenAI売上爆上がり！AIエージェントの進化と社会のモヤモヤ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、法人向け売上が個人向けを初めて上回る
+・AIエージェント台頭でSaaS再編加速
+・AIの「悪意なき暴走」問題
+・映画興行収入が絶好調
+・ショート動画のバズトレンド</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260817_daily.mp3" length="13997997" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260817_daily</guid>
+      <pubDate>Mon, 17 Aug 2026 06:24:17 +0900</pubDate>
+      <itunes:duration>14:34</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、法人向け売上が個人向けを初めて上回る
+・AIエージェント台頭でSaaS再編加速
+・AIの「悪意なき暴走」問題
+・映画興行収入が絶好調
+・ショート動画のバズトレンド</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>スパイダーマン大ヒットで大優勝！AIは透かしと爆速進化、韓国グルメも爆アゲトレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1158,26 +1180,6 @@
 • Broadcom決算に市場失望も、Google・OpenAI・Meta向けAIチップ計画は2028年まで拡大｜Semiconductor Geek - note
 • Microsoft「Build 2026」発表まとめ 開発基盤の拡充から安全対策、ハードウェアまで - ITmedia</itunes:summary>
       <itunes:episode>35</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月03日</title>
-      <description>今日の話題:
-• Linux Foundation、分散型AIエージェントの発見を推進する「DNS-AID」プロジェクトを発表 - CodeZine
-• Googleの新たなショッピングハブ「Universal Cart」とは、検索・Gemini・Gmailがシームレスに連動する最新のエージェンティックコマース（ネットショップ担当者フォーラム） - Yahoo!ニュース
-• Copilotではなく「AIエージェント」がもはや主流？ 米国で設立したスタートアップ（＠IT） - Yahoo!ニュース
-• 従業員の 52 ％は未承認の AI ツールを利用、Okta グローバル調査（ScanNetSecurity） - Yahoo!ニュース
-• GMOあおぞらネット銀行が3つのAIエージェント化を同時宣言 粗利益、法人口座数、BaaS契約数を5年で倍増へ - ペイメントナビ</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260603.mp3" length="5002797" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260603</guid>
-      <pubDate>Wed, 03 Jun 2026 23:11:03 +0000</pubDate>
-      <itunes:duration>05:12</itunes:duration>
-      <itunes:summary>今日の話題:
-• Linux Foundation、分散型AIエージェントの発見を推進する「DNS-AID」プロジェクトを発表 - CodeZine
-• Googleの新たなショッピングハブ「Universal Cart」とは、検索・Gemini・Gmailがシームレスに連動する最新のエージェンティックコマース（ネットショップ担当者フォーラム） - Yahoo!ニュース
-• Copilotではなく「AIエージェント」がもはや主流？ 米国で設立したスタートアップ（＠IT） - Yahoo!ニュース
-• 従業員の 52 ％は未承認の AI ツールを利用、Okta グローバル調査（ScanNetSecurity） - Yahoo!ニュース
-• GMOあおぞらネット銀行が3つのAIエージェント化を同時宣言 粗利益、法人口座数、BaaS契約数を5年で倍増へ - ペイメントナビ</itunes:summary>
-      <itunes:episode>34</itunes:episode>
     </item>
   </channel>
 </rss>
