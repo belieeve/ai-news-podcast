@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>中国アニメが世界歴代1位！AIは大学の価値を変える？Claudeのウォーターマーク問題も</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
+・ClaudeのAIウォーターマーク機能でユーザー解約？
+・サム・アルトマン氏が語るAI時代の大学の価値
+・Notion共同創業者COOが語るAIエージェント戦略
+・花王がAIエージェントで化粧品在庫25%削減目標</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260818_daily.mp3" length="14456493" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260818_daily</guid>
+      <pubDate>Tue, 18 Aug 2026 07:07:10 +0900</pubDate>
+      <itunes:duration>15:03</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
+・ClaudeのAIウォーターマーク機能でユーザー解約？
+・サム・アルトマン氏が語るAI時代の大学の価値
+・Notion共同創業者COOが語るAIエージェント戦略
+・花王がAIエージェントで化粧品在庫25%削減目標</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画大ヒット＆OpenAI売上爆上がり！AIエージェントの進化と社会のモヤモヤ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1160,26 +1182,6 @@
 • NVIDIAのジェンソン·ファン最高経営者(CEO)の訪韓期間の行跡を予想するホームページが注目されている。 半導体と人工知能(AI)関連銘柄を中心に株式市場が急騰傾向を示し、韓国でファンCEOの動線.. - 매일경제
 • AIの進化で世界はどうなる？ Anthropicが「3つの将来シナリオ」公開--SF的な未来も - Yahoo!ニュース</itunes:summary>
       <itunes:episode>36</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月04日</title>
-      <description>今日の話題:
-• AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク - ITmedia
-• シスコ、インフラ統合管理の「Cloud Control」発表--“エージェント型運用”の基盤に - Yahoo!ニュース
-• GoogleのDreambeansは、個人AIを「毎朝届く有限のストーリー」に変える実験だ - XenoSpectrum
-• Broadcom決算に市場失望も、Google・OpenAI・Meta向けAIチップ計画は2028年まで拡大｜Semiconductor Geek - note
-• Microsoft「Build 2026」発表まとめ 開発基盤の拡充から安全対策、ハードウェアまで - ITmedia</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260604.mp3" length="4092333" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260604</guid>
-      <pubDate>Thu, 04 Jun 2026 22:27:49 +0000</pubDate>
-      <itunes:duration>04:15</itunes:duration>
-      <itunes:summary>今日の話題:
-• AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク - ITmedia
-• シスコ、インフラ統合管理の「Cloud Control」発表--“エージェント型運用”の基盤に - Yahoo!ニュース
-• GoogleのDreambeansは、個人AIを「毎朝届く有限のストーリー」に変える実験だ - XenoSpectrum
-• Broadcom決算に市場失望も、Google・OpenAI・Meta向けAIチップ計画は2028年まで拡大｜Semiconductor Geek - note
-• Microsoft「Build 2026」発表まとめ 開発基盤の拡充から安全対策、ハードウェアまで - ITmedia</itunes:summary>
-      <itunes:episode>35</itunes:episode>
     </item>
   </channel>
 </rss>
