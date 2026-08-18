@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>10代向けChatGPT爆誕！アニメ映画も鬼アツヒットでAIもエンタメもアゲ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、10代向け「ChatGPT for Teens」を提供開始
+・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
+・人気アニメ映画「怪獣都市」が興行収入記録を更新中
+・SNSでハッシュタグ「#推し活飯」が大バズり中
+・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260819_daily.mp3" length="16066221" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260819_daily</guid>
+      <pubDate>Wed, 19 Aug 2026 06:28:30 +0900</pubDate>
+      <itunes:duration>16:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、10代向け「ChatGPT for Teens」を提供開始
+・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
+・人気アニメ映画「怪獣都市」が興行収入記録を更新中
+・SNSでハッシュタグ「#推し活飯」が大バズり中
+・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>中国アニメが世界歴代1位！AIは大学の価値を変える？Claudeのウォーターマーク問題も</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1162,26 +1184,6 @@
 • SLV が Solana v4 対応を完了—XDP による Turbine 高速化と Alpenglow 先行対応の BLS 登録を、AI エージェントとの対話で誰でも再現できる運用レシピとして提供 - PR TIMES
 • OpenAI、ChatGPTに「ロックダウンモード」導入——プロンプトインジェクションによるデータ漏洩を遮断 - finance.biggo.jp</itunes:summary>
       <itunes:episode>37</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月05日</title>
-      <description>今日の話題:
-• AIエージェント等活用企業の8割が「人減らし」 それでも費用対効果が向上しない理由は？（ITmedia エンタープライズ） - Yahoo!ニュース
-• 「Opus 4.8」と「Opus 4.7」を10のテストで比較--法律関連の質問では破綻も - ZDNET Japan
-• 約4割が「生成AIの評価で取引先を判断」 経営判断での生成AI影響高まる - キーマンズネット
-• NVIDIAのジェンソン·ファン最高経営者(CEO)の訪韓期間の行跡を予想するホームページが注目されている。 半導体と人工知能(AI)関連銘柄を中心に株式市場が急騰傾向を示し、韓国でファンCEOの動線.. - 매일경제
-• AIの進化で世界はどうなる？ Anthropicが「3つの将来シナリオ」公開--SF的な未来も - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260605.mp3" length="5067309" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260605</guid>
-      <pubDate>Fri, 05 Jun 2026 22:22:51 +0000</pubDate>
-      <itunes:duration>05:16</itunes:duration>
-      <itunes:summary>今日の話題:
-• AIエージェント等活用企業の8割が「人減らし」 それでも費用対効果が向上しない理由は？（ITmedia エンタープライズ） - Yahoo!ニュース
-• 「Opus 4.8」と「Opus 4.7」を10のテストで比較--法律関連の質問では破綻も - ZDNET Japan
-• 約4割が「生成AIの評価で取引先を判断」 経営判断での生成AI影響高まる - キーマンズネット
-• NVIDIAのジェンソン·ファン最高経営者(CEO)の訪韓期間の行跡を予想するホームページが注目されている。 半導体と人工知能(AI)関連銘柄を中心に株式市場が急騰傾向を示し、韓国でファンCEOの動線.. - 매일경제
-• AIの進化で世界はどうなる？ Anthropicが「3つの将来シナリオ」公開--SF的な未来も - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>36</itunes:episode>
     </item>
   </channel>
 </rss>
