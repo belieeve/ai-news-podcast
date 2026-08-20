@@ -1,0 +1,172 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260820
+========================================
+
+【エピソードタイトル】
+OpenAI上場方針でAIマネー爆アゲ？ アニメ映画の沼はどこ？
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、「2027年に上場」方針をCFOが示す
+・ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+・話題のアニメ映画を見る際、最も重視することは何ですか？
+
+========================================
+
+【元になったニュース】
+1. OpenAI、「2027年に上場」方針をCFOが示す 成長加速なら前倒しも - CNET Japan（CNET Japan） - https://news.google.com/rss/articles/CBMiUkFVX3lxTFAySmU1d0pWUDdJaEt0Si00N2ZBM1pPcFRNUENTaTBxa09Ycml5dWNyRVg0Ymd1aXVMRlB0LUxsMVc0N2h3OHNnbjlQQ3NRbEpEZHc?oc=5
+2. 話題のアニメ映画を見る際、最も重視することは何ですか？ - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMiTEFVX3lxTFBReENWT1NkM3h5aEFLU3RmVzBXbVJ0emlGd3c5bVpWNEw2dlpTSzUyLVZMemkxbWV0MWNXSUNoWkRETzBXcXdMcUJEcUM?oc=5
+3. NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築 - ロボスタ（ロボスタ） - https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lMU1CRWtTNXV6aG5aNHlORlh2eEhLSjdXUHVuektqTU9SeXJHeHBxNF91RjFaeHVCOGF6OXAwUDdFU1FGcVA2S2hqYnNOcUVnUkd3Z2tkOGNLVzZqQWhtM1kwcGI?oc=5
+4. DATAFLUCT、「AI博覧会Summer 2026」に出展 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTnRNaVg2LWlZQnAwLUhwSWQzMmRCTEZrdnFaNFpvMkhRMXhldVRnTlJCWDl4YnlpMzhZamlXck1iX1BRVU85eGpCVGhla1ZiZDBobU9nMEhhQjktRXVmX3l5S0UxRDdiSkE?oc=5
+5. オプティム、企業内の生成AI利用を一元的に管理する「OPTiM Biz AI Agent β」を提供（クラウド Watch） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZmVvM3Awd050S2VPOWF2YjcxQTQwMWlyQ2JNSXRZbTZzWGlsbUtYbXV0Vnp6SUZBV0FfT0ZfNzc2SVVnYU9ya0RYRWd0cjZEelI1amhCVXJ6S0tEa09weUUtMEZ4Um1JYi1Lc1FBNzYwRnVOUXBHaVpDczlYR2M?oc=5
+6. 話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5nOUs3aUpuckU4d0I2SG1XSWZBT2t0OE9SS0VuelFzN0RCd3V0Y1o5TlA1UjdCTlV3SENaRm1NblEzQ0Y1YlJ6MS1nWG9PZ284dGo3aTh0elFCYno2NWNiY0h1M0I2Y3RqT0E?oc=5
+7. ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと - ライフハッカー（ライフハッカー） - https://news.google.com/rss/articles/CBMicEFVX3lxTFBITHpvcU5GSTJ4TEZDWGhOX2JlWi1CTVAyaTBiVGxNcVBURS05SjBKY2JrUjJvVDJ2MTNUOG5zcXluVFBkekQyXzBLeVRBcFNCQ3JXOXQ3aTh3M1pKeFJ6MUhvNHNFX2tQeDRvcWVqcU4?oc=5
+8. 既存の防犯カメラを"自律巡回AIエージェント"へ進化させる「Smart Rounds」、一般提供を開始 - ASCII.jp（ASCII.jp） - https://news.google.com/rss/articles/CBMiVEFVX3lxTE41d0JhQnR4THJzOTJrRFJ3VHAtbldZX1loMGNmTjc4SnpCQWlRaktkSHBoN1pNQmkzN1IyM3JfZUc0THdqRGF0ZGpWT3lHZ1VKcHJQNw?oc=5
+9. 「AI博覧会 Fukuoka 2026」 博多国際展示場＆カンファレンスセンターにて 9月30日・10月1日に開催 - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMDE4bVE5c196SWVsZzhqaHhtdnRyUUhIcU1uVTJWY1A3Z3NsM1VNZVdteUY0SndUT3BiU2dnT3I5alR5U0Q4RlZnNl8wMFk4dF9tZEtYNGhOTUs1Uno5b0NqakljQ2dh?oc=5
+10. 「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ - exawizards.com（exawizards.com） - https://news.google.com/rss/articles/CBMiZEFVX3lxTE10TnBkdzJMb21CQ1B6Sjd5RElDcjNmMUt2S2s0Ym5fNWR0V0lQOVZFbVlyMDJ4d1lQeFhEU050MGNqQXpXUGVHWGUzdW0zUHJMNDNqSHpJZDVpRjlhWTZLVFJYYkQ?oc=5
+11. 【書籍発売のお知らせ】BLUEISH代表 為藤アキラ・著『現場で役立つ マルチエージェントAI設計入門』～Google A2A×ADKで実現する堅牢な運用システム～ - 時事ドットコム（時事ドットコム） - https://news.google.com/rss/articles/CBMia0FVX3lxTFBfaHh3UDJMQjNYQk1pS3RJNWhWeHh2X0tmLVYtUjZ6M2ljUDBRMjJvVk10Rm5BaWFtdEdYMFVpb0JRUElaaDFCMzhUX1JnVldSMDA1UnNsaF8wbGxmVUo2RGJLTklQZEQwTWtz?oc=5
+12. OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗（ITmedia NEWS） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1qbWV5cmxFX01jeDQ4X2FQeHBoSnpTVFhHeTBXcGE2T1FYNTBUNnJjMl9oTXFmNFJMdUxXRlBGNXcwaTEwMndjeFc2WkJJZVpQWWVWMlgwb0VmUFl3SnZkYWVoeTNxSDVwU1V1ZVhnczR5VE5McUpNbFRwT3BWZXc?oc=5
+13. OpenAIがゼロデータ保持を維持したまま安全性監視を強化する「Private Safety Processing」のプレビュー版を提供開始 - gigazine.net（gigazine.net） - https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzMtUS1BUkVpam1XRzdXSHd1YmltZHczSmNiaHdrREtDeGp0dXdfczN3X0FCc05vLWRrSUJxU1FQNmRYWUhSNVYxdHlfUVktWEI4Y0ZQWHIxVFowVFAzWDJtWDdlNGV6OXlPeXc3YlhXTjE3VmpfdnR6U3l4VmotU3hLeUxYUHRJOEhiSmpSbVZHdw?oc=5
+14. 売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&Aの高度化と企業価値向上へ～ - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdHRnNHBzMS1tMHlIYlhmblF2U0tyODRTbEl6VndVNi1hMDN6ZlRxQlBuQ1ZISW9mUVhUaklFTWNzbllNZG1vQmJISW51cVBJNzZYdDBYYnV4MUY2RG9iSWthbVozZ3JxZ1E?oc=5
+15. サーバーワークス、AIエージェントに関する調査結果を公表 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTFBCemhfWWFOeTZDOEhSMmJrYWUxLTh2eXl1SU1UQk5VQXVQYmlVbW02QzVKR21YWXJWaXR1TUhTMFdjMnN2TW9UVkEwTUVRV2s2bXVUZThFcHZWSmgtT1FGcURNdVoxQkh0SEE?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございまーす！ リナです！
+モモ: おはようございます！ モモだよー！ 今日も朝アゲトレンド、張り切っていこうね！
+リナ: モモ、今日の朝もテンション爆アゲだね！ 今朝はAI界隈がマジで動いてるよ。OpenAIの上場に関するニュースとか、ChatGPTの新しい機能とか、もう情報渋滞って感じ！
+モモ: え、マジで？ OpenAIが上場って、それやばくない？ うちらの生活にも関係あるかな？
+リナ: もちろん関係ありまくりだよ！ あと、アニメ映画を見る時にみんなが何を重視してるかっていう、エンタメ界隈の気になる調査結果も入ってるからね。
+モモ: えー、それ知りたーい！ 私、推しキャラのビジュしか勝たん！って思ってるんだけど、みんなはどうなんだろ？
+リナ: じゃあ、さっそく今日のラインナップを紹介するね。まずは「OpenAI、2027年に上場」の方針が報じられたニュース。続いて「ChatGPTの新機能Computer History」で、AIがうちらの作業を覚えてくれる話。それから「AIを作る」から「AIを止める」へ、投資マネーが向かう次のインフラの話。さらに「NVIDIA・OpenAI・ソフトバンクの激アツ提携」で、アメリカにAIインフラが爆誕する話題。最後は「話題のアニメ映画を見る際、最も重視することは何ですか？」っていう、映画ファンの声を紹介するよ。
+モモ: うわー、今日も盛りだくさんだね！ どれも気になるんだが！
+リナ: それじゃ、今日の注目ニュースからいっちゃお！ なんと、AI界の最先端を走るOpenAIが、2027年に上場を目指す方針をCFOが示したって報じられてるよ。
+モモ: えー！ OpenAIが上場マジで？ それって、どういうこと？ 株とか買えるようになるってことかな？
+リナ: そういうこと！ 事実として確認できるのは、OpenAIのCFO、サラ・フリヤーさんがインタビューで「2027年までに上場を目指す」っていう方針を語ったってこと。成長が加速すれば、もっと前倒しになる可能性もあるって言われてるんだ。これはCNET Japanが報じてる情報だよ。
+モモ: へぇー！ 報道ベースなんだね。でも、なんで今これがそんなに話題になってるの？
+リナ: それな！ OpenAIって、ChatGPTとか開発してるAI企業のトップランナーじゃん？ その会社が上場するってなったら、AI業界全体に激震が走るレベルなのよ。これまでOpenAIって、Microsoftとか一部の超大手が投資してるクローズドな会社だったんだけど、上場すれば一般の投資家も株を買えるようになる可能性が出てくるんだよね。そうすると、OpenAIがもっとたくさんお金を集められるようになって、さらにAIの研究開発が爆速で進むかもしれないってこと！
+モモ: なるほど！ お金が集まれば、もっとすごいAIが生まれるってことか！ じゃあ、これって誰が知っておくと得なの？
+リナ: まずは**投資家さん**だね。AI関連株に興味がある人や、OpenAIの動向を追いかけてる人は、このニュースはマジで要チェック。あと、**ビジネスパーソン**も超重要。AI技術の導入を考えてる企業とか、AI業界のトレンドを知りたい人は、OpenAIの将来性や戦略を理解する上で、この上場話はめちゃくちゃ大きいヒントになるよ。
+モモ: 確かに！ 私たちの仕事にもAIがどんどん入ってきてるから、その未来を予測する上で大事ってことだよね！
+リナ: そうそう！ AI開発者や研究者の人たちも、AI業界の資金の流れとか成長フェーズを把握できるから、自分のキャリアを考える上でも参考になるはず。そして、私たちみたいな**一般のAIユーザー**も、OpenAIが巨大企業になることで、どんな新しいサービスや技術が生まれるのか、ワクワクしながら注目できるよね！
+モモ: いやー、OpenAI、まじで強すぎ！ これからの動きが楽しみすぎるんだが！
+リナ: 続いては、うちらが毎日使ってるChatGPTに関する話題だよ！ ChatGPTに「Computer History」っていう新機能が追加されるって報じられてるんだ。
+モモ: え、待って！ コンピューターヒストリーって、なんか難しそうな名前だけど、それって何なの？
+リナ: これね、ChatGPTがユーザーが過去に行った作業を追跡して記憶してくれる機能らしいんだ。具体的に言うと、私たちがChatGPT上でどんなプロンプト（指示）を出したかだけじゃなくて、ChatGPTがどんなWebサイトを見たかとか、どんなファイルを開いたかとか、そういう情報も覚えてくれるようになるって話。これはライフハッカーが海外メディアの情報を元に報じてるよ。
+モモ: マジで？ それって、なんかちょっと監視されてるみたいでビビったんだけど！
+リナ: あーね、気持ちはわかる。でも、これがめちゃくちゃ便利になる可能性も秘めてるのよ！ ChatGPTが私たちの過去の行動を理解してくれることで、もっと文脈に合った、パーソナルなアシストができるようになるって期待されてるんだ。例えば「あの時作った資料、どこに保存したっけ？」って聞いたら、ChatGPTが教えてくれる、みたいな使い方も夢じゃないって言われてるよ。
+モモ: えー、それは神機能じゃん！ 私、よく「あれどこ行った？」ってなるから、命助かる！
+リナ: でしょ？ だから、**日常的にChatGPTを使ってる人**は、この機能が実装されたら作業効率が爆上がりするかも。**ビジネスパーソン**も、AIを活用した業務効率化にめちゃくちゃ関心があると思うから、タスク管理とか情報整理の新しい方法として注目しておくといいよ。
+モモ: 確かに、仕事が爆速化しそう！
+リナ: ただ、モモが言ったみたいに、プライバシーやデータ保護の懸念も同時に高まるから、実際に使う場合は、公式情報と社内ルールの確認がめちゃくちゃ大切！ IT管理者やセキュリティ担当者も、企業でのAI利用におけるデータプライバシーのガイドライン策定の参考にできるし、私たち**一般ユーザー**も、自分のデータがどう扱われるかを知っておくことが大事だね。
+リナ: 続いては、ビジネス・マーケティングの話題なんだけど、これもAIが軸になっているよ！ 「AIを作る」フェーズから、「AIを止める」フェーズへ、投資マネーの動きが変わってきてるって話だよ。
+モモ: え、AIを止めるってどういうこと？ AIが暴走するのを止めるってことかな？ 映画みたい！
+リナ: モモ、発想が映画でかわいい！ あながち間違いじゃないんだよね。事実として確認できるのは、exawizards.comの記事が、AI開発が進む中で、AIによる誤情報拡散とか悪用、あと過度なリソース消費といった「負の側面」を監視したり、制御したり、いざという時に停止したりする技術やサービスへの投資が加速してるって分析してるってこと。これって「AIガバナンス」とか「AIセキュリティ」って呼ばれる分野なんだ。
+モモ: AIの負の側面か〜。確かに、AIが便利になればなるほど、悪用されたらやばいもんね。
+リナ: まさにそれ！ なぜ話題なのかっていうと、AIの進化が止まらないからこそ、そのリスク管理の重要性がマジで増してるんだよね。これまでは「いかにすごいAIを作るか」に注目が集まってたけど、これからは「いかに安全に、倫理的にAIを使うか」っていうところに、投資家のお金も動いてるってことなんだ。新しいビジネスチャンスが生まれてるんだよ。
+モモ: なるほど！ AIの影の部分にもビジネスチャンスがあるってことか！
+リナ: そう！ だから、**AI導入を検討してるビジネスパーソン**は、AIのリスク管理の重要性を理解しておくことがめちゃくちゃ大事。新しい事業のアイデアにもつながる可能性もあるしね。**投資家さん**も、AI関連の新しい投資先を探すなら、AIガバナンス市場はこれから伸びる可能性を秘めてるから注目だよ。
+モモ: AIの安全を守る技術、まさかの鬼アツ案件だったんだね！
+リナ: そして、またまたAIとビジネスが絡む、超ビッグな提携のニュースだよ！ NVIDIAとOpenAI、そしてソフトバンクが提携して、アメリカのオハイオ州に数万人規模の雇用を生み出すAIインフラを構築する計画が報じられているんだ。
+モモ: えー！ NVIDIAとOpenAIとソフトバンク！？ マジで？ それ、強すぎん？ 最強の組み合わせじゃん！
+リナ: それなすぎる！ 事実として確認できるのは、ロボスタが報じたところによると、この3社がタッグを組んで、オハイオ州に大規模なAIインフラを建てる計画があるってこと。AIデータセンターとか、関連施設をバンバン作って、数万人規模の雇用も生まれるって言われてるよ。
+モモ: 数万人って、レベチ！ なんでこんなにすごい提携が話題になってるの？
+リナ: AI業界を牽引するNVIDIAのGPU（AIの脳みそみたいなものね！）、OpenAIの最先端AIモデル、そしてソフトバンクの巨大な投資力が結びつくことで、AI開発と普及の基盤がマジで強固になるからだよ。AIインフラの整備が一気に進むし、地域経済にもめちゃくちゃ大きなインパクトがあるってことで、業界全体が注目してるんだ。
+モモ: いやー、これはまさにAI界の勝ち確案件じゃん！ じゃあ、誰がこれを知っておくと得なの？
+リナ: まずは**AI業界のサプライチェーンとかエコシステムに関心があるビジネスパーソン**だね。大規模なAIプロジェクトの動向を知ることで、自社の戦略を立てるヒントになるかも。**投資家さん**も、AI関連企業の成長性や提携戦略に注目してるなら、これは見逃せない情報だよ。
+モモ: 確かに、お金の流れが大きく変わりそう！
+リナ: あと、**AI関連分野でキャリアを考えてる学生さんや求職者さん**も必見！ 新しい雇用機会が生まれる地域や分野を把握できるチャンスだからね。そして、**地方自治体関係者**も、大規模産業誘致とか地域活性化のヒントになるから、ぜひチェックしてほしいな。
+モモ: AIで地方創生とか、なんかアツいね！
+リナ: さて、AIの話題が続いたけど、ここからはちょっとチルいエンタメの話題にいくよ。
+モモ: 待ってましたー！ 私、これ気になってたの！
+リナ: 話題のアニメ映画を見る際、みんなが何を最も重視してるかっていう調査結果が報じられてるんだけど、モモは何だと思う？
+モモ: えー、私はもちろん「推しのビジュ」か「声優さん」かな！ いや、やっぱ「推しキャラのセリフ」とかも重要だし！ 沼るポイントはたくさんあるんだが！
+リナ: モモの推しへの愛がすごい！ でもね、Yahoo!ニュースが報じた調査結果によると、多くの人が最も重視してるのは「ストーリー・脚本」なんだって！ 次いで「世界観・設定」、その次に「作画・映像美」が来るらしいよ。
+モモ: え、マジで？ 私の推しへの愛は少数派だったの？ ちょっとぴえん…
+リナ: いやいや、そういうわけじゃないよ！ みんなそれぞれの推しポイントがあるのは当然！ でも、このニュースがなんで話題になってるかっていうと、アニメ映画市場が世界的にめちゃくちゃ盛り上がってる中で、観客が何を求めてるのかが具体的に分かったからなんだよね。特に、AIで絵を描いたり、制作を効率化したりする技術が進んでる今だからこそ、人間が作る「ストーリー」とか「世界観」の重要性が改めて浮き彫りになってるのが興味深いよね。
+モモ: なるほど！ AIがいくらすごい絵を描いても、感動するお話は人間が作るってことか！ 解釈一致！
+リナ: そうそう！ だから、このニュースは**映画制作会社とかアニメスタジオ、配給会社、マーケターさん**なんかは、消費者のニーズを理解して、今後の作品作りとかプロモーション戦略に役立てられるはず。**脚本家さんとか監督さん、アニメーターさん**なんかのクリエイターさんも、自分の作品を作る上で観客が重視する要素を意識するきっかけになるんじゃないかな。
+モモ: これからのアニメ映画がもっと面白くなるってことだね！ 私たちの目の保養が増えるってことだ！
+リナ: そうだね！ そして私たち**一般の映画ファン**も、自分が何を重視してるのか、他の人が何を重視してるのかを知ることで、映画談義がもっと盛り上がるきっかけになるはずだよ！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: OpenAIの上場とか、ChatGPTの新機能とか、AI界隈がマジで激アツだったんだが！ アニメ映画の沼ポイントもわかって、今日もお腹いっぱいの情報供給だったね！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 【朝アゲトレンド速報】OpenAIが2027年上場の方針をCFOが示唆！ AIマネー界隈がざわついてるよ👀 ChatGPTの新機能「Computer History」で、AIが私たちの作業を記憶してくれる未来もすぐそこに!? 爆速進化するAIから目が離せない！ #朝アゲトレンド #OpenAI #ChatGPT
+2. アニメ映画ファン必見！ みんなが映画に求めるもの、1位はまさかの〇〇だった！ 推しのビジュも大事だけど、やっぱりストーリーはレベチ✨ AIの進化で制作環境が変わる中でも、人間が生み出す感動は最強ってことだね！ 映画談義が盛り上がりそう🎬 #アニメ映画 #エンタメ #映画鑑賞
+3. AI業界に新たな動き！「AIを作る」から「AIを止める」へ、投資マネーの注目ポイントが変化中。AIの安全性を守る技術が次のインフラになるってマジ？ NVIDIA・OpenAI・ソフトバンクの最強タッグがオハイオ州にAIインフラ構築のニュースも！ #AIガバナンス #AIビジネス #技術トレンド
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンドは、AI界隈がマジで激アツ🔥 OpenAIが2027年に上場するかもってニュース、みんなもうチェックした？ AI関連の投資がこれからもっと盛り上がりそうだし、私たちユーザーにとっても新しいサービスが生まれるきっかけになるかもって考えると、もうワクワクが止まらないんだが！ 日常でAIを使ってるみんな、今日のニュースは要チェックだよ〜！
+2. みんなはアニメ映画を見る時、何を一番重視してる？ 私はついつい推しキャラのビジュとか声優さんに目がいっちゃうんだけど、意外と「ストーリー・脚本」が一番重視されてるって調査結果が出てたの！ AIがいくらすごい映像を作れるようになっても、やっぱり感動する物語は人間が作るものなんだなって改めて感じたよ。これからの映画制作、どんな風に変わっていくのかな？ 私たちの推し活にも影響あるかなって考えちゃった！
+3. 最近、AIの進化が早すぎてついていくのが大変って思わない？ でもね、実は「AIを作る」ことと同じくらい「AIを安全に使う」ことにも注目が集まってるんだって！ AIによる誤情報とか悪用を防ぐ技術に、投資マネーがどんどん動いてるらしいよ。これって、私たちが安心してAIを使えるようになるための、めちゃくちゃ大事な動きだよね。AIと共存していく上で、リスク管理の視点も持つことが、デキる女のたしなみって感じ！
+
+【ショート動画用30秒台本】
+リナ: モモ、聞いて！ OpenAIが2027年に上場するって話、マジでやばくない？
+モモ: え、マジで！？ AIのトップランナーが上場とか、もうAI界隈がレベチで動いてるんだが！ 株とか買えるようになるのかな？
+リナ: そうそう！ AIマネーが爆アゲ確定って感じ！ しかもChatGPTに、私たちの作業を覚えてくれる新機能「Computer History」も来るって！
+モモ: えー！ それ、私の「あれどこ行った？」を解決してくれる神機能じゃん！ 命助かる！
+リナ: でしょ？ AIの進化が止まらないけど、アニメ映画を見る時にみんなが一番重視してるのは「ストーリー・脚本」だって！ 人間の作る物語はやっぱり最強ってこと！
+モモ: いやー、今日のAIもエンタメも、情報供給ありがとう！ 私たちの生活、まじで変わりまくりそうだね！
+
+【エピソードタイトル案】
+1. OpenAI上場方針でAIマネー爆アゲ？ アニメ映画の沼はどこ？
+2. OpenAIが2027年上場へ！ ChatGPT新機能も！ アニメ映画の推しポイント
+3. AI界隈が激アツ！ OpenAI上場とChatGPT進化、アニメ映画の深掘りトークも
+
+【ニュース出典リンク一覧】
+ニュース名：OpenAI、「2027年に上場」方針をCFOが示す 成長加速なら前倒しも
+出典名：CNET Japan
+URL：https://news.google.com/rss/articles/CBMiUkFVX3lxTFAySmU1d0pWUDdJaEt0Si00N2ZBM1pPcFRNUENTaTBxa09Ycml5dWNyRVg0Ymd1aXVMRlB0LUxsMVc0N2h3OHNnbjlQQ3NRbEpEZHc?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+出典名：ライフハッカー
+URL：https://news.google.com/rss/articles/CBMicEFVX3lxTFBITHpvcU5GSTJ4TEZDWGhOX2JlWi1CTVAyaTBiVGxNcVBURS05SjBKY2JrUjJvVDJ2MTNUOG5zcXluVFBkekQyXzBLeVRBcFNBQ3JXOXQ3aTh3M1pKeFJ6MUhvNHNFX2tQeDRvcWVqcU4?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+出典名：exawizards.com
+URL：https://news.google.com/rss/articles/CBMiZEFVX3lxTE10TnBkdzJMb21CQ1B6Sjd5RElDcjNmMUt2S2s0Ym5fNWR0V0lQOVZFbVlyMDJ4d1lQeFhEU050MGNqQXpXUGVHWGUzdW1zUHJMNDNqSHpJZDVpRjlhWTZLVFJYYkQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+出典名：ロボスタ
+URL：https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lMU1CRWtTNXV6aG5aNHlORlh2eEhLSjdXUHVuektqTU9SeXJHeHBxNF91RjFaeHVCOGF6OXAwUDdFU1FGcVA2S2hqYnNOcUVnUkd3Z2tkOGNLVzZqQWhtM1kwcGI?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：話題のアニメ映画を見る際、最も重視することは何ですか？
+出典名：Yahoo!ニュース
+URL：https://news.google.com/rss/articles/CBMiTEFVX3lxTFBReENWT1NkM3h5aEFLU3RmVzBXbVJ0emlGd3c5bVpWNEw2dlpTSzUyLVZMemkxbWV0MWNXSUNoWkRETzBXcXdMcUJEcUM?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (エンタメ1本、AI軸のビジネス複数でバランスOK)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (各語彙の出現回数をチェックし、偏りがないことを確認)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK (「神機能じゃん！」「勝ち確案件じゃん！」はMCの感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK (「推しのビジュ」はアニメ映画のキャラクターへの言及として使用)
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

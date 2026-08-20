@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAI上場方針でAIマネー爆アゲ？ アニメ映画の沼はどこ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、「2027年に上場」方針をCFOが示す
+・ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+・話題のアニメ映画を見る際、最も重視することは何ですか？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260820_daily.mp3" length="14626989" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260820_daily</guid>
+      <pubDate>Thu, 20 Aug 2026 12:29:15 +0900</pubDate>
+      <itunes:duration>15:14</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、「2027年に上場」方針をCFOが示す
+・ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+・話題のアニメ映画を見る際、最も重視することは何ですか？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>10代向けChatGPT爆誕！アニメ映画も鬼アツヒットでAIもエンタメもアゲ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1164,26 +1186,6 @@
 • 米政府、オープンAIへの出資を検討か - バロンズ・ダイジェスト
 • R＆Dの未来を先取り 普及始まる「AI科学者」 - 日経クロステック</itunes:summary>
       <itunes:episode>38</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月06日</title>
-      <description>今日の話題:
-• 【Googleエージェントエコシステム】月額100ドルの新「AI Ultra」設立と最上位プランの値下げ。常時稼働型「Gemini Spark」から使用制限ルールの刷新まで - DXマガジン
-• エージェント型AIによる医療ワークフローの効率化 - IBM
-• SpaceXがGoogleにAIデータセンターを提供へ、300億ドルの大型契約を締結 - ビジネス+IT
-• SLV が Solana v4 対応を完了—XDP による Turbine 高速化と Alpenglow 先行対応の BLS 登録を、AI エージェントとの対話で誰でも再現できる運用レシピとして提供 - PR TIMES
-• OpenAI、ChatGPTに「ロックダウンモード」導入——プロンプトインジェクションによるデータ漏洩を遮断 - finance.biggo.jp</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260606.mp3" length="5267757" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260606</guid>
-      <pubDate>Sat, 06 Jun 2026 22:13:23 +0000</pubDate>
-      <itunes:duration>05:29</itunes:duration>
-      <itunes:summary>今日の話題:
-• 【Googleエージェントエコシステム】月額100ドルの新「AI Ultra」設立と最上位プランの値下げ。常時稼働型「Gemini Spark」から使用制限ルールの刷新まで - DXマガジン
-• エージェント型AIによる医療ワークフローの効率化 - IBM
-• SpaceXがGoogleにAIデータセンターを提供へ、300億ドルの大型契約を締結 - ビジネス+IT
-• SLV が Solana v4 対応を完了—XDP による Turbine 高速化と Alpenglow 先行対応の BLS 登録を、AI エージェントとの対話で誰でも再現できる運用レシピとして提供 - PR TIMES
-• OpenAI、ChatGPTに「ロックダウンモード」導入——プロンプトインジェクションによるデータ漏洩を遮断 - finance.biggo.jp</itunes:summary>
-      <itunes:episode>37</itunes:episode>
     </item>
   </channel>
 </rss>
