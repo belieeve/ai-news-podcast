@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>トイ・ストーリー5が爆アゲ確定！AIエージェントが仕事を変える未来とOpenAIのIPOもアツいんよ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ITエンジニアの7割超が予測！2030年にはAIエージェントが業務を自律実行？
+・AIエージェント時代に、私たちが職場で価値を維持する方法って？
+・OpenAIが2027年にも株式公開を目指すってまじ？AI業界のこれからがアツい！
+・事前登録1万人超！AIで業務をラクラク自動化する「AIクラウドワークス」がリリース
+・『トイ・ストーリー5』が公開前からピクサー歴代興行収入1位に！？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260821_daily.mp3" length="11868333" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260821_daily</guid>
+      <pubDate>Fri, 21 Aug 2026 06:32:43 +0900</pubDate>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ITエンジニアの7割超が予測！2030年にはAIエージェントが業務を自律実行？
+・AIエージェント時代に、私たちが職場で価値を維持する方法って？
+・OpenAIが2027年にも株式公開を目指すってまじ？AI業界のこれからがアツい！
+・事前登録1万人超！AIで業務をラクラク自動化する「AIクラウドワークス」がリリース
+・『トイ・ストーリー5』が公開前からピクサー歴代興行収入1位に！？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAI上場方針でAIマネー爆アゲ？ アニメ映画の沼はどこ？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1166,26 +1188,6 @@
 • 【WWDC26】Apple、次世代「Apple Intelligence」を発表 写真編集・Safari・パスワード管理などに新たなAI機能 - テクノエッジ TechnoEdge
 • Appleイベント、2度目の｢Google頼み｣ AI出遅れ顕著 - 日本経済新聞</itunes:summary>
       <itunes:episode>39</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月07日</title>
-      <description>今日の話題:
-• LINEヤフー、日常特化のAIエージェント「Agent i」に画像生成機能などを追加（INTERNET Watch） - Yahoo!ニュース
-• Hanshow × Microsoft「xPilot」発表｜AI×デジタルツインで店舗の「見える化」を「実行」へ - innovaTopia
-• 史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？ - GIGAZINE
-• 米政府、オープンAIへの出資を検討か - バロンズ・ダイジェスト
-• R＆Dの未来を先取り 普及始まる「AI科学者」 - 日経クロステック</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260607.mp3" length="4412973" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260607</guid>
-      <pubDate>Sun, 07 Jun 2026 22:14:12 +0000</pubDate>
-      <itunes:duration>04:35</itunes:duration>
-      <itunes:summary>今日の話題:
-• LINEヤフー、日常特化のAIエージェント「Agent i」に画像生成機能などを追加（INTERNET Watch） - Yahoo!ニュース
-• Hanshow × Microsoft「xPilot」発表｜AI×デジタルツインで店舗の「見える化」を「実行」へ - innovaTopia
-• 史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？ - GIGAZINE
-• 米政府、オープンAIへの出資を検討か - バロンズ・ダイジェスト
-• R＆Dの未来を先取り 普及始まる「AI科学者」 - 日経クロステック</itunes:summary>
-      <itunes:episode>38</itunes:episode>
     </item>
   </channel>
 </rss>
