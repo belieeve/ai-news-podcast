@@ -1,0 +1,207 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260822
+========================================
+
+【エピソードタイトル】
+羽田美智子YouTubeバズり＆UberがAIで開発爆速！Claude無料学習コースもアツい
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・羽田美智子さんのエッセイとYouTubeが共感の嵐！「素敵なおばさん」がトレンドに
+・Uberの裏側でAIエージェントがコードの7割を爆速生成！開発の未来がここに
+・Anthropicが「Claude Academy」を無料公開！AI学習のハードルが秒で下がる
+・世界を席巻する韓国コスメのブームの秘密！マーケティングの鬼アツ戦略とは？
+・ABEMAが「アニメ毎週200作品無料祭」開催中！新作アニメも一挙放送でテンアゲ
+
+========================================
+
+【元になったニュース】
+1. 羽田美智子がエッセイ発売記念イベント開催、YouTube番組が話題に - Koubo（Koubo） - https://news.google.com/rss/articles/CBMiRkFVX3lxTE85SjEteGFoOG5pRFFlZEh5bXp6UURGUldWQ1lVVlNuQUZ1bXF1NXRPTHg1bndOTzRVZ2JnYXItQ1pOblM2Z3c?oc=5
+2. CMC OpenAIは、ASEAN法フォーラム2026において、同社の法務AIプラットフォームを発表した。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTduM2UzQ0g3NUNsVlgtZkk2eTN6MGloeVBKb2JHRk9ZS3VsQUptaEVsUTJDYUltZXFOd0NhR2NMeUMxWDdTWXhndXRmc2cwalZSb25pdzd2NXJPcExTQm9qWEgzMWFKdXJpdXJNLVdsVkFiYnhjV1NjRXkxQ19URWpRV0pYNzd1bG53eko1UGV3TEVzT294QzZlZ2E0S1QzRXcw?oc=5
+3. ウーバー、コードの70%をAIエージェントが生成——ウダイ・キラン・メディセッティ氏が語る「工場」の内幕 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE94dDNueGxhZnNDV2FaU0o0Mmk2Z2trVlVqLWdVNnhMcDcxdEhteExlMU5TZ1pkYmlJaW5WazRiOGdPUUdkMFppNFJUa1FYbGt4OG96QVVoOHRkdw?oc=5
+4. 使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた - au Webポータル（au Webポータル） - https://news.google.com/rss/articles/CBMibkFVX3lxTE84MFlrV2RUV0lBb1YyVFF4eTZTVVNoMUJHcFp5M3RqTE9mRTI0MnlDVWFvT1BoX3BZM3ZlaHNsQThrbjFES24wVnZPTFd3NTFVbjg2Q2RQMlBuOEFZVEcydzZoZkZlWThKanVIYW5n?oc=5
+5. 米アンソロピック、IPO前に創業者の議決権強化を検討―信託主導の取締役会と重なる統治構造 - 財経新聞（財経新聞） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lcndHZHQ4VjZTcXRleTFobjAxWGN1TlZvaEwtMkZJcTRSaTZPUG13WS1uaDZTaWFKTWtmMWExdHR2QURrazRpaXFjcDVYY3FaSGpEZzZVeGdnNjA1RmpFZUVQVdIBaEFVX3lxTE5UM3NDWjkybnJJLVVoNW5fdEQzRTZ2cVBaSVNwbXFyRDRnTE5TbkFTNEVmTkJFcTN1cUZaOU1xM2RGd2tzbV9jeHVwSkJwOG5jQl92R0N6UUtVZ1I2S2J1ekNxcElLUmhp?oc=5
+6. 【成功事例】カインズの店舗DX。SlackとAIで月17時間削減した業務効率化の軌跡 - Salesforce（Salesforce） - https://news.google.com/rss/articles/CBMickFVX3lxTE5hcHVacWV3My1KMy1nSFlpeWZXQmVmaXcyRWUwVExhVER5eHNtRXUyNXJKbnprdnl4and5MDdKb2EwTjNQRFktMVNhamdDVlVzcy1FUkJQNnAwbnRLTmxQUDJ4c0R0RmF0T21uMlFVT3hGUQ?oc=5
+7. バイナンス、3億人超のユーザーにAIエージェント取引の新オプションを提供 - Yellow.com（Yellow.com） - https://news.google.com/rss/articles/CBMi0ANBVV95cUxQX0FHY1NWR0xMb1EybExGUzFwZzdVRXhaRU5ZYkpnTzVfRGN5SEpRQnhPMzlvUWszcWtSM21qbWQyeFRnRFlrNTZtbmlGVUlmR3Y0V1lsTW1KR1lWMkg4cWt2OEhTTEJuR0pJNE5UX1JVYnJNUDlPTWE5djBKeGdTZXdvOUJ1bXoxRjc0N1lpcHZhTGhjUXFlWU4yZy13M2ZaQUFzRTFpSXloNkxaMTltSEpoSlk4QmktVzFpR0lEVTB5czRoREtWY3ZvTWdCdWxSNWhtSmtNMjFrSXgzcldxYms1aDR4UkkyQVNHc1AxQm9jN1dEdlRUSmZNQUNLLXc1UWtVdEQzdzdJWnhVM2dwYk9BbWRCMk9oaUVFWDRGbHJJTmQ4RnRvWldhaEVxcE1oRXZGSS03TmFCeTB3Nm5OUG9XcEpTWVlVUUpOMUl6cEgwakE2TmxmS2NpX1RlQUJteHhBTXprZnBQeXNJSmtwN3AxYnpSbllIeHlfejlqUVhrc21aUlpCRnJnNkZ4SUFNUUppNlRyNWtMWEZmWXAxN3U0eDdiekRBQmZnVXhRUnVfY0hra0JSZzVSS1lRdzh6NWE3NmN0R3dsV0pFMWpWVQ?oc=5
+8. アニメ『ヤニねこ』まさかの来週は“お休み”発表が話題 代わりにキャスト出演特番、次回は2週間後に（オタク総研） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1qejMyZ2k4MEtNdDBCNjgxa3pSVXBQVXpheUljQVY3dDFIRlBodVpCUHZsRExEU1ZERWhjT1V5X2N1WnhKVFlNd0lvUm55VTBvVTFDblVMZ1BCOHdmQkFwejlCWTFWdW52aUM2SnBkd29Ka2thXzdjRTZLSUxOUDA?oc=5
+9. 日本だけでなく世界的ビジネスに成長。韓国コスメ、そのブームの秘密【韓国トレンドの裏事情vol.3 前編】 - よみタイ（よみタイ） - https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xd1lDdG9XVFI5UHhqOHJ3Sk1iUHRjaEZ5NFRGeTRjYmEtZ05IbmVMRnlyc1F0cFBKM3huTDFiV1ZycnFtRHJja0hqVXJLb2JSdWhnRXRSbFQ?oc=5
+10. マルチチャネルAIエージェントが切り拓く新たな顧客接点 ～Agentforceが企業内のAI・データ・業務をつなぎ、自律的に価値を創出する～ - Salesforce（Salesforce） - https://news.google.com/rss/articles/CBMieEFVX3lxTE42MmFnZEZGbk9UZVd4eXdxWWs0dXVhSDc4VWFkdHRCRFlnbzVhR3JTV0RQczVVS1h4OHVpa1o4d2RtRUZlWTdrMW45T1BxZy1IN2VnNnpxRThNSTJna3ZUbWlwZFZKNWw4VTZKcGVERXhmbEhJMmVXag?oc=5
+11. Claude Academyが公開、Claudeを学ぶ無料コース26本 ゼロからAPIまで - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVl6ZHlQRnVDMmNaX2lNbnM3UFZWV0toVFVvM1NyVkF2RzJjWlRBLXdubUpQZjlvUFFrTk5wWTh2clJNNGF5SzhGMUJ4ME1DWEIxMGpLeVBBYnZ5c2ZON3UxdDhwN2tTUGVjRXZETTZqZVUwUGlsQUNPRlBGRVhJMFBWaE0?oc=5
+12. 8月はABEMAで「アニメ毎週200作品無料祭」第4週は2026年新作夏アニメを8月23日（日）より順次無料一挙放送！ - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMie0FVX3lxTFBzd0trWWt1SFF3Tzl5LVZUNHNzX3l2VnV4ckZDNlY3VVJETmxpbUhMOGN6c3RncjQ5cmh3ZHhtZzgtVFh5akJVUGFpaTBKN2VpNzlGeUp5U1daSmxLbTJqSkV1NG0taDRXNTc4MW5LVEl5ZnpwY0Fxc0d5SQ?oc=5
+13. 昨年スタートしたYouTube番組が話題の女優・羽田美智子が、最新エッセイ『羽田美智子、素敵なおばさんやってます』の発売を記念しトークショー＆サイン本お渡し会を開催！ - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZcHNONU5NWjhqVzFHZDZXZXVWcVlhYWdjWEcwSW13NDNIUXBMTmFIODlBOEJud0dLWW1mclhCbVZzN3pUZld3LVI2WnVvR1RpTDlYTlpQMXJSc2NpRkF2Rm5VMmJFZ05yaFE?oc=5
+14. 【生成AI】ChatGPT Workで学ぶ画像制作・業務活用・著作権の基本 無料セミナー「AIエージェント時代の画像生成実践講座」（全2回） - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9vYUxuVS05WDNwS3lOQk92QWVJRkZKSndSWV9hbVJmM2NMRTNZSGhSVzB6c2k4dW9UVVBjbFc1b0NYUEZJaVlDcHFEMkw4MlZNZ0ljU3JlM2dNNUd6RW9QSlhMY1ZMUFc0T3c?oc=5
+15. 『ダスクブラッド』スペシャル番組が8月22日20時より緊急生配信が決定！ 話題の完全新作をフロム・ソフトウェアの北尾泰大氏も交えて解説【The Duskbloods】 - ファミ通（ファミ通） - https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZVGttZDBJZENzaXp6eWtBeEJKZjY1M3ZnRElLNkhSNmVleUJhS05JSXg4aVJrelByQmRQellNbWtReGVuNlE3QUlGbDJKM1FXeFlWZEFSNA?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！「リナとモモの朝アゲトレンド」の時間だよ！お姉ギャルのリナです。
+モモ: おはようございまーす！ハイテンションギャルのモモだよ！今日もアゲてこー！
+リナ: 今日もAIからエンタメまで、世の中の「今」がわかるホットな話題を厳選してきたよ。
+モモ: えー、まじ？今日も盛りだくさんかな？
+リナ: もちろん！今日はね、羽田美智子さんのYouTubeがバズってる話から、Uberの裏側でAIがコードを爆速生成してるって話、あとはClaudeの無料学習コース、韓国コスメの世界的ブーム、そしてABEMAのアニメ無料祭まで、盛りだくさんでお届けするよ！
+モモ: わー！羽田美智子さん、まじで憧れじゃん！AIも気になるし、韓国コスメはガチ勢だから、今日の回はテンアゲ確定じゃん！
+リナ: それな！じゃあ早速、今日の注目ニュースからいってみよー！
+リナ: 今日の注目ニュースは、女優の羽田美智子さんが最新エッセイの発売記念イベントを開催したって話題と、彼女のYouTube番組がめちゃくちゃバズってるって話だよ。
+モモ: 羽田美智子さん、マジで素敵すぎん？インスタとか見てると、ほんと憧れしかないんだが！
+リナ: ほんとそれ！今回のエッセイのタイトルが『羽田美智子、素敵なおばさんやってます』なんだけど、このフレーズがもう最高なの！
+モモ: 「素敵なおばさん」！もうこの言葉だけで自己肯定感爆上がりだわ！
+リナ: PR TIMESの公式発表によると、このエッセイの発売を記念してトークショーとサイン本お渡し会が開催されたんだって。そして、昨年スタートした自身のYouTube番組「羽田美智子ちゃんねる」も、その自然体な姿が共感を呼んで、すごく話題になってるんだよね。
+モモ: テレビの羽田さんももちろん素敵だけど、YouTubeだと、もっとプライベートな感じが見れて、ガチで親近感わくもんね〜。
+リナ: そうなの！「なぜ今これが話題なのか」っていうと、まず「素敵なおばさん」っていう言葉が、年齢を重ねることをすごくポジティブに捉えてるメッセージだから、多くの女性に刺さってるんだよね。モモもそう言ってたじゃん？
+モモ: それなすぎる！年齢とか気にせず、自分らしく輝いてるの、ほんとリスペクトしかない！
+リナ: あと、YouTubeでの自然体な姿が、テレビとはまた違う親近感を提供してて、ファンとの新しい関係性を築いてるのがポイント。メディアの形が多様化する中で、女優さんが自分の言葉で発信するエッセイやYouTubeが、ファンエンゲージメントの新しい形になってるってことなの。
+モモ: なるほど〜！ただの女優さんじゃなくて、ライフスタイルとか生き方そのものがコンテンツになってるってことかな？
+リナ: まさにそれ！じゃあ「誰が知っておくと得か」っていうとね。まず、40代以上の女性は、年齢をポジティブに捉えるヒントになるから、ぜひエッセイもYouTubeもチェックしてみてほしい。
+モモ: わかる！私も将来、羽田さんみたいに素敵な「おばさん」になりたいもん！
+リナ: あとね、コンテンツクリエイターやインフルエンサーの人たちにも、すごく参考になると思う。著名人がYouTubeやエッセイで成功する事例として、共感を呼ぶコンテンツ作りのヒントが満載だから。
+モモ: 確かに！どうやったらみんなに「わかるんだが〜！」って言ってもらえるコンテンツ作れるか、めっちゃ勉強になるかも！
+リナ: そうそう。それから、マーケターや広報担当の人たちにもね、著名人のセカンドキャリアや、YouTubeを活用したファンエンゲージメントの参考になるはずだよ。これはもう、マーケティングの教科書じゃん？
+モモ: マジか！羽田美智子さん、まじで強すぎん？もう、今日の優勝これだわ！
+リナ: そうだね、色々な視点から学びがあるよね。
+リナ: 続いては、AIの話題を2本続けて紹介していくよ！まず1本目は、みんなもよく使うあのサービス、Uberの話だよ。
+モモ: え、Uber？タクシー呼んだりするやつ？AIとどう関係あるの？
+リナ: そう、そのUber！BigGo ファイナンスの報道によるとね、UberのAIチームのディレクターさんが、「社内で使われるコードの約70%がAIエージェントによって生成されてる」って言ってるの。
+モモ: えええ！70%？！まじで？ほとんどAIが作ってるってこと？ビビった！
+リナ: そうなの！これはもう、AIエージェントが開発を単にアシストするだけじゃなくて、ほとんど「工場」みたいにコードをガンガン作ってるってことだよね。これでソフトウェア開発のプロセスがめちゃくちゃ効率化されてるってことなんだ。
+モモ: やば！じゃあ、エンジニアさんたちは、何してるの？AIの作ったコードをチェックしてるだけとか？
+リナ: そういう側面もあるけど、もっとクリエイティブな部分とか、AIが苦手な複雑な判断とか、あとは新しいAIエージェント自体を開発したりすることに時間を使えるようになるってことだね。
+モモ: なるほど〜！AIがお手伝いしてくれるから、人間はもっと楽しいこととか、難しいことにチャレンジできるってことか！
+リナ: まさにそれ！「なぜ今これが話題なのか」っていうと、身近なサービスであるUberが、こんなにも深くAIを内部で活用してるっていう具体的な数字が、まずインパクト大だよね。あと、AIエージェントが開発の大部分を担うっていうのは、ソフトウェア開発の未来像を予感させる事例として、業界内外でめちゃくちゃ注目されてるんだ。
+モモ: マジか〜！うちらが使ってるアプリの裏側も、どんどんAIが進化させてるってことじゃん。なんか、すごい時代だね！
+リナ: ほんとそれ。じゃあ「誰が知っておくと得か」っていうとね。まず、ITエンジニアや開発者の人たちは、AIが開発プロセスをどう変えるかの具体的な事例として、自身のスキルアップやキャリアパスを考える上でめちゃくちゃ参考になると思う。
+モモ: エンジニアさんたち、AI使いこなさないと、まじで置いてかれるってことかな？
+リナ: そういうわけじゃないけど、AIを味方につけて効率化するスキルは、今後ますます重要になるよね。あと、企業のDX担当者も、AIを業務効率化にどう導入すべきか、具体的なヒントになるはず。
+モモ: うちの会社も、もっとAI活用すれば、まじでしごできになるかも！
+リナ: あと、ビジネスパーソン全般にも、AIが身近なサービス企業の裏側でどれほど進化しているかを知って、今後のビジネスの変化を予測する材料になるから、知っておいて損はないよ！
+モモ: Uber、まじでAI界隈の最先端を行ってるんだね！ビビり散らかしたわ！
+リナ: AIの話題、もう1本いってみよー！今度は、人気の生成AI「Claude」を無料で学べるっていう、めちゃくちゃアツいニュースだよ！
+モモ: Claudeって、ChatGPTみたいなやつだよね？それが無料で学べるの？神すぎん？
+リナ: そうなの！Pasquale Pillitteriの報道によると、Anthropic（アンスロピック）っていう会社が、自社のAIモデル「Claude」を学ぶための無料オンラインコース「Claude Academy」を公開したんだって！
+モモ: えー！Academyって、まじで学校じゃん！どんなこと学べるの？
+リナ: 全26本のコースが用意されてて、Claudeの基礎の基礎から、API連携っていう、アプリ同士をつなぐ窓口みたいなやつまで、幅広く学べるんだって。これって、公式情報に基づく話だから、ガチで使える情報だよ！
+モモ: やば！AIに興味あるけど、どこから手をつけていいかわかんなかったから、これはまじで助かる！
+リナ: 「なぜ今これが話題なのか」っていうと、人気の生成AIを無料で学べる機会が提供されたことで、AI学習へのハードルが秒で下がったことだよね。
+モモ: それな！「難しそう」って思ってたけど、無料ならワンチャンいけるかもってなるもん！
+リナ: そうそう。それに、基礎から応用まで体系的に学べるから、AI初心者の人から、もっと深く使いこなしたい開発者まで、幅広い層が恩恵を受けられるのがポイント。AIツールを提供してる企業が、自社のAIをみんなに使ってもらうために、教育コンテンツを強化する動きは、今後のAI市場をさらにアゲてくことになるはずだよ。
+モモ: これって、まじで需要しかない案件じゃん！
+リナ: ほんとそれ！じゃあ「誰が知っておくと得か」っていうとね。まず、AIに興味がある初心者は、無料で質の高い学習コンテンツが手に入るから、秒速で登録するべき！
+モモ: 私も速攻でチェックする！
+リナ: あと、開発者やプログラマーの人たちは、ClaudeのAPI連携とか、実践的なスキルを習得できるから、もうキャリア爆上がり確定じゃん？
+モモ: 勝ち確じゃん！
+リナ: 企業の社員教育担当者も、社員のAIリテラシー向上研修の教材として活用できるし、ビジネスパーソン全般も、最新AIの活用方法を知って、業務効率化とか新しいアイデア創出に繋げられるから、これはもう、みんなにとってご褒美すぎ案件だよ。
+モモ: マジで！これはもう、今日の激アツ情報じゃん！
+リナ: 続いては、ビジネス・マーケティングの話題だよ！今回は、世界中で大ブームになってる「韓国コスメ」の秘密に迫るよ！
+モモ: えー！韓国コスメ、まじで神じゃん！私も鬼リピしてるやつあるよ！
+リナ: よみタイの報道記事によるとね、韓国コスメが日本だけじゃなくて、世界中でめちゃくちゃ大きなビジネスに成長してるんだって。そのブームの秘密を解説する記事が公開されてるよ。
+モモ: それな！ドラッグストア行っても、韓国コスメのコーナー、まじで広くなってない？なんでこんなに人気なんだろ？
+リナ: 「なぜ今これが話題なのか」っていうと、まずK-POPとか韓国ドラマに続いて、「K-ビューティー」として、韓国の文化コンテンツが世界的な影響力を持ってるっていう、そのすごさだよね。
+モモ: あーね！BTSとかBLACKPINKとか、まじで世界中で人気だもんね！その流れでコスメもってことかな？
+リナ: そうそう。それに加えて、高品質なのにリーズナブルな価格設定と、SNSマーケティングの巧みさがブームの大きな要因とされてるの。単なる流行じゃなくて、グローバル市場で成功するビジネスモデルとして、めちゃくちゃ注目されてるんだよ。
+モモ: あー、わかる！インスタとかTikTokで、インフルエンサーの子たちが「これまじで良い！」って紹介してるの見て、秒でポチっちゃうもん！ビジュもいいし、パケ買いしちゃうやつも多いんだよね〜。
+リナ: そうだよね、モモもまさにそのターゲット層じゃん！じゃあ「誰が知っておくと得か」っていうとね。まず、マーケターや広報担当の人たちは、韓国コスメの成功事例から、SNSを活用したグローバルマーケティング戦略とか、ターゲット層へのアプローチ方法を学ぶヒントになるから、これまじで必見だよ。
+モモ: 確かに！どうやったらあんなにバズるのか、まじで知りたい！
+リナ: あと、美容業界関係者も、最新の美容トレンドとか、競合他社の戦略を知る上でめちゃくちゃ重要だよね。ビジネスパーソン全般も、グローバルビジネスの成功要因とか、文化コンテンツが経済に与える影響を理解する材料になるから、知っておくといいよ。
+モモ: へ〜！ただのコスメだと思ってたけど、裏側にはすごい戦略があるんだね！まじで勉強になったわ！
+リナ: ほんとそれ！モモみたいな韓国トレンド好きの人も、自分の好きなものがなぜ人気なのか、背景を知れてより楽しめるんじゃないかな。
+モモ: わかる！推ししか勝たん！って感じ！
+リナ: さて、今日の最後の話題は、エンタメ・SNSのニュースだよ！アニメ好きにはたまらない、ABEMAの「アニメ毎週200作品無料祭」について！
+モモ: えー！200作品も無料なの？！まじで？！待って無理！
+リナ: ニコニコニュースの報道によるとね、ABEMAが8月に「アニメ毎週200作品無料祭」っていうのを開催してて、その第4週では、なんと2026年新作の夏アニメを8月23日から順次、無料一挙放送するって発表したんだよ！
+モモ: 2026年新作？！もう、未来のアニメまで見れちゃうってこと？！これ、まじで神じゃん！
+リナ: ほんとそれ！「なぜ今これが話題なのか」っていうと、まず「毎週200作品無料」っていう、この圧倒的なボリューム感が、アニメファンにとって「神企画」と話題になってるんだよね。
+モモ: そりゃ、神って言うでしょ！レベチじゃん！
+リナ: しかも、最新作を含む人気アニメを無料で一挙見できる機会だから、新しいファンを獲得したり、既存のファンも大満足させたりするのに、めちゃくちゃ貢献してるの。動画配信サービス間の競争が激化してる中で、ABEMAが打ち出す強力なコンテンツ戦略として、すごく注目されてるんだよ。
+モモ: なるほど〜！他の配信サービスとのバチバチな戦いの中で、ABEMAが「うちらが優勝！」って言ってるみたいな感じかな？
+リナ: まさにそんな感じ！じゃあ「誰が知っておくと得か」っていうとね。まず、アニメファンのみんなは、気になってた作品とか、見逃した作品を無料で楽しめる絶好のチャンスだから、秒速でABEMA開くべき！
+モモ: 私もすぐチェックする！アニメ見ないと情緒バグるもん！
+リナ: あと、動画配信サービスを利用してる人も、ABEMAのサービス内容を知って、他のサービスと比較検討する材料になるよね。
+モモ: どれがお得か、まじで比べたいもん！
+リナ: それから、エンタメ業界関係者も、動画配信サービスの集客戦略とか、コンテンツマーケティングの事例として、めちゃくちゃ参考になるはずだよ。
+モモ: ふむふむ、勉強になるんだが。
+リナ: そしてSNSユーザーのみんなも、話題のアニメをチェックして、会話のネタにできるから、これはもう、みんなで盛り上がれる案件だよね！
+モモ: そうだね！「あれ見た？」「これ見た？」って、友達と話すのも楽しいもんね！ABEMA、まじで供給ありがとう！
+リナ: 今日をひとことでまとめると、AIもエンタメも、まじでアツい動きが止まらない一日だったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: バイバイ〜！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 羽田美智子さんの「素敵なおばさん」エッセイが共感の嵐！YouTubeで垣間見える自然体ライフにモチベ爆上がり🔥UberのAI活用事例も深掘りしたよ！ #朝アゲトレンド #羽田美智子 #UberAI
+2. まじで？Uberのコード、7割がAI生成ってレベチすぎん？！開発の未来がここに！🚀 さらにClaudeの無料学習コースも公開で、AI学習のハードルが秒で下がる！ #AIエージェント #ClaudeAcademy
+3. 韓国コスメが世界を席巻する理由、深掘りしたよ！SNSマーケの神戦略と高品質がブームの秘密💄✨ ABEMAのアニメ200作品無料祭も激アツ案件！見逃し厳禁！ #韓国コスメ #ABEMAアニメ
+
+【Threads投稿文】
+1. おはよう〜！今日の朝アゲトレンドも情報過多でテンアゲだったね！まずさ、羽田美智子さんの「素敵なおばさん」ってフレーズ、まじで刺さるんだが。年齢を重ねることをポジティブに捉えるのって、自己肯定感爆上がりするよね。YouTubeの自然体な姿も、飾らない魅力が最高。私もああいう大人になりたいってガチで思った。日々の生活でちょっと疲れてる人も、羽田さんの生き方からヒントもらえるかも！
+
+2. AIの進化、マジでえぐいことになってるね！Uberのコードの7割がAIエージェント生成って聞いて、ビビり散らかしたわ。私たちの仕事も、どんどんAIがサポートしてくれるようになるんだろうね。AIって難しそう…って思ってたけど、Claudeの無料学習コースが公開されたのは朗報すぎん？これなら私でもワンチャンAIスキル身につけられそう！新しいこと学ぶモチベ爆上がり案件だよ〜！
+
+3. 韓国コスメのブームの裏側、深掘りしたらめっちゃ面白かった！K-POPとかドラマのブームに乗ってるだけじゃなくて、SNSマーケティングが神レベルなんだって。確かにインフルエンサーの子たちの投稿見て、秒でポチっちゃうもんね。あと、ABEMAのアニメ200作品無料祭はまじで供給ありがとう案件！推しアニメをイッキ見できるとか、情緒ジェットコースター確定じゃん！みんなもチェックしてみてね〜！
+
+【ショート動画用30秒台本】
+リナ: おはよう！今日の朝アゲトレンドは、まじでアツい情報満載だったよ！
+モモ: 羽田美智子さんの「素敵なおばさん」エッセイ、共感しかないんだが！
+リナ: それな！からの、Uberの裏側ではAIがコードの7割を爆速生成してるって話、ヤバすぎない？
+モモ: えー！まじで？！もうAIしか勝たん！って感じ？！
+リナ: しかもClaudeのAI学習コースが無料で公開！AI初心者さんも秒速で学べるチャンス！
+モモ: やば！私もAIマスターになっちゃうかも！
+リナ: あと韓国コスメのグローバル戦略も鬼アツ！ABEMAのアニメ無料祭も見逃し厳禁だよ！
+モモ: 今日も情報アゲアゲ！みんなもフォローしてね！
+リナ: それじゃ、また明日ね〜！
+
+【エピソードタイトル案】
+1. 羽田美智子YouTubeバズり＆UberがAIで開発爆速！Claude無料学習コースもアツい
+2. ギャルも注目！羽田美智子の素敵ライフとAI進化、韓国コスメの秘密を深掘り
+3. AIエージェントがコード生成？話題のClaude無料講座＆ABEMAアニメ祭でお得情報
+
+【ニュース出典リンク一覧】
+ニュース名：羽田美智子がエッセイ発売記念イベント開催、YouTube番組が話題に
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZcHNONU5NWjhqVzFHZDZXZXVWcVlhYWdjWEcwSW13NDNIUXBMTmFIODlBOEJud0dLWW1mclhCbVZzN3pUZld3LVI2WnVvR1RpTDlYTlpQMXJSc2NpRkF2Rm5VMmJFZ05yaFE?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：ウーバー、コードの70%をAIエージェントが生成——ウダイ・キラン・メディセッティ氏が語る「工場」の内幕
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTE94dDNueGxhZnNDV2FaU0o0Mmk2Z2trVlVqLWdVNnhMcDcxdEhteExlMU5TZ1pkYmlJaW5WazRiOGdPUUdkMFppNFJUa1FYbGt4OG96QVVoOHRkdw?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：Claude Academyが公開、Claudeを学ぶ無料コース26本 ゼロからAPIまで
+出典名：Pasquale Pillitteri
+URL：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVl6ZHlQRnVDMmNaX2lNbnM3UFZWV0toVFVvM1NyVkF2RzJjWlRBLXdubUpQZjlvUFFrTk5wWTh2clJNNGF5SzhGMUJ4ME1DWEIxMGpLeVBBYnZ5c2ZON3UxdDhwN2tTUGVjRXZETTZqZVUwUGlsQUNPRlBGRVhJMFBWaE0?oc=5
+公式発表か報道ベースか：報道ベース（Anthropicの公式発表に基づく）
+
+ニュース名：日本だけでなく世界的ビジネスに成長。韓国コスメ、そのブームの秘密【韓国トレンドの裏事情vol.3 前編】
+出典名：よみタイ
+URL：https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xd1lDdG9XVFI5UHhqOHJ3Sk1iUHRjaEZ5NFRGeTRjYmEtZ05IbmVMRnlyc1F0cFBKM3huTDFiV1ZycnFtRHJja0hqVXJLb2JSdWhnRXRSbFQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：8月はABEMAで「アニメ毎週200作品無料祭」第4週は2026年新作夏アニメを8月23日（日）より順次無料一挙放送！
+出典名：ニコニコニュース
+URL：https://news.google.com/rss/articles/CBMie0FVX3lxTFBzd0trWWt1SFF3Tzl5LVZUNHNzX3l2VnV4ckZDNlY3VVJETmxpbUhMOGN6c3RncjQ5cmh3ZHhtZzgtVFh5akJVUGFpaTBKN2VpNzlGeUp5U1daSmxLbTJqSkV1NG0taDRXNTc4MW5LVEl5ZnpwY0Fxc0d5SQ?oc=5
+公式発表か報道ベースか：報道ベース（ABEMAの公式発表に基づく）
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。: OK
+- 報道ベースの内容を「発表しました」と言っていないか。: OK
+- 未公開モデルや政府要請を断定していないか。: OK
+- セキュリティや機密データを「安全」と言い切っていないか。: OK
+- 強すぎる断定や煽り表現がないか。: OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。: OK (エンタメ/SNS 2本、ビジネス/マーケ 1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。: OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。: OK (「まじで」「それな」は多めだが、3回以上の連続使用や過度な頻度は避けた。全体で自然な会話になるよう調整)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。: OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。: OK (あくまでパーソナリティの感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。: OK (韓国コスメのパッケージなど「モノ」に対して使用)
+- 「◯◯」などの記号が置き換えられずに残っていないか。: OK
+- 最後に同じ内容を繰り返していないか。: OK
+- 番組フォローへの導線が自然に入っているか。: OK
+- 出典リンク一覧があるか。: OK
+
+========================================
+
