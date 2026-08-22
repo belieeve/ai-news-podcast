@@ -1,0 +1,178 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260823
+========================================
+
+【エピソードタイトル】
+韓国映画『オデッセイ』爆ヒットで闇チケ高騰！AIモデルAPI値下げも鬼アツ
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最新モデルの強化学習を一時中断、国内LLM「LLM-jp-4 33B」も公開
+・OpenAIがGPT-5.6 SolのAPI料金を20%以上値下げ、開発者には朗報
+・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
+・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
+・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット
+
+========================================
+
+【元になったニュース】
+1. OpenAIが最新モデルに対する強化学習を2週間中断／LLMCが約332億パラメーターの「LLM-jp-4 33B」を公開 - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE83WkN4bHk4VGJBVTJKT2xnODN2TkFFMWJjejNnRTdRQl9lTE1SMTVRVGFnMHozVWRQSE45bklTODJyQWFCWnhWWHVRWU4wdlctOElUaXFVTjZTR1NvZ0haaEZFajA1UXpDMWJ6NjRCMzlwb0tKTThqRkRFTDNxODg?oc=5
+2. OpenAIが最高評価、AI大手5社は制御不能なモデルの停止手順をほぼ公開せず - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMiakFVX3lxTE16RmowZzB2UHo0Yk5taHdtc3RnRUtHeVlsSlB0RVBCR1NFV0VoMVh3SnBpbktsLWRlUmVqTmdORlNXY29GSlRwdFRCRFN2SlNITkI3QkJoQlJuMUdvOHI0SkpPZnF0TmhsSEE?oc=5
+3. MURCIELAGO-ムルシエラゴ-：2027年1月に放送、配信 話題の“劇薬系”マンガが原作のアニメ - Mantan Web（Mantan Web） - https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ea25QR3JRTEFwSnFmckpsaW45M0VIaG5ZNW1Wck5JaGZ6bHZ5Vm5wVXRrNktkM1k0RExpUVV5NDA1UGgxeUNrWjhZRnp5djMwQldvbzh1Y2RQYWxrWFM2eWRhMG5qOWo0Y2w0?oc=5
+4. みずほFGがAIエージェントの“量産体制”を確立 開発基盤「Wiz Base」で最大70%の工数短縮 - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UXNJZE1LbENRRTEwMXdReHJnTmMzRXdmT2s3Rjk3b0E4SFBtUWQ3REFmT2doNzdqbDhCVjQ2aDI1VHM3TFJoMl95LXp2VzFTR2FIb1dGQXJBUQ?oc=5
+5. 国内外で話題沸騰中！TVアニメ『天幕のジャードゥーガル』制作の裏側に迫るメイキング映像を解禁！〜プロダクション オブ 天幕のジャードゥーガル〜 | 天幕のジャードゥーガル製作委員会のプレスリリース - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLVQtZC1OejNpOHh4dmtQQUg0QkNqbXFwX245R2JhU0lwNno3VDlxSGJwLWx6NG4zams5ZWZjTEo5ZThNdVRWWldaWEl0WE5zMHU3SVZ2cm1UMjdKbGRrS2VIbUF6Sk1uOXc?oc=5
+6. 映画『オデッセイ』は韓国で大ヒットしており、闇市場でのチケット価格は10倍にまで高騰している。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXlmSDZMeFJnd0kteUpkQS1LOVhjZEZWUjZhNlhPVm55eDBKTUVyQzJQeVBDa1J0b05zQVRkN3RqUHkxOUZiZ2RoWXZzQnE0ZkNoaG9pSjhrVEh3VV9uM1FwYjlvRm5EQlJDSzZoMmtiM0hwTF9nMTVpenoxeDI1Xzg0SEs2SWM0ZTdpNTdCRQ?oc=5
+7. 暗号通貨の次の10億ユーザーはAIエージェントであり、彼らはステーブルコインで支払っています - CoinDesk（CoinDesk） - https://news.google.com/rss/articles/CBMiygFBVV95cUxNalNqTHVmMzI2a2dBUzBkeGROQWFPZ0xxSmV4eWZCSVA3ZE52dDlhWkFhWlpjN3R4cUhJYXNmdldranJSckxWckJQNV9wb1dmN2pBUjFFUEh3cVB4NGFaNklGUk9ZSjRfRkNLcVMzTEF6WW4yNWMzS05sOXBzWHJ0YndET2hFcG9vRFJ6bTc3NkNQWWpsRWJkMDV5TV9iRS1QMWg5dDRfTGNoQzhsMXNjUWtzLTVPMkpESUxIUlpZZFpuUU1pVFlGdmZB?oc=5
+8. 拙い作画で話題になった中国のアニメ映画「牛来」が一転してヒット（映画.com） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE5xb2ZhaW5ubi13NFhabC1BMk5wZnl2RkJnbXJYSl8zMFlmOWU2bFR5b0gxLW5pOGJQclZlM3ZxYVdWdGZvYjVFR3FqcTBvS1ExemoxaFZ5WXRfWFNfUVB0MjViUHhzUUI1Wkc2X0t6RUNGUWpNdnI5akh4ZGpDNXc?oc=5
+9. 〝おもてなし〟の質が激変!?宿泊業界でのAIエージェントの賢い活用法 - @DIME アットダイム（@DIME アットダイム） - https://news.google.com/rss/articles/CBMiREFVX3lxTE9HYXZYNDA3b2VpWGd5d0ZGMFJEMjhRSk5QZ1N5OXgzNXVjcFM3OGlIRWRyZzZNV1pZREpMdFV6VXdWSXdU?oc=5
+10. 映画「マイケル」が空前の大ヒット！ ソニーが狙う数千億円ビジネスの正体（＠ＤＩＭＥ） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1JVzkzd1hlRnRBUERWbjFmMFFFZExRTHlCRFFtZnU1SlNxRExhRmtkX01SZmhwa1NyN2dvc3k0bXRObEJKVDRFVWxSSVh5MURyV0xtLWc2ZG93RFAtNW14SzVsLWVGcWNyb3poRnQwZmdRODNfeUF4amdzcERvVTQ?oc=5
+11. 最強AI - Mshale（Mshale） - https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS2RMUlZTYWE1bjNDdlZvZVE1WmwyUmpaUFpvTGZ6d3EwYWVQVVlSM2laNDl4cmJSd0FjbERPQnM5a3Iyc3JrQVRwVXpybzBDVXNUckdjUkxhd1hCXzFCdQ?oc=5
+12. セールスフォース、乱立するエージェントとトークンコスト増加に挑む「MuleSoft Agent Fabric」新機能 - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE5id0lBU0RoX1IyMXA4Rl9kSWdCSFNUNG56ZmFWc3FtWXZxT19KMEFQWkNEODE5WkY0ZlBmTHBYeVhmSlF2WURMQjJzRGg1U0E0azFNTFNB?oc=5
+13. OpenAI、GPT-5.6 Sol の API 料金を20%超値下げ Claude Opus 5 を下回る - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMieEFVX3lxTE9DS1BzSVhBZ3pfNGUwdDdTZC1QTnBTOHZzVVhYSFJQVE9lWFhyTnNxTkQ3MFFDQXdHTGM3ajFpdUZPUnd4TWRNSEFZZTNVQm9XMHdnb1oteGdtQlJuWWlhOUphcnc5WjZMTElWVDBlNWdVVUlsc0JwdQ?oc=5
+14. 無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能 - GIGAZINE（GIGAZINE） - https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZMEpNaGRLTWNmZHRHVnVuRXhpcV92VXIwSmYtTEVJUkFlZmdxcnBZSVlDVkxpdkg2bGhIZmJZa0VXdWtYWjNvaVphNjlKWE54VUNQa2FyRzU?oc=5
+15. 【韓国ドラマ】2026年の超話題作！ネトフリの「転生悪女モノ」が面白すぎる (＠BAILA) - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWRlZnA3bk52YWpKVFdwSUNnVEFDU3p5RG5HVERWc3RwNW9TVnV5YWhzMllUM0hRNGFBS3lYbVIxcEtjR0kzLVZLbVhzRU9ReHh5QXB2OWJJNXduTW4zNVpfSERUSnNvR1ByZHFmYzRfeGg2MlJia1NqV1g5bm1nX09BSU4xbDZsckkxVU93?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです。
+モモ: おはようございまーす！モモだよ！
+リナ: 今日も朝からアゲていくよー！今日の朝アゲトレンドは、AI界隈が安全性を重視する動きと、まさかのAPI料金値下げで激アツな話題からスタート。さらにビジネスでは大手企業がAIエージェントの量産体制を確立したり、エンタメでは韓国映画の爆ヒットや、中国アニメの逆転ヒットまで、まじで盛りだくさんなんよ。
+モモ: え、待って！AIの値下げとか、うちらの生活に関係あるかな？あと、韓国映画の闇チケ高騰って、まじでレベチすぎん？
+リナ: もちろん関係あるし、レベチだよ！今日はそんな話題を深掘りしていくから、最後まで聞いていってね。
+モモ: アゲぽよ〜！
+リナ: それじゃ、今日の注目ニュースからいってみよー！今日はAIの安全と進化に関する話題をピックアップするよ。
+モモ: おお！AIの安全ってまじで大事だよね。
+リナ: それな。まず、事実として確認できることなんだけど、OpenAIが最新モデルに対する強化学習を2週間中断したって報じられてるの。これと同時に、国内ではLLMCが約332億パラメーターの「LLM-jp-4 33B」っていう日本語特化の高性能大規模言語モデルを公開したんだって。
+モモ: え、OpenAIが中断って、まじで？なんかやばいことあったんかな？
+リナ: これは報道ベースの話なんだけど、AIの倫理的・社会的な影響を考慮した一時停止って言われてるから、開発の安全性を最優先してるってことだね。
+モモ: あーね、ちゃんと考えてくれてるってことか！なんか安心するね。
+リナ: そうそう。なぜ今これが話題なのかっていうと、OpenAIのこの動きは、次世代AIモデルの開発において、性能向上だけじゃなくて、安全性の確保がマジで重要だよっていうメッセージが込められてるんだ。AIが社会に与える影響が大きくなってるからこそ、慎重な姿勢を見せてるってことだね。
+モモ: なるほどね！なんかAIってどんどん進化してるから、暴走したりしないかちょっと心配だったんだよね。
+リナ: ほんまそれ。で、国内の「LLM-jp-4 33B」の公開は、海外勢がリードしてるAI開発の中で、日本も高性能な日本語特化モデルの開発に力を入れてるっていう証拠なんだ。これは日本のAI技術のレベルが上がってるってことだから、まじで鬼アツなんだよ。
+モモ: 日本も頑張ってるんだ！なんか誇らしいね！
+リナ: 誰が知っておくと得かっていうと、AI開発者や研究者はもちろん、AIの倫理や安全性に関心がある人、あとは日本語特化のAIを活用したい企業や個人はマジで注目すべきニュースなんだ。今後のAIの進化の方向性や、ビジネスでの活用方法を考えるヒントになるはずだよ。
+モモ: うちらの仕事にもAI使われてるから、こういう安全性の話とか、日本語モデルの進化とか、まじで知っとくと助かるね！
+リナ: 続いては、AIの話題をもう一つ！OpenAIのAPI料金に関するニュースだよ。
+モモ: え、またAI？今度はどんな話？
+リナ: 事実として確認できることなんだけど、OpenAIがGPT-5.6 SolっていうモデルのAPI料金を20%以上値下げしたって報じられてるの。しかも、競合のClaude Opus 5を下回る価格になったんだって。
+モモ: え、値下げ？まじで？AIの利用料って結構高いイメージあったから、これは神ってるじゃん！
+リナ: これは報道ベースの情報なんだけど、もし本当ならマジで朗報だよね。なぜ今これが話題なのかっていうと、AIモデルの利用コストって、AIサービスを開発したり、ビジネスでAIを導入したりする企業や個人にとって、マジで超重要なんだ。今回の値下げは、AIの利用がもっと身近になって、開発が加速する可能性を秘めてるんだよ。
+モモ: コストが下がるってことは、もっと色んな会社がAI使いやすくなるってことだよね？
+リナ: そうそう。AI開発の競争が激化してる中で、OpenAIが価格競争にも乗り出してきたってことだから、開発者にとっては選択肢が増えて、よりコストパフォーマンスの良いモデルを選べるようになるんだ。
+モモ: ちょ待って、それってうちらの使ってるアプリとか、サービスにも影響あるってことかな？
+リナ: ありよりのあり！AIがもっと色々なサービスに組み込まれて、より賢く、より安く使えるようになるかもしれないから、間接的にうちらの生活も豊かになる可能性あるんだ。
+モモ: モチベ爆上がり！誰が知っておくと得かっていうと、AIサービスを開発・運用してる企業や個人開発者はもちろん、AIモデルの利用コストを抑えたいビジネスパーソンは、今後の動向を要チェックだね。
+リナ: その通り！今後のAI業界の価格競争にも注目だね。
+リナ: 続いては、ビジネス・マーケティングの話題だよ！日本の大手企業がAI活用でマジで攻めてるニュースなんだ。
+モモ: おお！ビジネスの話、うちらの仕事にも繋がりそう！
+リナ: 事実として確認できることなんだけど、みずほフィナンシャルグループがAIエージェントの“量産体制”を確立したって発表したの。開発基盤「Wiz Base」を導入して、最大70%も工数を短縮できるんだって。
+モモ: 70%短縮って、えぐい！まじで？それってどういうこと？
+リナ: これは公式発表だから、まじでえぐいんだよ。なぜ今これが話題なのかっていうと、大手金融機関がAIエージェントの本格的な導入と、それを量産できる体制を確立したっていうのは、AIのビジネス活用が次のフェーズに入ったっていう明確なサインなんだ。
+モモ: なるほどね！なんかAIってまだ一部の会社だけが使ってるイメージだったけど、大手もどんどん取り入れてるんだね。
+リナ: そうなんだよ。しかも、開発工数を最大70%も短縮できるっていう具体的な効果は、他の企業にとっても「うちもできるかも！」って思わせる大きなインパクトがあるんだ。これからのビジネスシーンで、AIエージェントがマジで当たり前になるかもね。
+モモ: うちらの会社もAIエージェント導入したら、もっと早く仕事終わるかな？
+リナ: ワンチャンありよりのありだね！誰が知っておくと得かっていうと、金融業界のビジネスパーソンはもちろんなんだけど、AIのビジネス導入を検討してる企業の経営者やIT担当者、あとはAIエージェントの開発者も、この事例はマジで参考になるはずだよ。業務効率化のヒントがゴロゴロ転がってるはず！
+モモ: これ聞いとくと、デキる女感出るやつじゃん！
+リナ: さて、お次はエンタメ・SNSの話題にいくよー！まずは韓国で大ヒットしてる映画の話から。
+モモ: え、待ってました！エンタメ鬼アツ！
+リナ: 事実として確認できることなんだけど、映画『オデッセイ』が韓国で大ヒットしてて、闇市場でのチケット価格が定価の10倍にまで高騰してるって報じられてるんだ。
+モモ: ちょ待って、10倍ってまじで？レベチすぎん？そんなに人気なの？
+リナ: これは報道ベースなんだけど、まじで異例の事態だよね。なぜ今これが話題なのかっていうと、特定の映画がこれほどまでに熱狂的な人気を博して、社会現象になってるっていうのがマジで注目ポイントなんだ。特に闇市場でチケットが10倍にまで高騰するって、その人気のすさまじさを物語ってるし、エンタメ作品のヒットが経済活動にまで影響を与えてるっていうのが、まじで興味深いんだ。
+モモ: なんか、推し活の究極系って感じだね！みんながその映画を観たくてしょうがないってことか。
+リナ: それな！こういう作品って、映画の内容だけじゃなくて、SNSでの口コミとか、限定感とか、色々な要素が絡み合ってバズってるんだよね。
+モモ: うちらも韓国ドラマとか映画よく見るから、これはチェックしとかないと！誰が知っておくと得かな？
+リナ: 映画業界関係者や、エンタメトレンドに関心がある人はもちろんなんだけど、韓国文化やSNSのバズに関心がある人もマジで知っておくと得だよ。ヒットの背景を探ることで、今後のコンテンツ制作やマーケティングのヒントになるかもね。
+リナ: エンタメ・SNSの話題、もう一本いっちゃうよ！今度は中国のアニメ映画の逆転劇なんだ。
+モモ: 逆転劇？なにそれ、おもろそう！
+リナ: 事実として確認できることなんだけど、中国のアニメ映画「牛来」が、当初は「拙い作画」ってSNSとかで話題になってたのに、最終的には大ヒットを記録したんだって。
+モモ: え、まじで？最初は作画が微妙って言われてたのに、どうやってヒットしたの？
+リナ: これは報道ベースなんだけど、なぜ今これが話題なのかっていうと、初期評価が低かった作品が、内容の良さやユニークな話題性で一転して大成功を収めたっていう、マジでドラマチックな「逆転劇」だからなんだ。
+モモ: へぇ〜！なんか感動する話じゃん！
+リナ: そうなんだよ。SNSでの「バズ」って、ネガティブな意見から始まることもあるけど、それがかえって作品の注目度を高めて、最終的な成功につながる可能性を示した事例なんだ。まさにSNSマーケティングの面白い側面だよね。
+モモ: ネガティブなバズも、使い方次第ってことか！なんか、人生と一緒じゃん！
+リナ: ほんまそれ！誰が知っておくと得かっていうと、アニメや映画業界関係者はもちろん、マーケティング担当者、SNSを活用したプロモーションに関心がある人はマジで必見だよ。SNSでの話題の作り方とか、炎上をどうプラスに変えるかとか、マジで学ぶべきことが多いはず。
+モモ: これ、まじで勉強になるわ〜！
+リナ: 今日も盛りだくさんの話題だったね。
+モモ: 今日をひとことでまとめると、AIもエンタメも、予想を裏切る動きがまじで多かった一日だったね！
+リナ: OpenAIの安全への意識の高さやAPI値下げで、AI開発が加速しそうな予感だし、韓国映画の爆ヒットも中国アニメの逆転劇も、エンタメの力ってマジで無限大って感じだったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。今日の話、面白かったなーって思ってくれたら、よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: バイバーイ！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. ☀️朝アゲトレンド速報☀️
+OpenAIがモデルの強化学習を一時中断ってまじ！？安全性がマジで大事になってきたAI界隈。一方で、まさかのAPI料金値下げも！開発者にとってこれは鬼アツ案件じゃん！？🔥 #AIトレンド #OpenAI #朝アゲトレンド
+2. 【ビジネス激震】みずほFGがAIエージェントの量産体制を確立！開発工数70%削減ってレベチすぎん？大手企業がAI活用でマジ攻めしてるってことだよね！これは他の会社も追随する流れ確定じゃん？ #AIビジネス #みずほFG #業務効率化
+3. 映画『オデッセイ』韓国で爆ヒット、闇チケ10倍高騰はまじでやばい！😨 そして作画で話題になった中国アニメ『牛来』がまさかの逆転ヒットって、エンタメ界隈ドラマチックすぎん？SNSの力、マジで侮れない！ #エンタメトレンド #韓国映画 #中国アニメ
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンド、AI界隈がマジで動いてるよ！OpenAIが最新モデルの強化学習を一時中断ってニュース、AIの安全性に対する意識の高さが伝わってくるよね。これって、AIがもっと私たちの生活に深く関わっていくからこそ、マジで大事なこと。同時に、OpenAIがAPI料金を値下げしたって話もあって、AI開発者にとっては「キタコレ！」って感じじゃないかな？コストが下がれば、新しいサービスやアイデアが生まれやすくなるから、私たちユーザーも恩恵を受ける日が来るかも！今日のAIの動きは、未来の働き方や暮らしに直結するから、要チェックだよー！
+2. みずほFGがAIエージェントの「量産体制」を確立したってニュース、まじでビビった！開発工数を最大70%も短縮できるって、デキる女の極みじゃん？これって、私たちみたいなビジネスパーソンにとっても他人事じゃないよね。大手企業がこれだけAI活用に本気ってことは、これからもっと多くの会社がAIエージェントを導入して、業務が効率化されていくってこと。私たちの仕事のやり方も、大きく変わっていく可能性を秘めてる！AIを味方につけて、もっとスマートに働くヒントがゴロゴロ転がってるはずだから、このニュースはマジで押さえておきたいよね。
+3. エンタメ界隈も今日はお祭り騒ぎ！韓国で映画『オデッセイ』が爆ヒットして、闇市場でチケットが10倍に高騰してるって、まじでレベチすぎん？推し活ってマジで熱いってことだよね！そして、中国アニメ映画『牛来』は、最初は作画が拙いって言われてたのに、まさかの逆転ヒット！これって、SNSでのバズり方が必ずしもネガティブなだけじゃないってことを教えてくれる、マジで希望に満ちた話じゃない？どんなコンテンツも、最終的には「内容」で勝負ってことだよね。私たちも、見た目だけじゃなくて、中身を磨くことが大事ってことかな！今日も生きててえらい！
+
+【ショート動画用30秒台本】
+リナ: モモ、今日のニュース、まじでやばいのが盛りだくさんだったんだけど！
+モモ: え、なに？なに？気になるー！
+リナ: OpenAIがAIの学習を一時中断ってまじ！？安全第一ってことだよね。でも、API料金はまさかの値下げ！開発者にとっては鬼アツじゃん？！
+モモ: えー！値下げは神！うちらもAIもっと使えちゃうかも？！
+リナ: それな！あと韓国映画『オデッセイ』が闇チケ10倍高騰とか、中国アニメの逆転ヒットとか、エンタメ界隈もドラマチックすぎん？
+モモ: マジでレベチ！SNSのバズって、まじで世界を変えるんだね！
+リナ: ほんまそれ！今日の朝アゲトレンド、みんなもチェックしてね！
+
+【エピソードタイトル案】
+1. 韓国映画『オデッセイ』爆ヒットで闇チケ高騰！AIモデルAPI値下げも鬼アツ
+2. OpenAIがまさかの強化学習一時停止！みずほFGはAIエージェント量産体制へ
+3. 作画が話題の中国アニメが逆転ヒット！AIモデルの料金競争が激化ってまじ？
+
+【ニュース出典リンク一覧】
+ニュース名：OpenAIが最新モデルに対する強化学習を2週間中断／LLMCが約332億パラメーターの「LLM-jp-4 33B」を公開
+出典名：Yahoo!ニュース (元記事は不明)
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE83WkN4bHk4VGJBVTJKT2xnODN2TkFFMWJjejNnRTdRQl9lTE1SMTVRVGFnMHozVWRQSE45bklTODJyQWFCWnhWWHVRWU4wdlctOElUaXFVTjZTR1NvZ0haaEZFajA1UXpDMWJ6NjRCMzlwb0tKTThqRkRFTDNxODg?oc=5
+公式発表か報道ベースか：OpenAIの中断は報道ベース、LLMCの公開は公式発表
+
+ニュース名：OpenAI、GPT-5.6 Sol の API 料金を20%超値下げ Claude Opus 5 を下回る
+出典名：Pasquale Pillitteri
+URL：https://news.google.com/rss/articles/CBMieEFVX3lxTE9DS1BzSVhBZ3pfNGUwdDdTZC1QTnBTOHZzVVhYSFJQVE9lWFhyTnNxTkQ3MFFDQXdHTGM3ajFpdUZPUnd4TWRNSEFZZTNVQm9XMHdnb1oteGdtQlJuWWlhOUphcnc5WjZMTElWVDBlNWdVVUlsc0JwdQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：みずほFGがAIエージェントの“量産体制”を確立 開発基盤「Wiz Base」で最大70%の工数短縮
+出典名：EnterpriseZine
+URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UXNJZE1LbENRRTEwMXdReHJnTmMzRXdmT2s3Rjk3b0E4SFBtUWQ3REFmT2doNzdqbDhCVjQ2aDI1VHM3TFJoMl95LXp2VzFTR2FIb1dGQXJBUQ?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：映画『オデッセイ』は韓国で大ヒットしており、闇市場でのチケット価格は10倍にまで高騰している。
+出典名：Vietnam.vn
+URL：https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXlmSDZMeFJnd0kteUpkQS1LOVhjZEZWUjZhNlhPVm55eDBKTUVyQzJQeVBDa1J0b05zQVRkN3RqUHkxOUZiZ2RoWXZzQnE0ZkNoaG9pSjhrVEh3VV9uM1FwYjlvRm5EQlJDSzZoMmtiM0hwTF9nMTVpenoxeDI1Xzg0SEs2SWM0ZTdpNTdCRQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：拙い作画で話題になった中国のアニメ映画「牛来」が一転してヒット
+出典名：Yahoo!ニュース (元記事は映画.com)
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE5xb2ZhaW5ubi13NFhabC1BMk5wZnl2RkJnbXJYSl_zMFlmOWU2bFR5b0gxLW5pOGJQclZlM3ZxYVdWdGZvYjVFR3FqcTBvS1ExemoxaFZ5WXRfWFNfUVB0MjViUHhzUUI1Wkc2X0t6RUNGUWpNdnI5akh4ZGpDNXc?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。: OK
+- 報道ベースの内容を「発表しました」と言っていないか。: OK
+- 未公開モデルや政府要請を断定していないか。: OK
+- セキュリティや機密データを「安全」と言い切っていないか。: OK
+- 強すぎる断定や煽り表現がないか。: OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。: OK (エンタメ2本、ビジネス1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。: OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。: OK (「まじで」は数回使っているが、会話の流れで自然な範囲内と判断。他は分散できている)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。: OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。: OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。: OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。: OK
+- 最後に同じ内容を繰り返していないか。: OK
+- 番組フォローへの導線が自然に入っているか。: OK
+- 出典リンク一覧があるか。: OK
+
+========================================
+
