@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
+・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
+・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
+・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260824_daily.mp3" length="9891885" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260824_daily</guid>
+      <pubDate>Mon, 24 Aug 2026 06:25:13 +0900</pubDate>
+      <itunes:duration>10:18</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
+・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
+・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
+・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>韓国映画『オデッセイ』爆ヒットで闇チケ高騰！AIモデルAPI値下げも鬼アツ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1172,26 +1192,6 @@
 • VisaがOpenAIとエージェントコマースで提携、決済・セキュリティインフラを対話型インターフェースに提供 - Yahoo!ニュース
 • マイクロソフトやUberが直面 AIコーディングが予算を食い尽くす - Yahoo!ニュース</itunes:summary>
       <itunes:episode>42</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月10日</title>
-      <description>今日の話題:
-• Apple Intelligence刷新｜GoogleのGemini技術で構築した新アーキテクチャの正体 - innovaTopia
-• Fable 5、ガードレール（保護機能）が厳しすぎて「DNAとは？」にも答えず - ITmedia
-• Microsoft、AIエージェント「Microsoft Scout」を発表 - CodeZine
-• OpenAIが秘密裏にIPO申請を提出、上場で収益化を証明できるか - mezha.net
-• ツール汚染から視覚攻撃まで――Microsoftが警告する「エージェント型AIシステム」7つの新脅威（ITmedia エンタープライズ） - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260610.mp3" length="4677165" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260610</guid>
-      <pubDate>Wed, 10 Jun 2026 22:57:23 +0000</pubDate>
-      <itunes:duration>04:52</itunes:duration>
-      <itunes:summary>今日の話題:
-• Apple Intelligence刷新｜GoogleのGemini技術で構築した新アーキテクチャの正体 - innovaTopia
-• Fable 5、ガードレール（保護機能）が厳しすぎて「DNAとは？」にも答えず - ITmedia
-• Microsoft、AIエージェント「Microsoft Scout」を発表 - CodeZine
-• OpenAIが秘密裏にIPO申請を提出、上場で収益化を証明できるか - mezha.net
-• ツール汚染から視覚攻撃まで――Microsoftが警告する「エージェント型AIシステム」7つの新脅威（ITmedia エンタープライズ） - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>41</itunes:episode>
     </item>
   </channel>
 </rss>

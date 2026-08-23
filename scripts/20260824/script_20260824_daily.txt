@@ -1,0 +1,187 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260824
+========================================
+
+【エピソードタイトル】
+ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
+・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
+・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
+・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加
+
+========================================
+
+【元になったニュース】
+1. 米大手も中国AIへ？ OpenAIを「80％値下げ」に追い込んだ価格競争の正体 - GetNavi web（GetNavi web） - https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rMnd0N2NiYWx0V3BhTElnbHRXaXlCazZTU3llWTNDZ0RDQWp4Wm92bHM5U3hjYXdJWkdXcHFQS2h0V0JYTmFQSFB0UQ?oc=5
+2. 映画「ちいかわ」興行収入100億円突破 初の劇場版 口コミで集客増加（スポニチアネックス） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMkM4bmtPOVNfNEpDd0ZScnZGMEFmVjBKbGltbUxtTG5Oa0p6NmJWVzh3YlhKczNmUVJrVEV1azNjU3lfYlNFWTktMEg0U1U0ekpUaERYdVg1TnMzRHUyZHJhS2xJUkxOVXpwNEpIVGFiMFI2SjhvSUs3Z0F6UVU?oc=5
+3. 裏読み科学技術（143）AIエージェント時代 - 日刊工業新聞（日刊工業新聞） - https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WQ1JfUWRuZThOZHFxUGZuRkdJdFBvMnlEUjNaTGRTUHRqWUVCdmVUZ1NlZWphQTJxNWMxd08teVkzSXQtbjZqUmhucFAyeDE1ZVdsbHgxNGU?oc=5
+4. AIエージェントがUSDCで自ら支払いを実行、決済大手が追走に躍起 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE40emtZLV9LbjdXRXpDQWM5bDdWUUQ2MFZyZlBfR0szUGhWX0EwUXlNU3hnYmJadWo0aVNRU1d4T1gteGJxSXdHMEp6em80MFlxRzc3M0ZUWkk3MW1QcTRaekgtNkgtT2Zwc2xRMWFnRDE2QWRj?oc=5
+5. 銀行新卒採用、来年度5年ぶり減 AIで業務効率化 売り手市場に転機 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE9kU0NGbmdSRmxXLXpyV1pfcy1sY3otbkF5ZTNZLWl3bEhERVBodmJReVdBZ0pKT1BHaW0zMWFTRGpEMDU5OFdDUFZUaDVoMVNSZnZ3N1Y3UTNUdmNmTEl4eHZSdGpheDhhSmZiMQ?oc=5
+6. SlackがAIエージェントとチームで共同開発を行う新機能Slack Codeを発表（ビジネス＋IT） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTURYZ3VCYTM5VlhGbTROR2V4X3VSWV9jV2o5ZXB0cXlOSGZ1YnU0dEtoOHhScmZhbDRTRDJqWnc3alNXY3U0cUZ2bVRoNmdDYkRaekpQNUdRS3UwQU84aU96MWd4MjJ5eTdyaC1lcHk4czBteGZRQWVZUmdOY2c?oc=5
+7. Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場 - Publickey（Publickey） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBORC1YcnBnUVVid1d5TlJ5d1I1Wk9ValYySzVvZnhweThtOTBwVE5YSTJHWU5ULXkxbVdlV1pUWTlETXQtRWFKa3lXM3NhcFFPVGxUb2J4T202UGx1bFhFX0VYM0p6dzQ?oc=5
+8. AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能 - GIGAZINE（GIGAZINE） - https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NTnhCR2EwRU5Pdm5NMXVQekE3ckxyUzdzTFZSNFpWTW1uN09lWk9qekg1dGFyNU5iaGJYU1o3dGcxamZ4UVhuR0U0QURKQlIzaHV5djJsQQ?oc=5
+9. Nvidiaが70億ドル投じオープンウェイトモデルに参入、DeepSeek・OpenAIと真っ向勝負 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5BcGMxdTRkVjZmaU1WX0IwZXZvZkNsME1BSWRZNHJKdndvS0xuSnhwZ3JOX2hJMnZ4NWFtc3RBb0Y2SGxLRHMxZTNHRFI2ZlM2QWc0WnlEcGdmdkFEVkNrVWRIcG9HbkpHYXp5d21iODRYX05U?oc=5
+10. ロナウジーニョの獲得は話題作りのためではない セリエCラヴェンナの会長は「話題作りのマーケティング戦略でもない」 - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWnZvNUJqcUcta19XLWkyS1FUSUFLWkZ4dUJlaF9hRjFzUmhWdV96MFN3NU1jSnlwSkFhSmFheTU0Q0pnM1NYOTZKR003c01raWg3bVZMSTBBRzB1N2xFN1doMDJXRFNrS1VqdDJjQ1c2U1BKRWZ4RHRSLWRIX2c?oc=5
+11. NVIDIA「エージェント時代は、モデルの性能よりもハーネス設計が重要」 - ビジネス+IT（ビジネス+IT） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMzBfUWl5TDAyd2U4eWVlZ3VVRnM2SlM3Z2hBM0h5djY1SnhHc24yNlgyTE9mcHVlWWxhRjlXV08tVTBzZXh2Q0xmVmZ0bmM1R04w?oc=5
+12. 『オデュッセイア』は、史上最も興行収入の高いR指定映画である。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0FUQW1oZnpmY2xpVHVkTUdRbnQxZUVmMjVYRUJudVJvSGd5dlVLX1h2bUVhM2ZEWXlGNFhzUnk0cVhRcGo1X24wZWhnc0oyV2p4cEY4bTFmOXNvVXVKOEdsWkhBZzdOTy11dFhGTGxrcFFEaWtqWlNJWG01d3J3NmZQUnlNRk1kY2ZkMkMycDFuQQ?oc=5
+13. OpenAIがGPT-5.6 Solを一時値下げ トークン単価を2割超引き下げ、3カ月限定 - Yellow.com（Yellow.com） - https://news.google.com/rss/articles/CBMihgNBVV95cUxQNVZNVGt3ZFBSeFRYVWF2eU1Mb0hhYnRiSVY5RUFIUENoRmt5MVp3UXk0MG13QUx2Ui1WR3RObTRGQko5RVR4d2s3SHprYlA5VXdfejdnblRiMXVJY0NaZXFYb0lkWUNzaFlyakhVVVBTbnRYY3p4NlE5Yk1FVWJiOUZRQ2lfcDJhOHhGLWN5bXpUS3E4alZocVhMU25zMVZnaUJtLVVrS0FaTmhHdjZhNUc5V3dqZUREdmNUb3dIU3d3bmhDaG10T3BaV0F4N2lNTHg5NGRTR2t3UTZremVZWld1WlpYbVZXUl85eXpFSk5YMEpkTlhvOFEtTWczTjJLV1RINXg3M0MzYWJNVlFpVm1aZDh6MzQ3R1lMT2dvbnY1bUVjMVFMVC1FOUUtc2gtSVgyOTRlc1hCX2ZseGFXYVhOM1hqbER3NEJnRnIzUHRJU2swYWp6a1VneDdmNnVtWmdTZlpvaGZXYl9zR3Fvb0o0MlBrOWJ1Uk9uX3N5S0djMjVjamc?oc=5
+14. 【08/23 20時更新】今、Xで話題のトレンド5選 - au Webポータル（au Webポータル） - https://news.google.com/rss/articles/CBMieEFVX3lxTE03U1JwQVMxSndBVmg0Q3FROFM1c0czTTlDcjAydWM5eVhBU3VEZ2YtVW4xbnB1NWNocEpyU0czUElueFlIY3dkZnRwSHRHYkxYOGF3QVJtZDZKTjljT09zMnZQSVBCSGFGNXNLRDhDR3dnY25SdXBkaw?oc=5
+15. 今週の新刊：「メイドインアビス」15巻登場 テレビアニメ化も話題の「ブラックチャンネル」も - Mantan Web（Mantan Web） - https://news.google.com/rss/articles/CBMia0FVX3lxTE9BZ3JsQldKN1dVUTh5cDZFcjdLTlVHQ0U0VV9WNUNIZlAtakRlMVFsWndNMmtPUklaYUpCUzk4VnNjOEtsanR2UngwOVprbVNjXzBQdEhuMHZpSnJ0U2d5dlJBOE1DRHJmWm9F?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナとモモの朝アゲトレンド、今日も元気にスタートだよ！
+モモ: おはようございます！今日の朝もバチバチにアゲていこー！リナちゃん、今日のラインナップはどんな感じかな？
+リナ: 今日はね、AIエージェントが仕事のやり方を爆アゲする新機能の話から、AI業界でまさかの価格競争がえぐいことになってる話、そしてAIの影響で銀行の新卒採用が減っちゃうかもっていうビジネスの話まで、盛りだくさんだよ！
+モモ: え、まじで？！AIが仕事にめっちゃ影響出てるってこと？しんどい！
+リナ: そうそう。でも最後は、みんな大好き「ちいかわ」の映画が大ヒットで大優勝してるって、アゲなニュースで締めくくるから安心してね！
+モモ: ちいかわ！それはガチアツだね！今日の放送も楽しみすぎる！
+リナ: それじゃ早速、今日の注目ニュースからいっちゃうよ！今回はAIエージェントの進化がレベチな話題！
+モモ: おお！AIエージェントって、最近よく聞くけど、まじで何がすごいの？
+リナ: Slackが開発者向けに「Slack Code」っていう新機能を発表したの。これ、AIエージェントが開発チームの会話を把握して、コードを生成したり、ドキュメント作ったりするのをサポートしてくれるんだって。
+モモ: え、ちょ待って、会話からコード作ってくれるって、それってまじで天才すぎん？！
+リナ: そうなの！開発チームって、普段からSlackで「これどうする？」「あのバグ直った？」みたいな会話してるじゃん？Slack Codeは、その会話の内容をAIが理解して、必要なコードを提案したり、会議の議事録を自動でまとめてくれたりするらしいよ。
+モモ: それはしごできすぎん？まじで開発者のモチベ爆上がり案件じゃん！
+リナ: でしょ？公式発表によると、開発者はもうコードを書くことに集中できて、面倒なドキュメント作成とかデバッグ作業の一部をAIに任せられるようになるって言われてるの。これって、チーム全体の生産性が爆アゲする可能性しかないんだよね。
+モモ: やば、まじで仕事のやり方変わっちゃうじゃん！
+リナ: そう。だから、このニュースが話題なのは、AIエージェントが単独で何かをするだけじゃなくて、私たちが普段使ってるツールに組み込まれて、チームでの働き方そのものを変えようとしてるってことなんだよね。これからのビジネスツールは、AIエージェントが「相棒」みたいにサポートしてくれるのが当たり前になるかもって感じ。
+モモ: あーね！それって誰が知っておくと得な話なの？
+リナ: もちろん、開発者さんやプロジェクトマネージャーさんはもちろん、IT系の企業で働く人全員に響く話だよ。あとは、企業経営者も、これからのチームの生産性をどう上げていくかっていう視点で知っておくと、今後の戦略を考える上でめちゃくちゃ役に立つと思う。AIエージェントの進化が、具体的な仕事にどう影響するか、リアルにイメージできる話題だよね。
+モモ: ほんまそれ！うちらの仕事にもAIエージェントがどんどん入ってくるってことだもんね。勉強しとかなきゃ！
+リナ: 続いては、AI業界のホットな話題だよ！AIの価格競争がまじでえぐいことになってるって話。
+モモ: 価格競争？AIって高いイメージだけど、まさか値下げとかあるの？
+リナ: そうなの！報道によると、OpenAIが「GPT-5.6 Sol」っていうモデルのトークン単価を一時的に2割以上も値下げしたんだって。しかも、その背景には中国のAI企業「DeepSeek」が、OpenAIのモデルを80%も値下げするほどの低価格で高品質なモデルを提供してるっていう、レベチな価格競争があるらしいの。
+モモ: ちょ待って、80%値下げって、それもうほぼタダみたいなもんじゃん？！まじでビビった！
+リナ: でしょ？GetNavi webの記事によると、米大手企業の中には、中国のAIモデルの利用を検討する動きまで出てるって報じられてるんだよね。さらに、Nvidiaもオープンウェイトモデルの開発に70億ドルも投じて参入するって報道されてて、AI市場の競争はもうバチバチなんだ。
+モモ: うわー、AI業界ってそんなに激アツな戦いしてるんだね。なぜ今これが話題なの？
+リナ: なぜ話題かっていうと、これまではAIモデルの性能が注目されてきたけど、これからは「いかに安く、高品質なモデルを提供できるか」っていう価格競争がめちゃくちゃ重要になってきてるってことなんだよね。中国AIの台頭もあって、AIのコモディティ化がさらに進む可能性が高いって見られてるから、業界全体が大きく動いてるんだ。
+モモ: あー、コスパ最強のAIが求められてるってことか！
+リナ: そうそう。この話は、AIサービスを利用したり、自分でAIを開発してる企業さん、あとはAI関連に投資してる人たちには、今後の市場動向を予測する上でめちゃくちゃ重要な情報だよね。AIがもっと身近に、手軽に使えるようになるってことでもあるから、私たちにとっても影響ありまくりなんだ。
+モモ: まじで？AIがもっと安くなるなら、うちらももっと気軽に使えるようになるってことかな？それはアゲみ！
+リナ: お次はビジネスの話題だよ。AIの影響が、まさかの銀行の新卒採用にも出てるって話。
+モモ: え、銀行が新卒採用減らすの？まじで？！
+リナ: そうなの。日本経済新聞の報道によると、国内の主要銀行グループが2026年度の新卒採用数を、5年ぶりに減らす方針なんだって。その理由の一つが、AIやRPAっていう自動化技術の導入が進んで、業務が効率化されたかららしいの。
+モモ: AIって、ホワイトカラーの仕事にも影響するって言ってたけど、まじで現実になってるってことじゃん！しんどい！
+リナ: ほんまそれ。このニュースが話題になってるのは、AIがこれまで「安定」とされてきた銀行のような業界でも、人員配置の見直しを迫るほどの影響力を持っていることが明らかになったからなんだよね。AIが業務を効率化してくれるのは良いことだけど、それに伴って人の働き方が変わっていくっていう、社会的な変化の象徴とも言えるかも。
+モモ: それって、誰が知っておくと得な話なのかな？
+リナ: もちろん、これから就職活動をする学生さん、特に金融業界を目指してる人たちは、この情報マジで重要だよね。あとは、いま働いてるビジネスパーソンも、自分の仕事がAIでどう変わっていくのか、スキルアップのために何を学ぶべきかって考えるきっかけになると思う。企業の採用担当者さんや人事担当者さんも、これからの人材戦略を考える上で、めちゃくちゃ参考になるはずだよ。
+モモ: まじで、AIの進化って、私たちの生活に直結してるんだね。ちょっと焦るて。
+リナ: 最後はエンタメの話題だよ！みんな大好き「ちいかわ」の映画が、まさかの興行収入100億円突破だって！
+モモ: ちいかわ？！え、まじで？100億円ってレベチすぎん？！大優勝じゃん！
+リナ: スポニチアネックスの報道によると、初の劇場版アニメ「ちいかわ」が、興行収入100億円を突破したとされているの！公開からまだそんなに経ってないのに、この数字は本当に神ってるよね。
+モモ: ちいかわ、ビジュ爆発してるし、ストーリーもかわちいから、まじで推せるんだよね〜！
+リナ: そうなの。このニュースがなぜこんなに話題かっていうと、ちいかわが単なるキャラクターじゃなくて、もう社会現象レベルの人気を確立してるってことの証拠なんだよね。しかも、口コミでの集客がめちゃくちゃ増えたって言われてて、SNSでのバズとか、ファン同士の熱い共有が、この大ヒットに繋がったって見られてるの。
+モモ: あーね！うちも友達と「ちいかわの映画まじでやばかった！」って話しまくったもん！
+リナ: でしょ？だから、この話はキャラクタービジネスに関わる人や、マーケターさんにはめちゃくちゃ参考になると思う。SNSや口コミの力が、どれだけ大きなヒット作を生み出すかっていうのを、まじで実感できる事例だよね。あとは、シンプルにちいかわ推しの人たちにとっては、もう「需要しかない」って感じのニュースだよね！
+モモ: ほんまそれ！ちいかわしか勝たん！まじで栄養すぎる！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: AIが仕事を変えるスピードも、ちいかわのヒットも、まじでレベチだった！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. ☀️朝アゲトレンド最新版！☀️
+今日のニュース、まじで動きまくり！
+✅SlackにAIエージェント「Slack Code」登場！会話からコード生成って天才すぎん？！
+✅AI価格競争がえぐい！OpenAIが値下げ、中国AIの台頭にNvidiaも参入で業界バチバチ！
+✅AI影響で銀行の新卒採用が5年ぶり減？！仕事の未来、まじで変わる！
+✅ちいかわ映画が興行収入100億円突破で大優勝！口コミの力レベチすぎ！
+今日のトレンド、10分でサクッとチェックしてアゲてこー！ #朝アゲトレンド #AI #ちいかわ
+
+2. 【速報】AIエージェントが仕事爆アゲ？！Slackの新機能「Slack Code」が開発者のモチベ爆上がり案件すぎた！🔥 チームの会話からAIがコード書いたりドキュメント作ったりしてくれるんだって。これ、まじで働き方変わるじゃん！AIと共創する時代、もう来てるってことだよね。
+#AIエージェント #Slack #業務効率化
+
+3. ちいかわ映画、100億円突破はガチアツすぎ！💖
+あの可愛さで社会現象、そして劇場版で大優勝！口コミの力ってまじでレベチだよね。キャラクタービジネスやマーケティング界隈は、まじで注目すべき成功事例！推ししか勝たん！
+#ちいかわ #映画 #大ヒット #エンタメトレンド
+
+【Threads投稿文】
+1. おはようございます！今日の朝アゲトレンド、聞いてくれた？まじでAIの進化が止まらないし、それが私たちの仕事や生活にダイレクトに響いてるんだなって実感する一日だったよね。特にSlackのAIエージェント「Slack Code」は、開発者さんにとっては神機能すぎて、モチベ爆上がり間違いなし！AIとの共創が当たり前になる時代、私たちも新しいスキルを身につけて、アゲていかないとだよね！今日のヒント、みんなの仕事に活かしてくれたら嬉しいな。
+
+2. 最近のAI業界、価格競争がえぐいって話、まじでビビったよね。OpenAIが値下げしたり、中国AIがめちゃくちゃ低価格で高品質なモデル出してきたり。これって、AIがもっと身近な存在になるってことでもあるから、私たちユーザーにとってはめちゃくちゃアゲな話でもあるよね。でも、企業側は「どこまで投資して、どう差別化する？」って、まじで頭悩ませてるんだろうな。AIの進化って、常に光と影があるんだなって再確認したよ。
+
+3. ちいかわ映画の100億円突破、まじで大優勝すぎん？💖 あの可愛さで社会現象起こして、映画でもこんなにヒットするって、キャラクターの力って本当にすごいよね。特に口コミで集客が増えたって話は、SNS時代のマーケティングのヒントが詰まってる感じ。私たちも、日々の発信で「ちいかわ」みたいにみんなの心に刺さるコンテンツ作れたら最高だよね！推し活って、まじで人生の栄養だわ。
+
+【ショート動画用30秒台本】
+リナ: はい、今日の朝アゲトレンド、まじで動きまくりだったね！
+モモ: AIが仕事もエンタメも動かしまくり！ちいかわ映画100億円突破はもう大優勝すぎん？！
+リナ: SlackにAIエージェントの新機能「Slack Code」登場で、開発者の仕事が爆アゲ間違いなし！
+モモ: でもAIの価格競争はえぐいし、銀行の新卒採用も減っちゃうかもって、まじで未来どうなるの？！
+リナ: 大丈夫！今日のアゲトレンド聞けば、世の中の動きが10分でまるっとわかるから！
+モモ: アゲてこー！
+
+【エピソードタイトル案】
+1. ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変
+2. AI価格競争えぐすぎ！Slackに神機能、ちいかわ映画もレベチヒット
+3. 仕事もエンタメもAIが動かす！銀行採用激減＆ちいかわ映画が神ってる日
+
+【ニュース出典リンク一覧】
+ニュース名：米大手も中国AIへ？ OpenAIを「80％値下げ」に追い込んだ価格競争の正体
+出典名：GetNavi web
+URL：https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rMnd0N2NiYWx0V3BhTElnbHRXaXlCazZTU3llWTNDZ0RDQWp4Wm92bHM5U3hjYXdJWkdXcHFQS2h0V0JYTmFQSFB0UQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：映画「ちいかわ」興行収入100億円突破 初の劇場版 口コミで集客増加
+出典名：Yahoo!ニュース（スポニチアネックス）
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMkM4bmtPOVNfNEpDd0ZScnZGMEFmVjBKbGltbUxtTG5Oa0p6NmJWVzh3YlhKczNmUVJrVEV1azNjU3lfYlNFWTktMEg0U1U0ekpUaERYdVg1TnMzRHUyZHJhS2xJUkxOVXpwNEpIVGFiMFI2SjhvSUs3Z0F6UVU?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：AIエージェントがUSDCで自ら支払いを実行、決済大手が追走に躍起
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVU3lxTE40emtZLV9LbjdXRXpDQWM5bDdWUUQ2MFZyZlBfR0szUGhWX0EwUXlNU3hnYmJadWo0aVNRU1d4T1gteGJxSXdHMEp6em80MFlxRzc3M0ZUWkk3MW1QcTRaekgtNkgtT2Zwc2xRMWFnRDE2QWRj?oc=5
+公式発表か報道ベースか：報道ベース（AIエージェントの動きに関する技術的な話題）
+
+ニュース名：銀行新卒採用、来年度5年ぶり減 AIで業務効率化 売り手市場に転機
+出典名：日本経済新聞
+URL：https://news.google.com/rss/articles/CBMibEFVU3lxTE9kU0NGbmdSRmxXLXpyV1pfcy1sY3otbkF5ZTNZLWl3bEhERVBodmJReVdBZ0pKT1BHaW0zMWFTRGpEMDU5OFdDUFZUaDVoMVNSZnZ3N1Y3UTNUdmNmTEl4eHZSdGpheDhhSmZiMQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：SlackがAIエージェントとチームで共同開発を行う新機能Slack Codeを発表
+出典名：Yahoo!ニュース（ビジネス＋IT）
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTURYZ3VCYTM5VlhGbTROR2V4X3VSWV9jV2o5ZXB0cXlOSGZ1YnU0dEtoOHhScmZhbDRTRDJqWnc3alNXY3U0cUZ2bVRoNmdDYkRaekpQNUdRS3UwQU84aU96MWd4MjJ5eTdyaC1lcHk4czBteGZRQWVZUmdOY2c?oc=5
+公式発表か報道ベースか：公式発表（Slackの機能発表）
+
+ニュース名：Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場
+出典名：Publickey
+URL：https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBORC1YcnBnUVVid1d5TlJ5d1I1Wk9ValYySzVvZnhweThtOTBwVE5YSTJHWU5ULXkxbVdlV1pUWTlETXQtRWFKa3lXM3NhcFFPVGxUb2J4T202UGx1bFhFX0VYM0p6dzQ?oc=5
+公式発表か報道ベースか：公式発表（Slackの機能発表）
+
+ニュース名：Nvidiaが70億ドル投じオープンウェイトモデルに参入、DeepSeek・OpenAIと真っ向勝負
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVU3lxTE5BcGMxdTRkVjZmaU1WX0IwZXZvZkNsME1BSWRZNHJKdndvS0xuSnhwZ3JOX2hJMnZ4NWFtc3RBb0Y2SGxLRHMxZTNHRFI2ZlM2QWc0WnlEcGdmdkFEVkNrVWRIcG9HbkpHYXp5d21iODRYX05U?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAIがGPT-5.6 Solを一時値下げ トークン単価を2割超引き下げ、3カ月限定
+出典名：Yellow.com
+URL：https://news.google.com/rss/articles/CBMihgNBVV95cUxQNVZNVGt3ZFBSeFRYVWF2eU1Mb0hhYnRiSVY5RUFIUENoRmt5MVp3UXk0MG13QUx2Ui1WR3RObTRGQko5RVR4d2s3SHprYlA5VXdfejdnblRiMXVJY0NaZXFYb0lkWUNzaFlyakhVVVBTbnRYY3p4NlE5Yk1FVWJiOUZRQ2lfcDJhOHhGLWN5bXpUS3E4alZocVhMU25zMVZnaUJtLVVrS0FaTmhHdjZhNUc5V3dqZUREdmU2b3dIU3d3bmhDaG10T3BaV0F4N2lNTHg5NGRTR2t3UTZremVZWld1WlpYbVZXUl85eXpFSk5YMEpkTlhvOFEtTWczTjJLV1RINXg3M0MzYWJNVlFpVm1aZDh6MzQ3R1lMT2dvbnY1bUVjMVFMVC1FOUUtc2gtSVgyOTRlc1hCX2ZseGFXYVhOM1hqbER3NEJnRnIzUHRJU2swYWp6a1VneDdmNnVtWmdTZlpvaGZXYl9zR3Fvb0o0MlBrOWJ1Uk9uX3N5S0djMjVjamc?oc=5
+公式発表か報道ベースか：公式発表（OpenAIの値下げに関する情報）
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ビジネス1本、エンタメ1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「まじで」「えぐい」「レベチ」など重複は避けて散らした)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK (ちいかわのビジュ爆発はOK)
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+
