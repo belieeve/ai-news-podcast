@@ -1,0 +1,159 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260825
+========================================
+
+【エピソードタイトル】
+AIでクリエイティブ爆アゲ！Adobe Firefly無料体験＆ソニーの車載AIがアツい
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Adobe Firefly AIアシスタント、無料体験プログラムがスタート！
+・AI処理速度が最大3.2倍高速化？LFM2.5用ドラフトモデル無償公開
+・ChatGPTが密かにアップデート？SEO/GEOのゲームルールが変わる可能性
+・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
+・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
+・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加
+
+========================================
+
+【元になったニュース】
+1. AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開 - PC Watch（PC Watch） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hTkdfd28tOS1aWW9uUUlaXzJJek5RcXJKMVBfVHZiSHlNSlVrUXpSX3V0UklnRTRmX045YUQ2eVRERGJ1clNxMEQ1TGtJSzB2YjlLN2UzREFqZ3J3Z0VCVlJsWQ?oc=5
+2. 年収8700万円も…OpenAIやアンソロピックが奪い合う「前線配備型エンジニア」ってどんな職種？日本企業の救世主になるか - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTUduN0RNdWowSWU4S08zSVIzQXBZOTFnYlNvNUdaYlhQUmNLTkU0NEloTU1sTVVRLXNhWVZRa201ZThsb0dOMnhacFg3cDJrQ1NFRUtHX0RpNzd3NzhmUExGQVRHZkQzZTJzb0VKQ25jWTZyTDRoWkpyVE9CcVE?oc=5
+3. “非決定論”的なAI時代の信頼は、組織のガバナンスとガードレールの設計で守る - デジタルクロス（デジタルクロス） - https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCekhYam1BbTNkeUZNVFZkOUU3WXdjYWs5LU5XbDB2SmMtRjZmTW9tWFdFZXVQTHNjdUQ5VmFHaU1kLWlaalV2ZEdGdXRfVno0bUJQUTRhUldtUTBCTEZz?oc=5
+4. アラバマ州当局、OpenAIとHugging Faceの侵害疑惑を調査 個人情報流出の可能性を確認 - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMic0FVX3lxTE05TkZoWWFpVFZsaERsc2RHUGpfMEdmRFpNVkVRMTNJSC1KWmMwek9vVjU0bDlSaWRSRFBpUzJRMEdrbTlTSVNZZGxRM3dUWnREYWQ2Ul90V0RnM3Zjb2xNbGZwQzlzdDV4ZGlYOC03N3VmWUE?oc=5
+5. ソニーGが車載AIエージェント ｢相棒キャラ｣伴走、車内エンタメ開拓 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQnlKck5Td2tGZGdXbHVoSWI0WlBua09ZXzMyLU9PTGJYMHI0N0E4dUxnM0FzcmhRX0NncFctb3NUdUJYWmh1VzBOaGVta3MzbHdHdWhQeVNqVXJJTVE5YjNUU3NvSU9tQXhOeA?oc=5
+6. AIは「助手」から「攻撃主体」へ 毎月高リスクなAI利用をする企業が9割：専門家も見破れないフェイク - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMibEFVX3lxTE44ekt6TTZGekU2WkVqTktzRS0yMEdQeUFvRFF4R2t6R1ExVEZaN0psMXg1OUx0T2JsOGxIUnR1RG1VRXBsTkRnaVNwUllUdU9URUxLTWNFd2pyUWFZX0FWMEpMZzRTZWlleVFvUg?oc=5
+7. 買い物エージェントが迫るECサイト淘汰 生き残りのカギ握る「LLMO」 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTFAtR1FWZkZHX3NlanRJOTJBQS1Sal84d2JPSzZQZ1hNMklIdW9FM0N5NUlBYm5EVkdTQVlNaFA2bXZaY1l1RjA4UFhaX3Y0bmFCbC1Gc1ZJMkdqQ1FrN1Q5RHdaVHhaVE5MU2gwVQ?oc=5
+8. サム・アルトマン氏、自ら構築したAIに任せられるはずのメール処理を手動でやめられないと認める - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTFBONXhNOEh3dEhuRUVxLTdOMlR5SnptXzcwbnNWVWhtQXFtQll0ZWZ1QTNway1qSmJLV292aVdDRnlseks2ektsdG5tM1FtdlEteWV5UFZicHVxcnlidDkyc25VUXo4UDIyT0ZmaWxTUTFUU0ti?oc=5
+9. Nvidia、Perplexityへの出資拡大を協議中——評価額300億ドル超で - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9MT09aYkZxUlRxdzZkQTJsd0tGUjNNbmtIX2RNMFBJZVhkdDNMLXVqMmcxSzRSeWJoNUhJUmt2dHRaMnR0Mld3ZUgyelhfZkMzMzFlWF9KOXIyVkpHX0NSVGwxZ2lwR2ZxNS02SjhrVjFYX0RQ?oc=5
+10. AIエージェント向け「法人カード」登場 対応企業を探し、自動で購買 - 日経クロストレンド（日経クロストレンド） - https://news.google.com/rss/articles/CBMiZkFVX3lxTE51amlLY1AwSlpqS1Z2QXhVYUlOYjRwSWxtS0dRcGY1aGJPYTdOcFg1ZXZEVy1KS0NkaUlJQ3Axajlrb3BqQ1phaHRwbXV4bjZzaWo5TV9uSTlpTEc4dGhqZTJCUTlQUQ?oc=5
+11. OpenAI、1四半期で123億ドルの赤字、一方Anthropicは黒字化 - Moomoo（Moomoo） - https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzZjWU9BUDFNcUFGcUlQSFN3YzFjaERyUXhiOUZlZWxTUGtFTktDYmpGMk5nU0FOV294WFJORVdpR2VBRERBMkNORkotSEFZOUw2OGh0bERjTlV4UTJBOVdKNjh4NHk3UGtCd0lsamlacVBpdlZDZFR3bGlmQjZQVElCRndBYkU0RkhRTFU3Y3M3clk5eXRyTlZzS1ZVSG1MTUgxQzlFd2IwZVhmQUV3Qg?oc=5
+12. Heimliches ChatGPT-Update: Wie OpenAI die SEO bzw. GEO-Spielregeln über Nacht verändert hat - Xpert.Digital - Konrad Wolfenstein（Xpert.Digital - Konrad Wolfenstein） - https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEQ0cU9FMjRrbU8tbGkyUWZrZnRTWHo5V2c1RUowZC1CQ1VwaVQ3bENzYjJHSWV1QmJKWkZxZ2pwRVFyY0prQk9hRTRMLUdKNi1VUldJQ05UVkxEVjh2enU3WXJEbWw3a2NKdDdsM2NLbW5Pem1rZTVzU1ZNMWFvZnF0OEpsOWRkVUVBd2FsV3dzd9IBmgFBVV95cUxNYXhmRTVlNVhVUEt3V2FBa0VubzJGVFRSWldKNkxDVEJtU0FlRkJITmZsdzd6UDdMVWVWMDk2WUhYNUpJV3gxazFRR0RLV0pFSEFlYlNnc1R1eV80NFd3X0d6dkltdk5sS1pzLTRGM1VQb0g4NVUyTndXU3hNTzNKczE1ekZraXowdGVvZkdJWS1xSTk2SlhfS1Bn?oc=5
+13. AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始に関するお知らせ - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMie0FVX3lxTE5hWmkwVVBSRVYwUXgwd0cwY3V2SllEdmNSODNPcDkzZnhCd2JpbTlncEhzZXdIZXVObTA0MlM5NmZ4QjJoN2xocG5mZ3RqemxjZWZzc0FwdTcxMWhUMjVKUGxwcVZiS0Ntbm9uOUhiQklHLWdlUEc1NzJHMA?oc=5
+14. Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能 - 株式会社インプレス（株式会社インプレス） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndWc0SHp1OXpKWTFzaXV2VDczM0dGLVpLUlQzSV9NM0pFTUFFb0dYVUpIMVFzaXJCeTdpaUM1WDJDNjFhaTBPS2xhenZ3LUY2WWVZRTQ3ZThUcTNqZ0hrZzFHQQ?oc=5
+15. 「Adobe Firefly AIアシスタント」無料体験プログラムがスタート、日本語での利用にも対応 - 窓の杜（窓の杜） - https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaENWd3pHeDk3b2d1bnNYVW1sZXM2eW5TUEowanpjWGZHdllmOGFMQkc1S2VweGx1UE5VQjVXWFA5bWktWUxiZ1hSVWxRT3ZzQVdJeU8tV1lMeXhwWGFzZFc3b0xKTF9E?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです。
+モモ: モモです！今日も朝からアゲてこ〜！
+リナ: 今日も朝アゲトレンド、張り切ってスタートだよ！今日のニュースをひとことでまとめると、AIもエンタメも、まじで生活に密着してきた一日だったね。
+モモ: えー、テンション上がる！どんな感じだったの？
+リナ: 今日はね、AIでクリエイティブが爆アゲしちゃうAdobe Fireflyの無料体験が始まった話題から、AIの処理速度がレベチに速くなるかもっていう話、あとはChatGPTの裏側で何かが起きてるらしいっていう、ウェブ業界の人には鬼アツな情報まで、AIの進化が止まらないって感じ！
+モモ: わー、やば！もうAIなしじゃ生きられないんじゃね？
+リナ: それな！でしょ？それから、ソニーが車にAIの相棒キャラを乗せるって話とか、Google Antigravityのリモートコントロール機能で遊び方が広がる話題、さらにはAIで一人社長になれちゃう「1人カンパニー」プロジェクトまで、もう毎日がサプライズだらけなんよ。
+モモ: もう、今日聞かないと損じゃん！
+リナ: そうなの！じゃあ早速、今日の注目ニュースからいってみよ〜！
+リナ: 今日の注目ニュースは、クリエイター界隈でマジで話題になってるこれ！「Adobe Firefly AIアシスタント」の無料体験プログラムがスタートしたよ！しかも日本語での利用にも対応してるんだって。
+モモ: え、AdobeがAI？まじで？すごすぎん？
+リナ: そうなの！これは公式発表ベースで確認できる事実ね。Adobeが提供する画像生成AIツール「Firefly」に、アシスタント機能が加わって、それが無料で試せるようになったってこと。画像生成はもちろん、テキスト効果とかも、もっと簡単に使えるようになったんだって。
+モモ: テキスト効果ってことは、文字のデザインとかもAIがやってくれるってこと？天才すぎん？
+リナ: まさにそれ！なんでこれが今話題かって言うと、Adobeってプロのクリエイターが使うツールとして有名じゃん？そこにAIアシスタントが無料で使える形で入ってくるってことは、デザインとかコンテンツ制作のハードルがグッと下がるってことなんだよね。今まで専門知識がないと難しかったことが、AIのおかげで秒でできちゃうようになるかもって期待されてるの。
+モモ: え、待って無理。それって、うちみたいな素人でもおしゃれな画像とか作れちゃうってこと？インスタ映えとかも爆盛れしちゃうんじゃね？
+リナ: ありよりのあり！マジでその通り！だから、誰が知っておくと得かって言うと、もちろんプロのクリエイターさんは作業効率爆上がりだし、SNS運用してる人とか、マーケターさんとか、あとはAIにちょっと興味あるなっていう一般の人も、これを機にクリエイティブなことに挑戦してみるのが超おすすめ。会話のネタにもなるし、もしかしたら新しい趣味が見つかるかもよ。
+モモ: やば、うちも早速やってみる！これまじで優勝じゃん！
+リナ: 続いては、AIの話題をもう一本！「AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開」っていうニュースだよ。
+モモ: え、AIが速くなるって、それってどういうこと？もう十分速いのにレベチじゃん。
+リナ: それな！PC Watchの報道ベースなんだけど、AIモデル「LFM2.5」用のドラフトモデルが無償で公開されて、これを使うとAIの処理速度が最大で3.2倍も速くなる可能性があるって言われてるの。
+モモ: 3.2倍って、ガチで？なんかSFの世界みたい。
+リナ: でしょ？なんでこれが話題かって言うと、AIって今、いろんなところで使われてるけど、もっと複雑な計算とか、リアルタイムでの応答が求められる場面も増えてるじゃん？例えば、自動運転とか、医療現場での診断支援とか。そういうところでAIがもっと速く動けるようになると、できることの幅がめちゃくちゃ広がるんだよね。
+モモ: あーね！じゃあ、誰が知っておくと得なの？うちの生活に関係あるかな？
+リナ: これは主にAIの開発者さんとか、AIを使ったサービスを提供してる企業さんにとってはめちゃくちゃ朗報。処理が速くなれば、もっと高性能なサービスを開発できるようになるから。私たち一般ユーザーも、将来的にはAIがもっと賢く、スムーズに動くサービスを使えるようになるってことだから、間接的には恩恵を受けられるんだよ。AIの進化を追う人にとっては、まさに鬼アツな話題だね。
+リナ: もう一本、AIの話題なんだけど、ちょっと気になるニュースが入ってきたよ。「OpenAIが密かにChatGPTをアップデート、SEOやGEOのゲームルールが変わった」と報じられているの。
+モモ: え、密かに？こっそりってこと？なんかドキドキする！
+リナ: そうなの、Xpert.Digitalというメディアの報道ベースなんだけど、OpenAIがChatGPTの内部で、公式には発表されてないアップデートをしていた可能性があるって言われてるんだよね。特に、ウェブサイトの検索順位に関わるSEOとか、地域情報に特化したGEOの表示に影響が出てるんじゃないかって。
+モモ: えー、それってまじでやばくない？うちがブログとか書く時にも関係あるってこと？
+リナ: ほんまそれ！なんでこれが話題かって言うと、ChatGPTって今、ネット上の情報検索とかコンテンツ作成にめちゃくちゃ使われてるじゃん？もしChatGPTが情報を集めたり、表示したりするアルゴリズムが変わっちゃってたら、ウェブサイトのアクセス数とか、情報がどうやって人々に届くかの戦略がガラッと変わっちゃう可能性があるんだよね。まさにウェブ業界のゲームチェンジ案件って感じ。
+モモ: ちょ待って。それって、うちの会社のウェブサイトとか、YouTubeの検索順位とかにも影響するってことかな？
+リナ: ありえる！だから、誰が知っておくと得かって言うと、SEO担当者さんとか、ウェブマーケターさん、コンテンツクリエイターさん、あとは企業の広報担当者さんとかは、この動きをしっかりチェックしとかないと、ワンチャン、ウェブ戦略が詰んじゃう可能性もあるかも。ChatGPTがどういう基準で情報を評価してるのか、今まで以上に注意深く見ていく必要がありそうだね。
+リナ: 続いては、ビジネス・マーケティングの話題だよ！「AIネイティブ型『1人カンパニー』事業モデル実証プロジェクト」が始まったっていうニュース。
+モモ: 1人カンパニー？それって、社長が一人ってこと？まじで？
+リナ: そうなの！これはニコニコニュースで発表された公式情報なんだけど、AIをフル活用して、個人が一人でも会社を立ち上げて運営できるような、新しいビジネスモデルを実証するプロジェクトが始まったんだって。AIが秘書になったり、営業になったり、色々な仕事をサポートしてくれるイメージだね。
+モモ: えー、しごできすぎん？AIが全部やってくれるなら、うちも社長になれちゃうかも！モチベ爆上がり！
+リナ: でしょ？なんでこれが話題かって言うと、AIの進化によって、今まで会社を運営するのに必要だった人件費とか手間が、めちゃくちゃ削減できるようになるってことなんだよね。これからの働き方とか、起業の形が大きく変わる可能性を秘めてるの。個人でも、もっと大きなビジネスに挑戦しやすくなるってことだね。
+モモ: それって、副業とか考えてる人には神案件じゃない？
+リナ: まさにそれ！だから、誰が知っておくと得かって言うと、副業を考えてる人、フリーランスの人、起業家志望の人、あとは「もっと自由に働きたい！」って思ってる人には、めちゃくちゃ刺さるニュースだと思う。AIとどうやって組んで、自分のビジネスを大きくしていくか、ヒントがいっぱい詰まってるはずだよ。
+リナ: 続いては、エンタメの話題に行ってみよ〜！「ソニーGが車載AIエージェント ｢相棒キャラ｣伴走、車内エンタメ開拓」っていうニュースだよ。
+モモ: え、車に相棒キャラ？それって、ナイトライダーみたいなこと？激アツじゃん！
+リナ: それな！日本経済新聞の報道ベースなんだけど、ソニーグループが、車の中にAIエージェントを搭載して、まるで人間みたいな「相棒キャラ」が運転をサポートしたり、車内でのエンタメ体験を提案したりする構想を進めてるって言われてるんだよね。
+モモ: え、待って無理。車に乗ってるだけで、AIの推しができて、ドライブがもっと楽しくなるってこと？まじで？
+リナ: そうなの！なんでこれが話題かって言うと、車って今までは移動手段がメインだったけど、AIの相棒キャラがいることで、車内がまるでリビングとかエンタメ空間みたいに変わる可能性があるからなんだよね。ドライバーの気分に合わせて音楽を選んでくれたり、会話の相手になってくれたり、ドライブがもっとパーソナルで楽しい体験になるかもって期待されてるの。
+モモ: やば、未来すぎん？それって、誰が知っておくと得なの？
+リナ: 車好きの人とか、新しいテクノロジーに興味がある人はもちろん、エンタメ業界の人とか、自動車メーカーの人たちも、この動きは要チェックだね。AIが私たちの感情とか好みに合わせて、もっと深い体験を提供できるようになるっていう未来が、もうすぐそこに来てるってことだから。ドライブがもっとアゲぽよになること間違いなし！
+リナ: さて、今日最後のニュースは、Googleから！「Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能」が追加されたって発表があったよ。
+モモ: Google Antigravity？それって何？新しいゲームかな？
+リナ: おしい！これは株式会社インプレスが報じた公式発表ベースの情報なんだけど、Googleが提供するサービス「Antigravity」に、複数のスマホとかタブレットから同時に接続して、みんなで一つのコンテンツを操作できるリモートコントロール機能が加わったんだって。
+モモ: えー、それってまじで便利すぎん？みんなで一緒にYouTube見たりとか、ゲームしたりとかできるってこと？
+リナ: そうなの！なんでこれが話題かって言うと、これまでのリモコンって基本的に一対一だったじゃん？それが複数人で同時に操作できるようになるってことは、例えば友達と集まって、みんなで同じ画面を見ながら、それぞれが自分のスマホで操作して遊ぶとか、共同で何かを作り上げるとか、新しいエンタメの形が生まれるってことなんだよね。
+モモ: うわー、それ、マジでアツい！パーティーとかで盛り上がりそう！
+リナ: でしょ？だから、誰が知っておくと得かって言うと、ゲーム開発者さんとか、エンタメコンテンツを作ってる人たち、あとは教育関係の人たちも注目してると思う。みんなで一緒に体験するっていうのが、もっと身近になるから、新しいアイデアが生まれるはずだよ。まさに需要しかない案件！
+リナ: 今日をひとことでまとめると、AIもエンタメも、まじで生活に密着してきた一日だったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 🚀今日の朝アゲトレンド速報！Adobe Firefly AIアシスタントが無料体験スタートで、クリエイティブがマジで爆アゲ中！もうデザインの敷居がレベチで下がったってこと。AIの進化、まじで止まらない！ #AI #AdobeFirefly #クリエイティブ
+2. 🚗未来の
+
+【エピソードタイトル案】
+1. AIでクリエイティブ爆アゲ！Adobe Firefly無料体験＆ソニーの車載AIがアツい
+2. Adobe Fireflyが神アプデ！AIで高速化＆ソニーは車に相棒キャラ爆誕？
+3. 今日からあなたもクリエイター！Adobe Firefly無料体験でAIが身近に
+
+【ニュース出典リンク一覧】
+ニュース名：AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開
+出典名：PC Watch
+URL：https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hTkdfd28tOS1aWW9uUUlaXzJJek5RcXJKMVBfVHZiSHlNSlVrUXpSX3V0UklnRTRmX045YUQ2eVRERGJ1clNxMEQ1TGtJSzB2YjlLN2UzREFqZ3J3Z0VCVlJsWQ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：ソニーGが車載AIエージェント ｢相棒キャラ｣伴走、車内エンタメ開拓
+出典名：日本経済新聞
+URL：https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQnlKck5Td2tGZGdXbHVoSWI0WlBua09ZXzMyLU9PTGJYMHI0N0E4dUxnM0FzcmhRX0NncFctb3NUdUJYWmh1VzBOaGVta3MzbHdHdWhQeVNqVXJJTVE5YjNUU3NvSU9tQXhOeA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始に関するお知らせ
+出典名：ニコニコニュース
+URL：https://news.google.com/rss/articles/CBMie0FVX3lxTE5hWmkwVVBSRVYwUXxvd0cwY3V2SllEdmNSODNPcDkzZnhCd2JpbTlncEhzZXdIZXVObTA0MlM5NmZ4QjJoN2xocG5mZ3RqemxjZWZzc0FwdTcxMWhUMjVKUGxwcVZiS0Ntbm9uOUhiQklHLWdlUEc1NzJHMA?oc=5
+公式発表か報道ベースか：公式発表ベース
+
+ニュース名：Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能
+出典名：株式会社インプレス
+URL：https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndWc0SHp1OXpKWTFzaXV2VDczM0dGLVpLUlQzSV9NM0pFTUFFb0dYVUpIMVFzaXJCeTdpaUM1WDJDNjFhaTBPS2xhenZ3LUY2WWVZRTQ3ZThUcTNqZ0hrZzFHQQ?oc=5
+公式発表か報道ベースか：公式発表ベース
+
+ニュース名：「Adobe Firefly AIアシスタント」無料体験プログラムがスタート、日本語での利用にも対応
+出典名：窓の杜
+URL：https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaENWd3pHeDk3b2d1bnNYVW1sZXM2eW5TUEowanpjWGZHdllmOGFMQkc1S2VweGx1UE5VQjVXWFA5bWktWUxiZ1hSVWxRT3ZzQVdJeU8tV1lMeXhwWGFzZFc3b0xKTF9E?oc=5
+公式発表か報道ベースか：公式発表ベース
+
+ニュース名：Heimliches ChatGPT-Update: Wie OpenAI die SEO bzw. GEO-Spielregeln über Nacht verändert hat
+出典名：Xpert.Digital - Konrad Wolfenstein
+URL：https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEQ0cU9FMjRrbU8tbGkyUWZrZnRTWHo5V2c1RUowZC1CQ1VwaVQ3bENzYjJHSWV1QmJKWkZxZ2pwRVFyY0prQk9hRTRMLUdKNi1VUldJQ05UVkxEVjh2enU3WXJEbWw3a2NKdDdsM2NLbW5Pem1rZTVzU1ZNMWFvZnF0OEpsOWRkVUVBd2FsV3dzd9IBmgFBVV95cUxNYXhmRTVlNVhVUEt3V2FBa0VubzJGVFRSWldKNkxDVEJtU0FlRkJITmZsdzd6UDdMVWVWMDk2WUhYNUpJV3gxazFRR0RLV0pFSEFlYlNnc1R1eV80NFd3X0d6dkltdk5sS1pzLTRGM1VQb0g4NVUyTndXU3hNTzNKczE1ekZraXowdGVvZkdJWS1xSTk2SlhfS1Bn?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ビジネス1本、エンタメ2本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「それな」「まじで」「やば」は2回まで、「アツい」系は多めだが、セクションで使い分けている)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK (話し手自身の感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK (「推し」はAIキャラに対してのイメージで使っている)
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

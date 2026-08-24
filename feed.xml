@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIでクリエイティブ爆アゲ！Adobe Firefly無料体験＆ソニーの車載AIがアツい</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Adobe Firefly AIアシスタント、無料体験プログラムがスタート！
+・AI処理速度が最大3.2倍高速化？LFM2.5用ドラフトモデル無償公開
+・ChatGPTが密かにアップデート？SEO/GEOのゲームルールが変わる可能性
+・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
+・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
+・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260825_daily.mp3" length="12639405" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260825_daily</guid>
+      <pubDate>Tue, 25 Aug 2026 06:33:36 +0900</pubDate>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Adobe Firefly AIアシスタント、無料体験プログラムがスタート！
+・AI処理速度が最大3.2倍高速化？LFM2.5用ドラフトモデル無償公開
+・ChatGPTが密かにアップデート？SEO/GEOのゲームルールが変わる可能性
+・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
+・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
+・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1172,26 +1196,6 @@
 • Anthropic が Claude Fable 5 と Claude Mythos 5 を発表：一般用とエリート用の2つの AI を巡る物語 - finance.biggo.jp
 • シルバーアイ、AI眼鏡でピッキング効率化 - LOGISTICS TODAY</itunes:summary>
       <itunes:episode>43</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月11日</title>
-      <description>今日の話題:
-• エムケイシステム、「社労夢」にＡＩエージェント機能搭載、「ＡＩ社労夢」を７月２３日リリースへ - kabu-ir.com
-• ジェネシスクラウド、コンタクトセンターのAIエージェント活用を訴求 - ZDNET Japan
-• OpenAI、Onaを買収へ Codex強化 - 디지털투데이
-• VisaがOpenAIとエージェントコマースで提携、決済・セキュリティインフラを対話型インターフェースに提供 - Yahoo!ニュース
-• マイクロソフトやUberが直面 AIコーディングが予算を食い尽くす - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260611.mp3" length="4608429" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260611</guid>
-      <pubDate>Thu, 11 Jun 2026 22:55:10 +0000</pubDate>
-      <itunes:duration>04:47</itunes:duration>
-      <itunes:summary>今日の話題:
-• エムケイシステム、「社労夢」にＡＩエージェント機能搭載、「ＡＩ社労夢」を７月２３日リリースへ - kabu-ir.com
-• ジェネシスクラウド、コンタクトセンターのAIエージェント活用を訴求 - ZDNET Japan
-• OpenAI、Onaを買収へ Codex強化 - 디지털투데이
-• VisaがOpenAIとエージェントコマースで提携、決済・セキュリティインフラを対話型インターフェースに提供 - Yahoo!ニュース
-• マイクロソフトやUberが直面 AIコーディングが予算を食い尽くす - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>42</itunes:episode>
     </item>
   </channel>
 </rss>
