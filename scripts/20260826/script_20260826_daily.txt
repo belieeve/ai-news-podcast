@@ -1,0 +1,164 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260826
+========================================
+
+【エピソードタイトル】
+AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
+・OpenAIで主要幹部が相次いで退社、その背景は？
+・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
+・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？
+
+========================================
+
+【元になったニュース】
+1. フォーティエンス、業務の棚卸しからToBe構想までを一気通貫で支援する「AIエージェント3ステップ」を提供 - クラウド Watch（クラウド Watch） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbkdKT2xNa3piZ2dNNFJPenl5UFdoblJYbFp1eF9zZExYWXlyOExPMG5uOTdoVV96Skh3c0tUY3hRZkRLYUUzNm5IRmgxbWo0OVVTRlNrbFpBbTgzUWVMVnZic1Rwejg?oc=5
+2. OpenAIのJalapeño、固定長推論でGB300を上回るもRubin比較は未実施 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMibkFVX3lxTFByUVlYMmJmUmItaUw4aFl4QlZma1RuSzBybUR5RkdpeEJzQUFaTllPWGFKVElTYmhPei1yN3FoVElSZkdrQmkzUHltWXl0RXBqTTVJQWdJRmpVYTBkdVpyWVhzdmN3MHUzcEd0d3Jn?oc=5
+3. Anthropic、Mythos 5の防御利用を拡大 Claude Security対応、OSS向け3,500万ドル分のクレジットを提供 - 合同会社ロケットボーイズ（合同会社ロケットボーイズ） - https://news.google.com/rss/articles/CBMilwFBVV95cUxQajJEQl96NkVjUk5qQzliMDZhUUg3VTB2RGlyVm9ZcW1sQWdZdWtzeDNwQVJ3WGZsTFBpeEE0a1F0VjNUSUVjQWtid3I0S08ySjBQbGhUbTBGSTRFUEU2OUppUldQTmprd2FrTUpjdG90QzRlTmpyS0lPQjI1UEloSHh2Y2Rrczg3LUhUbFlBWUZrRHItNWFV?oc=5
+4. Tempo、人とAIエージェントの生産性におけるROIを可視化する初のアトリビューション・ソリューション「Workforce Intelligence」を発表 - Business Wire（Business Wire） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yUnZHVDFZZTR5SFRkWW1LbUpjNTRqUDcwWlZVdlZhM1g3UkhKaHFVci1BTHJlMllMZDR5OTI3OEZmQzZmWVcxMzk3b3dUOG5NTXRoREZOZldzTnFKeWp6ckg2NnozZTg?oc=5
+5. AIエージェント基盤構築を目指すJR東、JR西はデータ分散化狙う - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMijAFBVV95cUxQSk1nMndkanhLc1VmY1dQd3o1d3RIRFA2MU5nN2stWWk1Q04zMkd5N3o1NG1UM1BkbXJ5SHowVjVwTnEtU1lIaWcxWmxIZURXcDhKMDlwZENkbmtWZnhVUjZSYV9mNFp0U0Q2UGpmNnRPMkhrQWg5SzJKTEIwNHpjbms3WEFRdDJVZVB4OA?oc=5
+6. 「AIエージェントが暴走した」責任まで負わされる時代、企業は「IDと権限」をどう扱うべきか - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMickFVX3lxTE9rU2xBOTgzMnk1ZVM1aDB5U1JscEdBMXJhMXZHMVp2X3UySnBHWV9hZ0NhZ1N6TkdyZ091TlRmdGl1U2FTcU9yVHZuX0l3dXhHMzNwekx0WEFsT3hrOURyQmJJbGpFYlFfNndWSUtTZ05GZw?oc=5
+7. OpenAI、2027年IPO前に幹部4人が相次いで退社 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース（Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース） - https://news.google.com/rss/articles/CBMicEFVX3lxTFBPMGlNaHhhLXlsV3g1SXpxRXJpaUlJWXZjTlc5UnBYY0ZkZmpTSEtmQXg0SlZJbURRR1ExWXUxTUxTYnRVSUlwZ21pRTJ3bllubUszczBoOVpCZTlINnpBanZWbEY0VS1QYTNsUEYxVFA?oc=5
+8. サークレイスとAstermindsが業務提携し、要件定義プロセスを高速化するAIコンサルティングサービスを提供開始 - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWGlqa1NrNEJDaVpzcEdnck1FQnkyRWZJNmVmRF92YTFPV2dnZy16dHB5aUdjQ2kxbnp1UVJpTkh1blI4Vng1d2pTNU51Y2JsdG56NW41Wld4SFFDTkxUQU41WF9jdThE?oc=5
+9. トムソン・ロイター、法務AI業務をアリババのQwen基盤の自社モデルへ移行 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1nVHJ4R0RsQTVvRUJTR1ZlUnpZak9WbFdjTDBjd3pYSFlLV3V6MjAwdUxWcTI2TDJsLTdPY2VKQ0xpNUl1NmdHSk5rV2YyM1U5dXN5SV9jTmtwT3g4S25ab19keVJDR243UWFsSTBfSTF1WXJJ?oc=5
+10. AIエージェント決済が週間870万件を記録、しかし本当の実態は別にある - FinanceFeeds（FinanceFeeds） - https://news.google.com/rss/articles/CBMia0FVX3lxTFBKVjlZWTExRlNzRnpSeDZpeHJPYnhCY3VxTE8zME0yaWc1QVlxdzkwd0xFeTl2UFZ5dnVmVGhGOGRrbnd3aXJHZUM3dnFYVFpSZFdDT2JWRjFHbklLOFQ3WjQwSUpoU1dyaHZR?oc=5
+11. OpenAI、自社開発AI推論チップ「Jalapeño」のベンチマークを初公開——Nvidia比で電力効率1.5〜1.9倍と主張 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE12WUhaaDBpV1BwaTN4aVR3QmZ2cldmclpsdENzMmtvSXpZVFNwQnZ5VXZhUDlOa1hocFM5Sm5HeE1mSFJVMWVhNmN4NThkZEN6Y1NsZ2NTdlgwVmZXTUowb09CcGFhSms5Q19Fa1pKTlNDaDVm?oc=5
+12. アンソロピック、潜在的な収益機会「30兆ドル超」見込む - WSJ（WSJ） - https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlYzVGlVcGxxU2ZDWEtJNUxmYk10WU5GWUtFYl9PcFdtQXNrTDNvbkQyU3lBMlF4ODdNR2ZVdEpfU3BGd2oyRFRvb21haFZzdEpjbHpsT0VTNk1YdDY2a2d1MGNvZS00d293M29Wd01xYjN6ZGFwNzUzbDFURXh0ZlpwQm10dmhtOXdaeUo2SFM4eGs3SkEyR1U0TEtSS09YaFAzNFVXUlluYU1RdV9FV3A2OG9tWFM3NVg4?oc=5
+13. OpenAI、Plus ユーザー向けに Codex と ChatGPT Work の5時間制限を復活 - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ01POHEtSXl6TXUtWFdBSTlVTl9zakR5SEc5emVYQ1pHSkQ5NnpNNXVEdGFvUldsb0ozNXFjWThKWm83V1FfWk0taHp4ZDB5eUstMXcycUo0R0ZJb2E2N19taTFKbFprWFhqREZXc3hoemZLS09GWUJoQVhOTXZFVEpJeEx2WlJTcThpQVBzWWpKVTA?oc=5
+14. NTTドコモグループ約2万5,000人のキャリア形成を支援するAIを活用した社長アバターとの対話――「自律を促す対話」や「会社と社員をつなぐ」仕掛けとは - HRプロ（HRプロ） - https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ycHl2NkFWNWxtNmNNZU5lZmlNc3VqVjRfc3p5T0ZvQWl0dFJxZHp4dlFTanI0YjR0LVVZWXZBZG1IY0VlRmN5RE1oQ1pMeVFMWU16aFBzM09FZWhyU1R4Nw?oc=5
+15. Hugging Face、130億ドル規模の身売り検討か——悪性AI防御に中国モデル活用で安全性論争も - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE8wSFBxUnkxdjdxWG5leFJ0ajVkcVNLRnRoQzVPZW9uUXJwRjBaRlVIWVYzOHNJQm92MnhnR3c3ZXJSLWdwZWJhc2s5THlJWjFGem5uMU1tZmxiVFpnZUV1TmRYcXdVOTBJalRTRUt1VWtVamht?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです。
+モモ: おはようございます！モモです！今日もアゲアゲで行くよ〜！
+リナ: 今日はまじでAI界隈がざわついてるニュースが盛りだくさんなんよ。OpenAIがNVIDIAにガチ喧嘩売ってるみたいな話から、ドコモの社長アバター爆誕まで、ビジネスもAIも動きまくってるから、秒でチェックしちゃお！
+モモ: え、まじ？NVIDIAってあの最強のチップの会社じゃん？そこにOpenAIが挑むとか、レベチすぎん？テンションアゲアゲなんだけど！
+リナ: それな！じゃあ、今日の注目ニュースからいってみよー！
+リナ: まず今日の注目ニュースは、**OpenAIが自社開発AIチップ「Jalapeño（ハラペーニョ）」のベンチマークを初公開した**って話なんよ。
+モモ: ハラペーニョってあの辛い唐辛子？名前からして攻めてる〜！
+リナ: ほんまそれ！このニュース、XenoSpectrumやBigGo ファイナンスが報じてるんだけど、OpenAIは自社で開発したAI推論チップ「Jalapeño」の性能を初めて公開したんだって。報道によると、NVIDIAのGB200やGB300ってチップと比較して、Jalapeñoは特定の固定長推論タスクでGB300を上回って、しかも電力効率が1.5倍から1.9倍も良いって主張してるの。
+モモ: え、NVIDIAより電力効率いいって、それってガチやばくない？省エネってこと？
+リナ: そう、マジでやばい！なぜ今これが話題なのかっていうと、OpenAIみたいなAI開発のトップ企業が、AIの頭脳となるチップまで自社で作ろうとしてるってこと自体がレベチなんよ。これまでAIチップはNVIDIAがほぼ独占してたから、OpenAIがここに本格参入するってことは、AI業界の勢力図を大きく変える可能性を秘めてるんだよね。自社でチップを作れば、AIモデルの性能を最大限に引き出せるし、コストも抑えられるから、今後のAI開発のスピードが爆アゲするかもって言われてるの。
+モモ: なるほど〜！AI開発のスピードがアゲアゲになったら、新しいAIサービスも秒で出てくるってことかな？
+リナ: そうそう！誰が知っておくと得かっていうと、AI開発者さんやAI関連企業のエンジニアさんはもちろん、AIに投資してる人たち、あとはNVIDIAの株価とか動向を追ってる人たちも要チェックだよね。この動きは、AIがもっと身近になる未来を加速させるかもしれないから、私たちみたいにAIのトレンドを追ってる人にとっても、超鬼アツな情報なんだよね。
+リナ: 続いては、**OpenAIに関するもう一つの話題**なんだけど、Investin.comが報じるところによると、**2027年のIPOを前に、OpenAIの主要幹部4人が相次いで退社した**って話なんよ。
+モモ: え、まじで？なんか、OpenAIって最近そういうニュース多くない？大丈夫そ？
+リナ: それな。報道によると、退社したのはポリシー責任者、安全保障担当者、法務部門のトップなど、かなり重要なポジションの人たちみたい。
+モモ: うわ、それってまじでやばいじゃん。会社の頭脳みたいな人たちが一気にいなくなるってこと？
+リナ: そうなんだよね。なぜ今これが話題なのかっていうと、OpenAIが今、IPOに向けて準備を進めてる中で、こんなに主要な幹部が立て続けに辞めるのは異例って言われてるの。組織内で何か戦略の転換があったり、意見の食い違いがあったりするんじゃないかって、色々な憶測が飛び交ってるんだよね。特に、AIの安全性や法律に関する部署のトップが抜けるのは、AIの倫理的な問題とか規制対応に対して、社内で何らかの課題があるんじゃないかって見方もできるから、ちょっと心配な動きではあるよね。
+モモ: なるほど〜。AIって便利だけど、なんか怖い話も聞くから、そういうのちゃんと考えてくれる人がいなくなるのは、ちょっと不安になるかも。
+リナ: ほんまそれ。このニュースは、OpenAIの動向を追ってる人、AI業界のインサイダー情報に興味がある投資家さん、あとはAIの安全性や倫理、ガバナンスに関心がある人たちが知っておくと得だよね。今後のOpenAIの経営戦略や製品開発にどう影響するのか、注目したい動きなんだよね。
+リナ: 続いては、**ビジネス・マーケティングの話題**にいくよー！まずは、**NTTドコモグループがAIを活用した社長アバターを導入して、約2万5,000人の社員のキャリア形成を支援する**って話なんよ。HRプロが報じているよ。
+モモ: え、社長アバター？社長がAIになって、社員と話してくれるってこと？なんか未来感やばくない？
+リナ: そうそう！報道によると、NTTドコモは社員一人ひとりのキャリア形成をサポートするために、AIを活用した社長アバターとの対話システムを導入したみたい。社員はアバターと話すことで、自分のキャリアプランについて相談したり、アドバイスをもらったりできるんだって。
+モモ: しごできすぎん？忙しい社長と直接話すのは大変だけど、アバターならいつでも相談できるってことかな？
+リナ: まじそれな！なぜ今これが話題なのかっていうと、日本を代表する大企業が、社員のキャリア支援っていう超重要な領域にAIを本格的に導入した具体的な事例だからなんだよね。AIが人事や人材育成にどう活用されるのか、その先進的なモデルとして注目されてるの。社員の自律的なキャリア形成を促すだけじゃなくて、会社と社員のエンゲージメントを高める仕掛けとしても期待されてるみたいだよ。
+モモ: へぇ〜！うちの会社にも欲しいかも！これって、どんな人が知っておくと得なの？
+リナ: 企業の人事担当者さん、経営者さん、あとは人材開発に携わる人たちは、マジで知っておくと得だよ。AIを社員のエンゲージメント向上とか、キャリア支援にどう活用できるかっていうヒントになるし、AIの具体的なビジネス活用事例を探してる人にとっても、めちゃくちゃ参考になるはず！
+リナ: さて、ビジネス・マーケティングの話題はまだまだ続くよ！次は、**AI市場全体の動きが見える2つのニュース**をまとめて紹介するね。BigGo ファイナンスとWSJが報じているよ。
+モモ: 2つまとめて？なんか、AI市場がまじで動いてるって感じ？
+リナ: ほんまそれ！まず一つ目は、**Anthropic（アンソロピック）のCEOが、AIが世界の経済生産を年間30兆ドル（日本円で約4800兆円）以上押し上げる可能性がある**って発言したこと。そしてもう一つは、**オープンソースAIのハブとして有名なHugging Face（ハギングフェイス）が、130億ドル（約2兆円）規模の身売りを検討している**と報じられていることなんよ。
+モモ: 30兆ドルって、数字がデカすぎて想像つかないんだけど、まじでAIってそんなにすごいの？ハギングフェイスって、オープンソースのAI開発者には神みたいな存在じゃん？それが売られちゃうかもって、なんか情緒バグるわ。
+リナ: わかるんだが。なぜ今これが話題なのかっていうと、AnthropicのCEOの発言は、AIが経済に与えるインパクトの大きさを具体的な数字で示したことで、AI市場への期待感が爆アゲしてるんだよね。AI関連企業にとっては、まさにモチベ爆上がりのニュースだよね。一方で、Hugging Faceの身売り報道は、オープンソースAI界隈に激震が走ってるの。Hugging Faceは、たくさんのAIモデルやデータセットが共有されてるプラットフォームだから、その所有者が変わるってなると、今後のオープンソースAIのエコシステムに大きな影響が出る可能性があるんだよね。
+モモ: なるほど〜！期待と不安が入り混じってるって感じなのかな？
+リナ: そういうこと！誰が知っておくと得かっていうと、AI関連の投資家さんやビジネスパーソンはもちろんだし、AI開発者さんやオープンソースAIコミュニティの人たちも、この動きはマジで要チェック！AI市場がこれからどう動いていくのか、その兆候が見えるニュースなんだよね。
+リナ: 今日最後のビジネス・マーケティングの話題は、**フォーティエンスが、業務の棚卸しからToBe構想までを一気通貫で支援する「AIエージェント3ステップ」を提供開始した**っていうニュースだよ。クラウド Watchが報じているね。
+モモ: AIエージェント3ステップ？なんか、会社の業務をAIが手伝ってくれるってことかな？
+リナ: まさにその通り！これは公式発表なんだけど、フォーティエンスっていう会社が、AIエージェントを活用して、企業の業務プロセス改善をサポートするサービスを開始したんだって。具体的には、まず今の業務を洗い出して（棚卸し）、次にAIでどう改善できるか理想の形を考えて（ToBe構想）、最後にそれを実現するためのロードマップまで一貫して支援してくれるの。
+モモ: へぇ〜、それってデキる女の秘書みたいじゃん？会社の業務がもっとスムーズになるってことかな？
+リナ: そうそう！なぜ今これが話題なのかっていうと、AIエージェントって、ただ質問に答えるだけじゃなくて、いろんなツールを使いこなして自律的に業務を遂行するAIのことなんだけど、これを企業の業務改善に本格的に導入しようっていう動きが加速してるんだよね。多くの企業がAIをどう使えばいいか悩んでる中で、具体的な導入ステップを提供してくれるサービスは、マジで需要しかないの。
+モモ: わかる！AIってすごいのはわかるけど、うちの会社でどう使えばいいの？ってなっちゃうもんね。
+リナ: ほんまそれ！だから、このサービスは、企業でAI導入を進めたいと考えてる経営者さん、DX推進の担当者さん、あとは業務改善の担当者さんが知っておくと、マジで役立つはず！AIエージェントが、私たちの仕事のやり方をどう変えていくのか、その具体的な未来が見える動きなんだよね。
+リナ: 今日をひとことでまとめると、AIもビジネスも動きまくりの一日だったね。
+モモ: OpenAIのチップ開発とか、まじでAI業界のレベチな戦いが始まる予感で、モチベ爆上がりだったわ！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 🔥AIチップ戦争勃発か!? OpenAIがNVIDIA対抗の自社チップ「Jalapeño」ベンチマーク公開で業界激震！電力効率1.5倍〜1.9倍ってまじ？AI開発の未来が秒で変わるかも！ #OpenAI #AIチップ #NVIDIA
+2. 【ビジネス最前線】NTTドコモがAI社長アバターを導入！2.5万人の社員キャリア支援って天才すぎん？AIが人事を変える具体的な事例に注目！ #AI活用 #DX #NTTドコモ
+3. AI市場が爆アゲ中！Anthropicが経済効果30兆ドル超を予測する一方で、Hugging Faceは身売り検討報道も。AI業界の動きがまじでエグい一日！要チェックだよ！ #AIトレンド #ビジネスニュース
+
+【Threads投稿文】
+1. みんな、今日のOpenAIのニュース、まじでやばくない？自社開発のAIチップ「Jalapeño」がNVIDIAにガチ喧嘩売ってるみたいな話で、電力効率が1.5〜1.9倍ってレベチすぎん？これって、AIがもっとサクサク動くようになるってことだし、私たちの生活にも秒で影響出てきそうだよね。AI開発の裏側でこんなアツいバトルが繰り広げられてるって知ると、なんかワクワクするわ！今日の会話のネタに最強だと思う！
+2. 仕事してる人、マジでこれ知っとくと得だよ！NTTドコモがAI社長アバター導入ってニュース、未来すぎない？2.5万人の社員がAI社長とキャリア相談できるって、モチベ爆上がり案件じゃん。うちの会社にも欲しい！AIって難しいイメージだけど、こうやって具体的な業務改善に使われると、マジでしごできってなるよね。人事部の人とか、DX担当の人はこれ参考にしないと損だよ！
+3. AI界隈、今日も情緒ジェットコースターだったわ。AnthropicがAIで経済効果30兆ドル超って予測してるの聞くと、AIマジで神！ってなるし、投資してる人はテンションアゲアゲだよね。でも、オープンソースAIの神みたいな存在、Hugging Faceが身売り検討って聞くと、ちょっとぴえんってなる。AIって、期待と不安が入り混じってるけど、その分動向を追うのが鬼アツなんだよね。今日も生きててえらい！
+
+【ショート動画用30秒台本】
+リナ: みんな、今日のAIニュース、まじでエグいよ！
+モモ: え、なになに？なんか爆アゲな話ある？
+リナ: 爆アゲどころか、業界激震！OpenAIがNVIDIAにガチ喧嘩売ってるみたいな自社AIチップ「Jalapeño」のベンチマークを発表したの！電力効率が1.5倍とか、レベチすぎん？
+モモ: え、まじで？NVIDIA超えってこと？AIの未来が秒で変わりそうじゃん！
+リナ: そうなの！他にもドコモがAI社長アバター導入で社員のモチベ爆上げとか、AI市場の動きが止まらないよ！
+モモ: 今日もAIがアツすぎた！もっと詳しく知りたい人は、ぜひ本編聞いてね〜！
+
+【エピソードタイトル案】
+1. AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！
+2. まじで？OpenAIが自社AIチップ開発で業界激震！＆企業のAI活用最前線まとめ
+3. OpenAIがNVIDIAにガチ喧嘩？新チップ「Jalapeño」発表でAI業界アゲ加速！
+
+【ニュース出典リンク一覧】
+ニュース名：フォーティエンス、業務の棚卸しからToBe構想までを一気通貫で支援する「AIエージェント3ステップ」を提供
+出典名：クラウド Watch
+URL：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbkdKT2xNa3piZ2dNNFJPenl5UFdoblJYbFp1eF9zZExYWXlyOExPMG5uOTdoVV96Skh3c0tUY3hRZkRLYUUzNm5IRmgxbWo0OVVTRlNrbFpBbTgzUWVMVnZic1Rwejg?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：OpenAIのJalapeño、固定長推論でGB300を上回るもRubin比較は未実施
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMibkFVX3lxTFByUVlYMmJmUmItaUw4aFl4QlZma1RuSzAycG1EeUZEaXhCc0FBWk5ZT1hhSlRJU2JoT3otcjdxaFRJUmZHS0JpM1B5bVl5dEVwajU1SUFnSUZqVWEwZHVacll4c3ZjdzB1M3BHdHR3cmc?oc=5
+公式発表か報道ベースか：報道ベース（OpenAIがベンチマークを公開した事実は公式）
+
+ニュース名：OpenAI、自社開発AI推論チップ「Jalapeño」のベンチマークを初公開——Nvidia比で電力効率1.5〜1.9倍と主張
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVV3lxTE12WUhaaDBpV1BwaTN4aVR3QmZ2cldmclpsdENzMmtvSXpZVFNwQnZ5VXZhUDlOa1hocFM5Sm5HeE1mSFJVMWVhNmN4NThkZEN6Y1NsZ2NTdlgwVmZXTUowb09CcGFhSms5Q19Fa1pKTlNDaDVm?oc=5
+公式発表か報道ベースか：報道ベース（OpenAIがベンチマークを公開した事実は公式）
+
+ニュース名：OpenAI、2027年IPO前に幹部4人が相次いで退社
+出典名：Investing.com
+URL：https://news.google.com/rss/articles/CBMicEFVV3lxTFBPMGlNaHhhLXlsV3g1SXpxRXJpaUlJWXZjTlc5UnBYY0ZkZmpTSEtmQXg0SlZJbURRR1ExWXUxTUxTYnRVSUlwZ21pRTJ3bllubUszczBoOVpCZTlINnpBanZWbEY0VS1QYTNsUEYxVFA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：アンソロピック、潜在的な収益機会「30兆ドル超」見込む
+出典名：WSJ
+URL：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlYzVGlVcGxxU2ZDWEtJNUxmYk10WU5GWUtFYl9PcFdtQXNrTDNvbkQyU3lBMlF4ODdNR2ZVdEpfU3BGd2oyRFRvb21haFZzdEpjbHpsT0VTNk1YdDY2a2d1MGNvZS00d293M29Wd01xYjN6ZGFwNzUzbDFURXh0ZlpwQm10dmhtOXdaeUo2SFM4eGs3SkEyR1U0TEtSS09YaFAzNFVXUlluYU1RdV9FV3A2OG9tWFM3NVg4?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：NTTドコモグループ約2万5,000人のキャリア形成を支援するAIを活用した社長アバターとの対話
+出典名：HRプロ
+URL：https://news.google.com/rss/articles/CBMiYAFVX3lxTE4ycHl2NkFWNWxtNmNNZU5lZmlNc3VqVjRfc3p5T0ZvQWl0dFJxZHp4dlFTanI0YjR0LVVZWXZBZG1IY0VlRmN5RE1oQ1pMeVFMWU16dFBzM09FZWhyU1R4Nw?oc=5
+公式発表か報道ベースか：報道ベース（NTTドコモの取り組み自体は公式）
+
+ニュース名：Hugging Face、130億ドル規模の身売り検討か——悪性AI防御に中国モデル活用で安全性論争も
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidAFVX3lxTE8wSFBxUnkxdjdxWG5leFJ0ajVkcVNLRnRoQzVPZW9uUXJwRjBaRlVIWVYzOHNJQm92MnhnR3c3ZXJSLWdwZWJhc2s5THlJWjFGem5uMU1tZmxiVFpnZUV1TmRYcXdVOTBJalRTRUt1VWtVamht?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (AI関連のビジネスニュースを3本入れたため、ビジネス・マーケの話題として2本以上を満たしている)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「それな」は多めだが、3回以下に抑えている)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+

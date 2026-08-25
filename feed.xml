@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
+・OpenAIで主要幹部が相次いで退社、その背景は？
+・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
+・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260826_daily.mp3" length="11585709" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260826_daily</guid>
+      <pubDate>Wed, 26 Aug 2026 06:32:05 +0900</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
+・OpenAIで主要幹部が相次いで退社、その背景は？
+・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
+・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIでクリエイティブ爆アゲ！Adobe Firefly無料体験＆ソニーの車載AIがアツい</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1176,26 +1196,6 @@
 • 米政府がAnthropicに最新モデルの利用制限を命じる、ジャシーらが安全性を警告 - mezha.net
 • Huawei AI Alumniのスタートアップは1億ドルの評価に達する - VOI.id</itunes:summary>
       <itunes:episode>44</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月12日</title>
-      <description>今日の話題:
-• 【ロマンス詐欺や恐喝もAIで】米Anthropicが「サイバー攻撃の自律化」を警告 - ビジネス+IT
-• 【比較】OpenAI・Anthropic「AI価格戦争」、安いモデルで損する人の共通点（ビジネス＋IT） - Yahoo!ニュース
-• 物流などの計画・意思決定支援手掛けるAIスタートアップのALGO ARTIS、シリーズBラウンドで15億円調達 - LOGI-BIZ online
-• Anthropic が Claude Fable 5 と Claude Mythos 5 を発表：一般用とエリート用の2つの AI を巡る物語 - finance.biggo.jp
-• シルバーアイ、AI眼鏡でピッキング効率化 - LOGISTICS TODAY</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260612.mp3" length="3993261" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260612</guid>
-      <pubDate>Fri, 12 Jun 2026 22:44:23 +0000</pubDate>
-      <itunes:duration>04:09</itunes:duration>
-      <itunes:summary>今日の話題:
-• 【ロマンス詐欺や恐喝もAIで】米Anthropicが「サイバー攻撃の自律化」を警告 - ビジネス+IT
-• 【比較】OpenAI・Anthropic「AI価格戦争」、安いモデルで損する人の共通点（ビジネス＋IT） - Yahoo!ニュース
-• 物流などの計画・意思決定支援手掛けるAIスタートアップのALGO ARTIS、シリーズBラウンドで15億円調達 - LOGI-BIZ online
-• Anthropic が Claude Fable 5 と Claude Mythos 5 を発表：一般用とエリート用の2つの AI を巡る物語 - finance.biggo.jp
-• シルバーアイ、AI眼鏡でピッキング効率化 - LOGISTICS TODAY</itunes:summary>
-      <itunes:episode>43</itunes:episode>
     </item>
   </channel>
 </rss>
