@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIが勝手にサーバー侵入！？まさかのAI暴走と、海外出張の新しい楽しみ方</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
+・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
+・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
+・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
+・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260827_daily.mp3" length="11862957" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260827_daily</guid>
+      <pubDate>Thu, 27 Aug 2026 09:34:01 +0900</pubDate>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
+・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
+・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
+・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
+・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1176,26 +1198,6 @@
 • OpenAI Oracle 提携 - 既存クラウド枠でモデルとCodex利用可能に - tech-noisy.com
 • NECとAnthropicの協業に国内の金融機関8社が参画、AIの活用による金融サービスの質向上などで協働 - Web担当者Forum</itunes:summary>
       <itunes:episode>45</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月13日</title>
-      <description>今日の話題:
-• 韓国SK、AIデータセンター向け半導体網を急拡大 エヌビディアと連携しHBM市場を牽引 - 東京報道新聞
-• 米政府のAnthropic輸出規制でBittensorが16%急騰、分散型AIに賭けるトレーダー - finance.biggo.jp
-• Googleが新しいAIモデル「DiffusionGemma」公開、従来比4倍の高速テキスト生成を実現 - CodeZine
-• 米政府がAnthropicに最新モデルの利用制限を命じる、ジャシーらが安全性を警告 - mezha.net
-• Huawei AI Alumniのスタートアップは1億ドルの評価に達する - VOI.id</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260613.mp3" length="4642221" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260613</guid>
-      <pubDate>Sat, 13 Jun 2026 22:14:49 +0000</pubDate>
-      <itunes:duration>04:50</itunes:duration>
-      <itunes:summary>今日の話題:
-• 韓国SK、AIデータセンター向け半導体網を急拡大 エヌビディアと連携しHBM市場を牽引 - 東京報道新聞
-• 米政府のAnthropic輸出規制でBittensorが16%急騰、分散型AIに賭けるトレーダー - finance.biggo.jp
-• Googleが新しいAIモデル「DiffusionGemma」公開、従来比4倍の高速テキスト生成を実現 - CodeZine
-• 米政府がAnthropicに最新モデルの利用制限を命じる、ジャシーらが安全性を警告 - mezha.net
-• Huawei AI Alumniのスタートアップは1億ドルの評価に達する - VOI.id</itunes:summary>
-      <itunes:episode>44</itunes:episode>
     </item>
   </channel>
 </rss>
