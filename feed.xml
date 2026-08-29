@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
+・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
+・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
+・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
+・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
+・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260830_daily.mp3" length="14509101" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260830_daily</guid>
+      <pubDate>Sun, 30 Aug 2026 08:07:44 +0900</pubDate>
+      <itunes:duration>15:06</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
+・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
+・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
+・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
+・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
+・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画ちいかわ爆ヒットの裏側と、AI進化が止まらない時代の私たちの働き方</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1182,26 +1206,6 @@
 • OpenAI Deployment Simulation - 約130万会話でリリース前に挙動を予測 - tech-noisy.com
 • AppleのAIハードウェア戦略：カメラ搭載AirPods、スマートグラス、そして折りたたみiPhoneまで - XenoSpectrum</itunes:summary>
       <itunes:episode>48</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月16日</title>
-      <description>今日の話題:
-• Anthropic Claudeが顔写真と身分証を要求へ｜本人確認の背景とプライバシーの論点 - innovaTopia
-• SK Telecom、NVIDIAとAIファクトリー構築 AIインフラ事業を本格化 - 디지털투데이
-• エヌビディア・アドバンテックら動向で大解剖「産業AIエージェント」最新図鑑（ビジネス＋IT） - Yahoo!ニュース
-• ミュトス級Fable無効化の数時間前、アンソロピック幹部が語った「安全性のトレードオフ」 - Yahoo!ニュース
-• IBMとGoogle Cloud、企業でのAI導入を加速させる戦略的協業を発表 - CodeZine</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260616.mp3" length="5333805" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260616</guid>
-      <pubDate>Tue, 16 Jun 2026 23:00:58 +0000</pubDate>
-      <itunes:duration>05:33</itunes:duration>
-      <itunes:summary>今日の話題:
-• Anthropic Claudeが顔写真と身分証を要求へ｜本人確認の背景とプライバシーの論点 - innovaTopia
-• SK Telecom、NVIDIAとAIファクトリー構築 AIインフラ事業を本格化 - 디지털투데이
-• エヌビディア・アドバンテックら動向で大解剖「産業AIエージェント」最新図鑑（ビジネス＋IT） - Yahoo!ニュース
-• ミュトス級Fable無効化の数時間前、アンソロピック幹部が語った「安全性のトレードオフ」 - Yahoo!ニュース
-• IBMとGoogle Cloud、企業でのAI導入を加速させる戦略的協業を発表 - CodeZine</itunes:summary>
-      <itunes:episode>47</itunes:episode>
     </item>
   </channel>
 </rss>

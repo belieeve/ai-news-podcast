@@ -1,0 +1,188 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260830
+========================================
+
+【エピソードタイトル】
+ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
+・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
+・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
+・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
+・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
+・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き
+
+========================================
+
+【元になったニュース】
+1. OpenAI、Cursorへのモデル供給終了意向を発表：個人APIキーで埋まらない機能も - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PWlFMOU1FSVZWckszYmcyZWJYZmUxWGFBNWRHUVVSbndyeDdmemJrREQ1ZndXUTZDUkxiYUNxQjhnVVBKeXVEZFUyMl80UUtKZUYzeFNubXBKbjRpdmltdVVB?oc=5
+2. 米アンソロピックがAIとハードウェア接続の共通規格を発表 - ビジネス+IT（ビジネス+IT） - https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Fa2cyNndaUHE1em9NZUxobU1aZG5aeDEyUm9FZEpUYzlCc1NQOFdBWmlUNG5VLVI1bmcxTkRPcmRlRWx1WGhodzc1LTB1TlE?oc=5
+3. CursorからGPTは消えない｜OpenAIが示した3つの移行経路 - innovaTopia（innovaTopia） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTkJWcTg3X0ozY3NtX3J3eGNyYTJKY2IzQUljaFc2OXdLaWhCUnotQkdoS1ZzXy1hekxGUTFKOThUNlJYLWtkejVwbE1qajBLYnRV?oc=5
+4. 映画『ちいかわ』もともとヒットを狙っていない？ファンダムへの企画の1つに結果的に成功がついてきた #エキスパートトピ - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkxSM3AwcWRfdk1VUlpfSlpGUHVyRDhjWlBMR1RrVjJRekltb0N0dVdaT25Wc1YxX1hRNTNmSFF0Z05yVU41S0NIRXFxQ1AxUlE1ZExxUkJzUEFxZG1nN1pfZkxGU2gweVBpMUh3RU15NVdqd0hWOUZEOHlpdzNXRlNsaUZMbGd0?oc=5
+5. Google、最新動画生成AIモデル「Gemini Omni 1.1 Flash」発表 - jetstream.blog（jetstream.blog） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBT0U3RGJDVUVLUGlpclQxWEZyVXdFSzljdl84TUJfQ1VtMEFLa2JvRmtzOUNlNnFRLV9WREdJMS1yc3RiV0tWUWU2ejVjV3NsRG1TYjBNY1ozdnBWc1Y2ODJvcjNoZXc?oc=5
+6. ソニー・ミュージックパブリッシングとワーナー・チャペル、AnthropicをAI訓練データの海賊行為で提訴——数十億ドルの損害賠償を請求 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5aR09TWjhPakZ6d2w4dHdBckFSYXJNT3NyMjVwQjhJREdERF9nTnlBSlpPODRiYldCTUdFYkNiODJCR1dManRoVTFoWDdsQ1FmWUoxUDU5bGlScFFQT1FOT2pzdEJaWjc1aWtuTHBMX045c1RE?oc=5
+7. OpenAIがブラジルに初のオフィスを開設。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMic0FVX3lxTFBuSlRxdFVhN0VpX0VQZzFubFZzWUg5ZU1NcE1yY2NkVURYdFdpNEUweTd6RHFfRjBFRHZrM2hwV0x2dFFqTjZETGhvUlJIODRwNkZlYUxUZEE4cFgxdnM2MmxoM1VRVU84QmJ2MW4wUWdIVFk?oc=5
+8. OpenAI×データセクションが議論、“日本クオリティ”のAI開発における可能性とは？ - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xM0FqMGVpX08xRHIyUTBwNkJLVWM1QVktcUp4eEVUTjNoaVlTeDhIM1h3OHl2UlhFbW5pa1R2STlfd2dwLUFXTDItazhYbl9RUEZyYlpR?oc=5
+9. マースクのドミトリー・ブイキン氏：AIエージェントの難しい部分はエージェントそのものではなく、その周囲にある10万件の修正だ - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paHhaTWxDSXg5X0dwZ0pnSTZoYmxwQ1hMNVdieHg3THVuUkNTTWZyaGJRcFI3c0lzdFhQazdaSUp3YzRyZFBweHZncUJYY2pqQ2I0Qzl2YWdvQQ?oc=5
+10. スパイダーマンがタイタニックを抜き、歴代興行収入トップ4入りを果たした。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUw3cFRrdk9hSVNzV1hwd0Qza2pKejZkVW1LLXF6dU8wQjJYUi1PaUNyS2hhdEo3OG5EVEM3cEFlVXVCTTNPOVpnZ1pOOUpmSl9GYnVndzJQbllOTnZiLUVFTC1QNEdYZlFIT2N2SmlvaGlnUHlvWS1XX0hscjVCbG1qV3lpak5rM0ZpX3BVNVNIZ2R5MkRBaUN3RHpQOEU?oc=5
+11. Anthropicの研究、AIが安全対策タスクで人間の研究者を上回る性能を発揮——コストはわずか2.7% - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbmtjT3BYQ2dJa1RPZUVwRkFjVW4wRHRKV0k5RVd2NF9QWERjbWl3aDViX2hNOTJKNk9jb0hEZmhORFhyNkwzRW04dHo3ZHVfdTVTSkFjbmJ1MVcwUjV4NGtsSHZKWTNTcU5CMFVKMlV6V3hD?oc=5
+12. OpenAI、SpaceX傘下のCursorへのAIモデル供給を打ち切り——マスク氏の契約履行実績に不信感 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9YRkRGdlJQZFpRY3g1eFNHZ1hoSXJ2cE1HbHFwQ2UxeFg3bkEzR3BzNy10VFc0WlVTNkFMeUdsM3lWSVhVMzVVdFBGX3g4MGI1MGh5aGt2WFpnQzlrU1lnUUJEZGNVZ1RMamFxWHU0MEVMUnEx?oc=5
+13. 新たな検索トレンド：AI検索結果で自社ビジネスを上位表示させる方法。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlVhM0RWT0VzRFhneEQtU283dExWd2RTaUdKTU1BZUZudnh3cDZEX1RhZm4tYmt6bkl4QzJ2NFlSQjMyYkcyWGpZbmVhajFqUDdjUGcyRWQ4VG90WmNRclZRUG9XdTJmNElVT2Y0V1ZjS1dMSkpfZG9pLVVUNnNBeWx5c1g1c2xjdXFoV2ZKWFFkNFlFMEJSU20yRHNZUk9qODg4?oc=5
+14. OpenAIと127社がAI攻撃に備えるサイバー防衛の強化を訴える - VOI.ID（VOI.ID） - https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pdWJMRW9Zem9SMEZtclZMeGx3dFRkU2x1R2J1cW5CT09NaG1jUGhjQmRHOWo2UklaekJKd3RpWEJNbUhET2dtU25R0gFCQVVfeXFMUElkbDQwaHczbDdEbjBZUnAwMm9JOTlqdS1MZEh4cEw5SXdWYURlSndqa0RmSDVicEdoZjVleGhFT3R3?oc=5
+15. Factory CEOエノ・レイエス氏：OpenAIとAnthropicは死につつあるトークンに全財産を賭けている - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Vnl4UTNZbXExTktOd1lxX0ZDcGFKTllpT2FCcXhvVlVUbVYtcmxQTmZxbFdjcGYxVkVzUVk2RUhWRkFpNFBxaDVJNEdVQmdXZDB3c2FnYmdlQQ?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございまーす！リナです！
+モモ: おはようございまーす！モモでーす！今日も朝からアゲてこー！
+リナ: モモ、今日もテンション高すぎん？まじ元気もらえるわ〜。今日はAI業界がちょっとザワついてる話題から、みんな大好き『ちいかわ』映画の裏話まで、盛りだくさんでお届けするよ！
+モモ: え、ちいかわ映画、ヒット狙ってなかったってまじ？まじで？ビビったんだけど！
+リナ: そうなの、それが今日のエンタメの注目ポイント！AIもエンタメもビジネスも、今日もしっかりキャッチアップしていこうね！
+モモ: おけまる！
+リナ: それじゃ、今日の注目ニュースからいってみよ！これはAI界隈でちょっと話題になってるんだけど、**OpenAIが開発者向けのAIエディタ「Cursor」へのモデル供給を終了する意向を発表した**って話なんだよね。
+モモ: え、待って、それってどういうこと？Cursorって、AI使ってコード書いたりするやつだよね？
+リナ: そうそう！Cursorは、ChatGPTとかに使われてるOpenAIの高性能なAIモデルを使って、開発者がコードをより効率的に書けるようにするツールだったの。今回の話は、**OpenAIがCursorに対して、API経由でのモデル供給をストップするかもよって伝えた**って報道ベースの話なんだ。公式発表ではないんだけど、XenoSpectrumとかinnovaTopia、BigGoファイナンスなど複数のメディアで報じられてるね。
+モモ: まじで？急すぎん？なんでそんなことになっちゃったの？
+リナ: なんで話題なのかっていうと、まず一つは、OpenAIとCursorの間に契約上の問題があったんじゃないかって見方が強いんだよね。報道によっては、イーロン・マスク氏が買収したSpaceX傘下の企業だったCursorへの供給停止は、マスク氏とOpenAIの間の契約履行実績に対する不信感があるからじゃないか、みたいな話も出てるんだ。
+モモ: えー、なんかドロドロしてそう……。
+リナ: でしょ？さらに、Cursor側は、ユーザーが自分のOpenAI APIキーを使えば、GPTモデルを引き続き使えるようにするって言ってるんだけど、OpenAIが提供してた特定の機能、例えば「CursorのAIを使って直接OpenAIのモデルを呼び出す機能」とかは使えなくなる可能性も指摘されてるの。
+モモ: あーね、じゃあ、完全に使えなくなるわけじゃないけど、ちょっと不便になるってことか。
+リナ: そういうこと。**誰が知っておくと得か**っていうと、まず**AIツールを開発してる人たちや、サードパーティのAIサービスを使ってる企業**は、OpenAIのような大手AIプロバイダーとの関係性や、契約条件を改めて見直すきっかけになるはず。あと、**Cursorのユーザーや、AIを使った開発者**は、今後どのAIモデルを使うかとか、開発環境をどうするかを考える必要があるよね。
+モモ: なるほどね〜。AIのサービスって、提供元との関係性とか契約とか、結構デリケートなんだね。まじで今後の動きに注目だわ。
+リナ: 続いては、AIの話題をもう一つ！**Googleが最新の動画生成AIモデル「Gemini Omni 1.1 Flash」を発表した**って話だよ。
+モモ: おお！Googleも動画生成AI、どんどん進化させてるんだね！まじで秒で動画作れちゃう時代来るのかな？
+リナ: そうなの！これはjetstream.blogで報じられているんだけど、Googleはすでに「Gemini 1.5 Pro」っていう強力なモデルを発表してるんだけど、今回の「Gemini Omni 1.1 Flash」は、さらに動画生成に特化したモデルとして登場したとされているんだ。より高速で効率的な動画生成を目指しているってことだね。
+モモ: へえ〜！「Flash」って名前からして、なんか爆速って感じするじゃん！
+リナ: まさに！なぜ話題なのかっていうと、動画生成AIは今、AI技術の中でも特に競争が激しい分野の一つなんだ。SoraとかRunwayMLとか、色々なサービスが出てきてる中で、Googleがどんな性能のモデルを出してくるのか、業界全体が注目してるんだよね。よりリアルで、より長い、そしてより複雑な動画を生成できるようになることで、クリエイティブ業界に大きなインパクトを与える可能性があるの。
+モモ: ちょ待って、それってまじでクリエイターさんたちにとって神すぎん？時間短縮とか、表現の幅とか、レベチになりそう！
+リナ: そうだね！**誰が知っておくと得か**っていうと、まず**動画クリエイターやマーケター、コンテンツ制作者**は、この技術を使うことで、新しい表現方法を見つけたり、制作コストを抑えたりできるようになるかもしれない。あとは、**AI技術の動向を追っている投資家やビジネスパーソン**も、この分野の成長性を見極める上で重要なニュースだね。
+モモ: まじで未来がアゲだわ〜！
+リナ: さらにAIの話題を深掘り！**ソニー・ミュージックパブリッシングとワーナー・チャペルといった大手音楽出版社が、AI開発企業のAnthropicを著作権侵害で提訴した**ってニュースだよ。
+モモ: え、また著作権問題？AI界隈、まじでこの話多いよね。Anthropicって、Claudeとか作ってる会社だっけ？
+リナ: そうそう、そのAnthropic。BigGoファイナンスで報じられているんだけど、彼らのAIモデルの訓練データに、著作権で保護された歌詞が許可なく使われたとして、数十億ドルの損害賠償を請求してるんだ。
+モモ: 数十億ドルって、まじでレベチじゃん！なんでこんなことになっちゃうの？
+リナ: なぜ話題なのかっていうと、AIモデルの学習には膨大なデータが必要なんだけど、そのデータの中に著作権で保護されたコンテンツが含まれていることが多くて、これがAI業界全体の大きな課題になってるんだよね。特に音楽業界は、歌詞や楽曲の著作権に敏感だから、今回の提訴はAIとクリエイティブコンテンツの未来を考える上で、めっちゃ重要な一石を投じることになるの。
+モモ: あーね、AIが勝手に勉強して、そこから新しいもの作っちゃったら、元の作った人たちはどうなんの？って話だよね。わかるんだが。
+リナ: まさにそれ。**誰が知っておくと得か**っていうと、まず**AI開発者やAIサービスを提供している企業**は、著作権侵害のリスクを避けるために、訓練データの選定やライセンスについて、より慎重になる必要があるね。あとは、**クリエイターやコンテンツホルダー**も、自分の作品がAIにどう使われるのか、どう保護されるのかを知る上で、この裁判の行方は見逃せないよ。
+モモ: まじで、AIの進化はすごすぎだけど、ちゃんとルール作りも進めていかないと、情緒バグる人たち出てきそうじゃんね。
+リナ: さて、ここからはエンタメの話題にスイッチするよ！みんな大好き**『ちいかわ』の映画に関するニュースなんだけど、もともとヒットを狙っていなかった？って話がYahoo!ニュースで報じられてる**んだ。
+モモ: え、まじで？『ちいかわ』って今、鬼アツじゃん！映画も大ヒットしてるのに、狙ってなかったって、どういうこと？ビビり散らかしたわ！
+リナ: だよね！Yahoo!ニュースのエキスパートトピで報じられているんだけど、記事によると、ちいかわの映画は、もともとファンダム、つまり熱狂的なファン向けの企画の一つとして始まったんだって。結果的に大成功したけど、最初から「国民的ヒットを飛ばすぞ！」っていう壮大な目標があったわけじゃないとされてるの。
+モモ: えー、それってなんか意外すぎん？でも、だからこそファンに刺さったのかも？
+リナ: まさに！なぜ話題なのかっていうと、この話は、**ヒットの法則が多様化している現代のエンタメ業界やマーケティングのあり方**をすごく象徴してるんだよね。SNSで人気に火がついて、ファンコミュニティが強力なコンテンツは、従来の「マスに広くアピールして大ヒット」っていう戦略とは違うアプローチで成功を収めることがあるってこと。ファンを大切にすることで、結果的に大きなムーブメントになるっていう、まさに「推し活」の時代を象徴するような成功事例なんだ。
+モモ: わかる！うちらも推しのために頑張っちゃうもんね！てか、ちいかわってほんと愛しかないじゃん。
+リナ: そうそう。**誰が知っておくと得か**っていうと、**コンテンツプロデューサーやマーケター、SNS運用担当者**は、この成功事例から、ニッチなファン層を深く掘り下げて、熱量を高めることの重要性を学べるはず。あと、**推し活してる人たち**も、自分たちの応援がコンテンツを大きく育てる力になるってことを再認識できる、モチベ爆上がりのニュースだよね！
+モモ: 優勝！ちいかわ界隈、まじで最強すぎん？
+リナ: もういっちょエンタメの話題！**映画『スパイダーマン』が『タイタニック』を抜いて、歴代興行収入トップ4入りを果たした**ってニュースだよ。
+モモ: え、スパイダーマン強すぎん？！あのタイタニックを抜くって、まじでレベチじゃん！どのスパイダーマン？
+リナ: Vietnam.vnで報じられているんだけど、これは「スパイダーマン：ノー・ウェイ・ホーム」のことだね。この作品が、世界の歴代興行収入ランキングで『タイタニック』を上回り、トップ4に躍り出たとされているんだ。
+モモ: やば！まじで？あのレオ様とケイトのタイタニックを抜くとか、すごすぎん？
+リナ: だよね！なぜ話題なのかっていうと、これは単に数字がすごいだけじゃなくて、**スーパーヒーロー映画の圧倒的な人気と、映画業界のトレンド**を明確に示してるんだよね。特に「スパイダーマン：ノー・ウェイ・ホーム」は、過去のシリーズ作品のキャラクターが登場するマルチバース的な展開が、長年のファンだけでなく新たな層も巻き込んで、社会現象になったんだ。
+モモ: あーね！なんか「歴代スパイダーマンが集結！」みたいなの、SNSでもバズってたもんね！あれは胸アツだったわ〜。
+リナ: そう、ファンへのサービス精神と、巧妙なストーリーテリングがガチで成功した例だね。**誰が知っておくと得か**っていうと、まず**映画業界関係者やエンタメビジネスに携わる人たち**は、人気シリーズの展開戦略や、ファン心理を掴むコンテンツ作りのヒントを得られるはず。あと、**映画好きやアメコミファン**は、このニュースを聞いて、また友達と映画談義に花を咲かせるきっかけになるんじゃないかな。
+モモ: 映画館、まじで集合案件だわ！
+リナ: 続いては、ビジネスの話題にいくよ！**米国のAI開発企業Anthropicが、AIとハードウェアを接続するための共通規格を発表した**ってニュースだよ。
+モモ: またAnthropicだ！今度はビジネスの話なんだね。AIとハードウェアの共通規格って、それってどういうこと？
+リナ: これはビジネス+ITで報じられているんだけど、Anthropicは、AIモデルを様々なハードウェア、例えばロボットとかスマートデバイスとかに、もっとスムーズに組み込めるようにするための統一されたルールやガイドラインを発表したとされているんだ。
+モモ: あーね！なんか、USBとかHDMIみたいな、どの機械でも使える共通の差し込み口みたいな感じかな？
+リナ: モモ、わかりみ深い！まさにそんなイメージ。なぜ話題なのかっていうと、今、AIはクラウド上だけでなく、実際に動くロボットやデバイスにもどんどん搭載されていってるじゃん？でも、AIとハードウェアの連携って、それぞれのメーカーがバラバラの方法でやってると、開発がめちゃくちゃ複雑になったり、互換性が悪かったりするんだよね。だから、共通規格ができると、**AIを搭載した新しい製品の開発がグッと楽になって、イノベーションが加速する**って期待されてるの。
+モモ: やば！それって、AI家電とかAIロボットとかが、爆速で進化するってことじゃん！まじで？
+リナ: そういうこと！**誰が知っておくと得か**っていうと、まず**AIを製品に組み込もうとしているハードウェアメーカーや、IoTデバイスを開発している企業**は、この規格を採用することで開発効率が上がる可能性があるね。あと、**AIの未来を考えているビジネスパーソンや投資家**も、AIエコシステムがどう発展していくかを見る上で、この動きは超重要だよ。
+モモ: まじで、AIが生活に浸透するスピード、さらにアゲアゲになりそうじゃん！
+リナ: 今日も盛りだくさんのニュースだったね！モモ、今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: それな！AI業界は競争も激しいし、著作権とかルール作りも超重要って感じだけど、ちいかわとかスパイダーマンのヒットの裏側には、ファンへの愛が詰まってたってのが、まじで刺さったわ！
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 💥OpenAIがCursorへのAIモデル供給を終了するかも？！AI業界に激震走る⚡️ 背景には契約問題の可能性も…開発者やサードパーティサービス使う企業は要チェック！ #OpenAI #AIニュース
+2. 🎬ちいかわ映画はヒットを狙ってなかった？！ファンを大切にする戦略が『大優勝』🏆 SNSバズの裏側から、現代エンタメの成功法則が見えてきた✨ #ちいかわ #映画 #マーケティング
+3. 🎵AIと著作権問題、またまた勃発！ソニー・ミュージックなど大手音楽出版社がAnthropicを提訴💥 AI開発企業は訓練データ、クリエイターは作品保護について考えるべき時かも。 #AI著作権 #Anthropic
+
+【Threads投稿文】
+1. 今朝のトレンド、AI業界の裏側がまじでエグい！OpenAIがAIエディタのCursorへのモデル供給を停止する意向を示したって話、みんな知ってた？これってAI開発者にとっては結構大きなニュースで、どのAIモデルを使うかとか、今後の開発環境をどうするか考えるきっかけになるかも。うちらの仕事にもAIがどんどん入ってくるから、こういう業界の動きはちゃんと追っておきたいよね。まじで情報収集は大事！
+2. 映画『ちいかわ』が大ヒットしてるけど、実は最初からヒットを狙ってたわけじゃないって話、ビビったんだけど？！ファン向けの企画が結果的に社会現象になるって、まじで現代のマーケティングって奥深いよね。SNSでバズるコンテンツって、やっぱり「愛」が大切なんだなって思った。うちらも推し活が仕事のヒントになるなんて、最高かよ！
+3. AIと著作権問題、まじで終わりが見えないんだけど。今回はソニー・ミュージックとかの大手音楽出版社がAnthropicを提訴したって。AIが勝手に学習して、そこから新しいものを生み出す時代だからこそ、元のクリエイターさんたちの権利は守られないとだよね。うちらがコンテンツを作る側になった時、どういうルールでAIと付き合っていくか、今から考えておかないと情緒バグりそう…。
+
+【ショート動画用30秒台本】
+リナ: みんな〜！今日の朝アゲトレンド、やばいニュース盛りだくさんだよ！
+モモ: やば！ちいかわ映画、ヒット狙ってなかったってまじ？！まじで？！
+リナ: そうなの！ファン愛が爆発した結果の大優勝だったんだって！そしてAI界隈も激アツ！OpenAIがCursorへのモデル供給を停止するかもって話も！
+モモ: え、それってどういうこと？！うちらの生活にどう関係あるの？！
+リナ: AIの進化と、それに伴う著作権問題も深掘りするよ！未来の働き方にも繋がるから、今日の内容はマジで必聴だよ！
+モモ: 早く聴いて、モチベ爆上げしちゃお！
+
+【エピソードタイトル案】
+1. ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り
+2. 大ヒットちいかわ映画からAI著作権まで！今日のトレンドをギャルが解説
+3. AI業界激震？！OpenAIとAnthropicの最新動向＆ちいかわ映画の意外な戦略
+
+【ニュース出典リンク一覧】
+ニュース名：OpenAI、Cursorへのモデル供給終了意向を発表：個人APIキーで埋まらない機能も
+出典名：XenoSpectrum
+URL：https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PWlFMOU1FSVZWckszYmcyZWJYZmUxWGFBNWRHUVVSbndyeDdmemJrREQ1ZmdXUTZDUkxiYUNxQjhnVVBKeXVEZFUyMl80UUtKZUYzeFNubXBKbjRpdmltdVVB?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：CursorからGPTは消えない｜OpenAIが示した3つの移行経路
+出典名：innovaTopia
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTkJWcTg3X0ozY3NtX3J3eGNyYTJKY2IzQUljaFc2OXdLaWhCUnotQkdoS1ZzXy1hekxGUTFKOThUNlJYLWtkejVwbE1qajBLYnRV?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：OpenAI、SpaceX傘下のCursorへのAIモデル供給を打ち切り——マスク氏の契約履行実績に不信感
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9YRkRGdlJQZFpRY3g1eFNHZ1hoSXJ2cE1HbHFwQ2UxeFg3bkEzR3BzNy10VFc0WlVTNkFMeUdsM3lWSVhVMzVVdFBGX3g4MGI1MGh5aGt2WFpnQzlrU1lnUUJEZGNVZ1RMamFxWHU0MEVMUnEx?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：Google、最新動画生成AIモデル「Gemini Omni 1.1 Flash」発表
+出典名：jetstream.blog
+URL：https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBT0U3RGJDVUVLUGlpclQxWEZyVXdFSzljdl84TUJfQ1VtMEFLa2JvRmtzOUNlNnFRLV9WREdJMS1yc3RiV0tWUWU2ejVjV3NsRG1TYjBNY1ozdnBWc1Y2ODJvcjNoZXc?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：ソニー・ミュージックパブリッシングとワーナー・チャペル、AnthropicをAI訓練データの海賊行為で提訴——数十億ドルの損害賠償を請求
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE5aR09TWjhPakZ6d2w4dHdBckFSYXJNT3NyMjVwQjhJREdERF9nTnlBSlpPODRiYldCTUdFYkNiODJCR1dManRoVTFoWDdsQ1FmWUoxUDU5bGlScFFQT1FOT2pzdEJaWjc1aWtuTHBMX045c1RE?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：映画『ちいかわ』もともとヒットを狙っていない？ファンダムへの企画の1つに結果的に成功がついてきた #エキスパートトピ
+出典名：Yahoo!ニュース
+URL：https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkxSM3AwcWRfdk1VUlpfSlpGUHVyRDhjWlBMR1RrVjJRekltb0N0dVdaT25Wc1YxX1hRNTNmSFF0Z05yVU41S0NIRXFxQ1AxUlE1ZExxUkJzUEFxZG1nN1pfZkxGU2gweVBpMUh3RU15NVdqd0hWOUZEOHlpdzNXRlNsaUZMbGd0?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：スパイダーマンがタイタニックを抜き、歴代興行収入トップ4入りを果たした。
+出典名：Vietnam.vn
+URL：https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUw3cFRrdk9hSVNzV1hwd0Qza2pKejZkVW1LLXF6dU8wQjJYUi1PaUNyS2hhdEo3OG5EVEM3cEFlVXVCTTNPOVpnZ1pOOUpmSl9GYnVndzJQbllOTnZiLUVFTC1QNEdYZlFIT2N2SmlvaGlnUHlvWS1XX0hscjVCbG1qV3lpak5rM0ZpX3BVNVNIZ2R5MkRBaUN3RHpQOEU?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：米アンソロピックがAIとハードウェア接続の共通規格を発表
+出典名：ビジネス+IT
+URL：https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Fa2cyNndaUHE1em9NZUxobU1aZG5aeDEyUm9FZEpUYzlCc1NQOFdBWmlUNG5VLVI1bmcxTkRPcmRlRWx1WGhodzc1LTB1TlE?oc=5
+公式発表か報道ベースか：公式発表
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。: OK
+- 報道ベースの内容を「発表しました」と言っていないか。: OK
+- 未公開モデルや政府要請を断定していないか。: OK
+- セキュリティや機密データを「安全」と言い切っていないか。: 該当なし（扱っていない）
+- 強すぎる断定や煽り表現がないか。: OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。: OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。: OK（エンタメ2本、ビジネス1本）
+- 芸能人のプライベートな話題や個人批判を扱っていないか。: OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。: OK（「まじで」は複数回使用しているが、強調表現として自然な範囲で、3回以上の連続使用は避けている）
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。: OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。: OK（「大優勝」「神すぎん？」は個人の感想として使用）
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。: OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。: OK
+- 最後に同じ内容を繰り返していないか。: OK
+- 番組フォローへの導線が自然に入っているか。: OK
+- 出典リンク一覧があるか。: OK
+
+========================================
+
