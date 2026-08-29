@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画ちいかわ爆ヒットの裏側と、AI進化が止まらない時代の私たちの働き方</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
+・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
+・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
+・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
+・興行収入10億ドルを突破したスーパーヒーロー映画17本</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260829_daily.mp3" length="18127917" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260829_daily</guid>
+      <pubDate>Sat, 29 Aug 2026 12:07:18 +0900</pubDate>
+      <itunes:duration>18:52</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
+・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
+・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
+・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
+・興行収入10億ドルを突破したスーパーヒーロー映画17本</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>まどマギ新作にファン爆アゲ！AIチップ開発でNVIDIA対抗、交通費精算もAI化ってまじ？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1180,26 +1202,6 @@
 • ミュトス級Fable無効化の数時間前、アンソロピック幹部が語った「安全性のトレードオフ」 - Yahoo!ニュース
 • IBMとGoogle Cloud、企業でのAI導入を加速させる戦略的協業を発表 - CodeZine</itunes:summary>
       <itunes:episode>47</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月15日</title>
-      <description>今日の話題:
-• AI PLUS、実践型AIスクール「AI＋」で「最新AIエージェント活用事例20選」提供開始 - ICT教育ニュース
-• Amazon、Anthropic最新AIの安全保障リスクを米政権に指摘か Fable 5停止の背景に浮上 - Ledge.ai
-• 【AIネイティブな組織に進化】インターファクトリー 蕪木登CEO「EC運用に参入、AIエージェント提供も」 - ｄメニューニュース
-• NVIDIA、フィジカルAI向け世界モデル「Cosmos 3」リリース ネイティブな視覚推論、ワールド＆アクション生成を統合したオムニモデル - CGWORLD.jp
-• 「親友よりAIに購入を任せたい」消費者の74％がAIエージェントを信頼 10％は承認なしの買い物も許容と回答 - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260615.mp3" length="4812717" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260615</guid>
-      <pubDate>Mon, 15 Jun 2026 23:08:46 +0000</pubDate>
-      <itunes:duration>05:00</itunes:duration>
-      <itunes:summary>今日の話題:
-• AI PLUS、実践型AIスクール「AI＋」で「最新AIエージェント活用事例20選」提供開始 - ICT教育ニュース
-• Amazon、Anthropic最新AIの安全保障リスクを米政権に指摘か Fable 5停止の背景に浮上 - Ledge.ai
-• 【AIネイティブな組織に進化】インターファクトリー 蕪木登CEO「EC運用に参入、AIエージェント提供も」 - ｄメニューニュース
-• NVIDIA、フィジカルAI向け世界モデル「Cosmos 3」リリース ネイティブな視覚推論、ワールド＆アクション生成を統合したオムニモデル - CGWORLD.jp
-• 「親友よりAIに購入を任せたい」消費者の74％がAIエージェントを信頼 10％は承認なしの買い物も許容と回答 - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>46</itunes:episode>
     </item>
   </channel>
 </rss>
