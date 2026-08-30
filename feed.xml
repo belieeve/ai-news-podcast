@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ソニーがAI企業提訴で著作権バトル勃発?! 韓国映画はどこで見るのが優勝？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
+・OpenAIがイーロン・マスク氏関連企業との契約を終了
+・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
+・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
+・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260831_daily.mp3" length="14075181" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260831_daily</guid>
+      <pubDate>Mon, 31 Aug 2026 08:18:51 +0900</pubDate>
+      <itunes:duration>14:39</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
+・OpenAIがイーロン・マスク氏関連企業との契約を終了
+・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
+・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
+・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1186,26 +1208,6 @@
 • ガートナー予測…AIエージェントで「75％自動化」データエンジニアの仕事は消えるのか（ビジネス＋IT） - Yahoo!ニュース
 • UiPathがオンプレミス環境でAIエージェント提供、金融・公共・医療の規制業界向け（Web担当者Forum） - Yahoo!ニュース</itunes:summary>
       <itunes:episode>49</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月17日</title>
-      <description>今日の話題:
-• NVIDIAのフアンCEO、日本の「侘び寂び」に言及…AI時代だからこそ人間特有の資質が重要になる（海外） - Yahoo!ニュース
-• Boxの優位性はどこにある？ 「AIによるコンテンツ管理プラットフォームの進化」を考察（ITmedia エンタープライズ） - Yahoo!ニュース
-• Apple、メモリ高騰で値上げへ：AI需要がiPhoneとMacの価格前提を押し上げる - XenoSpectrum
-• OpenAI Deployment Simulation - 約130万会話でリリース前に挙動を予測 - tech-noisy.com
-• AppleのAIハードウェア戦略：カメラ搭載AirPods、スマートグラス、そして折りたたみiPhoneまで - XenoSpectrum</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260617.mp3" length="4689837" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260617</guid>
-      <pubDate>Wed, 17 Jun 2026 22:51:11 +0000</pubDate>
-      <itunes:duration>04:53</itunes:duration>
-      <itunes:summary>今日の話題:
-• NVIDIAのフアンCEO、日本の「侘び寂び」に言及…AI時代だからこそ人間特有の資質が重要になる（海外） - Yahoo!ニュース
-• Boxの優位性はどこにある？ 「AIによるコンテンツ管理プラットフォームの進化」を考察（ITmedia エンタープライズ） - Yahoo!ニュース
-• Apple、メモリ高騰で値上げへ：AI需要がiPhoneとMacの価格前提を押し上げる - XenoSpectrum
-• OpenAI Deployment Simulation - 約130万会話でリリース前に挙動を予測 - tech-noisy.com
-• AppleのAIハードウェア戦略：カメラ搭載AirPods、スマートグラス、そして折りたたみiPhoneまで - XenoSpectrum</itunes:summary>
-      <itunes:episode>48</itunes:episode>
     </item>
   </channel>
 </rss>
