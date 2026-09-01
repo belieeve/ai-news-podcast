@@ -22,6 +22,30 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
+・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
+・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
+・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
+・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
+・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260901_daily.mp3" length="10669485" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260901_daily</guid>
+      <pubDate>Tue, 01 Sep 2026 09:28:52 +0900</pubDate>
+      <itunes:duration>11:06</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
+・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
+・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
+・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
+・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
+・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ソニーがAI企業提訴で著作権バトル勃発?! 韓国映画はどこで見るのが優勝？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1188,26 +1212,6 @@
 • AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開 - GIGAZINE
 • OpenAI、Codexが作業を見て覚える「Record&amp; Replay」（Impress Watch） - Yahoo!ニュース</itunes:summary>
       <itunes:episode>50</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月19日 朝刊</title>
-      <description>今日の話題:
-• Midjourneyが医療部門を新設、全身60秒の超音波スキャナーを発表 - tech-noisy.com
-• AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外） - Yahoo!ニュース
-• 「Ray-Ban Meta Gen2」を試す 音声操作で撮るスマートグラスの実力 - 디지털투데이
-• ガートナー予測…AIエージェントで「75％自動化」データエンジニアの仕事は消えるのか（ビジネス＋IT） - Yahoo!ニュース
-• UiPathがオンプレミス環境でAIエージェント提供、金融・公共・医療の規制業界向け（Web担当者Forum） - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260619_morning.mp3" length="3483309" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260619_morning</guid>
-      <pubDate>Fri, 19 Jun 2026 08:00:01 +0900</pubDate>
-      <itunes:duration>03:37</itunes:duration>
-      <itunes:summary>今日の話題:
-• Midjourneyが医療部門を新設、全身60秒の超音波スキャナーを発表 - tech-noisy.com
-• AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外） - Yahoo!ニュース
-• 「Ray-Ban Meta Gen2」を試す 音声操作で撮るスマートグラスの実力 - 디지털투데이
-• ガートナー予測…AIエージェントで「75％自動化」データエンジニアの仕事は消えるのか（ビジネス＋IT） - Yahoo!ニュース
-• UiPathがオンプレミス環境でAIエージェント提供、金融・公共・医療の規制業界向け（Web担当者Forum） - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>49</itunes:episode>
     </item>
   </channel>
 </rss>

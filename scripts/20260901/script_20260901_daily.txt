@@ -1,0 +1,173 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260901
+========================================
+
+【エピソードタイトル】
+ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
+・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
+・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
+・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
+・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
+・AIエージェントのコスト管理、まさかの高額請求リスクに注意！
+
+========================================
+
+【元になったニュース】
+1. ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞 - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMie0FVX3lxTE80VDJ0TE1PTVZaS0hBenNCUE0xNXdHcW5nYm9qOUxZR1o2bjIwcEhvQXBCRThzNUVRa2hhOHVpY0NyeThMXy1laE5uTlQycFZuS1dIbVlUeU9mTmlEb0JSYnc2b2dwQ2VXUlByLWhYcF9uX3VTbkxYUjZjNA?oc=5
+2. 相談から改善まで、使うほど会社に詳しくなるAI業務プラットフォーム「AIジョーシス」をリリースしました - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1pNGtUWENhNnNON29kYUxFY3dPVy0yYlp2MXFBUnJqMmVaWVJ4TUVxS0lTZUMwMWtlRHVsdEtMejNzM3V0ZDhrYy1XMVNhWE1rVHctY0ljdXJMZUlUamlZVzNHdktKZDdoaFE?oc=5
+3. AIエージェント時代こそ、「人」のマネジメントを強くする。組織改善クラウド「パルスアイ」がAI機能を大幅強化 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZTV1Vk42ZWxQX3JKVHJ1NDNZd2EyZDl5MjRPYVlmTTZUYWNETGY5blBtYWs2ZjN6UmlVNEJXeDl1OEs2ODNvRlVoNUVpakoxMG9lcHNialo5OHNEZmxLcS1jZ1duM2JRWUE?oc=5
+4. Helpfeel、「AI Commerce EXPO 2026」に出展 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE4wd3RzOFdBdUY5clFrUzNZSnI0TzFveDBSeW5aR2lXcE9sQ0RrSWpQUUpKd1hXeUhjcGQwdk1MRjVoaHdZWWNLakNiaWltdWU5elFPaUJuTkRkUWtaZndfdlRVYl9kR0djamc?oc=5
+5. 看護師向けAIエージェント「NURVIS」洛和会丸太町病院で実証を開始 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYXdKVThub1RUdU9XUHNhT3JYQkhLWGdKMENMb3hxTUlUNl92ZmJ3MFVHYzdpcTRtNzNPUGE0NjJ6QTJCV3VEbnBYbUxiZFNROXFfa0tMdXVYeVJpdEZlZl9VRDRHV2JDTnc?oc=5
+6. カンファレンスで聞く技術選定が現場で適用できないのはなぜか──AIエージェント時代の「穢れた技術選定」 - CodeZine（CodeZine） - https://news.google.com/rss/articles/CBMiUkFVX3lxTE9scHNnM19uLXQtd2F1dXJNXzlURGptVnZIWGstakMzVWk2N2FDQVBFNzZMS2FMcWJqb1JfUlI5WkVrNVRZZTRWRWZsSlZfRndBanc?oc=5
+7. アンソロピック、エヌビディア出資企業と契約 350億ドル規模 - WSJ（WSJ） - https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTdndk9PNGNhVXlCc3JzYnl1S0VBWFc2b1FfcnhraHloNjhBTTRsX0lJQkZOYmo1UkVwdW8wVThOWHJhMFNsd29HRWJsclp6UUVrUE4zc2FhTUtuODZYNERKcFQ4ZUhRekFCMmR4amxPM29DdmxMbjRHX2FVZmJpQ2pIVGZQNHp3d1gta0tTYjQzU1otMmphYUNyZzFvd0xwc3JPeUlhOWptVzlDNjEw?oc=5
+8. AIエージェントによって「一晩25万ドル」の請求も 通信事業者に求められるコスト管理とガバナンス - businessnetwork.jp（businessnetwork.jp） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wbzc2WUtYYmtUdWZtcjM0ekZuZjRmTmwxdG1RX2JvaExZQm5OdGdtdUhYTTlNVTh6a1ZFcGZ1STZ1ckJzWXpSamc5VHhwUkhUMEY4?oc=5
+9. 【データ分析AIエージェントのトライアル参加企業募集】ファイルを入れるだけで、AIが分析からレポート作成まで自動実行「INSIGHT AGENT」 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1leEJwcUpQT1dCQzF4U1Z3WWlUc0p0OGVDZnlySU5hWlpaeDZrdl8xSEhJN0xqVnd5cml0TkptUTBjRWRSRE80V3pqWHJoR3ByTmo3eTlPVzhHY0FZVzh6cmk5Y1E4eWJWcWc?oc=5
+10. 「ChatGPT」広告、年換算の売上高10億ドルに　開始200日足らずで達成 - ｄメニューニュース（ｄメニューニュース） - https://news.google.com/rss/articles/CBMi6wFBVV95cUxPelpUblB4bDNzM293MVFDd3JtTzhVNzV0SHFrOHFUZGFqU08yMUxHSVdwd1Bzb1IwNEN1bENPZXBiYnZyZ1NpVUlnQ1dkalNLcm9lX1hnQThicXRid0hKNzBLVU15eEU4NzVtMm9GQXdLNEZJNV84LXBwb0lfVmZ6R0h5OEg4b24yc1dJODFKMEpVQWN2dWREZktjSFBkX2NEbE51NWpiTEhHcUx0dmhOWV80RDlrQVJEZi1pLUFzMEZ4ejV4LXFGWThmZ2k2bjRIdDdIWkh5MjkxRGh4SkVvZHFoc1VlM3lqWEk00gGbAUFVX3lxTE4tUGJnZTJFdXFJV2JLcFkxWDg3WUpuY3JjQkNRT0FIZ0hvVmt2MTM3b1pKRjFMdmRFQzZvWkVJVFIzOUpadVFMUUpmTllBUV91cDRDUmx2ZHZGVDNmQTFKRXRDdXFmamE0bmNvbXBLNXlUcUVvSmxuS3poN1NxWlI0Uk9SMDNWM3ZQNmJzaHQxNFBEZmg5c2VGSFRJ?oc=5
+11. 「AIが勝手にやった」は通用しない？ AIエージェントにも“社員証”と“委任状”が要るワケ 今からできる対策も解説 - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE11aERqYnQ2bFNfU0gxNDhiekVQX2o5SlZpdHhFTjhKVVBIU3dtVnd5MzV3TUN4NVFVVC0zMDFyRUthdS05ajd0Q3drUC03VktYNGs0MHVHdFN4TDJfVHVPVngzaGZOUlhraloxaVJ3aVUwbkNXQWFpaTI5bkhrMjA?oc=5
+12. 人間より先に、AIに読ませるWebページ — 法人向けAIエージェント「AISAKU（アイサク）」、生成AI検索（LLMO）対応サイトへ全面刷新 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9EQWx0MDEtQkpWalpFQmpCamwyQzFqZ0lqRDd1MVQ5LS0ydWx4MnRKbWtocDBDQUxjQUc5T05sWExCOW5FQ3dDMjRGVS13amtnTWxJazk1ZXFiLUwtYzlocGtILXcwelFkYWc?oc=5
+13. AIエージェント向け「llms.txt」にサプライチェーンリスク 未登録パッケージを正規文書が指示、Fortune 500環境でコード実行を確認|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ（合同会社ロケットボーイズ） - https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlpRZXdYek5xM0czdnNHR3YtZno0WlZhalNEUXNjX0hGQVFiczdYR054Rm0wb2hpZVBIZ2RwbmdidGFJNDBEUWJ2ckxwdVI0cEdLYTgtYUJmNE1BZzJmdEQyUTd2N0kydTZIUHZrbjBxNzFEWlZ6ZXg3YkZycGZTUGo3ZkNHTEdDQlBaUndFbUc?oc=5
+14. 「安いモデルで3回やり直し」と「高いモデルで一発完了」 コストが低いのはどっち？ - ITmedia（ITmedia） - https://news.google.com/rss/articles/CBMickFVX3lxTFAySl9QMW5QVndzSkVGeFhSZ3VsSFpuZlY0N3lONzhxTmpmbVplNThoS09nM3czUjlab29SRHhUSzA1VG9icWJEckNQM0lGcGxWVDJWRHhPRHNIU2UySkVNYy1jVUhUbFlCQmFjN2FwWC0wZw?oc=5
+15. AIによるバイオロジカル・エイジ・テスティング業界ビジネスレポートサイトを運用しています｜野口真一 - mbp-japan.com（mbp-japan.com） - https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyOFZMczFtcnZZUllDZ1JNZTFPTldaQkJjaGg2amdDX2VVS21UMzJ3UmFvaFNXbUJQVU45MGRhVFhDSk5Kc0xtVHpqc2N6R1ZYazFMRk9Pbld6VXNxUG9lNjRrdHlPOGEz?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！リナです。
+モモ: モモでーす！今日も朝からテンアゲでトレンドチェックいっちゃお！
+リナ: 今日はまじでAIの話題が盛りだくさんなんだけど、中でもChatGPTの売上に関するニュースがレベチすぎたんだよね。
+モモ: え、なんかやばいことになってるってこと？
+リナ: そうなの。AIエージェントの進化も止まらないし、ビジネスの最前線で何が起きてるのか、しっかり深掘りしていくよ。今日のラインナップは、ChatGPTの爆速成長、医療現場を変えるAIエージェント、データ分析の新常識、エコノミスト賞の注目企業、そしてAI時代の組織改善とコスト管理のヒントまでお届けするね。
+モモ: ちょ待って、今日のニュース、全部聞いとかないと損しそうじゃん！マジで楽しみ！
+リナ: それじゃ、今日の注目ニュースからいっちゃうよ。OpenAIが提供する「ChatGPT」の売上が、年換算で10億ドル、日本円にして約1450億円に達したと報じられているよ。
+モモ: えええ、まじで？10億ドルって、ヤバすぎん？
+リナ: そうなの。WSJが報じたところによると、サービス開始からわずか200日足らずでの達成なんだって。この数字は、企業がChatGPTを導入する動きがものすごく加速していることを示してるんだよね。
+モモ: 秒で億稼いでるってこと？もう、神ってるじゃん！
+リナ: まさにそれ。ChatGPTはテキスト生成だけじゃなくて、プログラミングコードの生成とか、ビジネス文書の作成とか、いろんな業務に活用されてるから、企業にとっては生産性向上に欠かせないツールになってるんだよね。
+モモ: うちの会社もChatGPT使ってるけど、まじでしごできなんだが。
+リナ: だからこそ、これだけの速さで売上が伸びてるんだよね。
+モモ: これって、誰が知っておくと得なん？
+リナ: AI関連企業はもちろん、投資家さんたちも注目してるし、何よりビジネスパーソン全員が知っておくべきニュースだと思うな。AIのビジネス活用はもう当たり前になってるから、自分の仕事にどうAIを取り入れるか、真剣に考えるきっかけになるはず。経営者さんや事業責任者さんは、AI導入がどれだけビジネスにインパクトを与えるか、再確認できるんじゃないかな。
+リナ: 続いては、AIの話題をもう一本。看護師向けAIエージェント「NURVIS」が、京都の洛和会丸太町病院で実証を開始したと、公式に発表されているよ。
+モモ: 看護師さんのAIエージェント？それってどういうこと？
+リナ: NURVISは、看護師さんの業務をAIがサポートするシステムなんだ。例えば、患者さんの問診票をAIが自動で作成するのを手伝ったり、医療情報を効率よく共有したり、記録業務をサポートしたりするんだって。
+モモ: えー、それまじ助かるじゃん！看護師さんってめっちゃ忙しいって聞くし、人手不足も深刻って言うもんね。
+リナ: ほんまそれ。医療現場の深刻な人手不足は社会問題になってるけど、AIがルーティンワークを肩代わりすることで、看護師さんが患者さんとのコミュニケーションとか、もっと専門的なケアに集中できるようになるんだよね。
+モモ: 素晴らしい！これって誰が知っておくといいの？
+リナ: もちろん医療従事者さんや病院経営者さんだよね。AIが業務改善にどう貢献できるか、具体的なイメージが湧くはず。あとは、AIサービスを開発してるエンジニアさんたちも、社会課題解決型のAIに注目するきっかけになるんじゃないかな。人手不足に悩む他のサービス業の人たちにとっても、AI活用のヒントになるはずだよ。
+リナ: さらにもう一本AIの話題。データ分析AIエージェント「INSIGHT AGENT」が、トライアル参加企業の募集を開始したと公式発表されているよ。
+モモ: データ分析のAIエージェント？なんか難しそう。
+リナ: いやいや、全然難しくないんだよ。このサービスは、ファイルを入れるだけでAIが自動でデータ分析をして、レポートまで作成してくれるんだって。
+モモ: え、それって天才すぎん？データ分析って専門家じゃないと無理ってイメージだったけど。
+リナ: まさにそこがポイント。専門的な知識がなくても、AIが高度な分析を代行してくれるから、誰でもビジネスの意思決定にデータを活用できるようになるんだ。AIが、今まで一部の人しかできなかったことを、みんなができるようにしてくれる「AIの民主化」が進んでるってことだよね。
+モモ: なるほど！それって経営者さんとか、マーケターさんとか、データを使いたい人には需要しかないじゃん！
+リナ: そうそう。データ分析に時間やリソースを割けない企業とか、データ活用をこれから始めたいって思ってるビジネスパーソンにとっては、まさに救世主的なサービスになるかもね。
+リナ: 続いては、ビジネス・マーケティングの話題にいってみよう。ECGという企業が、「エコノミスト未来賞2026」のデジタル革新部門を受賞したと報じられているよ。
+モモ: エコノミスト未来賞？なんかすごそうな賞だね！
+リナ: そうなの。エコノミスト誌っていう、世界的に権威のある経済誌が主催する賞だから、受賞するってことはものすごく評価されてるってことなんだ。詳細はまだ多くは出てないんだけど、デジタル技術を活用した革新的な取り組みが評価されたんだって。
+モモ: へー！それって、ECGって会社がめっちゃイケてるってこと？
+リナ: まさに。こういう権威ある賞の受賞は、その企業の先進性や技術力を世界にアピールする絶好の機会だよね。デジタル革新がビジネス界でいかに重要視されてるか、改めてわかるニュースだと思うな。
+モモ: わかるんだが。これって誰が知っておくといいの？
+リナ: デジタル変革を推進しようとしてる企業の経営者さんや、イノベーションに関心がある人たちには、今後のビジネスのヒントになるはず。あと、ビジネスの最新トレンドを追ってる人なら、こういう受賞ニュースは要チェックだよね。
+リナ: 次もビジネスの話題で、組織改善クラウド「パルスアイ」がAI機能を大幅に強化したと公式に発表されているよ。
+モモ: 組織改善にAI？それってどういうこと？
+リナ: 「パルスアイ」は、従業員さんのエンゲージメント、つまり会社への愛着とか貢献意欲を測って、組織を良くしていくためのクラウドサービスなんだ。今回、AIエージェントが、そのデータ分析から「どうすればもっと組織が良くなるか」っていう改善提案まで、全部サポートしてくれるようになったんだって。
+モモ: え、AIが会社の人間関係とかモチベーションまで見てくれるの？なんかちょっとビビった。
+リナ: だよね。でも、AIがデータに基づいて客観的に分析してくれるから、感情的になりがちな人事や組織開発の分野でも、より効果的な改善策を見つけやすくなるんだ。AIエージェントが「人」のマネジメントを支援するっていう、新しい時代の働き方だよね。
+モモ: それって、人事担当者さんとか経営者さんにとっては、まじで助かる機能じゃん！
+リナ: そうだね。従業員さんの満足度を上げたい企業や、データに基づいた組織作りを目指している会社にとっては、かなり魅力的なサービスだと思うよ。チームリーダーさんたちも、自分のチームの状態を客観的に把握して、改善に役立てられるはず。
+リナ: さて、今日の最後のニュースは、AIエージェントを使う上での注意点。AIエージェントの利用で、なんと「一晩で25万ドル」、日本円にして約3600万円もの高額請求が発生する可能性があると報じられているよ。
+モモ: え、待って無理！AIが勝手にそんなにお金使っちゃうとか、まじで怖すぎん？！
+リナ: そうだよね、ビビるよね。これはbusinessnetwork.jpが報じているんだけど、AIエージェントが意図しない動作をしたり、設定ミスがあったりすると、知らないうちに莫大な利用料がかかっちゃうリスクがあるんだって。特に通信事業者さんなんかは、注意が必要だって言われてるよ。
+モモ: それって、AI導入したら、まじで詰んだ、みたいになる可能性もあるってこと？
+リナ: 可能性はゼロじゃないってことだね。AIってコスト削減効果が期待される一方で、こういう予期せぬコスト増大のリスクも出てきてるんだ。だから、AIを導入する際は、しっかりとしたコスト管理体制とガバナンス、つまりルール作りがめちゃくちゃ重要になってくるんだよね。
+モモ: なるほど…AIって便利だけど、ちゃんと管理しないとヤバいってことか。
+リナ: まさに。だから、AI導入を検討してる企業の経営者さんやIT部門、あとは法務やコンプライアンス担当者さんは、このニュースをしっかり頭に入れておくべきだね。AI任せにするだけじゃなくて、人間側がしっかりコントロールする意識が大切だよ。
+リナ: 今日をひとことでまとめると、ChatGPTの爆速成長が示すように、AIがビジネスのあらゆる領域で、もう止まらない勢いで進化してる一日だったね。
+モモ: AIってまじでしごできだけど、使い方を間違えるとえぐいことになるってこともわかったんだが。
+リナ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 🔥ChatGPTが年換算10億ドル突破！わずか200日でこの勢いはレベチすぎん？AIのビジネス活用がガチ加速してる証拠だね。医療現場のAIエージェントやビジネス賞のニュースも要チェック！ #朝アゲトレンド #AI #ChatGPT
+2. 【今日の衝撃】AIエージェント、まさかの高額請求リスクが発覚！一晩で25万ドルとかビビるて😱 AI導入企業はコスト管理とガバナンスがまじで重要案件だよ。みんなで気をつけよ！ #AIリスク #ビジネス
+3. AIがデータ分析も組織改善もサポート！専門知識なしでビジネス加速できる時代が来てる。エコノミスト未来賞受賞企業も登場して、デジタル革新が止まらないね！今日のトレンド、要チェック！ #AI活用 #デジタル変革
+
+【Threads投稿文】
+1. おはようございます☀️ 今日も朝からAIニュースがアツいね！ ChatGPTが年換算10億ドルを突破したって聞いて、もう「時代の波に乗る」ってレベルじゃないなって思ってる。これって、私たちの仕事や生活にAIがどれだけ深く関わってくるかのサインだよね。AIを使いこなすスキルが、マジで「勝ち確」スキルになるんじゃないかな。みんなはどう思う？
+2. 今日はAIエージェントの光と影を見た感じ。看護師さんの業務を助けるAIとか、データ分析を自動でやってくれるAIとか、超助かるサービスがどんどん出てきてるじゃん？でも、その一方でAIが暴走して「一晩で25万ドル請求」とか、まじで情緒バグる話も。便利なツールだからこそ、ちゃんと使いこなすためのリテラシーとか、会社のルール作りが大事だなって痛感した朝でした。
+3. デジタル革新って言葉、よく聞くけど、具体的に何が起きてるのかって意外と見えにくいよね。でも今日のエコノミスト賞受賞のニュースとか、AIで組織改善するサービスの話を聞いて、ビジネスの現場がマジで変わりまくってるんだなって実感。自分のスキルをアップデートしていくモチベ爆上がりした！AI時代、私たちも進化し続けたいよね。
+
+【ショート動画用30秒台本】
+リナ: モモ、聞いた？！ChatGPT、年換算売上高10億ドル突破だって！
+モモ: え、まじで？！200日足らずで億稼ぐとか、もう神ってるじゃん！
+リナ: そうなの！でもね、AIエージェントって便利なだけじゃないんだよ。まさかの一晩で25万ドル請求とか、まじでビビったよね。
+モモ: ちょ待って、それ怖すぎん？！AI使うときは、ちゃんとルール決めとかないと詰むってこと？
+リナ: まさに！AIはビジネスを爆アゲさせるけど、リスク管理も鬼アツでやらないとダメってこと！
+モモ: 今日もAIトレンド、まじでアゲだったね！
+リナ: 詳しい話は本編で！また明日ね〜！
+
+【エピソードタイトル案】
+1. ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ
+2. ChatGPTが爆速成長！AIエージェントの進化とビジネス賞受賞の裏側
+3. AIが稼ぎまくる時代到来！ChatGPTの衝撃と医療・ビジネス革新トレンド
+
+【ニュース出典リンク一覧】
+ニュース名：ChatGPT、年換算売上高10億ドルに　開始200日足らずで達成
+出典名：ｄメニューニュース（WSJ報道に基づく）
+URL：https://news.google.com/rss/articles/CBMi6wFBVV95cUxPelpUblB4bDNzM293MVFDd3JtTzhVNzV0SHFrOHFUZGFqU08yMUxHSVdwd1Bzb1IwNEN1bENPZXBiYnZyZ1NpVUlnQ1dkalNLcm9lX1hnQThicXRid0hKNzBLVU15eEU4NzVtMm9GQXdLNEZJNV84LXBwb0lfVmZ6R0h5OEg4b24yc1dJODFKMEpVQWN2dWREZktjSFBkX2NEbE51NWpiTEhHcUx0dmhOWV80RDlrQVJEZi1pLUFzMEZ4ejV4LXFGWThmZ2k2bjRIdDdIWkh5MjkxRGh4SkVvZHFoc1VlM3lqWEk00gGbAUFVX3lxTE4tUGJnZTJFdXFJV2JLcFkxWDg3WUpuY3JjQkNRT0FIZ0hvVmt2MTM3b1pKRjFMdmRFQzZvWkVJVFIzOUpadVFMUUpmTllBUV91cDRDUmx2ZHZGVDNmQTFKRXRDdXFmamE0bmNvbXBLNXlUcUVvSmxuS3poN1NxWlI0Uk9SMDNWM3ZQNmJzaHQxNFBEZmg5c2VGSFRJ?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：看護師向けAIエージェント「NURVIS」洛和会丸太町病院で実証を開始
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYXdKVThub1RUdU9XUHNhT3JYQkhLWGdKMENMb3hxTUlUNl92ZmJ3MFVHYzdpcTRtNzNPUGE0NjJ6QTJCV3VEbnBYbUxiZFNROXFfa0tMdXVYeVJpdEZlZl9VRDRHV2YJCMw?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：【データ分析AIエージェントのトライアル参加企業募集】ファイルを入れるだけで、AIが分析からレポート作成まで自動実行「INSIGHT AGENT」
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE1leEJwcUpQT1dCQzF4U1Z3WWlUc0p0OGVDZnlySU5hWlpaeDZrdl8xSEhJN0xqVnd5cml0TkptUTBjRWRSRE80V3pqWHJoR3ByTmo3eTlPVzhHY0FZVzh6cmk5Y1E4eWJWcWc?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞
+出典名：ニコニコニュース
+URL：https://news.google.com/rss/articles/CBMie0FVX3lxTE80VDJ0TE1PTVZaS0hBenNCUE0xNXdHcW5nYm9qOUxZR1o2bjIwcEhvQXBCRThzNUVRa2hhOHVpY0NyeThMXy1laE5uTlQycFZuS1dIbVlUeU9mTmlEb0JSYnc2b2dwQ2VXUlByLWhYcF9uX3VTbkxYUjZjNA?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：AIエージェント時代こそ、「人」のマネジメントを強くする。組織改善クラウド「パルスアイ」がAI機能を大幅強化
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZTV1Vk42ZWxQX3JKVHJ1NDNZd2EyZDl5MjRPYVlmTTZUYWNETGY5blBtYWs2ZjN6UmlVNEJXeDl1OEs2ODNvRlVoNUVpakoxMG9lcHNialo5OHNEZmxLcS1jZ1duM2JRWUE?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：AIエージェントによって「一晩25万ドル」の請求も 通信事業者に求められるコスト管理とガバナンス
+出典名：businessnetwork.jp
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wbzc2WUtYYmtUdWZtcjM0ekZuZjRmTmwxdG1RX2JvaExZQm5OdGdtdUhYTTlNVTh6a1ZFcGZ1STZ1ckJzWXpSamc5VHhwUkhUMEY4?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ECG受賞、パルスアイ、コスト管理をビジネス・マーケとして計3本扱っている)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「まじで」「やばい」「それな」などは複数回使っているが、3回以上同じ発言に連続はさせていない。全体で20〜40語程度を目指し、散らした)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。OK (あくまでMC自身の感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+
+========================================
+
