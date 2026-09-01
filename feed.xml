@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIエージェントが店舗を回す時代に！？サイバー攻撃のヤバさとAppleとのガチ訴訟</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
+・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
+・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
+・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
+・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260902_daily.mp3" length="14210349" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260902_daily</guid>
+      <pubDate>Wed, 02 Sep 2026 08:09:24 +0900</pubDate>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
+・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
+・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
+・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
+・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1192,26 +1214,6 @@
 • DeepSeekが中国AI史上初の外部資金調達、74億ドルで評価額500億ドルを超えAGI研究へ - XenoSpectrum
 • トランプ氏がAnthropicを一時的に安全保障上の脅威とみなしたが現在は否定 - mezha.net</itunes:summary>
       <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月19日 夕刊</title>
-      <description>今日の話題:
-• 財務AIエージェント『M&amp;Aナビ - ニコニコニュース
-• Googleが16GBノートで動く高性能AI公開 音声も画像もローカル処理へ - DXマガジン
-• Midjourney新型スキャナー、全身を60秒でスキャン - BeInCrypto
-• AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開 - GIGAZINE
-• OpenAI、Codexが作業を見て覚える「Record&amp; Replay」（Impress Watch） - Yahoo!ニュース</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260619_evening.mp3" length="3040557" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260619_evening</guid>
-      <pubDate>Fri, 19 Jun 2026 21:53:32 +0900</pubDate>
-      <itunes:duration>03:09</itunes:duration>
-      <itunes:summary>今日の話題:
-• 財務AIエージェント『M&amp;Aナビ - ニコニコニュース
-• Googleが16GBノートで動く高性能AI公開 音声も画像もローカル処理へ - DXマガジン
-• Midjourney新型スキャナー、全身を60秒でスキャン - BeInCrypto
-• AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開 - GIGAZINE
-• OpenAI、Codexが作業を見て覚える「Record&amp; Replay」（Impress Watch） - Yahoo!ニュース</itunes:summary>
-      <itunes:episode>50</itunes:episode>
     </item>
   </channel>
 </rss>
