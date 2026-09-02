@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIエージェントがロボット操作！大学にも導入で未来爆アゲ＆ブルーロック実写が止まらない件</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
+・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
+・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
+・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
+・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260903_daily.mp3" length="14444973" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260903_daily</guid>
+      <pubDate>Thu, 03 Sep 2026 08:08:17 +0900</pubDate>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
+・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
+・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
+・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
+・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIエージェントが店舗を回す時代に！？サイバー攻撃のヤバさとAppleとのガチ訴訟</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1193,26 +1215,6 @@
 • アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
 • ソフトバンクの運用ノウハウ×OpenAIの特定力。自社での大規模検証を経て誕生した「一気通貫」の脆弱性対策 - DXマガジン
 • NVIDIAが米国光通信網を強化、Coherentが世界初の6インチInP工場を拡張｜Semiconductor Geek - note</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月20日 朝刊</title>
-      <description>今日の話題:
-• AIは科学者の相棒になるのか OpenAIがブラックホール研究事例を紹介 - DXマガジン
-• GoogleはインドでAIを作り、Boschはインドで特許を量産する。その深い理由とは？ | 戦略のデザイン - ダイヤモンド・オンライン
-• ジョン・ジャンパーがGoogle DeepMindを退社しAnthropicに参加 - mezha.net
-• DeepSeekが中国AI史上初の外部資金調達、74億ドルで評価額500億ドルを超えAGI研究へ - XenoSpectrum
-• トランプ氏がAnthropicを一時的に安全保障上の脅威とみなしたが現在は否定 - mezha.net</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260620_morning.mp3" length="3799725" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260620_morning</guid>
-      <pubDate>Sat, 20 Jun 2026 07:11:29 +0900</pubDate>
-      <itunes:duration>03:57</itunes:duration>
-      <itunes:summary>今日の話題:
-• AIは科学者の相棒になるのか OpenAIがブラックホール研究事例を紹介 - DXマガジン
-• GoogleはインドでAIを作り、Boschはインドで特許を量産する。その深い理由とは？ | 戦略のデザイン - ダイヤモンド・オンライン
-• ジョン・ジャンパーがGoogle DeepMindを退社しAnthropicに参加 - mezha.net
-• DeepSeekが中国AI史上初の外部資金調達、74億ドルで評価額500億ドルを超えAGI研究へ - XenoSpectrum
-• トランプ氏がAnthropicを一時的に安全保障上の脅威とみなしたが現在は否定 - mezha.net</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
