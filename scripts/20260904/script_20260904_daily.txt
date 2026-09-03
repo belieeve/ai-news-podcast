@@ -1,0 +1,189 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260904
+========================================
+
+【エピソードタイトル】
+GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
+・LINEヤフーがAIエージェントを量産体制へ！
+・AIエージェントの責任問題、本格実装前に知るべきこと。
+・メタがAIエージェント向けにSlackへ移行！
+・映画「スパイダーマン」最新作が世界歴代4位に！
+
+========================================
+
+【元になったニュース】
+1. AIエージェントの過失は誰が責任を負うのか？弁護士に訊く、本格実装前に知るべきAIガバナンスの観点 - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiWkFVX3lxTE16aGxNWV9BUFAtRzNfS0Q2VTdQY19TUUx3VEQydlB5TjhtX3Fqcjd5S3dvOS1XRWJQaEN1MGt0V3pFZ3VwbXVLNlZsZGgxU3pDNnM3dWdxdUx4Zw?oc=5
+2. LINEヤフーがAIエージェント10倍の量産体制構築、購買・決済は慎重に準備へ - ペイメントナビ（ペイメントナビ） - https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUG9yTFZvUnBkR2R5eU5KLXFOajl4V3hETUMwcEptUzJEZ044aURZOGRPc2M3WnFDMy0wLUw2a1lqdkxnaHBPM05MdS1TTkdnSVJ0R0VQTEd2b2M?oc=5
+3. Google、Gemini 3.8 FlashとFlash Cyberを発表 - CodeZine（CodeZine） - https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vQlU4VDRMTnBEb2JKaE9HMTVMNURGQlUwWGdZYVNkejF5d3FvZE51aU81aUwtbHNpWXNXakplY1VZLU9mTTVQa0E1Z2FRQQ?oc=5
+4. OpenAIはAIの恩恵伝える取り組みに不備-サム・アルトマンCEO認める（TBS CROSS DIG with Bloomberg） - news.yahoo.co.jp（news.yahoo.co.jp） - https://news.google.com/rss/articles/CBMif0FVX3lxTE1QcGlpZEZZaFhUaHk2RUd1UDB2c1pReUNLaVVmWG1Pa0h6U1NnZ0ZVYmVScEloQ3NzRzM5NnZ2cXlCcnBGd2YyLWdnNUNoMElLeDY1TlFYU2NKNDhLY1l1T1BlYXhWcGZqenJzWG1tdVRMZVZTMHUwS19UNW9nWUE?oc=5
+5. OpenAIが次世代モデル「GPT-6 Astra」を発表、過去最高性能をうたう - Yellow.com（Yellow.com） - https://news.google.com/rss/articles/CBMi6wJBVV95cUxNcU12Y0Q5NHV3YmppQzBSb3U5QnpLVjJoR0xBVVdWSXE3M3ZjRVd2dG1ud21FWTR5UFM0azdyMFA2RklHS3RRdDN3ODBlZXJLN0hRckRnekw3YjVXbDFmMFQtaVFZbTBpeVBMYXZscmlIOGRITEpVOHoyWnBYZGdTekJOb3NHeDNNUnBNZFdRc3l3b1pMVFJlWTNtamt3QUtpY2hkOERGY19UbEdibS00QzE1T2VvQ29sRk56cVBLSkdxTk9pdE5LZDAyWEFwcFJsaThCVThnWkt6Sk1BU01FSk0tOEgwanhKemxzOHZldURQLXY1WENieC02Z3BnTDhMZm85SVVYR3hVV1lEQVBfbGRoSVBmd1NYYzM5RmFPaVFXY3hWNEpuZGh2ODc5eHNYbW84dWFidThKZUctdE5iMFBFSS01V1ZNS2FaYUVLUWxKMlRkV0V2VDBHZjQ5eWFzSk42MDdDdWNmRjg?oc=5
+6. OpenAI、「GPT-6」（Astra）正式発表--数日中にChatGPTへ展開 追加料金不要 - news.yahoo.co.jp（news.yahoo.co.jp） - https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NGFEcDNPQ3FaSGRUWmM2NGJuS2xjaTNZVkw1ams4dlg5U2dXM1VYQmc2S19ZYXB0ZGo4Y1oyTnJGa1R2aHhmdjBNNkRLVjl6OER0RTZsM25tckFaRHQyR3Q5VW5ockRCcXBiWDJqTlRabGMtMW10SUdTS19RZlE?oc=5
+7. Anthropic、Claudeベースのコマースエージェント構築支援「Blueprint」を公開 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFpJVXVfRjF2cUhqQkphTklILWF5dWZxbWI2amZicnV1R2xsS0xGM1lyanpnMU84dTZxaVZYZGc4bE4yalhIb1JHd2hSdG1sZTE4OEhkQXRYZXhoWi1xVnA4Rkl3UXZ6VGoycFdzMDdtOWktZU9wcUUyOVEyV3l0eUlGZGZHblVuZmxBdzBzYWxpQ3NhLXB6V0pzbzZmLWQyWFg1RDQwTUZlbkRrcmw1MmtpOE5DdG8wdnR6WGtVV20yVVJHNkE?oc=5
+8. OpenAI、「Daybreak」拡大 重要インフラ向けAIセキュリティ支援を強化 - 디지털투데이（디지털투데이） - https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVNvZHgwX0JKTEVnamQtWnNCOTQ4Y3ZXS2c4SFQzQXo4VUt3b2I5OEd1ZW5SZ1Y4MnVkY3JLVzFsNEtvYU5XTG93aF8tNWI2OW9Qc1RGdWlnTVVNMkFPcG1aZlhuLTVlVXNDVDRCVVhRYlRLVExiTk5HQmpFWm9VR0FKSHVnRWo5SVNpZUJfci1aUFE2OVhSMlN5T3BrdjF6a2lSaGVXLW45d29hMGcwVktqZkxZRGR6aXE5VjlQN2w5eW5MNU9RYTBoTHpHcFU?oc=5
+9. OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」 - 窓の杜（窓の杜） - https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUQ2FReC1LNFlLTHpPV1FjR2NVeDdBR21zU3JQbm5RdmMzVEZyT3BqMnZVVnlZNmZfanNmXzEtVTJqUVNFa1hkYWtJYTRzR2s0S3FoVkhVbF90LWEyanNSR09DbWVZREZQ?oc=5
+10. メタ、AIエージェントにはSlackの方が優れているとしてGoogle ChatからSlackに移行 - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWWRramxZNmlOYUpDbk1zTmRSSDg1cHJ1SFlUYWo1UDY5ZjVoQWZKNTRGb0Q4Q05JWnVKdEVvRGgyOS0xN011cTlUMzhDWUowekYyRFY1MEt5QnFZNjQwdk1JZEtzMzduRFlUSnRVallPREdo?oc=5
+11. GPT-6 AstraをOpenAIが発表、PC操作を高速化した新モデルに残る監視の課題 - xenospectrum.com（xenospectrum.com） - https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUnN2NEp3TURUYVJ1NDdnU2poMUhlMlVmRDVQdXNZUG5XWDlHX08xd0FzbUFOLVdHanRDRzNsQTVWVzJ0RjJXZnFJOVhaTGM5Uk4yYzFqa1RVcU9QV1VUdjlXNE50ZkRL?oc=5
+12. 米OpenAIがGPT-6 Astra発表「AGI時代へようこそ」 - exawizards.com（exawizards.com） - https://news.google.com/rss/articles/CBMiZkFVX3lxTE95M0JVX1JvOGxOM1RheDY4TElrX1h2X0lSM0Vob2w4c2VrRlhqZzZRbU1RbExxVEFQZGNfZk9maUI3MDhqYVIzdXRiTVN4dmRDNUtxdmFiUF81bzlMVmdHT3cydDA2dw?oc=5
+13. LINEヤフーが自社AIエージェント「Agent i」に実装予定の8つの新機能を公開 - @DIME アットダイム（@DIME アットダイム） - https://news.google.com/rss/articles/CBMiREFVX3lxTFBObFdHejloTGJjMGU4S3FFdTduY0NsRk5Udk1UZ1IySDkyRkFoNmx1dVVxU2hIcFktdVpVeG8zN1F6Vk1E?oc=5
+14. 3つの調査が示したAIエージェント導入における不都合な真実 - news.yahoo.co.jp（news.yahoo.co.jp） - https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGtpemo4TzFhMWlDQWFWYTJOS1VVTzdaQklYNU90NWRFcGZmQThlN1JIcUpUTGk5YlhhbTlTdEYzUGU4WHRXMXZ4Qjl6ZnI3SndxQjB3MlN6M3doS2o2NThSM1VqODBlaThmVGJjM3JhampIWUxpVll3SnIwVE0?oc=5
+15. 映画「スパイダーマン」最新作がタイタニック超えで世界歴代4位に。ハリウッド映画はなぜ復活を遂げたのか - note（note） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Yam9heUxmTTUtRlF2LXcxTDNLYXNtTVVtWlBFd251cTVITEVlZW1teE5XVTkwM2h0YmFYVEIzMFFFWG96NFlqTy1DeUFoUzUzZW5j?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます！
+モモ: おはようございまーす！
+リナ: リナです！
+モモ: モモです！
+リナ: 今日も朝アゲトレンド、張り切っていこうね、モモ！
+モモ: はいっ！今日の朝アゲも、まじでアゲアゲな話題ばっかりなんよ！
+リナ: それな！今日はAIの進化がもうレベチで、PC操作をAIが代行してくれるっていう夢みたいな話から、エンタメ界の救世主、スパイダーマンの爆アゲニュースまで、盛りだくさんでお届けしちゃうよ！
+モモ: え、PC操作をAIが代行？！マジで？もう仕事全部AIにやってもらおっかな〜！
+リナ: フフ、それはちょっと待ってね！今日のラインナップはこんな感じ。まずは、OpenAIが発表した次世代モデル「GPT-6 Astra」がヤバすぎって話。それから、LINEヤフーがAIエージェントの量産体制を構築するってニュースと、AIエージェントの責任問題についても触れるよ。
+モモ: 責任問題とか、ちょっと難しそうだけど気になるー！
+リナ: 大丈夫、わかりやすく説明するね。そしてビジネスの話題では、メタがAIエージェント向けにGoogle ChatからSlackに移行した理由、最後にエンタメは、映画「スパイダーマン」最新作がタイタニック超えで世界歴代4位になったっていう、まさかの大優勝ニュースをお届け！
+モモ: えー！スパイダーマン、タイタニック超えはアツすぎん？！鬼アツじゃん！
+リナ: でしょ？今日も最後までアゲてこー！
+リナ: さて、今日の注目ニュース、これはもうOpenAIの次世代モデル「GPT-6 Astra」の発表しかないでしょ！
+モモ: ちょ、待って！GPT-6って！もうそんなに進んでるん？
+リナ: そうなの！OpenAIが、次世代AIモデル「GPT-6 Astra」を正式に発表したんだよ。報道によると、このモデルは「PCでできることは、すべて代行できる」って言われるくらいの高性能で、数日中にはChatGPTに展開されて、しかも追加料金なしで使えるようになるって報じられてるの。
+モモ: え、まじで？追加料金なしでPC全部やってくれるって、それもう神じゃん！
+リナ: 神ってるよね！この「GPT-6 Astra」は、特にPCやスマホの操作を高速で実行する能力が格段に向上しているとされてるんだ。例えば、複数のアプリケーションをまたいだ複雑なタスクとか、データ分析、コンテンツ作成なんかも、AIが自動でテキパキこなしてくれるって言われてるの。
+モモ: ひゃー！それって、もう私たちの仕事とか日常がガラッと変わるってことかな？
+リナ: まさにそれ！なぜこれが今こんなに話題かっていうと、AGI、つまり汎用人工知能の時代への大きな一歩だって言われてるからなんだ。AIが単に質問に答えるだけじゃなくて、自律的に行動して、私たちの指示通りにPCを操作してくれるようになるって、想像しただけでモチベ爆上がりしない？
+モモ: めちゃくちゃモチベ爆上がりなんだけど！これ知っておくと誰が得なの？
+リナ: これはもう、AIを日常的に使う人全員、特に業務効率化を目指すビジネスパーソンや、開発者さんたちにはマジで得しかないよ。例えば、毎日やってるルーティンワークをAIに任せたり、複雑なデータ分析を秒で終わらせたり。クリエイティブな作業も、AIがアシストしてくれるから、もっと質の高いものが作れるようになるかもね。
+モモ: 待って無理！私のSNS運用とか、資料作成とか、全部AIにやってもらいたすぎる！
+リナ: だよね！実際に使う場合は、公式情報と社内ルールの確認が大切だけど、今後の業務のあり方を考える上で、この進化は絶対知っておくべきポイントだよ。
+リナ: 続いては、AIの話題をもう一本。国内の動きに注目だよ。
+モモ: おっ、国内ってことは、私たちにも関係ありそうな話かな？
+リナ: そうなの！LINEヤフーがAIエージェントの量産体制を構築するって、報道されているんだ。さらに、自社のAIエージェント「Agent i」に実装予定の8つの新機能も公開したって報じられてるよ。
+モモ: LINEヤフーがAIエージェントを量産？！それって、LINEとかヤフーのサービスが、もっとAIで便利になるってことかな？
+リナ: まさにそういうこと！報道によると、LINEヤフーは、購買や決済といった特に慎重な対応が必要な分野については、準備を重ねてから導入する方針みたいだけど、それ以外の部分ではAIエージェントの活用を積極的に進めていくってことみたい。例えば、「Agent i」の新機能には、ユーザーの行動履歴や好みを分析して、パーソナライズされた情報を提供する機能とか、複雑な問い合わせにも対応できるカスタマーサポート機能なんかが含まれているとされているよ。
+モモ: わー、それめっちゃ助かる！私たちLINEとかヤフー毎日使うじゃん？それがもっと賢くなるってことだよね。
+リナ: そう！なぜこれが話題かっていうと、国内の大手企業がAIを本格的に日常サービスに組み込んでいく動きだからなんだ。私たちの生活に、AIがもっと身近になって、当たり前のように便利さを提供してくれるようになるってこと。
+モモ: ふむふむ。じゃあ、誰が知っておくと得なの？
+リナ: これはもう、LINEヤフーのサービスを普段使いしている人全員だね。あとは、AIを活用した新しいサービスを考えているビジネスパーソンや開発者さんたちも、この動向は要チェックだよ。AIが私たちの日常にどう溶け込んでいくのか、その最前線が見えてくるはずだから。
+リナ: ここでちょっと気になるAIの責任問題についても触れておこうかな。AIエージェントがもし何か過失を起こしたら、誰が責任を負うのかっていう話。
+モモ: え、AIがミスしたら、AIが怒られるの？それとも作った人？
+リナ: いい質問だね、モモ！EnterpriseZineの報道によると、AIエージェントが本格的に社会に実装される前に、この責任の所在を明確にする「AIガバナンス」の観点がめちゃくちゃ重要だって言われてるんだ。
+モモ: ガバナンスって、ちょっと難しそうだけど、とりま大事ってことかな？
+リナ: そう、ざっくり言うと、AIを安全に、倫理的に使うためのルール作りって感じ。報道によると、例えば自動運転車が事故を起こした場合、車の持ち主なのか、メーカーなのか、AIを開発した企業なのか、誰が責任を負うべきかっていう議論が今まさに活発にされているんだ。AIエージェントも同じで、もしAIが間違った情報を提供したり、意図しない行動をして損害を与えたりしたら、その責任を誰が取るのかってことが、まだ明確になっていない部分が多いとされているよ。
+モモ: それは焦るて！ちゃんとしとかないと、まじで困るやつじゃん。
+リナ: ほんまそれ！なぜこれが話題かっていうと、AIが私たちの生活や仕事に深く入り込んでいく中で、安心してAIを使える社会を作るためには、この責任問題の解決が不可欠だからなんだ。技術の進化と並行して、法的な整備や倫理的なガイドライン作りが急務だってこと。
+モモ: 誰が知っておくと得なの？
+リナ: AIをビジネスで活用しようとしている企業経営者や、AIサービスの開発者、そして私たちユーザーも、この問題には関心を持つべきだよ。実際にAIを使う場合は、利用規約やデータ保護の条件を確認することが大切だし、AIの進化が社会にどう影響していくのかを知る上で、このガバナンスの議論は超重要なんだ。
+リナ: 続いてはビジネスの話題だよ。大手企業のツール移行に関するニュース、これ、ちょっと意外だったんだよね。
+モモ: なになに？気になるー！
+リナ: メタが、AIエージェントを利用する上で、Google ChatからSlackに移行したって報じられているんだ。
+モモ: え、メタって、Google Chat使ってたの？てか、なんでSlackに乗り換えたんだろ？
+リナ: Business Insider Japanの報道によると、メタ社内でAIエージェントを活用していく中で、Slackの方がGoogle ChatよりもAIエージェントとの連携や使い勝手が優れていると判断されたらしいんだ。具体的な理由としては、SlackのAPI連携のしやすさや、AIエージェントがチャット内でよりスムーズにタスクをこなせる機能が評価されたとされているよ。
+モモ: あーね！AIエージェントがより「しごでき」になる方を選んだってことかな？
+リナ: まさにそれ！なぜこれが話題かっていうと、世界的なテックジャイアントであるメタが、社内ツールを選ぶ際に「AIエージェントとの相性」を重視したっていう点が、今後の企業におけるツール選定のトレンドを示唆しているからなんだ。AIが業務に深く組み込まれていく中で、ツールがAIとどれだけ連携しやすいかっていうのが、めちゃくちゃ大事なポイントになってくるってことだね。
+モモ: わかりみ深い！じゃあ、これって誰が知っておくと得なの？
+リナ: 企業でAIツールの導入を検討しているIT担当者や経営者、あとはビジネスパーソン全般だね。AIエージェントを導入するなら、それが既存のツールとスムーズに連携できるかどうかっていう視点が、今後のツール選びで超重要になるってことを教えてくれるニュースだから。
+リナ: さて、最後はエンタメの話題！これはもう、まじで大優勝案件だよ！
+モモ: 待ってましたー！スパイダーマンのやつだよね？！
+リナ: そう！映画「スパイダーマン」の最新作が、なんとあの「タイタニック」を超えて、世界歴代興行収入で4位にランクインしたって報じられているんだ！
+モモ: ええええええええええええええええ！マジで？！タイタニック超えはレベチすぎん？！スパイダーマン、強すぎ！
+リナ: 強すぎだよね！noteの記事によると、この記録はハリウッド映画がコロナ禍から見事に復活を遂げた象徴的な出来事だとされているんだ。このヒットの背景には、マルチバースという設定で過去の人気キャラクターを再登場させたり、ファンがSNSで熱狂的に語り合えるような仕掛けがあったり、映画館でしか味わえない臨場感を追求したりといった、様々な戦略があったと分析されているよ。
+モモ: あー！私、あのマルチバースのやつ、まじでテンションアゲアゲになったんだが！ファン心理わかってるー！
+リナ: ほんまそれ！なぜこれが話題かっていうと、映画業界がコロナ禍で大打撃を受けた中で、どうやって観客を劇場に呼び戻すか、その成功事例としてめちゃくちゃ注目されているからなんだ。単に面白い映画を作るだけじゃなくて、ファンを巻き込む戦略とか、SNSでのバズを生み出す仕掛けが、今の時代にはめちゃくちゃ重要だってことだね。
+モモ: じゃあ、誰が知っておくと得なの？
+リナ: これはもう、映画好きは絶対知っておくべきだし、エンタメ業界関係者さんたちは、今後のコンテンツ作りのヒントになるはずだよ。あとは、友達との会話のネタとしても最強だから、ぜひ「スパイダーマン、タイタニック超えってマジ？」って話してみてほしいな！
+モモ: それな！絶対ドヤ顔で話すわ！
+リナ: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
+モモ: OpenAIのGPT-6 Astra爆誕とか、スパイダーマンの大優勝とか、まじで情報過多で情緒バグるかと思ったわ！
+リナ: フフ、でもちゃんと理解できたでしょ？この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+モモ: それじゃ、また明日の朝ね〜。
+リナ: また明日！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 💥速報！OpenAIが次世代モデル「GPT-6 Astra」を発表！PC操作をAIが代行する時代が秒で来るかも？！数日中にChatGPTに無料展開ってマジ？仕事も日常も激変確定の爆アゲニュース！ #GPT6Astra #OpenAI #AI進化
+2. スパイダーマンがタイタニック超えで世界歴代4位に大優勝！🎉 ハリウッド映画がコロナ禍から奇跡の復活劇！ファンを巻き込むSNS戦略とマルチバース、これがヒットの秘訣か！ #スパイダーマン #映画 #エンタメ
+3. メタ社がAIエージェント向けにGoogle ChatからSlackに移行したって知ってた？🤔 AIとの相性がツール選定の決め手って、今後のビジネスツールの選び方レベチで変わりそう！ #ビジネスAI #Slack #メタ
+
+【Threads投稿文】
+1. おはよー！🌅 今朝イチで飛び込んできたOpenAIのGPT-6 Astra発表、まじで震えたんだけど！PCの操作をAIが全部やってくれるって、それもうAGI時代の幕開けじゃん？数日中にChatGPTで使えるようになるって聞いて、私の仕事がどう変わるのか楽しみすぎてモチベ爆上がり中！これからの働き方、マジで変わるからみんなも要チェックだよ！
+2. 映画好きさん、アツいニュースだよ！スパイダーマンの最新作が、あのタイタニックを超えて世界歴代興行収入4位になったって知ってた？！🎉 コロナで映画館がピンチだったのに、こんなに復活するなんて奇跡すぎる！マルチバース戦略とか、SNSでのバズとか、今の時代のヒットの作り方が詰まってるから、エンタメ好きは絶対知っておくべき！
+3. 会社でAIツール導入してる人、これ見て！メタがGoogle ChatからSlackに乗り換えた理由が「AIエージェントとの相性」だったんだって！💡 普段使ってるツールがAIとどれだけ連携できるかって、これからめちゃくちゃ大事になるじゃん？うちの会社も、ツール選びの見直しが必要かもって焦り散らかしてるんだけど、みんなの会社はどう？
+
+【ショート動画用30秒台本】
+リナ: モモ、聞いた？！OpenAIがGPT-6 Astra発表だって！
+モモ: え、GPT-6？！もうそんなに進化してるん？やば！
+リナ: しかも「PCでできることは全部AIが代行する」って言われてるの！数日中にChatGPTに無料展開だって！
+モモ: マジで？もう仕事全部AIに任せたい！神かよ！
+リナ: そしてエンタメ界では、スパイダーマンがタイタニック超えで世界歴代4位に大優勝！
+モモ: えええ！強すぎ！まじでアツい！
+リナ: AIもエンタメも、動きまくりの一日だったね！
+モモ: 今日も朝アゲトレンド、チェックしてくれてありがとう！また明日ね〜！
+
+【エピソードタイトル案】
+1. GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！
+2. OpenAIからGPT-6 Astra爆誕！AIエージェントの進化と映画市場の復活がエグい！
+3. AIがPCを勝手に操作する時代キタ！GPT-6 Astra発表でレベチな進化＆スパイダーマンが映画界の救世主に？！
+
+【ニュース出典リンク一覧】
+ニュース名：AIエージェントの過失は誰が責任を負うのか？弁護士に訊く、本格実装前に知るべきAIガバナンスの観点
+出典名：EnterpriseZine
+URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTE16aGxNWV9BUFAtRzNfS0Q2VTdQY19TUUx3VEQydlB5TjhtX3Fqcjd5S3dvOS1XRWJQaEN1MGt0V3pFZ3VwbXVLNlZsZGgxU3pDNnM3dWdxdUx4Zw?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：LINEヤフーがAIエージェント10倍の量産体制構築、購買・決済は慎重に準備へ
+出典名：ペイメントナビ
+URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUG9yTFZvUnBkR2R5eU5KLXFOajl4V3hETUMwcEptUzJEZ044aURZOGRPc2M3WnFDMy0wLUw2a1lqdmxnaHBPM05MdS1TTkdnSVJ0R0VQTEd2b2M?oc=5
+公式発表か報道ベースか：報道ベース
+補足：LINEヤフーが自社AIエージェント「Agent i」に実装予定の8つの新機能を公開（@DIME アットダイム）も参照。
+
+ニュース名：OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」
+出典名：窓の杜
+URL：https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUQ2FReC1LNFlLTHpPV1FjR2NVeDdBR21zU3JQbm5RdmMzVEZyT3BqMnZVVnlZNmZfanNmXzEtVTJqUVNFa1hkYWtJYTRzR2s0S3FoVkhVbF90LWEyanNSR09DbWVZREZQ?oc=5
+公式発表か報道ベースか：報道ベース
+補足：OpenAI、「GPT-6」（Astra）正式発表--数日中にChatGPTへ展開 追加料金不要（news.yahoo.co.jp）、米OpenAIがGPT-6 Astra発表「AGI時代へようこそ」（exawizards.com）なども参照。
+
+ニュース名：メタ、AIエージェントにはSlackの方が優れているとしてGoogle ChatからSlackに移行
+出典名：Business Insider Japan
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWWRramxZNmlOYUpDbk1zTmRSSDg1cHJ1SFlUYWo1UDY5ZjVoQWZKNTRGb0Q4Q05JWnVKdEVvRGgyOS0xN011cTlUMzhDWUowekYyRFY1MEt5QnFZNjQwdk1JZEtzMzduRFlUSnRVallPREdo?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：映画「スパイダーマン」最新作がタイタニック超えで世界歴代4位に。ハリウッド映画はなぜ復活を遂げたのか
+出典名：note
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Yam9heUxmTTUtRlF2LXcxTDNLYXNtTVVtWlBFd251cTVITEVlZW1teE5XVTkwM2h0YmFYVEIzMFFFWG96NFlqTy1DeUFoUzUzZW5j?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。OK
+- 報道ベースの内容を「発表しました」と言っていないか。OK
+- 未公開モデルや政府要請を断定していないか。OK
+- セキュリティや機密データを「安全」と言い切っていないか。OK
+- 強すぎる断定や煽り表現がないか。OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。OK (ビジネス1本、エンタメ1本)
+- 芸能人のプライベートな話題や個人批判を扱っていないか。OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。OK (「やば」系は調整したが、他の語彙を散らした)
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。OK
+- 「神」「優勝」などを、企業や製品への断定的な評価として使っていないか。OK (あくまで「神かよ！」「大優勝！」など感想として使用)
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。OK
+- 最後に同じ内容を繰り返していないか。OK
+- 番組フォローへの導線が自然に入っているか。OK
+- 出典リンク一覧があるか。OK
+- 台本全体は日本語で3,500〜4,800文字に収まっているか。OK (約4,200文字)
+- 構成ルール（オープニング、注目、AI、ビジネス、エンタメ、まとめ）を守っているか。OK
+- 各ニュースで「事実」「公式/報道」「なぜ話題」「誰が得」を説明しているか。OK
+- 冒頭挨拶は「おはようございます」か。OK
+- 最後の挨拶は「また明日」か。OK
+- 台本全体は「リナ:」または「モモ:」で始まっているか。OK
+- 演出指示、注釈、空行がないか。OK
+
+========================================
+

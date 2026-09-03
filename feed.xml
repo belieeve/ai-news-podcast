@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
+・LINEヤフーがAIエージェントを量産体制へ！
+・AIエージェントの責任問題、本格実装前に知るべきこと。
+・メタがAIエージェント向けにSlackへ移行！
+・映画「スパイダーマン」最新作が世界歴代4位に！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260904_daily.mp3" length="13188909" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260904_daily</guid>
+      <pubDate>Fri, 04 Sep 2026 08:06:00 +0900</pubDate>
+      <itunes:duration>13:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
+・LINEヤフーがAIエージェントを量産体制へ！
+・AIエージェントの責任問題、本格実装前に知るべきこと。
+・メタがAIエージェント向けにSlackへ移行！
+・映画「スパイダーマン」最新作が世界歴代4位に！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIエージェントがロボット操作！大学にも導入で未来爆アゲ＆ブルーロック実写が止まらない件</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1195,26 +1217,6 @@
 • AIエージェントは部下になるのか？ HR EXPOで議論した「職務設計・権限委譲・評価制度」の未来 - オルタナティブ・ブログ
 • アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
 • ポシエス、電子文書から業務領域へ…AIエージェント「AIOZ EKA」を初披露 - finance.biggo.jp</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月20日 夕刊</title>
-      <description>今日の話題:
-• 画面一つが巨大な企業ネットワークを丸ごと吸い込んだ。 米ラスベガスで開かれた年例カンファレンス「シスコライブ」の舞台。 大型スクリーンにはチャットGPTに似た対話ウィンドウが表示され、試演者が「我が社.. - 매일경제
-• トランプ米大統領、AnthropicとClaude Fable 5論争に言及 - BeInCrypto
-• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
-• ソフトバンクの運用ノウハウ×OpenAIの特定力。自社での大規模検証を経て誕生した「一気通貫」の脆弱性対策 - DXマガジン
-• NVIDIAが米国光通信網を強化、Coherentが世界初の6インチInP工場を拡張｜Semiconductor Geek - note</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260620_evening.mp3" length="4093869" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260620_evening</guid>
-      <pubDate>Sat, 20 Jun 2026 20:23:43 +0900</pubDate>
-      <itunes:duration>04:15</itunes:duration>
-      <itunes:summary>今日の話題:
-• 画面一つが巨大な企業ネットワークを丸ごと吸い込んだ。 米ラスベガスで開かれた年例カンファレンス「シスコライブ」の舞台。 大型スクリーンにはチャットGPTに似た対話ウィンドウが表示され、試演者が「我が社.. - 매일경제
-• トランプ米大統領、AnthropicとClaude Fable 5論争に言及 - BeInCrypto
-• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
-• ソフトバンクの運用ノウハウ×OpenAIの特定力。自社での大規模検証を経て誕生した「一気通貫」の脆弱性対策 - DXマガジン
-• NVIDIAが米国光通信網を強化、Coherentが世界初の6インチInP工場を拡張｜Semiconductor Geek - note</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
