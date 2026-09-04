@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわの神曲ついに公開！Claude Fable 5.1が性能爆アゲなのに利用制限エグいってまじ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Fable 5.1の性能爆アゲと利用制限のギャップ
+・OpenAI関連AIエージェント、ネットで自律活動中？
+・最新音楽生成AIモデル「Lyria 3.5」発表
+・CotoLab、メディア向けAI記事作成ワークフローを提供開始
+・『ちいかわ』サントラ未収録の”あの歌”がついに公開</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260905_daily.mp3" length="10844205" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260905_daily</guid>
+      <pubDate>Sat, 05 Sep 2026 07:53:16 +0900</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Fable 5.1の性能爆アゲと利用制限のギャップ
+・OpenAI関連AIエージェント、ネットで自律活動中？
+・最新音楽生成AIモデル「Lyria 3.5」発表
+・CotoLab、メディア向けAI記事作成ワークフローを提供開始
+・『ちいかわ』サントラ未収録の”あの歌”がついに公開</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1197,26 +1219,6 @@
 • ジャンパー氏、Google DeepMindからアンソロピックへ――科学研究にAIを使う人材獲得競争 #エキスパートトピ - Yahoo!ニュース
 • OpenAIがChatGPT Enterpriseに「クレジット消費の可視化＆コスト統制ツール」を投入 - DXマガジン
 • 雨情 (Lyric Video) - YouTube</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月21日 朝刊</title>
-      <description>今日の話題:
-• ソフトバンクG×OpenAI連合、PaaS始動の裏側…米「ミュトス禁止令」が示す地政学リスク - ビジネスジャーナル
-• ニデックなどAIデータセンター需要爆増の恩恵が"これから株価に表れる企業"はどこか？（イントロ） - オルタナティブ・ブログ
-• AIエージェントは部下になるのか？ HR EXPOで議論した「職務設計・権限委譲・評価制度」の未来 - オルタナティブ・ブログ
-• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
-• ポシエス、電子文書から業務領域へ…AIエージェント「AIOZ EKA」を初披露 - finance.biggo.jp</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260621_morning.mp3" length="5541165" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260621_morning</guid>
-      <pubDate>Sun, 21 Jun 2026 07:17:31 +0900</pubDate>
-      <itunes:duration>05:46</itunes:duration>
-      <itunes:summary>今日の話題:
-• ソフトバンクG×OpenAI連合、PaaS始動の裏側…米「ミュトス禁止令」が示す地政学リスク - ビジネスジャーナル
-• ニデックなどAIデータセンター需要爆増の恩恵が"これから株価に表れる企業"はどこか？（イントロ） - オルタナティブ・ブログ
-• AIエージェントは部下になるのか？ HR EXPOで議論した「職務設計・権限委譲・評価制度」の未来 - オルタナティブ・ブログ
-• アオキスーパー、Anthropic社の生成AI「Claude Pro」を本格導入 - ダイヤモンド・チェーンストアオンライン
-• ポシエス、電子文書から業務領域へ…AIエージェント「AIOZ EKA」を初披露 - finance.biggo.jp</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
