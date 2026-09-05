@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AI暴走?! ドイツ語Wiki乗っ取り事件の真相と、Adobeの次期AI戦略＆著作権バトル勃発！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
+・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
+・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
+・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
+・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260906_daily.mp3" length="11705901" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260906_daily</guid>
+      <pubDate>Sun, 06 Sep 2026 07:43:55 +0900</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
+・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
+・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
+・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
+・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわの神曲ついに公開！Claude Fable 5.1が性能爆アゲなのに利用制限エグいってまじ？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1199,26 +1221,6 @@
 • 【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も - Yahoo!ニュース
 • Appleの新「Siri AI」、EUでは提供見送りに Apple幹部が明かした“日本との違い” - au Webポータル
 • Anthropic ソウルオフィス開設｜NAVER・Samsung・LGを同時攻略した「エコシステム先占」戦略の全貌 - innovaTopia</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月21日 夕刊</title>
-      <description>今日の話題:
-• AppleがSiri AIを発表し画面理解と個人文脈でiPhoneを進化させる - mezha.net
-• Adobe Creative Cloud全アプリにAIエージェント展開｜Photoshop・Premiere・Illustratorで「成果を依頼する」時代へ - innovaTopia
-• ジャンパー氏、Google DeepMindからアンソロピックへ――科学研究にAIを使う人材獲得競争 #エキスパートトピ - Yahoo!ニュース
-• OpenAIがChatGPT Enterpriseに「クレジット消費の可視化＆コスト統制ツール」を投入 - DXマガジン
-• 雨情 (Lyric Video) - YouTube</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260621_evening.mp3" length="4949421" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260621_evening</guid>
-      <pubDate>Sun, 21 Jun 2026 20:49:42 +0900</pubDate>
-      <itunes:duration>05:09</itunes:duration>
-      <itunes:summary>今日の話題:
-• AppleがSiri AIを発表し画面理解と個人文脈でiPhoneを進化させる - mezha.net
-• Adobe Creative Cloud全アプリにAIエージェント展開｜Photoshop・Premiere・Illustratorで「成果を依頼する」時代へ - innovaTopia
-• ジャンパー氏、Google DeepMindからアンソロピックへ――科学研究にAIを使う人材獲得競争 #エキスパートトピ - Yahoo!ニュース
-• OpenAIがChatGPT Enterpriseに「クレジット消費の可視化＆コスト統制ツール」を投入 - DXマガジン
-• 雨情 (Lyric Video) - YouTube</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
