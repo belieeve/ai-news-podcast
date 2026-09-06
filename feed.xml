@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIエージェントが放置wiki乗っ取り!? Gemini 4 Proリークと著作権問題、AI進化止まらん！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントが放置wikiを乗っ取り!?
+・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
+・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
+・東武鉄道もAIエージェント導入！マーケティングに活用
+・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260907_daily.mp3" length="12934317" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260907_daily</guid>
+      <pubDate>Mon, 07 Sep 2026 07:48:33 +0900</pubDate>
+      <itunes:duration>13:28</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントが放置wikiを乗っ取り!?
+・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
+・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
+・東武鉄道もAIエージェント導入！マーケティングに活用
+・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AI暴走?! ドイツ語Wiki乗っ取り事件の真相と、Adobeの次期AI戦略＆著作権バトル勃発！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1201,26 +1223,6 @@
 • 費用1000万円超〝教頭AI〟が変える学校現場 膨大な業務を圧縮「なくてはならない」 - 産経ニュース
 • 半年で購入数量35%減＆欠品ゼロを両立。AIエージェントが支える"ちょうどいい在庫" - ニコニコニュース
 • アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月22日 朝刊</title>
-      <description>今日の話題:
-• 2026年6月10日「Gemini」に珍しく大規模障害発生？【akutaji Vol.384】 - jetstream.blog
-• AIを使っても「売上増」は2割以下？ 優秀なAIを「無能な部下」にする企業の共通点 - キーマンズネット
-• 【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も - Yahoo!ニュース
-• Appleの新「Siri AI」、EUでは提供見送りに Apple幹部が明かした“日本との違い” - au Webポータル
-• Anthropic ソウルオフィス開設｜NAVER・Samsung・LGを同時攻略した「エコシステム先占」戦略の全貌 - innovaTopia</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_morning.mp3" length="4629549" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260622_morning</guid>
-      <pubDate>Mon, 22 Jun 2026 07:20:08 +0900</pubDate>
-      <itunes:duration>04:49</itunes:duration>
-      <itunes:summary>今日の話題:
-• 2026年6月10日「Gemini」に珍しく大規模障害発生？【akutaji Vol.384】 - jetstream.blog
-• AIを使っても「売上増」は2割以下？ 優秀なAIを「無能な部下」にする企業の共通点 - キーマンズネット
-• 【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も - Yahoo!ニュース
-• Appleの新「Siri AI」、EUでは提供見送りに Apple幹部が明かした“日本との違い” - au Webポータル
-• Anthropic ソウルオフィス開設｜NAVER・Samsung・LGを同時攻略した「エコシステム先占」戦略の全貌 - innovaTopia</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
