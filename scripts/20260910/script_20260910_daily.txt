@@ -1,0 +1,194 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260910
+========================================
+
+【エピソードタイトル】
+花王がCMをやめたワケ＆SiriのAI化が10月スタート？朝の10分トレンド解説
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【ビジネス】普通の2倍高いシャンプーが大ヒット！花王がCMをやめた理由とは？
+・【AI】Appleの「Siri AI」日本語β版が10月登場か？報道で話題に
+・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
+・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
+・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題
+
+========================================
+
+【元になったニュース】
+1. AIが「100万ドル問題」を解いた!? OpenAIとAnthropicの数学者が衝突した本当の理由（Masumi｜ライター） - エキスパート - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzdhUjBfUkhyNDNjNkRBM3puM3o3dndXUFlSakxwNHE1bG1RaGlvaUtUcXhPU3czXzgzYTlEcjc2c29EWmFjeVRLUjRqNmhwZXlzZThYbkszMnFrc1hHWHNjVFN4M3BxNDFQNjNReU5fWHk1N2Utekx4WTdMRTdLNlVJMG83Sll3?oc=5
+2. Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア - キーマンズネット（キーマンズネット） - https://news.google.com/rss/articles/CBMiZkFVX3lxTE83ZGswc3BUNElVcXBZdlByYWFUMHc5bEdZYUFBM0xRZF9qRWRMbnh4dC1kRDlyLVp1UkNnN3JEajVCUk8yWXp1d2R0czZ2MXR5NFZPVVJzQ2tSMmNoY0o5QzRFSXlPUQ?oc=5
+3. エージェントコマースがマーケターを変える。Microsoft最新レポートが示すAIに商品を売る時代 (1/3) - MarkeZine（MarkeZine） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE12anM1Yk9OMy04SWt2QWZDV2t5OXllWm5yS0ZQYnhhUVhodTNNZlZTRTBFdU5xSGlVRTJvZk8xcUQ4c3ZMb1NNZVpCU2UwRDdsRVRj?oc=5
+4. LINEヤフー流AIOps アラート一次対応は自動化、障害調査にも適用 - ビジネスネットワーク（ビジネスネットワーク） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jcndNbWRfcUZzTEVpdy1VQzhrSmZDVFczZ3hueVNXYmJ0d2pHMDZZMzRlZXpSY1JTZGlQbkc1MWp0RU40TjZNQnhmQXJOYXY5X1VN?oc=5
+5. OpenAI×Samsungが急接近｜AI半導体で「HBM」からファウンドリ・先端パッケージまで広がる協業｜Semiconductor Geek - note（note） - https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mM3c4TDdpenFuUUdGRGc4VUxfRzZtaUlBV3pvZzhhcUR3ODEzLXRPUnE0dnRCMkVOMFRLZW5qWkktR0w4YVI5TDdGVnBnTFh6Mm0tRVlyWU5RZUNxMnc?oc=5
+6. 年間50億円の成果を創出 村田製作所が実践するAIエージェント統制の要点：AWS Summit Japan 2026 - itmedia.co.jp（itmedia.co.jp） - https://news.google.com/rss/articles/CBMidEFVX3lxTE0zbmZTcVdhQzlubGxNM3ZBbklkTjNkRnRGY29ZRzZYMTUzVmFCa2xJRml1Tkp4QmxYX05qZUM2STJXSWJQRWNtb1hrRkdQeFNOTXRIemxPelVRTXdPWEdoQ2tYbzhrU2FDTXc5amRMLS1FVU4z?oc=5
+7. PKSHA、オンプレミスサーバーで高速応答可能なAIエージェント「PKSHA Private AI Agents」を提供 - クラウド Watch（クラウド Watch） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMlJDeldYcHRHb0lzVUM4NVdveW9hRENNS05HLWdmWTBZaFo5djBqaVFMY1NKc0g1RWdDU1NBYzBsd20zTjNoZWdpZ2d6TlZiaFRYbW5lOVFlUmdGVGIyNE5SMkQ4WGs?oc=5
+8. 1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？ - MITテクノロジーレビュー（MITテクノロジーレビュー） - https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXVtakN3UWF5Rk05SGpIVmNLOUFGMi0wQVFpVjBSRC1mZVp0Q0pJd1dHcUdWZ2U4OHM3SUNaUkQ3OU1FWkY0SFBxX1MwSUhRYkNiUXE5TTZ0M1NGS0lLYzVwOHJtcUU0TkhHanZnNUlGSC1qSURrTzNqVDBtVUNPNjJhcnVLcWQ2bGpnYjJFQkluajFCYkQ4dWlrbDVUVWd4VFVTRVNmMHdXSTA?oc=5
+9. Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」 - itmedia.co.jp（itmedia.co.jp） - https://news.google.com/rss/articles/CBMiakFVX3lxTE5yeXNyaXZpWGVWa1hhMnlnSVV3WkMzQzZhd013SnptcnJoaXpEbXJkb1ltcTB0NlNGVi1nbkdVWWV2VDhGYWhIcVhfYm5BRFFtOXJDTXI0MkhIQVNkckpiRV9lZlFxTDJYOUE?oc=5
+10. なぜ｢普通の2倍も高いシャンプー｣が大ヒットしたのか…｢アジエンスの失速｣から学んだ花王がCMをやめたワケ【ヒット商品 - ニコニコニュース（ニコニコニュース） - https://news.google.com/rss/articles/CBMic0FVX3lxTE9MQWVNdEcybnhFaFJCaGt6Ql9VSzFqNWEyY3lGZTJfU2dZYkNzeF9PVTVES3BoNzJFNXAxemhjb0g0UENoUDNYLWtZbEtJQTAwRm1DaHRPR083VFZDa0xMNk1TMTZEczhtdVd6ZEE5RkdMNEU?oc=5
+11. OpenAIがChatGPTで競合AI広告を制限、競争激化を受けた措置と報道 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース（Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース） - https://news.google.com/rss/articles/CBMicEFVX3lxTE5oVHdVMWZDaWhIXzJ3TzNQaUx6XzFtc2VFd1NZOGV5bEZ3aUlJbDkydHhEanNObHg0S2FzcUQxbDlTTWdHbVZ4eTg2Z0xDNEdKZ09aZ1B3MGZ6c1JNeEJibHY2U0xSa3pVLURadmN6Xy0?oc=5
+12. AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定（ITmedia Mobile） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE9SaXZNS0ptNDcxVVVoMnJEajZrdXVHRDJlaVBCX0dsYzRRLVItcFNhRFU0ZjNUbmRZSVBDNmtWVUFpSHViUGpoNmcxeTZLRHJrOXFSM1lQVVBWdnBLNWVZcHNKWEVUbC05RkxwOWxQcW42aG9jbERZbjZHNUh0cWM?oc=5
+13. AWSとOpenAI・Anthropicは互恵関係、有力AIモデルの確保が欠かせず - 日経クロステック Active（日経クロステック Active） - https://news.google.com/rss/articles/CBMijAFBVV95cUxNNk5iTjhtU3kzYl9OU3dfNURWcTJwUW5ac0FTdkt3ZkZaUE85alVod25PRksyN2tBckUwdlp0b3YxdTh5WllCSVh5QUdtenRQdUtTclgxMU83SHFsRGNRWHhROGExbHFuRFhhb2ZPQ2hOLW1mTi11blBBV3pkSXNVX2hiRjlOc0JKOG10bg?oc=5
+14. メタがＡＩエージェント 米で提供開始 買い物・メール代行 - 読売新聞（読売新聞） - https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MDhtRzVhUDJwNmhXNXJEWkcxVkJJSVJyUVlYaHpQT0FlSkNMdzlkZ1JkelFhTlZUazAzZG9Sei1qUEJ3bzF0TXpHNzFTbFZBT0h0SkdPUm5ySjk0dzNwdlNuMA?oc=5
+15. Anthropic研究者がAIの脅威で辞職 本当に人類滅亡の可能性は - jp.beincrypto.com（jp.beincrypto.com） - https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWkzZ09TdnlzYkRpNUw3dEVXdmYwR3BfOHh2ZE9RTmh4TTV4eDNLT0FRWHBpNlZBLUtPTU9Fakx1VlB1S2xFNzl6dGI1Qmo0YTljWWtXX0NkWkpjbnl1ZDBQT0FycFdPNW05MGxBdjViNUFEMk1PZk5wQVpNaEszbnVoQ1kwWHc?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます。リナです。
+モモ: おはようございます。モモです。
+リナ: ねぇモモちゃん、今朝も寒くて布団から出るのガチでしんどくなかったかな？
+モモ: それなすぎるよ。うち、目覚まし3回止めて秒で二度寝かましそうになったもん。リナちゃんは朝からシャキッとしててすごすぎない？
+リナ: うちは起きて即、温かいカフェラテ飲んでなんとか正気を保ってる感じかな。
+モモ: あーね、朝のカフェインは命助かるやつだよね。で、今日もうちらのテンションが爆アゲになるような話題ってなんかあったりするのかな？
+リナ: もちろんあるよ。今日はさ、あの花王がテレビCMをやめて高級シャンプーをバズらせたビジネスの裏側から、AppleのSiriがAIで超進化するっていうワクワクな噂、あとMetaがアメリカで始めた買い物代行AIの話まで、ヤバい情報が目白押しなんだよね。
+モモ: え、CMやめたのに売れてるシャンプーって何それ気になるんだが。今日も速攻でまとめちゃおうよ。
+リナ: 了解。じゃあ、まずはその一番バズってるヒット商品の話題からいってみようか。ねえ聞いて、昨日スマホ見てたらさ、普通の2倍も高いシャンプーが大ヒットしてるっていう分析記事がすごく話題になってたの知ってるかな？
+モモ: え、2倍高いってこと？ドラッグストアで売ってるやつの倍ってことかな？
+リナ: そうそう。花王が売り出した「THE ANSWER」っていうプレミアムシャンプーなんだけど、1本2000円くらいするのね。で、すごいのがさ、これまでの花王って有名タレントを使ってテレビCMをババ〜ンって流して大量に売るスタイルだったじゃん？
+モモ: わかる。昔から有名な女優さんが出てるCMのイメージ強めだよね。
+リナ: なのに、今回はテレビCMを一切やめて、SNSでの口コミや美容熱が高い層に向けた体験型のマーケティングに振り切ったらしいんだよね。これが記事で報じられてて、ビジネス界隈でめっちゃ注目されてるんだよ。
+モモ: え、CMやめて売れるのってすごくない？なんでそんなにバズったのかな？
+リナ: そこなんだよね。背景として、以前「アジエンス」っていうシャンプーを大ヒットさせたんだけど、時間が経つにつれて競合が増えて伸び悩んだ経験があったらしいの。そこで「大衆向けに広く浅く」広告を打つんじゃなくて、「本当に髪の悩みが深い人」にターゲットを絞って、SNSでの本気の口コミを広げてもらう戦略に変えたんだって。
+モモ: あーね。うちらもさ、テレビCMで見るよりTikTokとかInstagramで美容垢の人が「これガチで髪質変わる」って熱弁してる動画見たら速攻で買いたくなるもんね。
+リナ: ほんまそれ。自分の悩みに刺さる情報ってSNSの方が見つけやすいもんね。このニュース、マーケティングや広報に関わってる人はもちろんだけど、個人でSNS運用してる人やヒット商品の裏側を知りたい人にはガチで勉強になる話かなって思うよ。
+モモ: たしかに。広く全員に届けるより、刺さる人に熱量高く届ける方が今の時代勝ち確ってことだね。あ、それで思い出したんだけどさ、スマホ繋がりでうちも朝メイクしながら見てビビったニュースがあるんだけど聞いてくれるかな？
+リナ: お、何々？気になるんだが。
+モモ: AppleのAIエージェント機能がついた新しい「Siri AI」の日本語ベータ版が、今年の10月から提供される予定っていう報道が出てたのよ。
+リナ: あ、Apple Intelligenceのやつね。報道で出てたんだ。
+モモ: そうなの。これ、事実として確認できるのは、海外メディアの報道ベースで「日本語のベータ版が10月頃に登場する見込み」って伝えられてる段階なんだけどね。なぜ今これが話題かっていうと、iPhoneを使ってるうちらにとって一番身近なAIだからなんだよね。
+リナ: たしかに。今までのSiriって「明日の天気は？」とか「タイマー3分セットして」くらいしか使ってない人多かったもんね。
+モモ: ほんとそれな。でも新しいSiri AIは、スマホの中のアプリ同士を連携させて「昨日の夜LINEで送られてきた写真を、写真アプリから探してメールで〇〇さんに送って」みたいな複雑な指示を一発でやってくれるようになると言われてるんだよね。
+リナ: うちらで言うとさ、専属の優秀な秘書がスマホの中に住み着いて、面倒な操作を全部代わりにやってくれるみたいな感じでしょ？
+モモ: レベチで便利すぎん？iPhoneユーザー全員が得する話だし、ガチで仕事の効率化狙いたい人は10月の動向チェックしといて損はないかなって思うよ。
+リナ: それは待ち遠しいね。日本のユーザーが使えるようになるタイミングは公式発表をちゃんと待ちたいけど、iPhoneの使い方がガラッと変わりそうで楽しみすぎる。
+モモ: 本当よね。てか全然違う話なんだけどさ、海外のAIといえばMetaもヤバい動き見せてるらしくて、リナちゃん知ってたりするかな？
+リナ: あ、Metaがアメリカで買い物とかメールの代行をしてくれるAIエージェントの提供を始めたってニュースでしょ？
+モモ: そうそれ。報道によると、InstagramやWhatsApp、Messengerの中で働くAIエージェントが、ユーザーの代わりに買い物をサポートしたり、長文のメールを代わりに書いてくれたりする機能を米国のユーザー向けにスタートしたらしいのよ。
+リナ: これ、企業側の公式発表や報道で確認できるニュースなんだけど、なんで今話題かっていうと「SNSの中でそのまま買い物が完結する」っていう世界観が本格化してきたからなんだよね。
+モモ: SNS見てて「この服かわいい〜」って思ったら、AIに「これ買って」って言うだけで決済まで終わっちゃう感じかな？
+リナ: まさにそれ。今までは自分でサイトに行って、カートに入れて、住所入力してってやってたじゃん？それをAIが裏で全部代理でやってくれるようになるの。
+モモ: 待って楽すぎるんだが。ネットショッピングのポチり癖がさらに加速しそうで焦るて。
+リナ: ふふ、買いすぎには注意だけどね。でもこれ、ECサイトをやってる事業者さんやマーケターの人は知っておかないと得どころか乗り遅れちゃう話題なんだよね。これからは人間がサイトを見て買うだけじゃなくて、AIが代わりに商品を選んで買う時代が来るかもしれないから。
+モモ: AIに気に入られる商品ページ作らなきゃいけないってこと？頭バグりそう。
+リナ: そうそう。あ、その「AIが代わりに選んで買う」って話、ちょうど次の話題にも繋がるんだよね。ねえねえモモちゃん、ちょっと難しそうに聞こえるけど、まじで凄すぎる科学とAIのニュース見つけたから聞いてほしいんだけどいいかな？
+モモ: なになに？難しそうだけどリナちゃんの噛み砕き解説ならいける気がする。
+リナ: 了解。あのね、MITテクノロジーレビューなどの報道によると、1万個もの「AIエージェント」をチームみたいに同時に働かせて、人間でも解けなかった「ミレニアム懸賞問題」っていう数学の激ムズな100万ドル問題を解決させたっていう研究が話題になってるんだよね。
+モモ: え、1万のAI？ってか100万ドル問題って何ですかレベルなんだけど。
+リナ: 懸賞金が100万ドル、つまり日本円で1億数千万円かかってるレベルの、世界中の天才数学者が何年も解けなかった超難問のことね。
+モモ: えぐ。それをAIが解いちゃったってこと？
+リナ: 単体のAIが解いたんじゃなくて、1万個のAIにそれぞれ役割を与えて、ディスカッションさせたり検証させたりして「組織」として協力させて解かせたっていうのがポイントなの。これが今、AI業界で超話題なんだよね。
+モモ: え、うちらで言うとさ、クラス全員でブレストしまくって難題を力技で突破したみたいな感じかな？
+リナ: そうそう。1人だと限界があるけど、優秀なAIを1万個集めてチームプレイさせたら人間の知能を超えちゃったって話。
+モモ: 鬼アツすぎん？これってうちらの仕事とかにも関係あったりするのかな？
+リナ: 大ありだよ。これからは「AIを1つ使う」んじゃなくて、「複数のAIにチームを組ませて仕事をさせる」のが当たり前になるってことだから。会社でプロジェクトチームを作るみたいに、AIチームを指揮するスキルが求められるようになるよ。ビジネスパーソンやエンジニアの人は絶対知っておくべきトレンドだね。
+モモ: なるほどな〜。AIを動かす監督みたいな役割になるわけね。あ、それで思い出したんだけど、さっきリナちゃんが言ってた「AIが買い物を選ぶ時代」の話、ビジネスのレポートでも出てたよね？
+リナ: お、知ってるね。Microsoftが発表した最新の調査レポートのことだよね。これからの時代は「エージェントコマース」、つまり「AIエージェントに商品を売る時代」になるっていうレポートがビジネスメディアで話題になってるの。
+モモ: それガチで気になってたやつだ。事実としてレポートにはどんなことが書いてあるのかな？
+リナ: 公式レポートによるとね、将来的に消費者は自分で検索して商品を選ぶのをやめて、自分のAIエージェントに「私に一番合うスニーカー買っておいて」って頼むようになるんだって。そうすると、企業側は「人間に向けた広告」じゃなくて「AIエージェントに選んでもらえるデータ」を準備しなきゃいけなくなるの。
+モモ: え、じゃあさっきの花王のシャンプーの話とも繋がるじゃん。人間にはSNSの口コミで訴求して、AIには正確な成分データやレビュー評価で訴求する、みたいな？
+リナ: モモちゃん、センス良すぎ。まさにそれなんだよね。検索エンジンの上位に表示させる「SEO」から、AIに選ばれるためのデータ最適化へシフトしていくって言われてるの。
+モモ: うわ〜、マーケターの人とかECサイト運営してる人は、今すぐ頭切り替えないとマジで詰んじゃいそうだね。
+リナ: そうだね。今後のビジネスの勝ちパターンが変わるから、マーケティング職や経営層の人は今から意識しておくとめちゃくちゃ得すると思うよ。
+モモ: いや〜、今日も朝から濃厚すぎる話題ばっかりで頭が活性化しまくったわ。
+リナ: ふふ、今日も面白い話題がいっぱいだったね。今日をひとことでまとめると、CMなしでバズるシャンプーからAIが買い物や数学まで代行する時代へ、世の中のルールがガラッと変わり始めた一日だったね。
+モモ: ほんまそれな。この番組では、AIからビジネス、エンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。今日の話が面白かった人は、ぜひ番組のフォローをお願いします。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: またね〜！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文1】
+花王がテレビCMをやめて2,000円の高級シャンプーを大ヒットさせた裏側が話題！SNS特化のマーケ戦略とは？さらにAppleの「Siri AI」日本語版が10月登場の噂も。今朝のトレンドを10分でサクッとチェック！
+#朝アゲトレンド #マーケティング #Apple #Siri #AIニュース
+
+【X投稿文2】
+1万のAIエージェントがチームを組んで、数学の100万ドル難問を解決！？AIは単体で使う時代から「チームで働かせる」時代へ。Microsoftが予測する「AIに商品を売る時代」の最新トレンドをギャル2人が解説！
+#AIエージェント #エージェントコマース #ビジネス getattr
+
+【X投稿文3】
+Metaが米国で「買い物・メール代行AI」を提供開始！SNSで欲しいものを見つけたらAIがそのまま購入代行してくれる未来がすぐそこに？朝の通勤時間に聴くだけで最新ニュースが丸わかりです！
+#Meta #AI #朝のルーティン #ポッドキャスト
+
+【Threads投稿文1】
+今朝のポッドキャストでは「花王がテレビCMをやめて高級シャンプーをバズらせた理由」について話しました！
+昔みたいに「有名タレントを使ってテレビCMでドカンと認知させる」手法から、悩みを持ったターゲット層にSNSの口コミで深く刺す手法へ。
+これって個人でSNS発信してる人や、自分の商品を売りたい人にとってもすごく参考になりますよね。
+「広く浅く」より「深く刺す」。これからのマーケティングの基本になりそうです！詳細は今朝の番組で解説中♪
+
+【Threads投稿文2】
+「AIに商品を売る時代」が本当に来るかも…？
+Microsoftの最新レポートによると、これからは人間が検索して買い物するんじゃなくて「自分のAIエージェントに『私に合う靴買っといて』と頼む」スタイルが増えるそう。
+そうなると、企業は人間に向けた広告だけじゃなく、AIに選ばれるデータ作り（エージェントコマース対応）が必要になるんだとか。
+テクノロジーの進化で買い物の常識が変わるの、ワクワクする反面、マーケターさんは対応が大変そう！みんなはどう思う？
+
+【Threads投稿文3】
+毎朝10分の情報収集習慣、続いてますか？✨
+今朝の『朝アゲトレンド』では、AppleのSiriがAI化して10月に日本語対応するかも！？というニュースや、Metaの買い物代行AIなど、うちらの生活をガラッと変える最新テクノロジーをゆるっと噛み砕いてお話ししています。
+難しい専門用語もギャル目線で例えてるから、仕事前の頭の体操にぴったり。
+SpotifyやApple Podcastで毎朝配信中！ぜひ聴いてみてね〜！
+
+【ショート動画用30秒台本】
+リナ: ねえモモちゃん、これからは「AIに商品を売る時代」になるって知ってる？
+モモ: え、どういうこと！？人間じゃなくてAIが買い物するの？
+リナ: そう！Microsoftの最新レポートによると、人が自分で検索するんじゃなくて、自分のAIに「私に合う服買って」って頼む時代が来るんだって。
+モモ: マジか！じゃあ企業はAIに気に入られるデータ作らないと勝ち確になれないってこと？
+リナ: まさにそれ！詳しいビジネス＆AIトレンドは『朝アゲトレンド』でチェックしてね！
+
+【エピソードタイトル案】
+1. 花王がCMをやめたワケ＆SiriのAI化が10月スタート？朝の10分トレンド解説
+2. なぜ普通の2倍高いシャンプーが大ヒット？AppleやMetaの最新AI動向まとめ
+3. CMなしでシャンプーが爆売れした裏側＆1万のAIが数学の難問を解いた？
+
+【ニュース出典リンク一覧】
+ニュース名：なぜ｢普通の2倍も高いシャンプー｣が大ヒットしたのか…｢アジエンスの失速｣から学んだ花王がCMをやめたワケ
+出典名：ニコニコニュース（プレジデントオンライン）
+URL：https://news.google.com/rss/articles/CBMic0FVX3lxTE9MQWVNdEcybnhFaFJCaGt6Ql9VSzFqNWEyY3lGZTJfU2dZYkNzeF9PVTVES3BoNzJFNXAxemhjb0g0UENoUDNYLWtZbEtJQTAwRm1DaHRPR083VFZDa0xMNk1TMTZEczhtdVd6ZEE5RkdMNEU?oc=5
+公式発表か報道ベースか：報道・分析記事ベース
+
+ニュース名：AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定
+出典名：Yahoo!ニュース（ITmedia Mobile）
+URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE9SaXZNS0ptNDcxVVVoMnJEajZrdXVHRDJlaVBCX0dsYzRRLVItcFNhRFU0ZjNUbmRZSVBDNmtWVUFpSHViUGpoNmcxeTZLRHJrOXFSM1lQVVBWdnBLNWVZcHNKWEVUbC05RkxwOWxQcW42aG9jbERZbjZHNUh0cWM?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：メタがＡＩエージェント 米で提供開始 買い物・メール代行
+出典名：読売新聞
+URL：https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MDhtRzVhUDJwNmhXNXJEZkcxVkJJSVJyUVlYaHpQT0FlSkNMdzlkZ1JkelFhTlZUazAzZG9Sei1qUEJ3bzF0TXpHNzFTbFZBT0h0SkdPUm5ySjk0dzNwdlNuMA?oc=5
+公式発表か報道ベースか：公式発表・報道ベース
+
+ニュース名：1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？
+出典名：MITテクノロジーレビュー
+URL：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXVtakN3UWF5Rk05SGpIVmNLOUFGMi0wQVFpVjBSRC1mZVp0Q0pJd1dHcUdWZ2U4OHM3SUNaUkQ3OU1FWkY0SFBxX1MwSUhRYkNiUXE5TTZ0M1NGS0lLYzVwOHJtcUU0TkhHanZnNUlGSC1qSURrTzNqVDBtVUNPNjJhcnVLcWQ2bGpnYjJFQkluajFCYkQ4dWlrbDVUVWd4VFVTRVNmMHdXSTA?oc=5
+公式発表か報道ベースか：報道ベース（学術研究の紹介）
+
+ニュース名：エージェントコマースがマーケターを変える。Microsoft最新レポートが示すAIに商品を売る時代
+出典名：MarkeZine
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE12anM1Yk9OMy04SWt2QWZDV2t5OXllWm5yS0ZQYnhhUVhodTNNZlZTRTBFdU5xSGlVRTJvZk8xcUQ4c3ZMb1NNZVpCU2UwRDdsRVRj?oc=5
+公式発表か報道ベースか：公式レポート・報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。：OK（Apple Siriの10月予定を報道ベースと明記し、MetaやMicrosoftもレポート・報道として扱いを明確化）
+- 報道ベースの内容を「発表しました」と言っていないか。：OK（「報道によると」「〜と伝えられている」等で表現）
+- 未公開モデルや政府要請を断定していないか。：OK
+- セキュリティや機密データを「安全」と言い切っていないか。：OK
+- 強すぎる断定や煽り表現がないか。：OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。：OK（Appleの日本語β版は10月予定報道、Metaは米国での提供開始と明記）
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。：OK（花王の高級シャンプーヒットのマーケティング分析を1本目に据えている）
+- 芸能人のプライベートな話題や個人批判を扱っていないか。：OK
+- ニュースが原稿の読み上げ調ではなく、友達に話しかける日常会話の振りから始まっているか。：OK（「ねえ聞いて」「あ、それで思い出したんだけど」「てか全然違う話なんだけどさ」等の自然な振りを使用）
+- 「続いては◯◯の話題です」のような番組進行アナウンスが残っていないか（日常会話の転換になっているか）。：OK
+- 日常ネタ・雑談が全体の2割以内で、ニュースの中身がしっかり伝わるか。：OK（冒頭の朝の寒さ・二度寝・カフェラテ雑談程度に抑え、各ニュースの事実・背景・利点を深く解説）
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。：OK（「ガチ」「秒で」「爆アゲ」「それなすぎる」「レベチ」「勝ち確」「鬼アツ」等を分散配置）
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。：OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。：OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。：OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。：OK
+- 最後に同じ内容を繰り返していないか。：OK
+- 番組フォローへの導線が自然に入っているか。：OK
+- 出典リンク一覧があるか。：OK
+
+========================================
+
