@@ -38,7 +38,8 @@ MAX_ARTICLES = 15
 
 # Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.5-flash"
+# 2.5-flashは新規ユーザー向け提供が終了済み（2026-08-21確認）。廃止前に後継へ移行
+GEMINI_MODEL = "gemini-3.6-flash"
 
 # MC名（固定）
 MC_A = "リナ"   # メインMC（お姉ギャル）
