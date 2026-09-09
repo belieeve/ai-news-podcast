@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIが数学の難問解決を主張も疑惑？＆ChatGPT画像モデル最新版</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
+・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
+・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260909_daily.mp3" length="10833069" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260909_daily</guid>
+      <pubDate>Wed, 09 Sep 2026 14:02:56 +0900</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
+・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
+・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIエージェントが放置wiki乗っ取り!? Gemini 4 Proリークと著作権問題、AI進化止まらん！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1203,26 +1223,6 @@
 
 「AIニュースデイリー 夕刊」を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
 それでは、また次回の配信でお会いしましょう。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIニュース 2026年06月22日 夕刊</title>
-      <description>【今日の話題】
-• NVIDIA、創薬・気候予測・宇宙観測を支える新プラットフォーム『Vera Rubin』ISC 2026で公開 - corriente.jp
-• 「データ連携基盤サービス」におけるAI連携機能（MCP）の搭載について - ニコニコニュース
-• 費用1000万円超〝教頭AI〟が変える学校現場 膨大な業務を圧縮「なくてはならない」 - 産経ニュース
-• 半年で購入数量35%減＆欠品ゼロを両立。AIエージェントが支える"ちょうどいい在庫" - ニコニコニュース
-• アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="7573293" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260622_evening</guid>
-      <pubDate>Mon, 22 Jun 2026 22:47:06 +0900</pubDate>
-      <itunes:duration>07:53</itunes:duration>
-      <itunes:summary>【今日の話題】
-• NVIDIA、創薬・気候予測・宇宙観測を支える新プラットフォーム『Vera Rubin』ISC 2026で公開 - corriente.jp
-• 「データ連携基盤サービス」におけるAI連携機能（MCP）の搭載について - ニコニコニュース
-• 費用1000万円超〝教頭AI〟が変える学校現場 膨大な業務を圧縮「なくてはならない」 - 産経ニュース
-• 半年で購入数量35%減＆欠品ゼロを両立。AIエージェントが支える"ちょうどいい在庫" - ニコニコニュース
-• アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>

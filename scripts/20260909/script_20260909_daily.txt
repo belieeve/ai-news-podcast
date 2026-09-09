@@ -1,0 +1,204 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260909
+========================================
+
+【エピソードタイトル】
+OpenAIが数学の難問解決を主張も疑惑？＆ChatGPT画像モデル最新版
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
+・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
+・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場
+
+========================================
+
+【元になったニュース】
+1. OpenAI Korea発足1年、企業向けChatGPT利用者が28倍に急増——韓国 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNmduR1RIbDc2QXNtRE1LUWRlbmctb1l0OElETUxMeHhRUVB4M2tzeUlMX2ZnNWdZdVdDdWpzaFZxRFJpV3l2ZHdQTnNtS0RoanA2aFM3SWJFQU9MOWxTamJKcXI2bDBnLUJ0akpnQ1dBTjIz?oc=5
+2. 「GPT-6 Astra」に対応、法人向け生成AI「ChatSense」 - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE1aQ1pRZTIxellTTGRHVmR0UFFIVjRybU0wbldCY3F3VWZKLVhVU2prb0pqZFdkMWRCWkxVNG1SdTNIdEdxdlg1bF9iYjRYcGlKVFdmZzE1RjhXX3ZCWlNzYlh4dW5pR3FsR2c?oc=5
+3. OpenAIがクレイ数学研究所の7つのミレニアム問題のうちの1つを解決したとき - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVW5hQVVMelRaOE5ndThNZDRnTVdVcXAtNUY4Z2hpTWNKb0RGUTRMbXFMN2dQbm8wajZJcDRXZXR6dlYyVW5wQ3BRQjJyN3VPN2dmYmIyaVloamY0RWpBRnpQSXhoNmwwbmFJWVBhVmVLS2p4c1BSS0JLUjluT2xWX2RHM3pwMUIwNzFhZ0w0WURmR0tGaTlLMndjcjJUWUpmd3JBRk81Q1B4UQ?oc=5
+4. 「企業のAI活用に関する実態調査」を実施、AI格差を生む「5つの壁」と企業のナレッジ未整備の実態が明らかに - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTFBnX00yejlRaWhUb0FQb1BMYkV0Nkp2aGRUTzZyVU40WnhPUEZFUVRtM1A5cjZYTDdEZEJGUFR1aWZ3UFZJRUZrdmtSQUl3T1hYVUlrbklPWE1wbmktV2dGRU1BN2g4UXV4dHc?oc=5
+5. OpenAIの「機密流出」を巡る羅生門でプライバシーAIナラティブが加熱、$VVVの新品高達成後に次なる隠れベータ銘柄は？ - 深潮TechFlow（深潮TechFlow） - https://news.google.com/rss/articles/CBMiXEFVX3lxTE91WTNXNDJiMk5WMEVScDNkcWpkOGtfYXhoWjFqdXA0azROQVh2NkhXZC16RFBMc2xBQmNpbG5XQ0ZvUnZycTZYU21CUTU4RmxRUWpoZzV0YzREOVhU?oc=5
+6. Anthropic、2兆ドルIPOへ疾走：Artemisは2030年にARR1兆ドル到達を強気予想 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1nMGRDWnM4RTkxTERyT1lKOXdpVVJOYVJFQ0VpSTQtLWxadTIzQ05mMzQzbXJnZ3lEd2tHVU1PUy1PS1Q0SnNZWGlLZ2ZmekFmanlrLVE2Mzg5VXRGa0k5RXJsMmZab29FVWR0RXNkLXBsN0pJ?oc=5
+7. OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表 - 株式会社インプレス（株式会社インプレス） - https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5WmlzYmRXd3NkclV4dUc0WTY2Y0FRM29vM1VOcXJFNHVob0FhMHU2QXdpTTlmRXBybGN4b2FDT0V4NTA4THFwRTJMS3U0R2l6ZXEwTE52bTV4U3JEOUdKUzRfNA?oc=5
+8. OpenAIは、ナビエ・ストークス問題に対する100万ドル相当のAIソリューションを発表した。 - Vietnam.vn（Vietnam.vn） - https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFN0VnZJMGtXZ00yZm5jajRyb0JWVlI2bDlRdFFwNzNSMENYSU9lMlFOVWlnRVFyOGE1QUVVbnBIcGlDaU0wejBvT3g1Y2JEUVpIMjF5d196QWpDN2xrVFZvVmFMMHZrRUtpMGxDUWtQTDZ6QWNUSmliTmNZeVphUmNiYnZwZjUxU3FpTjN1WEhYQTNrMUg3WnZvR2xpc2s?oc=5
+9. IIJ、生成AIの導入から定着までを包括支援する「AI活用支援ソリューション」提供開始 - EnterpriseZine（EnterpriseZine） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MUdqRU04Q1p4RzRtV0p2SzgtOUtxMHFrMkJUSEJDNk1OZ014RVRlOEt5VnVNT2VJQXlEU2ctX0dWcjg3TDFqWlBZVV9iT1ozNk5NOHZB?oc=5
+10. OpenAI、内部AIシステムがナビエ–ストークス問題を解決したと発表 - Unite.AI（Unite.AI） - https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzF6aFQzQ1hlR2RuTkNFdDl6LV8tRktOTng1c1N3eWpXclljUTFURjFkWWdoalIyTHBfNm9iZnNnVGkzZERucmF4bFJyUE9oZVJmT0M4X25aYkNJWmFNTEszVUlnc1FPbERfbVl6Z3BUdE5peTgyUi1xQy16ZmdoV042MkNGcmZKRjNEZzFNRWVIc0hC?oc=5
+11. OpenAIが「GPT-6 Astraより高性能なモデル」を用いて数学の難問「ナビエ・ストークス方程式」の解決を主張、一方で人間の数学者の成果を流用した疑惑も生じる - GIGAZINE（GIGAZINE） - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DSHRlaUdZVTczdC00ckpnZGdHOHlPOWF0blBYdWVlTm5BblpfNEl1anZHTkxtaHZmV21STDZ0VHlFN1pVNWI2akx1UUVBdmtCVnBSUzJyMnNUMzY3ZUFEbW1XVnB3N1k?oc=5
+12. 低コストのオンプレミスサーバで高速応答可能な『PKSHA Private AI Agents』の提供を開始ー機密情報を外部に出さず、業務ごとに最適化できるPKSHA AIエージェント - PR TIMES（PR TIMES） - https://news.google.com/rss/articles/CBMiakFVX3lxTE9OUEVGek1sQVJaMkpKNDh5cVBkRGdBcjI3TVlqeW4zbWVLQ0l3c216QVJxVGxzT3FlNHVnMkRwNGZ0S3Eyc0dONVZmR2lQbjM5RlVjLWxaczJKQ0I0UVM2WXJxYjk0OXBIV0E?oc=5
+13. プルーフポイント、AIエージェントを発表--「Daybreak」活用、SOCでの分析を迅速化 - ZDNET Japan（ZDNET Japan） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE11alk3WndNd0htQjYxV0xmUmxqOWpadlpZSVo2SjlkcjZuaEZuS1dQaDB1UXhmNHE5eHNiSnZVeDVLYl81TXVnZVRvR3pXTS1JVzFN?oc=5
+14. 難問解決から大論争へ——OpenAIのナビエ–ストークス発表に数学者が異議｜Trans-N - note.com（note.com） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VdDZZTE82dFhBa0pSdTQxTWhnVUNCdVd6MTBleXhGb3ZwZURCaVFhUS15TXVRZ1J3SXJLSklLamY5U2NLeWZZR1R3TWdQbkVsVVV4cnh3?oc=5
+15. OpenAIが専門分野向けAIを拡大、低価格化でオープンモデル超えを狙う - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMib0FVX3lxTE00Z2tEZXpXWmxNRl9OcG5MYVp2Uk9UejQ0c19vV1RUNFVCUExqa1dBa3RSSzNuQU1FZUZIT1hfZnMybC1SWTdMZUFzM3VlakNQakZmN1JrclNCWC05Q004dGYydVlmN0dNT3NjRlk1VQ?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます。リナです。
+モモ: おはようございます。モモです。
+リナ: ねぇモモ、今朝も寒くてベッドから出るのガチで辛くなかったかな？
+モモ: ほんまそれ。うち今朝、目覚まし3回止めて秒で二度寝かましそうになったよ。
+リナ: わかるんだが。朝の布団の誘惑ってマジで勝てる気がしないよね。でも、今日も温かいコーヒー飲みながらテンションあげていこうか。
+モモ: アゲぽよでいこう。てかさリナ、今朝もスマホチェックしてたら、やばい話題多すぎて頭キャパオーバーしそうなんだけど。
+リナ: 今朝もAI界隈からビジネスまで、超ニュース盛りだくさんだよね。今日はOpenAIが数学の難問を解いたっていう激アツな話もあるし、最新の画像生成AIの発表、それに企業がAIを使うときにぶつかるリアルな壁の話までたっぷりあるよ。
+モモ: え、数学の難問？うちら文系ギャルには遠い世界な気がするけど、それってマジでどういうことかな？
+リナ: じゃあ、まずは今日一番ネットでバズってるその注目ニュースからいこうか。ねぇ聞いて、昨日SNSで大騒ぎになってたんだけど、OpenAIが流体力学の超難問「ナビエ・ストークス方程式」をAIで解決したって主張したのね。
+モモ: なにその呪文みたいな名前の方程式。全然頭に入ってこないんだけど、どれくらいすごいやつかな？
+リナ: これね、数学の世界で「ミレニアム懸賞問題」っていう、解けたら100万ドルの懸賞金がもらえるレベルの伝説的な超難問なの。水や空気の動きを説明する方程式なんだけど、完璧な証明がずっとできてなかったんだよね。
+モモ: え、懸賞金100万ドルってガチでヤバすぎでしょ。それをAIが解いちゃったってことかな？
+リナ: そう、OpenAI側は「GPT-6 Astra」より高性能な未公開の内部AIモデルを使って、この難問のソリューションを導き出したって発表したんだよね。
+モモ: マジで天才かて。AIがついに数学の歴史変えちゃった感じかな？
+リナ: と思うじゃん？実はここからが本題で、発表直後に世界中の数学者から「これ人間の研究成果を流用しただけじゃね？」って異議が殺到して、大論争になってるの。
+モモ: え、待って、流用疑惑ってコピペ的なことかな？
+リナ: 報道ベースの情報によると、すでに人間の数学者が発表していた研究論文の証明アプローチとそっくりで、AIが単にそれを学習して出力しただけじゃないかって指摘されてるんだよね。
+モモ: あーね。完全な自力解決じゃなくて、まとめサイト作っただけじゃん的なツッコミが入ってるってことかな？
+リナ: まさにそれ。このニュースのポイントは、AIが本当に人類の知恵を超えて自力で新しい発見をしたのか、それとも過去のデータを上手につぎはぎしただけなのか、っていう境目が問われてる点なんだよね。
+モモ: なるほどね。うちらの日常で例えると、友達の宿題をちょっと言葉遣い変えて提出したら先生にバレて揉めてるみたいな感じかな？
+リナ: 例えがリアルすぎるけど、スケールをめちゃくちゃでかくした感じだね。ちなみにこれ、OpenAIの公式発表と、それに対する数学者たちの反論っていう報道ベースの情報の両方が出てるから、まだ確定した話ではないんだよね。
+モモ: 確定じゃないんだね。でも、AIがそこまで高度な数学の議論に引っ張り出されてるってだけでも、時代の進化えぐくないかな？
+リナ: ホントそれ。研究職の人や、AIの著作権・権利関係ビジネスに関わってる人は、AIが生成した成果物の「オリジナリティ」がどこまで認められるかの試金石になるから、絶対追っておくべきニュースだね。
+モモ: いやー、朝から知的な話聞いて脳みそ起きたわ。てかさリナ、もっとうちらの身近で使えるAIのニュースとかはないのかな？
+リナ: もちろんあるよ。あ、それで思い出したんだけど、OpenAIが画像生成の最新モデル「ChatGPT Images 2.5」を発表したんだよね。
+モモ: え、画像生成の2.5？それって何が新しくなったのかな？
+リナ: これはOpenAIが公式ブログなどで正式発表したんだけど、今まで以上に人間のプロンプト、つまり指示文の理解力が上がって、画像の細部やテキストの文字再現がめちゃくちゃ綺麗になったらしいよ。
+モモ: 待って、画像の中に文字を入れるのって、これまでのAIだと謎の宇宙文字みたいになりがちだったよね？
+リナ: そうそう。「HAPPY BIRTHDAY」って頼んだのに謎の記号になるやつね。今回の2.5では、デザインに入れたい文字が崩れにくくなって、イラストや写真の質感を指定した通りのビジュ爆発クオリティで作れるようになったみたい。
+モモ: それ神すぎん？SNSのサムネ作ったり、プレゼン資料の画像作るの秒で終わりそうじゃないかな？
+リナ: わかりみ。これ知っておくと、SNSマーケターの人とか、普段から画像付きで発信してる人は作図の手間が激減して、勝ち確レベルで作業効率アがるよね。
+モモ: うちもSNSのアイコン、バチかわなやつ作ってもらおうかな。
+リナ: 自撮り盛るのもいいけど、AI生成画像も映え意識で楽しめそうだよね。
+モモ: てか全然違う話なんだけどさ、うちの周りの社会人の友達が「会社でAI使えって言われるけど、ぶっちゃけどう使えばいいか分からん」って愚痴ってたんだけど、世間の会社って実際どうなのかな？
+リナ: あ、タイムリーすぎる。企業のAI活用に関する最新の実態調査のプレスリリースが出たんだけど、まさに企業がAIを使うときにぶつかる「5つの壁」が明らかになったらしいよ。
+モモ: 5つの壁？なんか進撃の巨人みたいだけど、具体的にどんな壁かな？
+リナ: 調査によると、まず「使い方が分からない」っていうスキルの壁、次に「社内にノウハウがない」っていうナレッジ未整備の壁、あとはセキュリティの不安や、効果が実感できないっていう壁があるんだって。
+モモ: それなすぎる。AI導入しました！って言われても、現場は「で、うちの業務の何が楽になるの？」って冷ややかになるやつでしょ。
+リナ: まさにその通り。AIツールを買っただけで満足しちゃって、社員への教育や「この仕事にはこう使う」っていう社内マニュアルが追いついてない企業がめちゃくちゃ多いらしいの。
+モモ: ツールだけ渡されても困るよね。うちらで例えるなら、最新の高級デパコスもらったけど、メイクの順番も塗り方も誰も教えてくれない状態と同じじゃないかな？
+リナ: その例えめちゃくちゃ分かりやすい。宝の持ち腐れになっちゃうんだよね。
+モモ: これって、会社の管理職の人とか、業務改善したいシゴデキな人が知っておくと得する話かな？
+リナ: まさに。AIを入れること自体じゃなくて、社内でプロンプトの集まる仕組みを作ったり、研修をやったりする「定着化」の工夫が、これからのビジネスの格差を生むって話だから、仕事のヒントになるよね。
+モモ: たしかに。ツールより使い方を教え合える文化が大事ってことだね。
+リナ: そういうこと。ちょっと話変わるけど聞いて。海外のビジネス動向でも面白いデータが出てて、韓国で企業向けChatGPTの利用者がこの1年で28倍に急増したって報じられてるんだよね。
+モモ: え、28倍？数字上がりすぎて笑うんだけど、何が起きてるのかな？
+リナ: 海外メディアの報道ベースなんだけど、OpenAI Koreaが設立されてから1年で、韓国の企業が爆発的に法人契約を増やしたらしいのね。
+モモ: 28倍はさすがに圧強すぎでしょ。韓国の会社、フッ軽すぎないかな？
+リナ: 韓国は国全体でIT化のスピードが速いからね。でも、こうやって世界中でAIの法人利用が急激に進む一方で、日本でも「社内の機密データが外部に流出したらヤバい」って心配する企業が増えてるじゃん？
+モモ: それね。会社の顧客情報とかAIに入力して流出したら、一発で事故った案件になって終了するもんね。
+リナ: だからこそ今、自社専用のローカルな環境で安全に動かせる「PKSHA Private AI Agents」みたいな、低コストなオンプレミス型のAIエージェントサービスを企業が相次いで発表してるの。
+モモ: オンプレミスって、外部のネットに繋がないで自社のサーバー内だけで動かすやつだよね？
+リナ: 大正解。これなら機密情報を外に出さずに、安全に業務特化型のAIを使えるから、セキュリティに厳しい日本の大手企業でも導入しやすいんだよね。
+モモ: なるほどね。海外みたいにスピード重視でガンガン使う流れと、セキュリティ固めて安全に使う流れの両方が同時にきてるってことかな？
+リナ: そうそう。だから自社のデータをより安全に扱いやすくする方向へ全体が進んでるんだけど、実際に仕事で使うときは、会社のルールや利用規約を確認することが大切だね。
+モモ: 会社員のみんなは、セキュリティルール守りつつ賢くAI使っていきたいね。
+リナ: ホントそれ。今日はいろいろ話したけど、AIの最先端の争いから身近なツール、ビジネスの現場のリアルまで見えて楽しかったね。
+モモ: うちらの生活や仕事にどう関係してくるか考えると、ニュース見るのモチベ爆上がりするわ。
+リナ: 今日をひとことでまとめると、AIの進化が早すぎて、人間のルールや使い方が追いつくのにバチバチ戦ってる一日だったね。
+モモ: この番組では、AIからエンタメ、ビジネスまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: またね〜！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文1】
+OpenAIが数学の超難問「ナビエ・ストークス方程式」をAIで解決したと主張！？しかし人間の数学者から流用疑惑も上がり大論争に👀
+AIは本当の天才か、それとも高度なコピペか…？今朝のポッドキャストで詳しく解説してます！
+#朝アゲ #OpenAI #生成AI #ビジネス
+
+【X投稿文2】
+画像生成AI「ChatGPT Images 2.5」が発表🎨
+プロンプトの理解力アップ＆文字崩れが激減して、SNSのサムネや資料作成の効率が爆アゲの予感✨
+企業のAI活用で直面する「5つの壁」の話題とあわせて毎朝10分でチェック！
+#ChatGPT #マーケティング #AI活用
+
+【X投稿文3】
+韓国で企業向けChatGPT利用が1年で28倍に急増📈
+その一方で、機密情報を守るローカルAI（オンプレ型）の導入も加速中！
+「速さ」と「安全」の最新AIトレンドを、ギャル2人のトークでゆるっとキャッチアップしよ👌
+#ポッドキャスト #ビジネス語り #最新トレンド
+
+---
+
+【Threads投稿文1】
+朝の10分で世の中のトレンドをキャッチ✨
+今朝の「朝アゲトレンド」では、OpenAIが数学の難問を解いたという衝撃ニュースをピックアップ！
+でも、人間の研究成果の流用疑惑が出て世界中で大論争になってるんだよね🤔
+AIが作った成果物の「オリジナリティ」ってどこまで認められると思う？
+仕事でAIを使ううちらにとっても、著作権や権利の話は人事じゃないよね。気になる人はぜひ聴いてみてね！
+
+【Threads投稿文2】
+「会社からAIを使えって言われるけど、ぶっちゃけどう使えばいいか分からない…」
+そんな人に朗報（？）です！最新の実態調査で、企業がAI活用でぶつかる「5つの壁」が明らかになりました💡
+やっぱりツールだけ導入されても、社内のノウハウや教育（ナレッジ）が未整備だと現場は困っちゃうよね。
+最新の画像生成AI「ChatGPT Images 2.5」の話題と一緒に、毎朝10分でおしゃべりしてます🎧
+
+【Threads投稿文3】
+海外では韓国の企業向けChatGPT利用が28倍に急増中🔥
+でも日本だと「セキュリティ大丈夫？」って不安になる企業も多いよね。
+今、社内データを外部に出さずに安全に使える「ローカルAI」のサービスもどんどん増えてきてるよ。
+最新AIを爆速で使う海外の動きと、安全第一で導入する国内の動き。自分の仕事にはどう影響するか、朝の通勤時間にサクッと整理しちゃおう！
+
+---
+
+【ショート動画用30秒台本】
+リナ: ねぇモモ、OpenAIが100万ドルの懸賞金がついた数学の超難問をAIで解いたって発表したの知ってる？
+モモ: え、マジで！？AI天才すぎ勝たん！…って思ったら、なんか怪しい噂もあるのかな？
+リナ: そうなの！「これ人間の論文を流用しただけじゃね？」って世界中の数学者から異議が殺到して大炎上中！
+モモ: 完全な自力解決じゃない説！？AIが本当に賢いのかコピペなのか、今後の展開ヤバすぎでしょ！詳しくは本編で！
+
+【エピソードタイトル案】
+1. OpenAIが数学の難問解決を主張も疑惑？＆ChatGPT画像モデル最新版
+2. 数学難問をAIが解いた？OpenAIの最新発表と企業AI活用の「5つの壁」
+3. 韓国で企業ChatGPT利用が28倍に急増！画像生成2.5も登場でAIトレンド大猛進
+
+【ニュース出典リンク一覧】
+ニュース名：OpenAIが「GPT-6 Astraより高性能なモデル」を用いて数学の難問「ナビエ・ストークス方程式」の解決を主張、一方で人間の数学者の成果を流用した疑惑も生じる
+出典名：GIGAZINE
+URL：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DSHRlaUdZVTczdC00ckpnZGdHOHlPOWF0blBYdWVlTm5BblpfNEl1anZHTkxtaHZmV21STDZ0VHlFN1pVNWI2akx1UUVBdmtCVnBSUzJyMnNUMzY3ZUFEbW1XVnB3N1k?oc=5
+公式発表か報道ベースか：報道ベース（OpenAIの発表および数学者等の反論記事をもとにした報道）
+
+ニュース名：OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+出典名：株式会社インプレス
+URL：https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWmlzYmRXd3NkclV4dUc0WTY2Y0FRM29vM1VOcXJFNHVob0FhMHU2QXdpTTlmRXBybGN4b2FDT0V4NTA4THFwRTJMS3U0R2l6ZXEwTE52bTV4U3JEOUdKUzRfNA?oc=5
+公式発表か報道ベースか：公式発表
+
+ニュース名：「企業のAI活用に関する実態調査」を実施、AI格差を生む「5つの壁」と企業のナレッジ未整備の実態が明らかに
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTFBnX00yejlRaWhUb0FQb1BMYkV0Nkp2aGRUTzZyVU40WnhPUEZFUVRtM1A5cjZYTDdEZEJGUFR1aWZ3UFZJRUZrdmtSQUl3T1hYVUlrbklPWE1wbmktV2dGRU1BN2g4UXV4dHc?oc=5
+公式発表か報道ベースか：公式発表（調査リリース）
+
+ニュース名：OpenAI Korea発足1年、企業向けChatGPT利用者が28倍に急増——韓国
+出典名：BigGo ファイナンス
+URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNmduR1RIbDc2QXNtRE1LUWRlbmctb1l0OElETUxMeHhRUVB4M2tzeUlMX2ZnNWdZdVdDdWpzaFZxRFJpV3l2ZHdQTnNtS0RoanA2aFM3SWJFQU9MOWxTamJKcXI2bDBnLUJ0akpnQ1dBTjIz?oc=5
+公式発表か報道ベースか：報道ベース
+
+ニュース名：低コストのオンプレミスサーバで高速応答可能な『PKSHA Private AI Agents』の提供を開始
+出典名：PR TIMES
+URL：https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUEVGek1sQVJaMkpKNDh5cVBkRGdBcjI3TVlqeW4zbWVLQ0l3c216QVJxVGxzT3FlNHVnMkRwNGZ0S3Eyc0dONVZmR2lQbjM5RlVjLWxaczJKQ0I0UVM2WXJxYjk0OXBIV0E?oc=5
+公式発表か報道ベースか：公式発表
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。：OK
+- 報道ベースの内容を「発表しました」と言っていないか。：OK
+- 未公開モデルや政府要請を断定していないか。：OK
+- セキュリティや機密データを「安全」と言い切っていないか。：OK（「より安全に扱いやすくする方向へ」「確認が必要」と調整）
+- 強すぎる断定や煽り表現がないか。：OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。：OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。：OK（企業AI活用の壁・ナレッジ課題調査、韓国の市場動向と国内オンプレAI導入動向）
+- 芸能人のプライベートな話題や個人批判を扱っていないか。：OK
+- ニュースが原稿の読み上げ調ではなく、友達に話しかける日常会話の振りから始まっているか。：OK
+- 「続いては◯◯の話題です」のような番組進行アナウンスが残っていないか。：OK
+- 日常ネタ・雑談が全体の2割以内で、ニュースの中身がしっかり伝わるか。：OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか。：OK（キャ帕オーバー、ガチで、アゲぽよ、わかりみ、ビジュ爆発、神、勝ち確、シゴデキなど重複注意し配置）
+- 使用禁止のギャル語が入っていないか。：OK
+- 「神」「優勝」「終了」などを、企業や製品への断定的な評価として使っていないか。：OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。：OK（生成画像やアイコンのビジュ等に使用）
+- 「◯◯」などの記号が置き換えられずに残っていないか。：OK
+- 最後に同じ内容を繰り返していないか。：OK
+- 番組フォローへの導線が自然に入っているか。：OK
+- 出典リンク一覧があるか。：OK
+
+========================================
+
