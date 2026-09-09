@@ -6,6 +6,7 @@ from google import genai
 from google.genai import types
 
 from config import GEMINI_API_KEY, GEMINI_MODEL, MC_A, MC_B, PODCAST_TITLE
+from overseas import CORNER_CHECK, CORNER_INSTRUCTION, format_overseas, load_overseas
 
 logger = logging.getLogger(__name__)
 
@@ -263,20 +264,31 @@ def generate_script(
     """ニュースから台本、タイトル、概要欄、SNS下書きを生成"""
     client = genai.Client(api_key=GEMINI_API_KEY)
 
+    # 海外Podcast朝刊の「今日の1本」（無い日はNone＝コーナーなしで従来どおり）
+    overseas = load_overseas()
+    if overseas:
+        overseas_corner = CORNER_INSTRUCTION + "\n"
+        script_len = "4,200〜5,600"
+        audio_len = "13分〜18分"
+    else:
+        overseas_corner = ""
+        script_len = "3,500〜4,800"
+        audio_len = "10分〜15分"
+
     # スロット別の指示
     slot_instruction = f"""【スロット：デイリー（daily）】
 - 毎朝の放送用です。最初の挨拶は必ず「おはようございます」としてください。
 - ニュース候補から、今日話題性の高いものを【4〜6本】選んで台本を作成してください。
 - 選ぶときのバランス（厳守）: AIの話題を1〜3本、AI以外（マーケティング・ビジネス・エンタメ・SNSトレンドのいずれか）を必ず2本以上入れる。AIだけの回にしない。
-- 完成音声が10分〜15分に収まる長さにする。
-- 台本全体は日本語で必ず3,500〜4,800文字にしてください（3,200文字未満は不可）。テンポよく聴きやすい文章にしてください。
+- 完成音声が{audio_len}に収まる長さにする。
+- 台本全体は日本語で必ず{script_len}文字にしてください（下限を下回るのは不可）。テンポよく聴きやすい文章にしてください。
 - 構成ルール（厳守）:
   1. オープニング: 挨拶と名乗りのあと、朝の気分や軽い日常ネタのスモールトークを1〜2往復だけ入れ、「てか今日さ、やばい話題あるんだけど」のように自然に本題へ入る。今日のラインナップは箇条書きの読み上げにせず、「今日は◯◯の話もあるし、◯◯もあるよ」と会話の中で軽く予告する。
   2. 今日の注目ニュース: いちばん話題性の高いニュースを1つ選び、友達に話しかける振りから始めて、「何が起きたか」「なぜ話題か」「うちらの生活にどう関係あるか（誰が知っておくと得か）」を少し深めに。
   3. AIの話題: AIに関するニュースを日常会話の振りから紹介（注目ニュースがAIの場合は別のAIニュース、なければ短めでよい）。
   4. ビジネス・マーケの話題: ビジネス、マーケティング、ヒット商品、新サービスなどの話題を紹介。
   5. エンタメ・SNSの話題: 映画、音楽、アニメ、ゲーム、動画、SNSでバズっていることなどの話題を紹介。
-  6. 今日のまとめ: 今日いちばん覚えておきたい話題を一言でまとめ、番組フォローへの自然な案内、「また明日」の挨拶で締める。
+{overseas_corner}  6. 今日のまとめ: 今日いちばん覚えておきたい話題を一言でまとめ、番組フォローへの自然な案内、「また明日」の挨拶で締める。
 - 3〜5の各セクションは、その日のニュース候補に合わせて順番を入れ替えたり、2本紹介したりしてよい。話題の切り替わりは「続いてはビジネスの話題です」のような番組アナウンスではなく、「てか全然違う話なんだけどさ」のような日常会話の転換で行い、何の話に変わったかがその一言で分かるようにする。
 - エンディング例：
     {MC_A}: 今日をひとことでまとめると、AIもエンタメも動きまくりの一日だったね。
@@ -284,7 +296,13 @@ def generate_script(
     {MC_A}: それじゃ、また明日の朝ね〜。
 """
 
+    if overseas:
+        slot_instruction += "\n【この回の追加チェック】\n" + CORNER_CHECK + "\n"
+
     news_text = format_news(articles)
+    if overseas:
+        news_text += "\n\n" + format_overseas(overseas)
+
     prompt = PROMPT_TEMPLATE.format(
         show_name=show_name,
         mc_a=MC_A,
