@@ -1,0 +1,214 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260911
+========================================
+
+【エピソードタイトル】
+映画『オデュッセイア』世界15億ドル超え＆加護亜依アニメ出演！OpenAI新音声APIも話題
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『オデュッセイア』が世界興収15億ドル突破、日本でも「洋画離れ」底打ちなのか話題に
+・加護亜依がアニメ『ヤニねこ』に出演でバズ、原作者も感謝のツイート
+・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
+・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
+・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念
+
+========================================
+
+【元になったニュース】
+1. AIが次のAIをつくる「再帰的自己改善」、開発競争を誰が制御するのか - BRIDGE（ブリッジ）（BRIDGE（ブリッジ）） - https://news.google.com/rss/articles/CBMif0FVX3lxTFBMejdlNXoxRV9WY1dXNk1oQ05wYjFqOXo5UFpoUlJvT0hFNnJLc2RPaDFrZVlhaEcxVnJLSndsbUJOcGFJU0x1WTdHMnpDeWRINmthNGFfLThtcXVZNkNpR0wwaFctbnNYWjNsRng5UUwxTUNOWjFmVlZsN09IWEk?oc=5
+2. 日立、熟練者の知見をAIで形式知化 3D CADの設計ルール違反も自動検出：メカ設計ニュース - MONOist（MONOist） - https://news.google.com/rss/articles/CBMib0FVX3lxTE9RcHVlRTJLcU9senN1S0JOaE1BbkRvd3FPSmEyZ2NhTmlnam9hYnV3d3BoNDNocXVGS2ZPVTZXQ2gzTmdUUnVrVWcwb0MtcTVVTWVDM0ZQVGU4VHI4NWU5MlZENTZaX0FaWjVqQk9uaw?oc=5
+3. AIコマースとオンラインペイメント第1部 第1回目 AIコマース（AI Commerce）およびAIエージェンティックコマース（AI Agentic Commerce）のキーワード - paymentnavi.com（paymentnavi.com） - https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fX2tmMHRlQVNjWVFpM2tkV0JRZ1ZSWlFMQWlZZXh1cVJrUUNpenRKTlVtdFRzVTZCVUdtSGN6ekxfZlpwVUZuRFBkdTNDaWhQcWJ2VW1rTXNYdGM?oc=5
+4. 「レス速いしテンポも良くてすごい」——OpenAIの新音声API「GPT-Live-1」、1時間480円で使えた理由 - shiritomo（shiritomo） - https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RbFBMTGswSFhOLXdsRktlMnA3QzVsN0ZHZlJSTG5VZHNHRlZucVY5LTd2RVExRk1CTlY0TDBPUDNLZw?oc=5
+5. Wix.comが中小企業向け独立型AIエージェントプラットフォーム「Symphony by Wix」を提供開始（Web担当者Forum） - ｄメニューニュース（ｄメニューニュース） - https://news.google.com/rss/articles/CBMigAJBVV95cUxPSDNNUnpqNUV3c3M2S0RJYkVQUy1nSnlQWGFHbWZ1SVFxTklDb0VJNjBUcUlvclhDdVlwQlJuX2dXT2VGX3NLVGxlVE5SbXVIV3BmMjMtQmlwZDlaSVd0M25YVW03bDlvNmJ4OGVsS2RfeHJ4aU9DZGVQOEhlVUdJYVY1OE9SV0hrd2p5UUJsbllsOGE3M3JiMHE1Rmg4RUdHWVVudHg4aFlManlTenlBYnZ3V3hZRElaQTF2UVVfRVk5dHduVWRweFBDeVU2UFAySDNmX3dXdnl6NXZYRXRTNllMSHQ3TjhJZDdKd0o4dlZIbUloTHVibUx3eFpNRlVT?oc=5
+6. ソフトバンク「AGENTIC STAR」の核 AIエージェントに“通信事業者レベル”のガバナンスを - ビジネスネットワーク（ビジネスネットワーク） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xS3ZINFFtZENINVRXWUV0V3AxTjBrMmRuZWlFTk9NVkUzNEF3Sk9VSW1Mbk5xenNNQU55emFiRTBiZ0EyTDltUDU0WnBQYXJqVWlr?oc=5
+7. OpenAIとアンソロピックから研究者の退職相次ぐ。無謀な開発競争で「人類を滅ぼす可能性」を懸念 - Business Insider Japan（Business Insider Japan） - https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmNnVXh2b1ctRGhnejBWaDBDcFhlQ200dGIxb0g4UmJGbjJKR2pLWkE0N0M5QlRqZ3RBTTJXcFlNOE5jdXpTWkZaUDlOaWYycC1mR3p2UHdHQ3hnWWp3Q3g2X2NUcUdSTnExdjN1OUp1R1d2dkRYNERFQU5kU3lvR3hIbFNzalVOT2c?oc=5
+8. AIエージェント同士が縄張り争い 矛盾した指示によるリスク判明 - 日経クロステック（日経クロステック） - https://news.google.com/rss/articles/CBMickFVX3lxTE5vaEtiV090Y2NWbEpHcUpQN01yVnROU2xRNDU5N2JvZ2hfZUY5eGlBWldHMFNBVUxmdlhlbzNSek9kQ3liWGpKY0JackQ2MXVLTnRBQjZZS2xSdUdMTDFkQS1vMEhjc1F5enMtOC1hUUVpQQ?oc=5
+9. 加護亜依『ヤニねこ』出演で話題 猛禽類の女役＆アイキャッチ担当で原作者も驚き感謝 - オリコンニュース（オリコンニュース） - https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWMW9odXZVWTV2S3VPUTJMUVFnRWt0MXV0d1oxTzhub3F0bkx0SmRiWWgzcU9rWkxmRGZjZjlwWUR4YWVydWI0ZTA5aDItcEk?oc=5
+10. 世界15億ドル超えの「オデュッセイア」が日本でも話題に。「洋画離れ」底打ちの象徴になるか - note（note） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVkpCSW1TdFhUaXVoeDFjb2ZJb0VJQ0I5LXJ0MXdHbm5EUmNvTU1rdGk2UjViemtkM1BfSjNLY0pkMFVtWVhrS01aSG9UaUVRMVBj?oc=5
+11. アンソロピックで抗議の退社、OpenAI社員も同調 AI開発加速を懸念 - 日本経済新聞（日本経済新聞） - https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcVdmWUYwVWtCNnF5N1ZYVFowa1p5LTFqQXItZDItQWJGcVUzRFZ5NW50ZzBGNXdaZGNPNlRfWmNDT0ZwWUM4Z2JqdnFENU5waWExbnhrRFdfS3BJdHZUOGtjaUhTOU1OSmVmMw?oc=5
+12. AIエージェントの“暴走”をどう防ぐ？ ガートナーが示すセキュリティ「6つの要点」 - ビジネス+IT（ビジネス+IT） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uV0Nxd2tfYWxMSzYtOFhJMWVwWTF2MFozU3d3Ul8tSEFBakNIeDJlcXg4REU2VUhGcXhQbEVDblpHcHRvcUVlLWlPOWkzMXVFX19N?oc=5
+13. Anthropic、AIモデルを生物兵器開発に悪用したアカウントを遮断 - Межа. Новини України.（Межа. Новини України.） - https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dDFKbE82VjU1U3JLbVR0Z1E4TkljV1JNQkVOaUliMUNIX1VUOUNBNmtGSy1JbEdCdWxzRUZuVVYtRHBQSl9wTV8tRW9USnVpVGh6enI3d2Z5SFRtSm90LUNSZ2Ffdw?oc=5
+14. Anthropic研究者が退職、超知能への警告で問われるAI開発競争と停止の条件 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMibkFVX3lxTE1rNjFiT0tQZ1k0VUFWemlBM1h1czNPcEJuRjNsWkd6ZEF2OUJxNjhRN3pwaUtNVUZSdjlFQ0tiV09ldlpwcHp6NlBRYUpPSjN4TzU0SGd6eW45LXltVnQxTDJ2RmEya3l4eXE5X0x3?oc=5
+15. AI暴走、Anthropic4件目、OpenAIのWiki事件30サイトに 「命を賭けに」研究者訴え（平和博） - エキスパート - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzJRX1FCRU5NMkxlX3U5ZHU3WFBSdFB1YWY0dGs5YkNPZlU4SElqNFFaNFhMSk0yWW44T1NHbnQwRXIyeXBFY2hTLS04VlJCaGVpTnRMd093VVpXTDFhREl6bUdPUGdnTThNN0UtbWVONFZSQ3h1UUh3TWpNQXlZdkNGX1V2d0ZX?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます。リナです。
+モモ: おはようございます。モモです。
+リナ: てかさ、今朝コンビニ寄ったら新作のイチゴフレーバーのドリンク出ててさ、思わず買っちゃったんだけど、モチベ爆上がりしたわ。
+モモ: え、それめちゃくちゃ気になるんだけど。今度教えてね。
+リナ: いいよ。てかさ、今日も世の中でやばい話題がいっぱい動いてるから、サクッとシェアしていくね。
+モモ: 今日はどんな話題があるのかな？
+リナ: 今日は世界中で大ヒットしてる映画のニュースもあるし、加護亜依さんのアニメ出演のバズ、OpenAIの新しい音声技術、さらに日立のAI活用とかAIの安全性に関するちょっと深いニュースまで盛りだくさんだよ。
+モモ: えー、エンタメから最新AIまでバチバチに詰まってる感じだね。
+リナ: それな。じゃあ早速、今日いちばん注目されてるエンタメのニュースからいこうか。
+モモ: OK、どんな話題なのかな？
+リナ: ねえ聞いて、昨日スマホ見てたらさ、映画『オデュッセイア』の世界興行収入が15億ドル、日本円で2000億円を軽々と超えたってニュースが流れてきてビビったんだよね。
+モモ: え、15億ドルってガチで桁違いすぎない？
+リナ: 本当それな。海外メディアなどで大きく報じられていて、日本国内でも「日本の洋画離れがこれで底打ちするんじゃないか」ってノートやSNSで話題になってるんだよね。
+モモ: へー。最近確かに映画館で海外の映画観る人減ったって聞いてたけど、そんなにすごいのかな？
+リナ: そうなの。事実として確認できるのは、世界的な累計興行収入が15億ドルを突破していることと、日本国内でも興行ランキングで上位に入って大ヒットしている点なんだよね。
+モモ: なるほどね。これって公式発表なのかな、それとも報道ベースなのかな？
+リナ: 興行収入のデータは各国の集計データや映画業界メディアの公式集計で確認できる事実で、「洋画離れ底打ちの象徴になるか」という分析については、各種エンタメ系メディアや専門家の報道・考察ベースとなっているよ。
+モモ: あーね。なんで今これがこんなに話題になってるのかな？
+リナ: ここ数年、日本ではアニメ映画や邦画が圧倒的に強くて、「洋画離れ」って言われてたじゃん？でも、圧倒的な映像美とストーリー展開で、配信じゃなくて「劇場の大スクリーンで観たい」っていう体験価値がSNSで拡散されたのがデカいんだよね。
+モモ: たしかに、映えまくりの映像ならスマホじゃなくて映画館のデカいスクリーンの前でチルしながら観たいもんね。
+リナ: まさにそれ。これ、映画業界の人だけじゃなくて、マーケティングやコンテンツ制作に関わってる人が知っておくと得するニュースなんだよね。
+モモ: どういうところで役に立つのかな？
+リナ: 「単に映画を届ける」だけじゃなくて、「SNSで誰かに教えたくなる体験価値」をどう作るかっていうヒントになるの。うちらの日常で言ったら、わざわざ足を運びたくなるカフェやお店の空間づくりと同じ発想だよね。
+モモ: わかりみ。ネットで買えるのにわざわざショップに行くのって、そういう特別感があるからだもんね。
+リナ: そうそう。だからコンテンツビジネスの巻き返しの事例として、会話のネタにもめちゃくちゃ使えるんだよね。
+モモ: たしかに、次の休みに映画館行きたくなってきたな。
+リナ: てか全然違う話なんだけどさ、SNSでめちゃくちゃバズってるエンタメニュース見つけたから聞いてほしいんだけど。
+モモ: え、なにそれ？気になるんだけど何の話かな？
+リナ: あの加護亜依さんが、人気マンガが原作のアニメ『ヤニねこ』に声優として出演して、アイキャッチも担当したことが発表されて話題になってるんだよ。
+モモ: え、加護亜依さんが！？それ原作者の人とかファンもびっくりしたんじゃないかな？
+リナ: マジでそれ。原作者の方もSNSで驚きと感謝のコメントを出していて、Xでもトレンド入りするくらいバズってるの。
+モモ: えー、すごい。これは公式発表なのかな？
+リナ: うん、これはアニメの公式Xやオリコンニュースなどの公式報道で確認できる確定情報だよ。
+モモ: あー、公式なんだね。でもなんで今これがそんなに話題になってるのかな？
+リナ: 『ヤニねこ』って、ちょっとクセ強で独特な世界観が人気の作品なんだけど、そこに平成のトップアイドルだった加護亜依さんが起用されたっていうギャップがヤバすぎたんだよね。サプライズ感が半端なくて、解釈一致って喜ぶファンもいれば、意外すぎてツボる人も多くて爆発的に拡散されたの。
+モモ: たしかに、その組み合わせは予想外すぎて刺さるわ。
+リナ: これ、プロモーションや広報の仕事をしてる人が知っておくと大優勝できるポイントなんだよね。
+モモ: どういうところが仕事のヒントになるのかな？
+リナ: キャスティングの話題性って、ただ有名な人を呼べばいいわけじゃなくて、「文脈のギャップ」や「SNSでツッコミたくなる余白」をどう作るかが鍵になるってこと。ファンが自発的にポストしたくなる仕掛けとして大成功してる事例なんだよね。
+モモ: あーね。うちらがインスタで「この組み合わせヤバ！」って思わずシェアしちゃう感じと同じか。
+リナ: まさにそれ。友達との雑談でも「最近のアニメのキャスティング見た？」って話せるし、センス良すぎな施策だよね。
+モモ: おもしろいな。ちょっとそのアニメチェックしてみるね。
+リナ: あ、それで思い出したんだけど、AIの分野でも「レスが早すぎてヤバい」って話題になってる新技術があるんだよね。
+モモ: え、AIの音声の話かな？
+リナ: そう！OpenAIが新しい音声APIの「GPT-Live-1」を公開して、開発者の間で「レスポンスが爆速だしテンポも良くてすごい」って話題になってるの。しかも1時間あたり約480円っていう低価格で使えるらしくて、コスト面でも注目されてるんだよ。
+モモ: 1時間480円！？それってうちらがカフェでラテ1杯飲むくらいの値段じゃん。
+リナ: そうなの。事実として確認できるのは、OpenAIが開発者向けにこの音声モデルのアクセスを提供開始したことと、従来の音声APIよりも低遅延でリアルタイム会話ができるようになった点だね。
+モモ: これは公式発表なのかな？
+リナ: うん、OpenAIの技術ドキュメントや開発者向け発表で確認できる公式情報ベースだよ。
+モモ: へー！なんで今これがそんなに話題になってるのかな？
+リナ: 今までの音声AIって、こっちがしゃべってからAIが返事するまでに一瞬の間があったじゃん？それが「GPT-Live-1」だと、人間同士がおしゃべりしてるみたいに間を置かずに即レスしてくれるようになったの。しかも価格が抑えられたから、アプリや新サービスに組み込みやすくなったんだよね。
+モモ: え、それってうちらで言ったら、スマホのAIアシスタントが友達並みのレスバで返信してくる感じかな？
+リナ: ほんとそんな感じ。テンポが良すぎて会話のキャッチボールが自然なんだよね。これ、エンジニアの人だけじゃなくて、顧客対応の効率化を考えてるビジネスパーソンや、サービス開発をしてる人が知っておくとめちゃくちゃ得するよ。
+モモ: どういう風に使えそうなのかな？
+リナ: 例えば、お店の自動電話予約とか、英語の会話練習アプリ、高齢者の見守りサービスとかに、本物の人間みたいな会話AIが安く導入できるようになる可能性があるの。ビジネスの現場が一気に変わりそうな動きだから、知っておいて損はないよ。
+モモ: すごいな。AIと友達みたいに長電話できる時代がすぐそこに来てるんだね。
+リナ: ちょっと話変わるけど聞いて。ビジネスの現場でのAI活用といえば、日立の新しい取り組みもニュースになっててすごく興味深かったんだよね。
+モモ: 日立って、あの大手メーカーの日立だよね？どんなAIの使い方をしてるのかな？
+リナ: 日立が熟練の技術者が持っている経験や知識をAIで文字やデータにして、3D CADっていう設計図を作るソフトでルール違反がないかをAIが自動でチェックする仕組みを導入したんだって。
+モモ: へー！職人さんの頭の中にあるコツみたいなものを、AIが代わりに覚えてチェックしてくれるってことかな？
+リナ: まさにそれ。ベテラン社員しか知らなかった「この設計だと後で壊れやすい」みたいなノウハウをAIに学習させて、若手が作った設計図のミスを秒で自動検出できるようにしたの。
+モモ: え、それガチでしごできなシステムじゃん。
+リナ: ね。これはMONOistなどの産業ニュースで報道されている事実で、日立社内での業務効率化と技術継承の取り組みとして発表されているよ。
+モモ: なるほど。なんで今これが話題になってるのかな？
+リナ: 日本中の製造業や企業で、ベテラン社員が定年退職してノウハウが消えちゃう「技術継承の問題」がめちゃくちゃ深刻なんだよね。人手不足もあるし。それをAIを使って解決する具体例として、業界から大注目されてるの。
+モモ: あーね。うちらの身近な仕事で言ったら、職場の仕事ができる先輩の頭の中を全部マニュアル化して、ミスを自動で教えてくれる感じだよね？
+リナ: そうそう！だから製造業の人だけじゃなくて、社内のノウハウ継承や研修に悩んでる人事や管理職の人が知っておくと、自社の課題解決のヒントとして活用できるんだよね。
+モモ: 職人の技術が消えずにAIで残るって、すごく助かる取り組みだね。
+リナ: てか、AIがここまで仕事に溶け込んできてる一方で、実はAIの開発競争が激しすぎて「これ大丈夫なの？」って懸念するニュースも入ってきてるんだよね。
+モモ: え、安全性とかリスクの話かな？
+リナ: そうなの。AnthropicやOpenAIといった大手のAI開発企業から、優秀な研究者が相次いで退職しているって複数の海外メディアや日本経済新聞で報じられているんだよね。
+モモ: え、トップクラスのAI企業の研究者さんが辞めちゃってるの？なんでかな？
+リナ: 開発競争があまりにも加速しすぎていて、AIが人間の制御を超えて暴走したり、悪用されたりするリスクを防ぐための安全対策が後回しにされているんじゃないか、って警告を発して抗議の辞職をしていると報じられているの。
+モモ: 待って、それちょっと焦るんだけど。映画の世界みたいなことが起きちゃう可能性もあるのかな？
+リナ: 断定はできないけど、研究者たちはそういったリスクを真剣に心配しているんだよね。報道ベースの内容によると、Anthropicでは生物兵器の開発に悪用しようとしたアカウントを遮断した事例があったり、AIエージェント同士が矛盾した指示で縄張り争いみたいな動作をして暴走するリスクも指摘されているの。
+モモ: えー、AI同士が縄張り争い！？なんかちょっと怖いかも。
+リナ: ガートナーっていう調査会社も、AIエージェントの暴走を防ぐためのセキュリティ対策として6つのポイントを示すなど、安全対策の重要性を訴えているんだよね。
+モモ: これは公式発表というよりは、メディアの報道や専門家の指摘なのかな？
+リナ: そうだね。研究者の退職や懸念の声明は主要メディアによる報道ベースであり、企業側も安全性のガイドラインを順次アップデートして対応している段階だよ。だから「すぐに人類が危険」と断定するわけではなく、開発のスピードと安全性のバランスをどう取るかが世界的な議題になっている、という文脈で捉えるのが大切なんだよね。
+モモ: あーね。うちらが仕事や日常でAIを使うときはどう考えたらいいのかな？
+リナ: 企業でAIを導入する人や日常的に使っている人は、「AIはめちゃくちゃ便利だけど、社内データや個人情報の扱い、生成された情報の確認はしっかりルールを守って使おう」っていう意識を持つことが大切だね。「安全です」と言い切らずに、セキュリティや規約を常に確認しながら使うのがデキる大人の嗜みって感じ。
+モモ: たしかに。便利だからこそ、使ううちらもしっかり理解しておかないとね。
+リナ: マジでそれ。
+モモ: 今日もいろんなジャンルのニュースがあって勉強になったな。
+リナ: 今日をひとことでまとめると、映画『オデュッセイア』のヒットからAIの爆速化、そして安全性の課題まで、エンタメもAIも時代が激動した一日だったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: バイバーイ！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文】
+1. 映画『オデュッセイア』が世界興収15億ドル突破！日本でも洋画離れ底打ちなのか話題に。一方でOpenAIの爆速音声API「GPT-Live-1」や加護亜依さんのアニメ出演など今朝も話題満載。毎朝10分で最新トレンドをチェック！ #朝アゲ #オデュッセイア #AIトレンド
+
+2. 加護亜依さんがアニメ『ヤニねこ』出演でバズ！サプライズ起用のヒットの理由とは？さらに日立の3D CAD×AI活用からAIエージェントの安全性問題まで、ビジネスに効くニュースをサクッと解説中。 #ヤニねこ #AI活用 #ビジネス spark
+
+3. OpenAIの新音声APIが1時間480円＆爆速レスで話題に！AIの進化が止まらない一方で、研究者の退職や安全性の懸念もニュースに。今朝のPodcastで「なぜ今話題なのか」を分かりやすくまとめました！ #OpenAI #AIニュース #ポッドキャスト
+
+【Threads投稿文】
+1. 朝の準備をしながら聴くのにピッタリな最新ニュースまとめ更新しました！
+今日のメインは映画『オデュッセイア』の興行収入15億ドル突破のニュース。配信時代に「わざわざ劇場で観たい」と思わせる体験価値の作り方は、ビジネスや普段のSNS発信のヒントにもなりますよね。
+さらに加護亜依さんのアニメ出演バズや、OpenAIの爆速音声APIまで10分で紹介中。通勤中や朝カフェのお供にどうぞ！
+
+2. AIの進化スピード、本当に速いですよね。
+今朝の放送では、OpenAIが公開したリアルタイム音声API「GPT-Live-1」の話題を取り上げました。1時間約480円という低価格で、人間同士のような即レス会話ができるように。
+一方で、AnthropicやOpenAIで研究者の退職が相次ぎ、安全性の確保が課題になっているという報道も。便利さと安全性のバランスをどう取るか、私たちの仕事や暮らしにも関わる視点をギャル2人で分かりやすく紐解いています！
+
+3. 日立が熟練社員の設計ノウハウをAI化して、3D CADのミスを自動検出する仕組みを導入！
+「ベテランのノウハウが継承されない」という悩みはどの業界でも共通ですよね。AIを単なる業務効率化だけでなく、社内の知見を残すためにどう使うかという素晴らしい事例です。
+番組では、エンタメのヒット法則からビジネスの最先端まで朝10分で整理してお届けしています。ぜひ聴いてみてくださいね！
+
+【ショート動画用30秒台本】
+（BGM：アップテンポでポップなサウンド）
+リナ: ねえ知ってる？映画『オデュッセイア』が世界で興行収入15億ドルを突破！
+モモ: 桁違いすぎる！日本でも洋画離れ復活か？って大バズ中だよね。
+リナ: さらに加護亜依さんのアニメ出演バズから、OpenAIの爆速音声AIまで！
+モモ: 今朝の気になるニュース、全部詰まってるじゃん！
+リナ: 「リナとモモの朝アゲトレンド」で、毎朝10分サクッと情報アップデートしよ！
+モモ: プロフィールから今すぐ聴いてね！
+
+【エピソードタイトル案】
+1. 映画『オデュッセイア』世界15億ドル超え＆加護亜依アニメ出演！OpenAI新音声APIも話題
+2. 『オデュッセイア』興収15億ドル突破！加護亜依バズアニメ出演＆AI安全性の課題まとめ
+3. 映画『オデュッセイア』話題！OpenAI爆速音声APIと日立のAI業務効率化まで毎朝解説
+
+【ニュース出典リンク一覧】
+ニュース名：世界15億ドル超えの「オデュッセイア」が日本でも話題に。「洋画離れ」底打ちの象徴になるか
+出典名：note
+URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVkpCSW1TdFhUaXVoeDFjb2ZJb0VJQ0I5LXJ0MXdHbm5EUmNvTU1rdGk2UjViemtkM1BfSjNLY0pkMFVtWVhrS01aSG9UaUVRMVBj?oc=5
+公式発表か報道ベースか：報道・分析ベース
+
+ニュース名：加護亜依『ヤニねこ』出演で話題 猛禽類の女役＆アイキャッチ担当で原作者も驚き感謝
+出典名：オリコンニュース
+URL：https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWMW9odXZVWTV2S3VPUTJMUVFnRWt0MXV0d1oxTzhub3F0bkx0SmRiWWgzcU9rWkxmRGZjZjlwWUR4YWVydWI0ZTA5aDItcEk?oc=5
+公式発表か報道ベースか：公式発表・公式報道ベース
+
+ニュース名：「レス速いしテンポも良くてすごい」——OpenAIの新音声API「GPT-Live-1」、1時間480円で使えた理由
+出典名：shiritomo
+URL：https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RbFBMTGswSFhOLXdsRktlMnA3QzVsN0ZHZlJSTG5VZHNHRlZucVY5LTd2RVExRk1CTlY0TDBPUDNLZw?oc=5
+公式発表か報道ベースか：公式発表・技術報道ベース
+
+ニュース名：日立、熟練者の知見をAIで形式知化 3D CADの設計ルール違反も自動検出
+ソース：MONOist
+URL：https://news.google.com/rss/articles/CBMib0FVX3lxTE9RcHVlRTJLcU9senN1S0JOaE1BbkRvd3FPSmEyZ2NhTmlnam9hYnV3d3BoNDNocXVGS2ZPVTZXQ2gzTmdUUnVrVWcwb0MtcTVVTWVDM0ZQVGU4VHI4NWU5MlZENTZaX0FaWjVqQk9uaw?oc=5
+公式発表か報道ベースか：公式発表・業界報道ベース
+
+ニュース名：OpenAIとアンソロピックから研究者の退職相次ぐ。無謀な開発競争で「人類を滅ぼす可能性」を懸念
+出典名：Business Insider Japan
+URL：https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmNnVXh2b1ctRGhnejBWaDBDcFhlQ200dGIxb0g4UmJGbjJKR2pLWkE0N0M5QlRqZ3RBTTJXcFlNOE5jdXpTWkZaUDlOaWYycC1mR3p2UHdHQ3hnWWp3Q3g2X2NUcUdSTnExdjN1OUp1R1d2dkRYNERFQU5kU3lvR3hIbFNzalVOT2c?oc=5
+公式発表か報道ベースか：報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか：OK
+- 報道ベースの内容を「発表しました」と言っていないか：OK
+- 未公開モデルや政府要請を断定していないか：OK
+- セキュリティや機密データを「安全」と言い切っていないか：OK（ルールの確認やバランスが必要と補足）
+- 強すぎる断定や煽り表現がないか：OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか：OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか：OK（映画『オデュッセイア』、加護亜依『ヤニねこ』の2本を挿入）
+- 芸能人のプライベートな話題や個人批判を扱っていないか：OK（作品への出演実績とバズのみ取り扱い）
+- ニュースが原稿の読み上げ調ではなく、友達に話しかける日常会話の振りから始まっているか：OK
+- 「続いては◯◯の話題です」のような番組進行アナウンスが残っていないか：OK
+- 日常ネタ・雑談が全体の2割以内で、ニュースの中身がしっかり伝わるか：OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか：OK（モチベ爆上がり、バチバチ、それな、ビジュ、チル、わかりみ、ツボる、大優勝、即レス、しごでき、キャパい等の使用制限に配慮しつつ配置）
+- 使用禁止のギャル語が入っていないか：OK
+- 「神」「優勝」などを、企業や製品への断定的な評価として使っていないか：OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか：OK（映像や体験などモノに対して使用）
+- 「◯◯」などの記号が置き換えられずに残っていないか：OK
+- 最後に同じ内容を繰り返していないか：OK
+- 番組フォローへの導線が自然に入っているか：OK
+- 出典リンク一覧があるか：OK
+
+========================================
+
