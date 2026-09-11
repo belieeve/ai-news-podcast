@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
+・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
+・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
+・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
+・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260912_daily.mp3" length="10375341" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260912_daily</guid>
+      <pubDate>Sat, 12 Sep 2026 08:06:08 +0900</pubDate>
+      <itunes:duration>10:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
+・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
+・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
+・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
+・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画『オデュッセイア』世界15億ドル超え＆加護亜依アニメ出演！OpenAI新音声APIも話題</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1175,30 +1197,6 @@
 
 番組を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
 それでは、AIと共に未来を拓くヒントをどうぞ。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>Nvidia「Halos」で人型ロボットが職場へ！中小企業の業務改善、副業チャンスも</title>
-      <description>今日の「AIニュースデイリー 夕刊」では、Nvidiaが発表したロボット安全システム「Halos」を深掘りします。この新技術が、いかに人型ロボットの活用を広げ、日本の会社員・副業者・中小企業経営者の皆さんの仕事やキャリアに新たな可能性をもたらすのかを解説。人手不足解消や業務効率化、そして新しいビジネスチャンスに繋がるヒントをお届けします。
-
-今日の一歩：
-「身近な職場でロボットが解決できそうなタスクを一つ考えてみる」
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
-
-この番組を気に入っていただけたら、Spotifyでフォローをお願いします。それでは、また明日！</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="4144173" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260622_evening</guid>
-      <pubDate>Mon, 22 Jun 2026 23:44:50 +0900</pubDate>
-      <itunes:duration>04:18</itunes:duration>
-      <itunes:summary>今日の「AIニュースデイリー 夕刊」では、Nvidiaが発表したロボット安全システム「Halos」を深掘りします。この新技術が、いかに人型ロボットの活用を広げ、日本の会社員・副業者・中小企業経営者の皆さんの仕事やキャリアに新たな可能性をもたらすのかを解説。人手不足解消や業務効率化、そして新しいビジネスチャンスに繋がるヒントをお届けします。
-
-今日の一歩：
-「身近な職場でロボットが解決できそうなタスクを一つ考えてみる」
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
-
-この番組を気に入っていただけたら、Spotifyでフォローをお願いします。それでは、また明日！</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>

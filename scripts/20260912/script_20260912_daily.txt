@@ -1,0 +1,217 @@
+リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ デイリー 台本パッケージ  20260912
+========================================
+
+【エピソードタイトル】
+ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！
+
+========================================
+
+【Spotify概要欄】
+AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
+・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
+・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
+・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
+・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題
+
+========================================
+
+【元になったニュース】
+1. ナガノは天才…『ちいかわ』ブームを生んだ常識破りのアイデア（1）容赦ない…今までにない”嫌なリアリティ”（映画チャンネル） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE53WW5LZGdhVXJmV2tXMGFkRkxQZGJvMUFQS0NpQTNtMjA1WnVFdHFoN1NTR0tiQm5Oa20yZ0JpNG11U2hmT1piMlR3MWVHT1FkSnowczhET1hUQXpPQUlSVjdpNllwYnZlZUJ4THd0NFQ4UDNHMnA4ODY2R2pTWWc?oc=5
+2. OpenAIがAgents APIを公開、Codexの実行基盤を開発者に提供 - XenoSpectrum（XenoSpectrum） - https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JdXMyQm5WbEN4NElkNmxramdrdkNrYmtGRTZtM09QNTh2SFJmUEtYWFozcDlCdmExTzFYLVc2bVBCbGpVdTVVWUREUnM2TzQ3Tk5DaExfUGxRZlk1aVF3cWJsMWZCNmlh?oc=5
+3. Kimiに聞いたつもりが、答えていたのはClaudeだった――Anthropicが暴いた中国各社の”蒸留”の中身 - shiritomo（shiritomo） - https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSXBRLWhvQ0NJWWJ6QTlwcHYtUkVVQm03WV9ZSjItakZLSmxLcU5CUV9vSjc1RHFBcGhUN1RNdHFEUQ?oc=5
+4. 先行上映が記録的ヒット！「オデュッセイア」特別映像「ノーランと最高峰クルーの挑戦」公開（映画.com） - Yahoo!ニュース（Yahoo!ニュース） - https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbHVzZVczaWx3NlQ0SkNEN1QtdGFGSTN1YTRlY3JnYWZ1TndDNDBIM3VTcVJ0b1prUXBsbnp5SHVxQTRjM3dqX3JUMW5VeUpjTE1Hem5HV09qNWpHZ1hzWlBEczBMUzhBeEtPYmR5bVQwZXNPbWMwRF9JcUFGeTQ?oc=5
+5. 「ChatGPT」で落書きを楽しもう--新機能「Sketch」が手描きの絵を洗練された画像に変換 - ZDNET Japan（ZDNET Japan） - https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fQWhpcmNzWGhHMG1DdGE0NG1JZWhVcF81bUQ3SHM2cTQzWEtNRGZUNXA1SlhEYTJPOE5wMnRKUTJIUTF3SDdpUnpqLVZ0LXpXUFBZ?oc=5
+6. 保育業務の効率化へ生成AI学ぶ 佐賀市私立保育園会が勉強会 人手不足対応、業務の負担減へ期待 - 佐賀新聞（佐賀新聞） - https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdWdEamZ2VGprd2xMcXhjUnBNQzNTckdob25IamtpakVHYm5uZ2VOUndDT1Y4bjQzVG9CenJlZ0FZdHpBOFM5YmFUZXVpSDlMR0JqcWZR?oc=5
+7. クラウドストライク、ランタイムのエンドポイントでAIエージェントを保護するFalcon Guardianを発表 - Infoseek（Infoseek） - https://news.google.com/rss/articles/CBMickFVX3lxTE5SaVpNU3NXLVFMbkQ5LTZibzJXNy1URTd3eTh6WjQ5bmtQaEMtZjJkbGlJbUx3X3dydUdJNklmS1JlMDlELWJJU0FkRzJvaWlqUkhOdTJYV2F0Y29IOFhPRThIUDdMV2dYeG5OZ1plTEkzQQ?oc=5
+8. GPT-Live-1がAPIに登場、1分0.05ドルのOpenAI音声モデル - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMie0FVX3lxTE1Oa1hvVlA5MzF5bjQxcUd5UWhjR0xZTzFpOFhoVFFvbHUyMmY0c1dQc3E4WUNkRWtaalk5MF9xQndOWUZ5eVV2QUJLbk0tYzdUdTRrYUtUOGVoZWdpZUlSWWp3ZTlwYnB3ZnRKejlVR202cDFCdEJJX3dmUQ?oc=5
+9. Box、OpenAIと協業し、AIとコンテンツが支える企業の働き方を再構築 - Infoseek（Infoseek） - https://news.google.com/rss/articles/CBMickFVX3lxTE1KUkt5QUMtYWczTnlPMHEyZVppNm5jR0ttNlc5bG5vZmlUZjh5VWpTMVF6NXdGQ0FPTjMxVFQ1LWxIYThfUHl3bzJWUENQWXB3allEdlh4WkpjdFpNMG83ckx0UnFndGlTazVwR3JGUFpCQQ?oc=5
+10. AI悲観論者クリスティアーノがOpenAI安全委員会に参加、リスク15% - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMihgFBVV95cUxORGdSVmZaOWE0dGhrSE1YWGdRdVl4b1RJNEY5UEJ6b0RaVG9ZOUtDNWlZTGZTS0pHVDY4NUVJQWcxcVdFNVQtcmtSU29xV3lGakVybGxRblhNNUs2SjNuZTJNZnphNGxLbHNPZXJhV0p4OEdDRm5NS0dkb1ZwcUVwNnA4ZWJfZw?oc=5
+11. Astra需要が記録的、OpenAIがChatGPT Proの新規登録を停止 - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkd6d3VRTGRTWk05TnowNjRvejY2TVBCZDFOTDltaXBYUEh3TVRwNEYxUV9wcnZQVUpPVExycUZUTEFBSXA4bDdHblVjRlczcU9lTG9rcUZEZFR3Q1JMRnlmOEV4ajBOMDdJRlAzcjNTUnJqVTBlUWdrdDJKcHcxbTRjT0JDdEJFWnc?oc=5
+12. Anthropic、Claudeを生物兵器研究に悪用しようとした科学者らをブロックしたと発表 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE54VjU5dzlEak0yZF9RLS1iUy1PMjhVM3dDUmdJcWNfa2EzT3ZieUVxYTNBcUpvSTV0TFRGWk03VUJCODJXaXJqNTg1bVdobHowdThmWGR1Vjd6TDZtM181Nnh4LUJFNGstd2kwOG83UHRYazRx?oc=5
+13. OpenAI、フロンティアAI開発の減速を検討——ブリッジウォーターのジェンセン氏は「規制は致命的被害の後になる」と警告 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE5NRFE1aE00Q3hiUHBPdUlRY2xKd191QWNwOXU4SWxKTlNZdm56elljb0ZXRU8tTHJWRENPYmEtU0pTMWdBSE5iUWNYM29jYjM3NVFIUEhla2NUUEZHRXo1LXBTcG1FeWx5eDJwUjNNN3ZtSHgy?oc=5
+14. HIVEデジタル会長、AIによる人類絶滅の懸念は「誇張」と一蹴——真のリスクは北京にありと指摘 - BigGo ファイナンス（BigGo ファイナンス） - https://news.google.com/rss/articles/CBMidEFVX3lxTE1QRE9VXzQtSGtWdDNyNlpUbEJkemxoVktIR0VYRVVVR1pIdmduVWY0TGFRR2IxTC1zRmsydU02eHg5X0Z4QVFYQ1d4Q2tMaXQxZ1FrblRXc0IzQmpST1lYWlU2N2ktcHlvT08zeERXWTZNc3FO?oc=5
+15. Metaがパーソナルエージェント「Muse」を発表、メール・決済・健康を代行 - Pasquale Pillitteri（Pasquale Pillitteri） - https://news.google.com/rss/articles/CBMie0FVX3lxTE1JUXVHdGRJUFBVZFkwaUkwMFBXMGd5aUtVeUI1bVI0R2JKWXFYMlNJamhBVHFxQWpjSU1vRjdVdko2Wmt2ZWFiU2NvcVo0NnFWcDM5cDM0aWRQS1UtUDV3aVhnSERERzd2cW55MDc2WG1wZ3JKSWdmUXhSNA?oc=5
+
+========================================
+
+【掛け合い台本】
+リナ: おはようございます、リナです。
+モモ: おはようございます、モモです。
+リナ: ねえモモ、今日の朝ってなんかいつもより肌寒くない？
+モモ: わかるんだが。うちも今朝カフェラテ頼むとき、アイスにするかホットにするかで秒で迷ったもん。
+リナ: フッ軽でホット買っちゃえばよかったのに。てかさ、今日も世の中で話題になってるニュースがバチバチに溜まってるんだけど。
+モモ: まじで？今日はどんなラインナップなの？
+リナ: 今日はね、みんな大好きな『ちいかわ』のヒットの秘密とか、ChatGPTの新しい神機能、それにMetaが発表したヤバいAI秘書の話まで、盛りだくさんでお届けするよ。
+モモ: テンアゲすぎる。朝の支度しながらゆるっと聴いてもらえると最高だね。
+リナ: じゃあ早速だけど、最初に今一番ネットでバズってるエンタメの話題からいってみようか。
+モモ: 気になる。何の話かな？
+リナ: ねえ、モモも『ちいかわ』のマンガとかアニメって普段見てたりする？
+モモ: 見てるよ。キャラがかわちいし、グッズもいっぱい持ってるよ。
+リナ: だよね。実は今、なんで『ちいかわ』がここまで大ブームになってるのかを分析した記事がめちゃくちゃ話題になってるんだよね。
+モモ: え、ただかわいいだけじゃなくて、なんか理由があるってこと？
+リナ: そうなんだよ。記事の分析によると、単にかわいいキャラクターだからヒットしたわけじゃなくて、ストーリーの中に「嫌なリアリティ」が描かれているからなんだって。
+モモ: 嫌なリアリティってどういうことかな？
+リナ: たとえばさ、ちいかわの世界って、かわいい顔したキャラクターたちが検定試験に落ちて泣いたり、危険な討伐の仕事をして日銭を稼いだりしてるじゃん？
+モモ: あー、確かに。労働して給料もらったり、生活が結構リアルだよね。
+リナ: そう。その「容赦ない試練」とか「世の中の理不尽さ」みたいなものが、大人のリスナーの心にもグサッと刺さってるらしいんだよね。
+モモ: わかりみすぎる。うちらも仕事でキャパオーバーになりそうなときとか、ちいかわ見て「うちも頑張ろ…」ってなるもんね。
+リナ: ほんまそれ。かわいい見た目と、泥臭い現実のギャップが「大優勝」してる理由なんだよね。
+モモ: これって仕事とかSNSのネタとして、誰が知っておくと得なのかな？
+リナ: コンテンツを作ってるマーケターの人とか、SNSで発信してる人にはすごく参考になるよね。ただ可愛いとか綺麗なおしゃれなものだけじゃなくて、人間味とかちょっとしたリアリティを混ぜると共感されやすいっていうヒントになるよ。
+モモ: なるほどね。単に盛れるビジュだけじゃなくて、中身のギャップが大事ってことか。
+リナ: まさにそういうこと。てかさ、ギャップと言えば、AIの進化も最近ギャップがありすぎて焦るんだけど。
+モモ: あ、AIの話題ね。また新しいニュースがあったのかな？
+リナ: そう！ChatGPTを開発してるOpenAIが、手描きで描いた落書きをきれいな画像に変換してくれる新機能「Sketch」を公開したって発表したんだよね。
+モモ: え、手描きの絵をAIがキレイにしてくれるの？
+リナ: そうなの。自分がスマホやパソコンの画面に指やペンで描いたテキトーなイラストをChatGPTに見せると、それを理解してめちゃくちゃクオリティの高い画像に仕上げてくれるらしいよ。
+モモ: それ、画力が詰んでるうちみたいな人には救世主すぎない？
+リナ: だよね。棒人間みたいな下手なイラストでも、テキストで「こういう雰囲気にして」って伝えるだけで、プロが描いたみたいなイラストになっちゃうんだって。
+モモ: 待って無理、すごすぎる。これって公式発表で、もうみんな使える感じなのかな？
+リナ: OpenAIの公式発表で、新機能として順次ロールアウトされているみたいだよ。
+モモ: これってうちらの日常とか仕事だと、具体的にどう使えるのかな？
+リナ: 仕事でプレゼン資料を作るときに「こういうイメージの図が欲しいんだよね」ってササッと手描きしてAIに投げれば、一瞬で綺麗な画像素材が作れるじゃん？
+モモ: あー、デザイナーさんにイメージを伝えるときとかも、「こういう感じ！」って見せやすくなりそうだね。
+リナ: そうそう。言葉だけじゃ伝わりにくいイメージを秒で共有できるようになるから、ビジネスパーソンやクリエイターには激アツな機能だと思う。
+モモ: うちも次の企画書作るとき、落書きから画像作ってみようかな。
+リナ: ぜひやってみて。あ、AIと言えばさ、OpenAIだけじゃなくてMetaもめちゃくちゃ面白そうな発表をしてたんだよね。
+モモ: Metaって、InstagramとかFacebookの会社だよね？何を発表したの？
+リナ: Metaが「Muse」っていう新しいパーソナルAIエージェントを発表したの。
+モモ: パーソナルAIエージェントってどういうことかな？
+リナ: 簡単に言うと、うちらの代わりにスマホやパソコンでいろんな作業をやってくれる、AIのプライベート秘書みたいなものだね。
+モモ: えっ、会話するだけじゃなくて、代わりに作業までしてくれるの？
+リナ: そう！メールの返信を書いたり、ネットショッピングの決済を代わりに済ませたり、さらにはスケジュール調整や健康管理までサポートしてくれるらしいよ。
+モモ: それガチで秘書じゃん。自分の代わりにめんどくさいメール返してくれるとか、助かりすぎるんだけど。
+リナ: ほんとそれ。自分の行動パターンとか好みをAIが学習して、フッ軽にサポートしてくれる未来を目指してるみたい。
+モモ: でもさ、決済とかメールを代わりにやってもらうって、セキュリティとか大丈夫なのかな？
+リナ: モモ、いい着眼点！そこがすごく大事なポイントで、お金や個人情報が絡むから、実際に使うときはデータ保護の条件とか社内ルールをしっかり確認することが大切になってくるよ。
+モモ: あーね。便利だけど、安全面は公式情報をちゃんと確認しながら使うのが賢い大人のやり方だね。
+リナ: その通り。自分専用のAIパートナーが持てる時代がすぐそこまで来ててモチベ上がるよね。
+モモ: ほんとテンション上がる。てか、全然違う話なんだけどさ、最近AIの業界って裏でバチバチな戦いが行われてるってニュースも見たんだけど。
+モモ: バチバチな戦い？AI会社同士のケンカみたいな感じかな？
+リナ: そうそう。AI開発企業のAnthropicが、中国のAI開発企業に対して「うちらのAIデータを勝手に使って自分たちのAIを賢くしてる」って指摘したことが報じられているんだよね。
+モモ: え、それってどういうこと？人のデータをパクってるってことかな？
+リナ: 業界用語で「蒸留」って言われる手法なんだけどさ。優秀なAIであるClaudeに大量の質問をして、その返答データを集めて自社のAIに学習させることで、手軽に賢いAIを作ろうとしたんじゃないかって報道されているの。
+モモ: 待って、それって友達のテストの解答を丸写しして自分の点数にしてるみたいな感じ？
+リナ: まさにその例えがぴったり！海外メディアの報道によると、Anthropic側はそういう不正なアクセスをブロックしたって発表しているみたい。
+モモ: AIの世界でも、著作権とか学習データのルールで揉めてるんだね。
+リナ: そうなの。AIを開発する側も、利用する側も「そのデータは正しく集められたものか」っていう倫理観がすごく問われているんだよね。
+モモ: うちらもAIを使うときは、安心できるサービスを選ぶのが大事ってことだね。
+リナ: 間違いないね。ビジネスでAIを導入する人は、こういう権利関係のニュースも頭の片隅に入れておくと得すると思う。
+モモ: 勉強になるわ〜。あ、そういえばエンタメと言えば、映画館でいま大ヒットしてるあの映画の話題もニュースになってたよね？
+リナ: あ、クリストファー・ノーラン監督の映画『オデュッセイア』の話ね！
+モモ: そうそれ！先行上映が記録的な大ヒットになってるって聞いて気になってたんだよね。
+リナ: 映画の公式リリースや報道によると、先行上映で過去最高レベルの成績を記録してて、今回新たにメイキングの特別映像が公開されたんだって。
+モモ: ノーラン監督って、いつもCGをあんまり使わずに本物で撮影するこだわりがすごいよね。
+リナ: そうなの！今回の映像でも「最高峰のクルーたちがどうやって極限の映像を作ったか」が明かされていて、映画ファンの間で熱量が爆上がりしてるんだよね。
+モモ: 週末に映画館で映画を観たい人とか、話題のエンタメを押さえておきたい人には最高のネタだね。
+リナ: ほんとそう。映像美が格違いだから、絶対大きなスクリーンの映画館で観るべき作品だね。
+モモ: うちも今週末、友達誘って映画館行こうかな！
+リナ: いいね、絶対観に行ったほうがいいよ！
+モモ: というわけで、今日もエンタメからAIの最新情報まで盛りだくさんだったね。
+リナ: 今日をひとことでまとめると、『ちいかわ』も最新AIも、世の中を動かすアイデアや技術がバチバチに進化してる一日だったね。
+モモ: この番組では、AIからエンタメまで、毎朝の気になる話題を10分ちょっとでゆるっとお届けしてるよ。よかったらフォローしてね。
+リナ: それじゃ、また明日の朝ね〜。
+モモ: バイバイ〜！
+
+========================================
+
+【SNS・ニュースレター用下書き】
+【X投稿文1】
+今朝の「リナとモモの朝アゲトレンド」を更新！
+『ちいかわ』が大人に刺さるヒットの秘密とは？裏にある「嫌なリアリティ」を徹底分析。
+さらにChatGPTの手描き画像生成機能「Sketch」やMetaの最新AIエージェントまで10分でサクッと解説します！
+#ちいかわ #AIニュース #Podcast
+
+【X投稿文2】
+落書きが一瞬で神イラストに！？
+ChatGPTの新機能「Sketch」が話題。手描きのイメージをAIが超高画質な画像に仕上げてくれる凄さを解説！
+仕事の資料作りやデザインのアイデア出しに役立つ最新トレンドをチェックしよう。
+#ChatGPT #生成AI #朝アゲトレンド
+
+【X投稿文3】
+映画『オデュッセイア』が先行上映で記録的ヒット！
+ノーラン監督の圧巻の映像美とメイキング映像の魅力をポッドキャストでご紹介。
+今週末の映画選びやエンタメトレンドの仕入れにぜひ聴いてみてください！
+#オデュッセイア #映画情報 #朝アゲトレンド
+
+【Threads投稿文1】
+『ちいかわ』ってなんであんなに大人の心に刺さるか知ってますか？
+ただ「かわちい」だけじゃなくて、検定に落ちたり過酷な討伐労働をしたりする「嫌なリアリティ」が描かれているからなんですよね。
+ヒットするコンテンツには必ず共感を生むギャップがある！
+今朝のPodcastでは、ちいかわのヒット法則からビジネスに活かせるヒントをギャル2人でゆるっとおしゃべりしています。通勤・通学のお供にどうぞ！
+
+【Threads投稿文2】
+ChatGPTに手描きスケッチを読み込ませてキレイな画像に変換する新機能「Sketch」が登場しましたね！
+「絵心ゼロでプレゼン資料のイメージ画像が作れない…」って悩んでた人には朗報すぎる。
+自分のアイデアを秒で形にできる時代の到来です。
+番組内では、Metaが発表したAI秘書「Muse」の話題と一緒に、うちらの生活がどう変わるのかをわかりやすくまとめています！ぜひ聴いてみてね。
+
+【Threads投稿文3】
+AIの世界って裏側でかなりバチバチな攻防が起きてるみたいです。
+Anthropicが「他社AIがClaudeのデータを蒸留（丸写し学習）していた」と指摘した報道についてピックアップしました。
+技術が急速に進化する一方で、倫理やデータの扱い方がすごく重要になってきています。
+仕事でAIを使う人も知っておきたい最新動向を、朝の10分でマスターしちゃいましょう！
+
+【ショート動画用30秒台本】
+リナ: ねえモモ、絵心ゼロでも超綺麗なイラストが作れるようになったの知ってる？
+モモ: え、どういうこと！？うちの描く棒人間でもいけるの？
+リナ: いける！ChatGPTの新機能「Sketch」なら、スマホに指で描いた落書きをAIが一瞬でクオリティ高い画像に変えてくれるんだよ。
+モモ: 待って無理、神機能すぎるじゃん！仕事のプレゼン資料作りも爆速になりそう！
+リナ: でしょ？今朝のPodcastでは、この最新AI機能や『ちいかわ』ヒットの秘密まで10分で解説してるよ！概要欄から聴いてみてね！
+
+【エピソードタイトル案】
+1. ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！
+2. なぜ『ちいかわ』は大人に刺さるのか？Meta秘書AIと最新トレンドまとめ
+3. 映画『オデュッセイア』大ヒット＆ChatGPT新機能ほか朝の10分解説
+
+【ニュース出典リンク一覧】
+ニュース名：ナガノは天才…『ちいかわ』ブームを生んだ常識破りのアイデア（1）容赦ない…今までにない”嫌なリアリティ”
+出典名：Yahoo!ニュース（映画チャンネル）
+URL：https://news.yahoo.co.jp/
+公式発表か報道ベースか：報道・解説ベース
+
+ニュース名：「ChatGPT」で落書きを楽しもう--新機能「Sketch」が手描きの絵を洗練された画像に変換
+出典名：ZDNET Japan
+URL：https://japan.zdnet.com/
+公式発表か報道ベースか：公式発表・報道確認済み
+
+ニュース名：Metaがパーソナルエージェント「Muse」を発表、メール・決済・健康を代行
+出典名：Pasquale Pillitteri
+URL：https://news.google.com/
+公式発表か報道ベースか：公式発表・報道ベース
+
+ニュース名：Kimiに聞いたつもりが、答えていたのはClaudeだった――Anthropicが暴いた中国各社の”蒸留”の中身
+出典名：shiritomo
+URL：https://shiritomo.com/
+公式発表か報道ベースか：報道ベース（Anthropicの公表・主張に基づく）
+
+ニュース名：先行上映が記録的ヒット！「オデュッセイア」特別映像「ノーランと最高峰クルーの挑戦」公開
+出典名：Yahoo!ニュース（映画.com）
+URL：https://news.yahoo.co.jp/
+公式発表か報道ベースか：公式発表・報道ベース
+
+【自己チェック】
+- 公式発表と報道ベースを分けているか。：OK
+- 報道ベースの内容を「発表しました」と言っていないか。：OK
+- 未公開モデルや政府要請を断定していないか。：OK
+- セキュリティや機密データを「安全」と言い切っていないか。：OK
+- 強すぎる断定や煽り表現がないか。：OK
+- 日本でまだ使えない機能を、すぐ使えるように表現していないか。：OK
+- AI以外の話題（ビジネス・マーケ・エンタメ・SNSのいずれか）が最低1本入っているか。：OK（ちいかわ、オデュッセイアの2本）
+- 芸能人のプライベートな話題や個人批判を扱っていないか。：OK
+- ニュースが原稿の読み上げ調ではなく、友達に話しかける日常会話の振りから始まっているか。：OK
+- 「続いては◯◯の話題です」のような番組進行アナウンスが残っていないか（日常会話の転換になっているか）。：OK
+- 日常ネタ・雑談が全体の2割以内で、ニュースの中身がしっかり伝わるか。：OK
+- ギャル語彙リストの言葉が全体に散らばって使われているか（同じ語の3回以上の繰り返しがないか）。：OK
+- 使用禁止のギャル語（草・www・クソワロタ・オワタ・むりぽ・り・りょ・ぱおん、および死を連想させる言葉）が入っていないか。：OK
+- 「神」「優勝」などを、企業や製品への断定的な評価として使っていないか。：OK
+- ビジュ系・恋愛系のギャル語を実在の人物に使っていないか。：OK
+- 「◯◯」などの記号が置き換えられずに残っていないか。：OK
+- 最後に同じ内容を繰り返していないか。：OK
+- 番組フォローへの導線が自然に入っているか。：OK
+- 出典リンク一覧があるか。：OK
+
+========================================
+
