@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>出会い系にAI偽人格2万5000人！？＆AI開発減速の波とMeta新作「Muse」</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
+・Anthropic CEOがAI開発の減速を提言、業界トップも注目
+・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
+・Metaが自律型パーソナルAIエージェント「Muse」を発表
+・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260913_daily.mp3" length="12548781" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260913_daily</guid>
+      <pubDate>Sun, 13 Sep 2026 07:55:21 +0900</pubDate>
+      <itunes:duration>13:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
+・Anthropic CEOがAI開発の減速を提言、業界トップも注目
+・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
+・Metaが自律型パーソナルAIエージェント「Muse」を発表
+・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1163,40 +1185,6 @@
 これからもAIの最新情報を分かりやすくお届けしていきますので、Spotifyで「AIニュースデイリー」をフォローして、毎日のAI活用に役立ててください。
 
 それでは、また明日。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>Nvidia新システムでロボットが身近に？中小企業・副業のチャンスを解説</title>
-      <description>「AIニュースデイリー 夕刊」へようこそ！
-この番組は、忙しい日本のビジネスパーソンが海外AIニュースを10分で理解し、仕事や副業に活かせるヒントをお届けします。
-
-今日の夕刊では、Nvidiaが発表したロボット安全システム「Halos」を深掘り。AIの力でロボットが人間と同じ空間で安全に動けるようになることで、私たちの働き方やビジネスにどのような変化が訪れるのか、具体的に解説します。
-
-【今日の一歩】
-あなたの仕事や生活で「もしロボットが安全に、人間と同じ空間で動けるようになったら、どんな作業を任せられるだろう？」と想像し、アイデアを書き出してみましょう。
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。
-無料登録はこちらから！ [ニュースレター登録リンクプレースホルダ]
-
-番組を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
-それでは、AIと共に未来を拓くヒントをどうぞ。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260622_evening.mp3" length="3841197" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260622_evening</guid>
-      <pubDate>Mon, 22 Jun 2026 23:48:58 +0900</pubDate>
-      <itunes:duration>04:00</itunes:duration>
-      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ！
-この番組は、忙しい日本のビジネスパーソンが海外AIニュースを10分で理解し、仕事や副業に活かせるヒントをお届けします。
-
-今日の夕刊では、Nvidiaが発表したロボット安全システム「Halos」を深掘り。AIの力でロボットが人間と同じ空間で安全に動けるようになることで、私たちの働き方やビジネスにどのような変化が訪れるのか、具体的に解説します。
-
-【今日の一歩】
-あなたの仕事や生活で「もしロボットが安全に、人間と同じ空間で動けるようになったら、どんな作業を任せられるだろう？」と想像し、アイデアを書き出してみましょう。
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。
-無料登録はこちらから！ [ニュースレター登録リンクプレースホルダ]
-
-番組を気に入っていただけたら、ぜひSpotifyでフォローをお願いします！
-それでは、AIと共に未来を拓くヒントをどうぞ。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
