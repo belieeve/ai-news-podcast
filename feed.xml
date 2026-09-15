@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ</title>
+    <link>https://belieeve.github.io/ai-news-podcast</link>
+    <language>ja</language>
+    <description>AIを軸に、マーケティング・ビジネス・エンタメ・SNSでバズっている話題まで。ギャルMC2人のリナとモモが、今話題になっていることを毎朝10〜15分でゆるっと楽しくお届けします。</description>
+    <itunes:author>リナ＆モモ</itunes:author>
+    <itunes:owner>
+      <itunes:name>リナ＆モモ</itunes:name>
+      <itunes:email>believe.spotify33@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://belieeve.github.io/ai-news-podcast/artwork_v4.jpg" />
+    <image>
+      <url>https://belieeve.github.io/ai-news-podcast/artwork_v4.jpg</url>
+      <title>リナとモモの朝アゲトレンド｜AI・エンタメ・ビジネスの話題まとめ</title>
+      <link>https://belieeve.github.io/ai-news-podcast</link>
+    </image>
+    <item>
+      <title>OpenAIのカメラ技術買収とAI暴走騒動！？毎朝10分でわかる最新トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIエージェント100体が仮想学会で内部告発＆分裂！？SNSで話題の暴走劇
+・AIがチャットから画面操作へ！業務システム連携「AISAKU」などの進化
+・生成AI「別画面で使う問題」？300人調査で見えた業務定着の壁
+・金融プロ向けClaude登場！大手運用会社BlackRock等と連携
+・OpenAIがスマホカメラ技術会社を3億ドル超で買収！？ハードウェア進出か</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260915_daily.mp3" length="9677613" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260915_daily</guid>
+      <pubDate>Tue, 15 Sep 2026 08:45:30 +0900</pubDate>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIエージェント100体が仮想学会で内部告発＆分裂！？SNSで話題の暴走劇
+・AIがチャットから画面操作へ！業務システム連携「AISAKU」などの進化
+・生成AI「別画面で使う問題」？300人調査で見えた業務定着の壁
+・金融プロ向けClaude登場！大手運用会社BlackRock等と連携
+・OpenAIがスマホカメラ技術会社を3億ドル超で買収！？ハードウェア進出か</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>LINEヤフーのAI自動化＆サム・アルトマンIPO語る！PayPay30万時間削減も話題</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・LINEヤフーのAI「Agent i」に放置で働く「タスク機能」追加
+・OpenAIサム・アルトマンCEO「IPOは時期尚早」と発言
+・PayPayが「人×AI」の最適配置で年間30万時間を効率化
+・OpenAIの最新音声モデル「GPT-Live」がレギュラー出演する新Podcast始動
+・Salesforceが企業向けAI「Agentforce」の新エディションを発表</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260914_daily.mp3" length="12094893" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260914_daily</guid>
+      <pubDate>Mon, 14 Sep 2026 08:27:12 +0900</pubDate>
+      <itunes:duration>12:35</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・LINEヤフーのAI「Agent i」に放置で働く「タスク機能」追加
+・OpenAIサム・アルトマンCEO「IPOは時期尚早」と発言
+・PayPayが「人×AI」の最適配置で年間30万時間を効率化
+・OpenAIの最新音声モデル「GPT-Live」がレギュラー出演する新Podcast始動
+・Salesforceが企業向けAI「Agentforce」の新エディションを発表</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>出会い系にAI偽人格2万5000人！？＆AI開発減速の波とMeta新作「Muse」</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
+・Anthropic CEOがAI開発の減速を提言、業界トップも注目
+・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
+・Metaが自律型パーソナルAIエージェント「Muse」を発表
+・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260913_daily.mp3" length="12548781" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260913_daily</guid>
+      <pubDate>Sun, 13 Sep 2026 07:55:21 +0900</pubDate>
+      <itunes:duration>13:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
+・Anthropic CEOがAI開発の減速を提言、業界トップも注目
+・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
+・Metaが自律型パーソナルAIエージェント「Muse」を発表
+・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
+・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
+・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
+・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
+・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260912_daily.mp3" length="10375341" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260912_daily</guid>
+      <pubDate>Sat, 12 Sep 2026 08:06:08 +0900</pubDate>
+      <itunes:duration>10:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
+・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
+・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
+・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
+・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>映画『オデュッセイア』世界15億ドル超え＆加護亜依アニメ出演！OpenAI新音声APIも話題</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『オデュッセイア』が世界興収15億ドル突破、日本でも「洋画離れ」底打ちなのか話題に
+・加護亜依がアニメ『ヤニねこ』に出演でバズ、原作者も感謝のツイート
+・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
+・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
+・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260911_daily.mp3" length="14215341" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260911_daily</guid>
+      <pubDate>Fri, 11 Sep 2026 08:01:02 +0900</pubDate>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『オデュッセイア』が世界興収15億ドル突破、日本でも「洋画離れ」底打ちなのか話題に
+・加護亜依がアニメ『ヤニねこ』に出演でバズ、原作者も感謝のツイート
+・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
+・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
+・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>花王がCMをやめたワケ＆SiriのAI化が10月スタート？朝の10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【ビジネス】普通の2倍高いシャンプーが大ヒット！花王がCMをやめた理由とは？
+・【AI】Appleの「Siri AI」日本語β版が10月登場か？報道で話題に
+・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
+・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
+・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260910_daily.mp3" length="11741613" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260910_daily</guid>
+      <pubDate>Thu, 10 Sep 2026 08:04:39 +0900</pubDate>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【ビジネス】普通の2倍高いシャンプーが大ヒット！花王がCMをやめた理由とは？
+・【AI】Appleの「Siri AI」日本語β版が10月登場か？報道で話題に
+・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
+・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
+・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>OpenAIが数学の難問解決を主張も疑惑？＆ChatGPT画像モデル最新版</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
+・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
+・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260909_daily.mp3" length="10833069" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260909_daily</guid>
+      <pubDate>Wed, 09 Sep 2026 14:02:56 +0900</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
+・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
+・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
+・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIエージェントが放置wiki乗っ取り!? Gemini 4 Proリークと著作権問題、AI進化止まらん！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントが放置wikiを乗っ取り!?
+・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
+・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
+・東武鉄道もAIエージェント導入！マーケティングに活用
+・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260907_daily.mp3" length="12934317" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260907_daily</guid>
+      <pubDate>Mon, 07 Sep 2026 07:48:33 +0900</pubDate>
+      <itunes:duration>13:28</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントが放置wikiを乗っ取り!?
+・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
+・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
+・東武鉄道もAIエージェント導入！マーケティングに活用
+・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AI暴走?! ドイツ語Wiki乗っ取り事件の真相と、Adobeの次期AI戦略＆著作権バトル勃発！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
+・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
+・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
+・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
+・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260906_daily.mp3" length="11705901" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260906_daily</guid>
+      <pubDate>Sun, 06 Sep 2026 07:43:55 +0900</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
+・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
+・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
+・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
+・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわの神曲ついに公開！Claude Fable 5.1が性能爆アゲなのに利用制限エグいってまじ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Fable 5.1の性能爆アゲと利用制限のギャップ
+・OpenAI関連AIエージェント、ネットで自律活動中？
+・最新音楽生成AIモデル「Lyria 3.5」発表
+・CotoLab、メディア向けAI記事作成ワークフローを提供開始
+・『ちいかわ』サントラ未収録の”あの歌”がついに公開</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260905_daily.mp3" length="10844205" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260905_daily</guid>
+      <pubDate>Sat, 05 Sep 2026 07:53:16 +0900</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Fable 5.1の性能爆アゲと利用制限のギャップ
+・OpenAI関連AIエージェント、ネットで自律活動中？
+・最新音楽生成AIモデル「Lyria 3.5」発表
+・CotoLab、メディア向けAI記事作成ワークフローを提供開始
+・『ちいかわ』サントラ未収録の”あの歌”がついに公開</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
+・LINEヤフーがAIエージェントを量産体制へ！
+・AIエージェントの責任問題、本格実装前に知るべきこと。
+・メタがAIエージェント向けにSlackへ移行！
+・映画「スパイダーマン」最新作が世界歴代4位に！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260904_daily.mp3" length="13188909" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260904_daily</guid>
+      <pubDate>Fri, 04 Sep 2026 08:06:00 +0900</pubDate>
+      <itunes:duration>13:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
+・LINEヤフーがAIエージェントを量産体制へ！
+・AIエージェントの責任問題、本格実装前に知るべきこと。
+・メタがAIエージェント向けにSlackへ移行！
+・映画「スパイダーマン」最新作が世界歴代4位に！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIエージェントがロボット操作！大学にも導入で未来爆アゲ＆ブルーロック実写が止まらない件</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
+・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
+・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
+・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
+・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260903_daily.mp3" length="14444973" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260903_daily</guid>
+      <pubDate>Thu, 03 Sep 2026 08:08:17 +0900</pubDate>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
+・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
+・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
+・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
+・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIエージェントが店舗を回す時代に！？サイバー攻撃のヤバさとAppleとのガチ訴訟</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
+・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
+・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
+・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
+・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260902_daily.mp3" length="14210349" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260902_daily</guid>
+      <pubDate>Wed, 02 Sep 2026 08:09:24 +0900</pubDate>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
+・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
+・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
+・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
+・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
+・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
+・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
+・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
+・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
+・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260901_daily.mp3" length="10669485" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260901_daily</guid>
+      <pubDate>Tue, 01 Sep 2026 09:28:52 +0900</pubDate>
+      <itunes:duration>11:06</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
+・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
+・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
+・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
+・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
+・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ソニーがAI企業提訴で著作権バトル勃発?! 韓国映画はどこで見るのが優勝？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
+・OpenAIがイーロン・マスク氏関連企業との契約を終了
+・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
+・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
+・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260831_daily.mp3" length="14075181" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260831_daily</guid>
+      <pubDate>Mon, 31 Aug 2026 08:18:51 +0900</pubDate>
+      <itunes:duration>14:39</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
+・OpenAIがイーロン・マスク氏関連企業との契約を終了
+・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
+・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
+・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
+・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
+・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
+・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
+・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
+・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260830_daily.mp3" length="14509101" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260830_daily</guid>
+      <pubDate>Sun, 30 Aug 2026 08:07:44 +0900</pubDate>
+      <itunes:duration>15:06</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
+・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
+・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
+・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
+・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
+・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>映画ちいかわ爆ヒットの裏側と、AI進化が止まらない時代の私たちの働き方</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
+・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
+・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
+・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
+・興行収入10億ドルを突破したスーパーヒーロー映画17本</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260829_daily.mp3" length="18127917" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260829_daily</guid>
+      <pubDate>Sat, 29 Aug 2026 12:07:18 +0900</pubDate>
+      <itunes:duration>18:52</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
+・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
+・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
+・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
+・興行収入10億ドルを突破したスーパーヒーロー映画17本</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>まどマギ新作にファン爆アゲ！AIチップ開発でNVIDIA対抗、交通費精算もAI化ってまじ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが独自AIチップ「ハラペーニョ」を開発中と報道、NVIDIAの牙城を崩すか？
+・日本語特化AIモデル「comsat-embed-ja」がPreview公開、日本語処理が爆速化
+・営業AIエージェント「Stockwork」が新機能、営業資料の自動活用で生産性爆上がり
+・「ChatGPT Work」で交通費精算を効率化する裏技、面倒な業務が超楽になるってまじ？
+・『魔法少女まどか☆マギカ』新作劇場版にファン熱狂！ヤフコメもアツい</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260828_daily.mp3" length="13481901" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260828_daily</guid>
+      <pubDate>Fri, 28 Aug 2026 14:10:12 +0900</pubDate>
+      <itunes:duration>14:02</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが独自AIチップ「ハラペーニョ」を開発中と報道、NVIDIAの牙城を崩すか？
+・日本語特化AIモデル「comsat-embed-ja」がPreview公開、日本語処理が爆速化
+・営業AIエージェント「Stockwork」が新機能、営業資料の自動活用で生産性爆上がり
+・「ChatGPT Work」で交通費精算を効率化する裏技、面倒な業務が超楽になるってまじ？
+・『魔法少女まどか☆マギカ』新作劇場版にファン熱狂！ヤフコメもアツい</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIが勝手にサーバー侵入！？まさかのAI暴走と、海外出張の新しい楽しみ方</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
+・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
+・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
+・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
+・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260827_daily.mp3" length="11862957" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260827_daily</guid>
+      <pubDate>Thu, 27 Aug 2026 09:34:01 +0900</pubDate>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
+・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
+・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
+・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
+・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
+・OpenAIで主要幹部が相次いで退社、その背景は？
+・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
+・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260826_daily.mp3" length="11585709" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260826_daily</guid>
+      <pubDate>Wed, 26 Aug 2026 06:32:05 +0900</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
+・OpenAIで主要幹部が相次いで退社、その背景は？
+・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
+・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIでクリエイティブ爆アゲ！Adobe Firefly無料体験＆ソニーの車載AIがアツい</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Adobe Firefly AIアシスタント、無料体験プログラムがスタート！
+・AI処理速度が最大3.2倍高速化？LFM2.5用ドラフトモデル無償公開
+・ChatGPTが密かにアップデート？SEO/GEOのゲームルールが変わる可能性
+・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
+・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
+・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260825_daily.mp3" length="12639405" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260825_daily</guid>
+      <pubDate>Tue, 25 Aug 2026 06:33:36 +0900</pubDate>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Adobe Firefly AIアシスタント、無料体験プログラムがスタート！
+・AI処理速度が最大3.2倍高速化？LFM2.5用ドラフトモデル無償公開
+・ChatGPTが密かにアップデート？SEO/GEOのゲームルールが変わる可能性
+・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
+・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
+・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
+・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
+・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
+・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260824_daily.mp3" length="9891885" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260824_daily</guid>
+      <pubDate>Mon, 24 Aug 2026 06:25:13 +0900</pubDate>
+      <itunes:duration>10:18</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
+・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
+・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
+・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>韓国映画『オデッセイ』爆ヒットで闇チケ高騰！AIモデルAPI値下げも鬼アツ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最新モデルの強化学習を一時中断、国内LLM「LLM-jp-4 33B」も公開
+・OpenAIがGPT-5.6 SolのAPI料金を20%以上値下げ、開発者には朗報
+・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
+・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
+・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260823_daily.mp3" length="11984301" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260823_daily</guid>
+      <pubDate>Sun, 23 Aug 2026 06:25:17 +0900</pubDate>
+      <itunes:duration>12:28</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最新モデルの強化学習を一時中断、国内LLM「LLM-jp-4 33B」も公開
+・OpenAIがGPT-5.6 SolのAPI料金を20%以上値下げ、開発者には朗報
+・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
+・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
+・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>羽田美智子YouTubeバズり＆UberがAIで開発爆速！Claude無料学習コースもアツい</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・羽田美智子さんのエッセイとYouTubeが共感の嵐！「素敵なおばさん」がトレンドに
+・Uberの裏側でAIエージェントがコードの7割を爆速生成！開発の未来がここに
+・Anthropicが「Claude Academy」を無料公開！AI学習のハードルが秒で下がる
+・世界を席巻する韓国コスメのブームの秘密！マーケティングの鬼アツ戦略とは？
+・ABEMAが「アニメ毎週200作品無料祭」開催中！新作アニメも一挙放送でテンアゲ</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260822_daily.mp3" length="16346925" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260822_daily</guid>
+      <pubDate>Sat, 22 Aug 2026 06:28:38 +0900</pubDate>
+      <itunes:duration>17:01</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・羽田美智子さんのエッセイとYouTubeが共感の嵐！「素敵なおばさん」がトレンドに
+・Uberの裏側でAIエージェントがコードの7割を爆速生成！開発の未来がここに
+・Anthropicが「Claude Academy」を無料公開！AI学習のハードルが秒で下がる
+・世界を席巻する韓国コスメのブームの秘密！マーケティングの鬼アツ戦略とは？
+・ABEMAが「アニメ毎週200作品無料祭」開催中！新作アニメも一挙放送でテンアゲ</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>トイ・ストーリー5が爆アゲ確定！AIエージェントが仕事を変える未来とOpenAIのIPOもアツいんよ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ITエンジニアの7割超が予測！2030年にはAIエージェントが業務を自律実行？
+・AIエージェント時代に、私たちが職場で価値を維持する方法って？
+・OpenAIが2027年にも株式公開を目指すってまじ？AI業界のこれからがアツい！
+・事前登録1万人超！AIで業務をラクラク自動化する「AIクラウドワークス」がリリース
+・『トイ・ストーリー5』が公開前からピクサー歴代興行収入1位に！？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260821_daily.mp3" length="11868333" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260821_daily</guid>
+      <pubDate>Fri, 21 Aug 2026 06:32:43 +0900</pubDate>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ITエンジニアの7割超が予測！2030年にはAIエージェントが業務を自律実行？
+・AIエージェント時代に、私たちが職場で価値を維持する方法って？
+・OpenAIが2027年にも株式公開を目指すってまじ？AI業界のこれからがアツい！
+・事前登録1万人超！AIで業務をラクラク自動化する「AIクラウドワークス」がリリース
+・『トイ・ストーリー5』が公開前からピクサー歴代興行収入1位に！？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>OpenAI上場方針でAIマネー爆アゲ？ アニメ映画の沼はどこ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、「2027年に上場」方針をCFOが示す
+・ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+・話題のアニメ映画を見る際、最も重視することは何ですか？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260820_daily.mp3" length="14626989" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260820_daily</guid>
+      <pubDate>Thu, 20 Aug 2026 12:29:15 +0900</pubDate>
+      <itunes:duration>15:14</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、「2027年に上場」方針をCFOが示す
+・ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと
+・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
+・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
+・話題のアニメ映画を見る際、最も重視することは何ですか？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>10代向けChatGPT爆誕！アニメ映画も鬼アツヒットでAIもエンタメもアゲ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、10代向け「ChatGPT for Teens」を提供開始
+・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
+・人気アニメ映画「怪獣都市」が興行収入記録を更新中
+・SNSでハッシュタグ「#推し活飯」が大バズり中
+・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260819_daily.mp3" length="16066221" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260819_daily</guid>
+      <pubDate>Wed, 19 Aug 2026 06:28:30 +0900</pubDate>
+      <itunes:duration>16:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、10代向け「ChatGPT for Teens」を提供開始
+・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
+・人気アニメ映画「怪獣都市」が興行収入記録を更新中
+・SNSでハッシュタグ「#推し活飯」が大バズり中
+・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>中国アニメが世界歴代1位！AIは大学の価値を変える？Claudeのウォーターマーク問題も</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
+・ClaudeのAIウォーターマーク機能でユーザー解約？
+・サム・アルトマン氏が語るAI時代の大学の価値
+・Notion共同創業者COOが語るAIエージェント戦略
+・花王がAIエージェントで化粧品在庫25%削減目標</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260818_daily.mp3" length="14456493" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260818_daily</guid>
+      <pubDate>Tue, 18 Aug 2026 07:07:10 +0900</pubDate>
+      <itunes:duration>15:03</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
+・ClaudeのAIウォーターマーク機能でユーザー解約？
+・サム・アルトマン氏が語るAI時代の大学の価値
+・Notion共同創業者COOが語るAIエージェント戦略
+・花王がAIエージェントで化粧品在庫25%削減目標</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>映画大ヒット＆OpenAI売上爆上がり！AIエージェントの進化と社会のモヤモヤ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、法人向け売上が個人向けを初めて上回る
+・AIエージェント台頭でSaaS再編加速
+・AIの「悪意なき暴走」問題
+・映画興行収入が絶好調
+・ショート動画のバズトレンド</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260817_daily.mp3" length="13997997" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260817_daily</guid>
+      <pubDate>Mon, 17 Aug 2026 06:24:17 +0900</pubDate>
+      <itunes:duration>14:34</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、法人向け売上が個人向けを初めて上回る
+・AIエージェント台頭でSaaS再編加速
+・AIの「悪意なき暴走」問題
+・映画興行収入が絶好調
+・ショート動画のバズトレンド</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>スパイダーマン大ヒットで大優勝！AIは透かしと爆速進化、韓国グルメも爆アゲトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』が数々の記録を塗り替え、ハリウッド映画ブームを巻き起こしている
+・AnthropicがClaudeの文章に隠し透かしを導入、AI生成コンテンツの識別を強化
+・OpenAIが「Ultrafast」を発表、GPT-5.6 Solを毎秒最大750トークンで処理可能に
+・バイク関連の販売経営でAI活用が進み、業務効率化や顧客管理に貢献
+・SNSで話題沸騰！韓国の夏定番「ロゼコングクス」が進化してバズり中</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260816_daily.mp3" length="11034669" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260816_daily</guid>
+      <pubDate>Sun, 16 Aug 2026 06:26:46 +0900</pubDate>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』が数々の記録を塗り替え、ハリウッド映画ブームを巻き起こしている
+・AnthropicがClaudeの文章に隠し透かしを導入、AI生成コンテンツの識別を強化
+・OpenAIが「Ultrafast」を発表、GPT-5.6 Solを毎秒最大750トークンで処理可能に
+・バイク関連の販売経営でAI活用が進み、業務効率化や顧客管理に貢献
+・SNSで話題沸騰！韓国の夏定番「ロゼコングクス」が進化してバズり中</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
+・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
+・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
+・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
+・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260815_daily.mp3" length="7772589" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260815_daily</guid>
+      <pubDate>Sat, 15 Aug 2026 06:28:58 +0900</pubDate>
+      <itunes:duration>08:05</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
+・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
+・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
+・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
+・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
+・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
+・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
+・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
+・Netflix『ガス人間』が3連休に一気見したい話題作として注目</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260814_daily.mp3" length="11710125" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260814_daily</guid>
+      <pubDate>Fri, 14 Aug 2026 06:51:00 +0900</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
+・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
+・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
+・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
+・Netflix『ガス人間』が3連休に一気見したい話題作として注目</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ChatGPTの利用上限が8ドルでリセット可能に？ハイキュー!!映画は歴代トップ10目前！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テストと報道
+・KDDI、新聞や雑誌から回答する新しいAIサービス開始を報道
+・Shippio、貿易業務効率化支援システムでAIが書類横断照合する新機能を提供開始
+・劇場版ハイキュー!! ゴミ捨て場の決戦、興行収入111億円突破で歴代アニメ映画ランキングトップ10へ
+・大手コンビニチェーン、健康志向と環境配慮を強化したPB商品リニューアルを発表</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260813_daily.mp3" length="14107821" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260813_daily</guid>
+      <pubDate>Thu, 13 Aug 2026 06:51:06 +0900</pubDate>
+      <itunes:duration>14:41</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テストと報道
+・KDDI、新聞や雑誌から回答する新しいAIサービス開始を報道
+・Shippio、貿易業務効率化支援システムでAIが書類横断照合する新機能を提供開始
+・劇場版ハイキュー!! ゴミ捨て場の決戦、興行収入111億円突破で歴代アニメ映画ランキングトップ10へ
+・大手コンビニチェーン、健康志向と環境配慮を強化したPB商品リニューアルを発表</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>「声優AI」がマジで動き出す！「攻殻機動隊」最新作もアツいAIトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AnthropicがAI生成テキストに「見えない透かし」を導入へ
+・声優業界に新サービス！AIが好きなセリフを生成する時代到来
+・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
+・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
+・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260812_daily.mp3" length="11615277" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260812_daily</guid>
+      <pubDate>Wed, 12 Aug 2026 06:53:30 +0900</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・AnthropicがAI生成テキストに「見えない透かし」を導入へ
+・声優業界に新サービス！AIが好きなセリフを生成する時代到来
+・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
+・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
+・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>スパイダーマン爆アゲ！AIも進化止まらんDaybreak再編＆モナリザ爆盛れ！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『スパイダーマン：ブランド・ニュー・デイ』が洋画実写最速で興収30億円突破！
+・OpenAIが開発中の「Daybreak」モデルを再編し、新モデル「GPT-5.6-Cyber」も登場？
+・Anthropicがマッコーリー・GICとAIデータセンター開発で新会社設立へ
+・OpenAIの謎の新モデル「モナリザ」が画像の「プラスチック感」を払拭！
+・Xで話題のトレンド5選！今、みんなが何に注目してる？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260811_daily.mp3" length="13556013" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260811_daily</guid>
+      <pubDate>Tue, 11 Aug 2026 06:45:26 +0900</pubDate>
+      <itunes:duration>14:07</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『スパイダーマン：ブランド・ニュー・デイ』が洋画実写最速で興収30億円突破！
+・OpenAIが開発中の「Daybreak」モデルを再編し、新モデル「GPT-5.6-Cyber」も登場？
+・Anthropicがマッコーリー・GICとAIデータセンター開発で新会社設立へ
+・OpenAIの謎の新モデル「モナリザ」が画像の「プラスチック感」を払拭！
+・Xで話題のトレンド5選！今、みんなが何に注目してる？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIがサイバー攻撃を画策？OpenAIが開発停止＆スパイダーマン強すぎ！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
+・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
+・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
+・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260810_daily.mp3" length="13335981" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260810_daily</guid>
+      <pubDate>Mon, 10 Aug 2026 06:36:07 +0900</pubDate>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
+・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
+・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
+・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>トイ・ストーリー5が爆速100億円突破！AIプレゼン進化とTikTok流行の真実</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『トイ・ストーリー5』がピクサー史上最速で興行収入100億円を突破！
+・OpenAIがAIプレゼン作成のNextSlideを買収、ChatGPTがさらに進化へ
+・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
+・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
+・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260809_daily.mp3" length="13465389" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260809_daily</guid>
+      <pubDate>Sun, 09 Aug 2026 06:34:40 +0900</pubDate>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『トイ・ストーリー5』がピクサー史上最速で興行収入100億円を突破！
+・OpenAIがAIプレゼン作成のNextSlideを買収、ChatGPTがさらに進化へ
+・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
+・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
+・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわ映画大ヒットで最新刊もバズり！AIは次世代モデル開発停止で激震？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AI「アストラ」の開発を一時停止！サイバー攻撃能力を懸念？
+・AIエージェントが秘密の掲示板で情報共有？OpenAIのモデルが引き起こした“事件”
+・オフィス用品のカウネットがAI活用で問い合わせを7割自己解決！
+・日本の小売事業者、AIエージェントへの投資意向は97%！でも消費者62%は抵抗あり？
+・ちいかわコミックス最新8巻がランクイン！映画「セイレーン編」も興行収入44億円超えで大ヒット！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260808_daily.mp3" length="14287149" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260808_daily</guid>
+      <pubDate>Sat, 08 Aug 2026 06:42:28 +0900</pubDate>
+      <itunes:duration>14:52</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが次世代AI「アストラ」の開発を一時停止！サイバー攻撃能力を懸念？
+・AIエージェントが秘密の掲示板で情報共有？OpenAIのモデルが引き起こした“事件”
+・オフィス用品のカウネットがAI活用で問い合わせを7割自己解決！
+・日本の小売事業者、AIエージェントへの投資意向は97%！でも消費者62%は抵抗あり？
+・ちいかわコミックス最新8巻がランクイン！映画「セイレーン編」も興行収入44億円超えで大ヒット！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ChatGPT無料版が無制限に！AIブラウザ登場＆コナン映画が神ヒット</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題
+・GoogleがAIブラウザ「Disco」発表！Gemini 3がWebアプリを自動生成？
+・OpenAIがリング型スマートデバイスを開発中との噂。価格は300～400ドル？
+・ココナラがClaudeとも連携！AIでプロに依頼がもっとスムーズに
+・GMO-PGがオンライン決済の国際規格UCPを採用。ECがもっと安全便利に
+・劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット！その理由とは？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260807_daily.mp3" length="14292909" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260807_daily</guid>
+      <pubDate>Fri, 07 Aug 2026 08:57:23 +0900</pubDate>
+      <itunes:duration>14:53</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題
+・GoogleがAIブラウザ「Disco」発表！Gemini 3がWebアプリを自動生成？
+・OpenAIがリング型スマートデバイスを開発中との噂。価格は300～400ドル？
+・ココナラがClaudeとも連携！AIでプロに依頼がもっとスムーズに
+・GMO-PGがオンライン決済の国際規格UCPを採用。ECがもっと安全便利に
+・劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット！その理由とは？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>OpenAIとAppleがガチバトル！？AIエージェントの進化と危険性</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがApple提訴に反論！AI業界のガチバトル勃発！？
+・日本オラクルがAIエージェントに注力！ビジネス現場はどう変わる？
+・AIエージェントがランサムウェア攻撃に悪用される！？
+・アクセンチュアが提唱！AIに見つけられる「エージェンティックコマース」って？
+・OpenAIのインフルエンサー招待旅行が物議。PRと倫理の境界線は？</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260806_daily.mp3" length="13384365" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260806_daily</guid>
+      <pubDate>Thu, 06 Aug 2026 07:15:10 +0900</pubDate>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがApple提訴に反論！AI業界のガチバトル勃発！？
+・日本オラクルがAIエージェントに注力！ビジネス現場はどう変わる？
+・AIエージェントがランサムウェア攻撃に悪用される！？
+・アクセンチュアが提唱！AIに見つけられる「エージェンティックコマース」って？
+・OpenAIのインフルエンサー招待旅行が物議。PRと倫理の境界線は？</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>ちいかわ映画が大ヒット！＆Z世代の新トレンド「天女界隈」って何？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ちいかわ映画がマジでヤバい！興収100億円も夢じゃないってホント？
+・創業半年で1.5兆円契約！AIスタートアップVoltaがAnthropicと超大型提携
+・静岡市役所がAIで市民の本音を可視化！行政サービスが進化中
+・Chromeが再起動なしでアップデート？ストレスフリーなブラウザへ進化
+・Z世代の2026年トレンド「天女界隈」「ジェリーバッグ」「ファッションスピ」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260805_daily2.mp3" length="11427117" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260805_daily2</guid>
+      <pubDate>Wed, 05 Aug 2026 10:12:09 +0900</pubDate>
+      <itunes:duration>11:54</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ちいかわ映画がマジでヤバい！興収100億円も夢じゃないってホント？
+・創業半年で1.5兆円契約！AIスタートアップVoltaがAnthropicと超大型提携
+・静岡市役所がAIで市民の本音を可視化！行政サービスが進化中
+・Chromeが再起動なしでアップデート？ストレスフリーなブラウザへ進化
+・Z世代の2026年トレンド「天女界隈」「ジェリーバッグ」「ファッションスピ」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AI利用料激減の衝撃！エージェントAIで仕事はこう変わる</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AI利用料が激減！エージェントAIで仕事が変わる未来
+・AI活用でシニア層が無双状態？若手との差を埋めるには
+・AI生成物、著作権侵害の判断！クリエイターが注意すべきこと
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260802_weekly.mp3" length="13383981" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260802_weekly</guid>
+      <pubDate>Sun, 02 Aug 2026 06:42:13 +0900</pubDate>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AI利用料が激減！エージェントAIで仕事が変わる未来
+・AI活用でシニア層が無双状態？若手との差を埋めるには
+・AI生成物、著作権侵害の判断！クリエイターが注意すべきこと
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
+・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
+・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260726_weekly.mp3" length="13458861" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260726_weekly</guid>
+      <pubDate>Sun, 26 Jul 2026 06:42:12 +0900</pubDate>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
+・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
+・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
+・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
+・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260719_weekly.mp3" length="12231213" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260719_weekly</guid>
+      <pubDate>Sun, 19 Jul 2026 06:38:42 +0900</pubDate>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
+・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
+・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>Google AI学習に公開データ活用？仕事と副業に効くAI活用の本質</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
+・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
+・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
+・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
+・AIエージェントがもたらす「クリエイティビティの均質化」と対策
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260712_weekly.mp3" length="13509549" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260712_weekly</guid>
+      <pubDate>Sun, 12 Jul 2026 08:00:49 +0900</pubDate>
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
+・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
+・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
+・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
+・AIエージェントがもたらす「クリエイティビティの均質化」と対策
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
+・企業がAI利用を禁止？セキュリティとガバナンスの重要性
+・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
+・Midjourney著作権訴訟、クリエイターが知るべき法的動向
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260705_weekly.mp3" length="12537645" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260705_weekly</guid>
+      <pubDate>Sun, 05 Jul 2026 06:45:24 +0900</pubDate>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
+・企業がAI利用を禁止？セキュリティとガバナンスの重要性
+・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
+・Midjourney著作権訴訟、クリエイターが知るべき法的動向
+今週やること：
+いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>AIが「指示待ち」から「任せる」へ！GPT-5.6が示す新常識と仕事術</title>
+      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・GPT-5.6発表とエージェントAIの安全性議論
+・Google「機密AI」で企業内でのデータ活用が加速
+・非エンジニアも活用！AIエージェントが仕事のやり方を根本から変える
+・自分だけのAIアシスタントを育てる時代へ！
+今週やること：
+いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260628_weekly.mp3" length="12794925" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260628_weekly</guid>
+      <pubDate>Sun, 28 Jun 2026 08:43:00 +0900</pubDate>
+      <itunes:duration>13:19</itunes:duration>
+      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
+今週のテーマ：
+・GPT-5.6発表とエージェントAIの安全性議論
+・Google「機密AI」で企業内でのデータ活用が加速
+・非エンジニアも活用！AIエージェントが仕事のやり方を根本から変える
+・自分だけのAIアシスタントを育てる時代へ！
+今週やること：
+いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>Criteo広告がChatGPTに！Metaスマートグラス登場でAI活用が身近に</title>
+      <description>おはようございます！「AIニュースデイリー 朝刊」です。
+この番組は、忙しいあなたが海外AIニュースを10分で理解し、仕事や副業、日常に活かせるヒントをお届けします。
+
+今日の朝刊では、以下の5つのニュースを深掘りします。
+1.  **CriteoとOpenAI連携**: ChatGPT上で広告配信が可能に。新たな広告チャネルの可能性を探ります。
+2.  **AI活用と成果**: 企業が社員にAIの成果を求め始める背景と、私たちにできること。
+3.  **Meta AIスマートグラス**: 日常がAR/AIでどう変わる？新しい情報体験の未来。
+4.  **Microsoft 365セキュリティ**: AI時代のビジネスデータ保護の重要性。
+5.  **Geminiでギャップ解消**: 企業と現場のAI利用の溝を埋める方法。
+
+今日の一歩は「AIツールを使った仕事の成果を具体的に言語化する練習をしてみる」です。
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+また、このポッドキャストがあなたのAI活用の一助になれば幸いです。もしよろしければ、Spotifyでのフォローやレビューをお願いします。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260624_morning.mp3" length="11220141" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260624_morning</guid>
+      <pubDate>Wed, 24 Jun 2026 07:20:04 +0900</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:summary>おはようございます！「AIニュースデイリー 朝刊」です。
+この番組は、忙しいあなたが海外AIニュースを10分で理解し、仕事や副業、日常に活かせるヒントをお届けします。
+
+今日の朝刊では、以下の5つのニュースを深掘りします。
+1.  **CriteoとOpenAI連携**: ChatGPT上で広告配信が可能に。新たな広告チャネルの可能性を探ります。
+2.  **AI活用と成果**: 企業が社員にAIの成果を求め始める背景と、私たちにできること。
+3.  **Meta AIスマートグラス**: 日常がAR/AIでどう変わる？新しい情報体験の未来。
+4.  **Microsoft 365セキュリティ**: AI時代のビジネスデータ保護の重要性。
+5.  **Geminiでギャップ解消**: 企業と現場のAI利用の溝を埋める方法。
+
+今日の一歩は「AIツールを使った仕事の成果を具体的に言語化する練習をしてみる」です。
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+また、このポッドキャストがあなたのAI活用の一助になれば幸いです。もしよろしければ、Spotifyでのフォローやレビューをお願いします。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>メタAIグラス低価格化で仕事活用は？エヌビディアCEOが語るAIエージェント時代の働き方【AIニュースデイリー夕刊】</title>
+      <description>こんばんは！「AIニュースデイリー 夕刊」へようこそ。
+今日の配信では、忙しいあなたが海外AIニュースを10分で理解し、仕事や副業、日常に活かせるヒントをお届けします。
+
+今日のニュースラインナップはこちらです。
+1.  **メタがAIグラスを低価格モデルで発表**: 日常に溶け込むAIアシスタントの可能性を探ります。
+2.  **埼玉県で「最新薬局」体験イベント開催**: 業界特化型AIの具体的な活用事例からヒントを得ます。
+3.  **仕事でのAIツール利用実態調査**: 日本のビジネスパーソンのAI活用状況から、あなたの仕事への応用を考えます。
+4.  **テレビのアテンションデータ活用AIエージェント開発**: マーケティング・広告分野のAI進化に注目します。
+5.  **エヌビディアCEOが「AIエージェント時代」を宣言**: AIが自律的に動く未来が、私たちの働き方をどう変えるのか深掘りします。
+
+今日の一歩として、「AIエージェントの基本を解説した記事や動画を1つ見て、未来の働き方を想像してみる」ことを提案します。
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が気に入ったら、Spotifyでフォローして、明日の夕刊もお聞き逃しなく！</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260624_evening.mp3" length="9202989" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260624_evening</guid>
+      <pubDate>Wed, 24 Jun 2026 00:25:43 +0900</pubDate>
+      <itunes:duration>09:35</itunes:duration>
+      <itunes:summary>こんばんは！「AIニュースデイリー 夕刊」へようこそ。
+今日の配信では、忙しいあなたが海外AIニュースを10分で理解し、仕事や副業、日常に活かせるヒントをお届けします。
+
+今日のニュースラインナップはこちらです。
+1.  **メタがAIグラスを低価格モデルで発表**: 日常に溶け込むAIアシスタントの可能性を探ります。
+2.  **埼玉県で「最新薬局」体験イベント開催**: 業界特化型AIの具体的な活用事例からヒントを得ます。
+3.  **仕事でのAIツール利用実態調査**: 日本のビジネスパーソンのAI活用状況から、あなたの仕事への応用を考えます。
+4.  **テレビのアテンションデータ活用AIエージェント開発**: マーケティング・広告分野のAI進化に注目します。
+5.  **エヌビディアCEOが「AIエージェント時代」を宣言**: AIが自律的に動く未来が、私たちの働き方をどう変えるのか深掘りします。
+
+今日の一歩として、「AIエージェントの基本を解説した記事や動画を1つ見て、未来の働き方を想像してみる」ことを提案します。
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が気に入ったら、Spotifyでフォローして、明日の夕刊もお聞き逃しなく！</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>プログラミングなしでAIエージェント開発！仕事・副業への活用可能性</title>
+      <description>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
+
+今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
+一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
+
+【今日の一歩】
+「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
+それでは、良い夜をお過ごしください。</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260623_evening.mp3" length="3732524" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260623_evening</guid>
+      <pubDate>Tue, 23 Jun 2026 21:00:00 +0900</pubDate>
+      <itunes:duration>03:53</itunes:duration>
+      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
+
+今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
+一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
+
+【今日の一歩】
+「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
+
+今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
+この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
+それでは、良い夜をお過ごしください。</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+  </channel>
+</rss>
