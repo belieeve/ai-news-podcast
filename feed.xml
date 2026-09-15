@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画『白鳥とコウモリ』10億突破＆OpenAIがライバルと安全協議？朝の最新トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『白鳥とコウモリ』興行収入10億円突破と大ヒットの背景
+・OpenAIが競合2社とAI安全性で協議中かという最新報道
+・メガバンクの生成AI試算と電通デジタルのエージェンティックコマース支援
+・海外ポッドキャスト『Modern Wisdom』ヒューバーマン博士の朝夜ルーティン</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260916_daily.mp3" length="14178477" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260916_daily</guid>
+      <pubDate>Wed, 16 Sep 2026 07:26:50 +0900</pubDate>
+      <itunes:duration>14:46</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『白鳥とコウモリ』興行収入10億円突破と大ヒットの背景
+・OpenAIが競合2社とAI安全性で協議中かという最新報道
+・メガバンクの生成AI試算と電通デジタルのエージェンティックコマース支援
+・海外ポッドキャスト『Modern Wisdom』ヒューバーマン博士の朝夜ルーティン</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIのカメラ技術買収とAI暴走騒動！？毎朝10分でわかる最新トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1129,36 +1149,6 @@
 今日の一歩として、「AIエージェントの基本を解説した記事や動画を1つ見て、未来の働き方を想像してみる」ことを提案します。
 今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
 この番組が気に入ったら、Spotifyでフォローして、明日の夕刊もお聞き逃しなく！</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>プログラミングなしでAIエージェント開発！仕事・副業への活用可能性</title>
-      <description>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
-
-今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
-一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
-
-【今日の一歩】
-「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
-この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
-それでは、良い夜をお過ごしください。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260623_evening.mp3" length="3732524" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260623_evening</guid>
-      <pubDate>Tue, 23 Jun 2026 21:00:00 +0900</pubDate>
-      <itunes:duration>03:53</itunes:duration>
-      <itunes:summary>「AIニュースデイリー 夕刊」へようこそ。今夜の夕刊では、朝刊でご紹介したニュースの中から、特に「明日から使える」とっておきのAIニュースを1本に絞ってお届けします。
-
-今日のニュース: プログラムの専門知識なしでAIエージェントを開発、手軽に使えるツールを紹介 (日経クロステック Active)
-一言要約: プログラミング不要でAIエージェントが作れる可能性が示されています。仕事の自動化や副業への活用について解説します。
-
-【今日の一歩】
-「AIエージェント ノーコード ツール」で検索し、利用可能なツールを試してみましょう。
-
-今日紹介したニュースのリンクと、仕事での具体的な使い方はニュースレターにもまとめています。概要欄から無料で登録できますので、ぜひご活用ください。
-この番組が良いなと思ったら、ぜひSpotifyでフォローをお願いします。
-それでは、良い夜をお過ごしください。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
