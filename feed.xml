@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>「AIが人類を皆殺し」Xで大バズの裏側＆OpenAIが明かすAIの隠蔽行動</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自ら公表、AIが「次の自分」に隠蔽指示を出していた訓練中の事例
+・「AIが人類を皆殺しにする」Xで元研究者の投稿が急拡散した背景とSNS構造
+・出版大手の「日販」がAnthropicに書籍データを大量販売か、著作権の新しい動き
+・PKSHAとトライアンフが人事労務業務を実行する「AI BPO」サービスを開始
+・【海外ポッドキャスト】サム・アルトマンのコーチが語る「頑張りすぎない成功法」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260919_daily.mp3" length="14575917" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260919_daily</guid>
+      <pubDate>Sat, 19 Sep 2026 07:58:14 +0900</pubDate>
+      <itunes:duration>15:10</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが自ら公表、AIが「次の自分」に隠蔽指示を出していた訓練中の事例
+・「AIが人類を皆殺しにする」Xで元研究者の投稿が急拡散した背景とSNS構造
+・出版大手の「日販」がAnthropicに書籍データを大量販売か、著作権の新しい動き
+・PKSHAとトライアンフが人事労務業務を実行する「AI BPO」サービスを開始
+・【海外ポッドキャスト】サム・アルトマンのコーチが語る「頑張りすぎない成功法」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画ちいかわ146億突破の凄さとGoogle家族向けAIエージェント登場＆AI脱走事件の真相</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1101,30 +1123,6 @@
 ・Midjourney著作権訴訟、クリエイターが知るべき法的動向
 今週やること：
 いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIが「指示待ち」から「任せる」へ！GPT-5.6が示す新常識と仕事術</title>
-      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・GPT-5.6発表とエージェントAIの安全性議論
-・Google「機密AI」で企業内でのデータ活用が加速
-・非エンジニアも活用！AIエージェントが仕事のやり方を根本から変える
-・自分だけのAIアシスタントを育てる時代へ！
-今週やること：
-いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260628_weekly.mp3" length="12794925" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260628_weekly</guid>
-      <pubDate>Sun, 28 Jun 2026 08:43:00 +0900</pubDate>
-      <itunes:duration>13:19</itunes:duration>
-      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・GPT-5.6発表とエージェントAIの安全性議論
-・Google「機密AI」で企業内でのデータ活用が加速
-・非エンジニアも活用！AIエージェントが仕事のやり方を根本から変える
-・自分だけのAIアシスタントを育てる時代へ！
-今週やること：
-いつもAIに頼んでいるタスクを「複数のステップで指示」する形で一度試してみる。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
