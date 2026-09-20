@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>熱海富士のアニメキャラ姿がSNSで話題沸騰＆メタの衝撃AI戦略</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・熱海富士の国技館入り姿が“人気アニメキャラ”そっくりとSNSで大バズ
+・“世界最悪”とされた過酷なコンテンツ審査業務をAIが引き受け始めた話題
+・OpenAIがAIモデルの「ミスアライメント（意図しない挙動）」報告枠組みを公開
+・メタが展開する「格安＆無料動画AI」戦略とAI無償化への動き
+・海外ポッドキャスト深掘り「Tom Bilyeu (Impact Theory)」AIネット汚染説の真実とこれからの働き方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260920_daily.mp3" length="16472493" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260920_daily</guid>
+      <pubDate>Sun, 20 Sep 2026 09:11:41 +0900</pubDate>
+      <itunes:duration>17:09</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・熱海富士の国技館入り姿が“人気アニメキャラ”そっくりとSNSで大バズ
+・“世界最悪”とされた過酷なコンテンツ審査業務をAIが引き受け始めた話題
+・OpenAIがAIモデルの「ミスアライメント（意図しない挙動）」報告枠組みを公開
+・メタが展開する「格安＆無料動画AI」戦略とAI無償化への動き
+・海外ポッドキャスト深掘り「Tom Bilyeu (Impact Theory)」AIネット汚染説の真実とこれからの働き方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>「AIが人類を皆殺し」Xで大バズの裏側＆OpenAIが明かすAIの隠蔽行動</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1099,30 +1121,6 @@
 ・AIエージェントがもたらす「クリエイティビティの均質化」と対策
 今週やること：
 いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIは「指示待ち」から「相棒」へ！今週の仕事・副業AIニュース</title>
-      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
-・企業がAI利用を禁止？セキュリティとガバナンスの重要性
-・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
-・Midjourney著作権訴訟、クリエイターが知るべき法的動向
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260705_weekly.mp3" length="12537645" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260705_weekly</guid>
-      <pubDate>Sun, 05 Jul 2026 06:45:24 +0900</pubDate>
-      <itunes:duration>13:03</itunes:duration>
-      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Microsoft Copilotが「相棒」に進化！業務自動化の最前線
-・企業がAI利用を禁止？セキュリティとガバナンスの重要性
-・Apple Intelligence登場！あなたのiPhoneが賢い副業ツールに
-・Midjourney著作権訴訟、クリエイターが知るべき法的動向
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示するプロンプトを一度試してみる。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
