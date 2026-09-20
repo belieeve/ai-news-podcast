@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>グーグルの家族向けAI「CC」が登場！職場のAIリアル活用＆海外で話題のデータセンター事情まで徹底解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・グーグルが米国で家族向けAIエージェント「CC」を提供開始
+・アンソロピックが公表、ClaudeがAI研究の26%を自律的に進行
+・職場でのAI活用実態と「人間の役割」の重要性
+・XのAIクラスタで熱狂を集める「意思決定専用AI」Jevのバズ
+・海外ポッドキャスト深掘り：Metaのデータセンター誘致で田舎町の教員給与が激増した裏側</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260921_daily.mp3" length="15684141" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260921_daily</guid>
+      <pubDate>Mon, 21 Sep 2026 07:52:11 +0900</pubDate>
+      <itunes:duration>16:20</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・グーグルが米国で家族向けAIエージェント「CC」を提供開始
+・アンソロピックが公表、ClaudeがAI研究の26%を自律的に進行
+・職場でのAI活用実態と「人間の役割」の重要性
+・XのAIクラスタで熱狂を集める「意思決定専用AI」Jevのバズ
+・海外ポッドキャスト深掘り：Metaのデータセンター誘致で田舎町の教員給与が激増した裏側</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>熱海富士のアニメキャラ姿がSNSで話題沸騰＆メタの衝撃AI戦略</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1093,32 +1115,6 @@
 ・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
 ・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
 ・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>Google AI学習に公開データ活用？仕事と副業に効くAI活用の本質</title>
-      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
-・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
-・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
-・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
-・AIエージェントがもたらす「クリエイティビティの均質化」と対策
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260712_weekly.mp3" length="13509549" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260712_weekly</guid>
-      <pubDate>Sun, 12 Jul 2026 08:00:49 +0900</pubDate>
-      <itunes:duration>14:04</itunes:duration>
-      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Google、AI学習に公開データ活用へ – プライバシー設定の見直しは？
-・アクセンチュアとOpenAIが国内協業拡充 – 企業で進むAIエージェント活用
-・UberのAI組織化事例 – 業務担当者とエンジニアが2週間でAI化する秘訣
-・ChatGPT利用者減でもシェア上昇 – AIツールの「選択と集中」の重要性
-・AIエージェントがもたらす「クリエイティビティの均質化」と対策
 今週やること：
 いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
       <itunes:episode>51</itunes:episode>
