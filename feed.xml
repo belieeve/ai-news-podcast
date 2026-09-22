@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ映画が興収158億円突破で今年1位＆OpenAIが新AIエージェント発表へ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・「映画ちいかわ」が興収158.4億円を突破して今年の興行ランキング首位に
+・OpenAIが9月29日に新たなAIエージェントを発表すると報道
+・MetaのパーソナルAI「Muse」がApp Storeの首位を獲得
+・『映画名探偵プリキュア！』が3日間で興収4.4億円の歴代最高スタート
+・【海外ポッドキャスト】The Diary of a CEO（音楽プロデューサー リック・ルービン）</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260922_daily.mp3" length="11248557" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260922_daily</guid>
+      <pubDate>Tue, 22 Sep 2026 08:46:48 +0900</pubDate>
+      <itunes:duration>11:42</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・「映画ちいかわ」が興収158.4億円を突破して今年の興行ランキング首位に
+・OpenAIが9月29日に新たなAIエージェントを発表すると報道
+・MetaのパーソナルAI「Muse」がApp Storeの首位を獲得
+・『映画名探偵プリキュア！』が3日間で興収4.4億円の歴代最高スタート
+・【海外ポッドキャスト】The Diary of a CEO（音楽プロデューサー リック・ルービン）</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>グーグルの家族向けAI「CC」が登場！職場のAIリアル活用＆海外で話題のデータセンター事情まで徹底解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1095,28 +1117,6 @@
 ・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
 今週やること：
 いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIが指示待ちから「任せる」時代へ！仕事と副業で試すべきこと</title>
-      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
-・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
-・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260719_weekly.mp3" length="12231213" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260719_weekly</guid>
-      <pubDate>Sun, 19 Jul 2026 06:38:42 +0900</pubDate>
-      <itunes:duration>12:44</itunes:duration>
-      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・AIが指示待ちから「任せる」時代へ！エージェントAI本格化の波
-・富士通とイオンがAIで「店長業務」を検証！現場のDX最前線
-・GoogleがオープンAIモデル「Gemma 4」を大規模改善！個人活用が加速
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
