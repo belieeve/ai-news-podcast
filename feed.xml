@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIとClaudeがガチ値下げ戦争！？お得すぎるAI最新情報＆米経済の裏側</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIとAnthropicが相次いで新モデル発表＆AI値下げ競争が激化
+・「面倒くさい」が消えると米経済が激変？AIエージェントが狙う巨額コスト
+・音響・ストレージ関連アプリ「Muse」がダウンロード数急増で首位獲得
+・【海外ポッドキャスト】All-In Podcast：脳の省エネに学ぶ1000倍効率のAIチップ</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260923_daily.mp3" length="12054573" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260923_daily</guid>
+      <pubDate>Wed, 23 Sep 2026 08:25:17 +0900</pubDate>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIとAnthropicが相次いで新モデル発表＆AI値下げ競争が激化
+・「面倒くさい」が消えると米経済が激変？AIエージェントが狙う巨額コスト
+・音響・ストレージ関連アプリ「Muse」がダウンロード数急増で首位獲得
+・【海外ポッドキャスト】All-In Podcast：脳の省エネに学ぶ1000倍効率のAIチップ</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ映画が興収158億円突破で今年1位＆OpenAIが新AIエージェント発表へ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1095,28 +1115,6 @@
 ・AI生成物、著作権侵害の判断！クリエイターが注意すべきこと
 今週やること：
 いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみてください。</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>週刊AI仕事術｜AIは指示待ちから「任せる相棒」へ！GoogleとNVIDIAの最新動向</title>
-      <description>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
-・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
-・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260726_weekly.mp3" length="13458861" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260726_weekly</guid>
-      <pubDate>Sun, 26 Jul 2026 06:42:12 +0900</pubDate>
-      <itunes:duration>14:01</itunes:duration>
-      <itunes:summary>1週間のAIニュースから、仕事と副業に効く話だけを厳選してお届けします。
-今週のテーマ：
-・Google、AI利用量が1年で7倍に！エージェントAIへの投資を拡大
-・NVIDIAが次世代AI超解像技術「DLSS 5」を今秋投入
-・OpenAIの動画生成AI「Sora 2」リリース報道、日本は様子見
-今週やること：
-いつもAIに頼んでいる作業を、複数のステップでまとめて指示してみる。</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
