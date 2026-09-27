@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>スパイダーマン北米興収で歴史的偉業＆OpenAIの最上位モデル学習停止？毎朝10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』北米興収で史上初9億5000万ドル突破の偉業
+・OpenAIが最上位モデルのツール使用を伴う学習・評価・推論を停止と発表
+・複数のAI社員がチームで働くプラットフォーム「MIERU CREW」が登場
+・製薬大手ノボ・ノルディスクとAnthropicがAI創薬で提携
+・『映画名探偵プリキュア！』が興行収入8.4億円突破で大ヒット</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260928_daily.mp3" length="12241581" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260928_daily</guid>
+      <pubDate>Mon, 28 Sep 2026 08:33:24 +0900</pubDate>
+      <itunes:duration>12:45</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『スパイダーマン』北米興収で史上初9億5000万ドル突破の偉業
+・OpenAIが最上位モデルのツール使用を伴う学習・評価・推論を停止と発表
+・複数のAI社員がチームで働くプラットフォーム「MIERU CREW」が登場
+・製薬大手ノボ・ノルディスクとAnthropicがAI創薬で提携
+・『映画名探偵プリキュア！』が興行収入8.4億円突破で大ヒット</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>踊る大捜査線新作の裏側＆メタのAIグラス100種超展開！最新トレンドまとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,30 +1109,6 @@
 ・オフィス用品のカウネットがAI活用で問い合わせを7割自己解決！
 ・日本の小売事業者、AIエージェントへの投資意向は97%！でも消費者62%は抵抗あり？
 ・ちいかわコミックス最新8巻がランクイン！映画「セイレーン編」も興行収入44億円超えで大ヒット！</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ChatGPT無料版が無制限に！AIブラウザ登場＆コナン映画が神ヒット</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題
-・GoogleがAIブラウザ「Disco」発表！Gemini 3がWebアプリを自動生成？
-・OpenAIがリング型スマートデバイスを開発中との噂。価格は300～400ドル？
-・ココナラがClaudeとも連携！AIでプロに依頼がもっとスムーズに
-・GMO-PGがオンライン決済の国際規格UCPを採用。ECがもっと安全便利に
-・劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット！その理由とは？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260807_daily.mp3" length="14292909" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260807_daily</guid>
-      <pubDate>Fri, 07 Aug 2026 08:57:23 +0900</pubDate>
-      <itunes:duration>14:53</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ChatGPT無料版が無制限に！新モデル「Luna」でテキストチャット使い放題
-・GoogleがAIブラウザ「Disco」発表！Gemini 3がWebアプリを自動生成？
-・OpenAIがリング型スマートデバイスを開発中との噂。価格は300～400ドル？
-・ココナラがClaudeとも連携！AIでプロに依頼がもっとスムーズに
-・GMO-PGがオンライン決済の国際規格UCPを採用。ECがもっと安全便利に
-・劇場版『名探偵コナン 100万ドルの五稜星』が大ヒット！その理由とは？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
