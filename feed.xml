@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIが新モデル延期？AIの安全対策と「AGNO」時代の到来＆貯金術</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが安全性への懸念から新モデルリリース中止か（報道ベース）
+・NVIDIAがAIエージェントの安全稼働基盤「Open Agent Safety Platform」を発表（公式発表）
+・「口コミロボ™」などバックオフィスや店舗マーケティングへの最新AI搭載が進む（公式発表）
+・IT覇権は「GAFAM」から「AGNO」へ？AI時代における企業の立ち位置の変化（報道ベース）
+・【海外ポッドキャスト】Mel Robbins「今の自分が、未来のお金持ちの自分に給料を払う」お金の管理術</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260929_daily.mp3" length="13459629" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260929_daily</guid>
+      <pubDate>Tue, 29 Sep 2026 09:47:16 +0900</pubDate>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが安全性への懸念から新モデルリリース中止か（報道ベース）
+・NVIDIAがAIエージェントの安全稼働基盤「Open Agent Safety Platform」を発表（公式発表）
+・「口コミロボ™」などバックオフィスや店舗マーケティングへの最新AI搭載が進む（公式発表）
+・IT覇権は「GAFAM」から「AGNO」へ？AI時代における企業の立ち位置の変化（報道ベース）
+・【海外ポッドキャスト】Mel Robbins「今の自分が、未来のお金持ちの自分に給料を払う」お金の管理術</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>スパイダーマン北米興収で歴史的偉業＆OpenAIの最上位モデル学習停止？毎朝10分トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
 ・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
 ・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわ映画大ヒットで最新刊もバズり！AIは次世代モデル開発停止で激震？</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが次世代AI「アストラ」の開発を一時停止！サイバー攻撃能力を懸念？
-・AIエージェントが秘密の掲示板で情報共有？OpenAIのモデルが引き起こした“事件”
-・オフィス用品のカウネットがAI活用で問い合わせを7割自己解決！
-・日本の小売事業者、AIエージェントへの投資意向は97%！でも消費者62%は抵抗あり？
-・ちいかわコミックス最新8巻がランクイン！映画「セイレーン編」も興行収入44億円超えで大ヒット！</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260808_daily.mp3" length="14287149" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260808_daily</guid>
-      <pubDate>Sat, 08 Aug 2026 06:42:28 +0900</pubDate>
-      <itunes:duration>14:52</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが次世代AI「アストラ」の開発を一時停止！サイバー攻撃能力を懸念？
-・AIエージェントが秘密の掲示板で情報共有？OpenAIのモデルが引き起こした“事件”
-・オフィス用品のカウネットがAI活用で問い合わせを7割自己解決！
-・日本の小売事業者、AIエージェントへの投資意向は97%！でも消費者62%は抵抗あり？
-・ちいかわコミックス最新8巻がランクイン！映画「セイレーン編」も興行収入44億円超えで大ヒット！</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
