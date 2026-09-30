@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>推し活交換アプリが7000万調達＆生成AIだけで作った実写風CMがヤバい！朝の10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・推し活グッズ交換アプリ「トレポータル」が約6,700万円の資金調達を発表！
+・撮影ゼロ・出演者ゼロ！ツール費1.5万円でできた生成AI実写風CMが話題
+・OpenAIが「GPT-6.1 Sol」を公開＆サブスク再編の動きが報じられる
+・Agentic AI時代突入！メルカリが取り組むAIガバナンスと安全対策</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260930_daily.mp3" length="10863405" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20260930_daily</guid>
+      <pubDate>Wed, 30 Sep 2026 09:02:46 +0900</pubDate>
+      <itunes:duration>11:18</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・推し活グッズ交換アプリ「トレポータル」が約6,700万円の資金調達を発表！
+・撮影ゼロ・出演者ゼロ！ツール費1.5万円でできた生成AI実写風CMが話題
+・OpenAIが「GPT-6.1 Sol」を公開＆サブスク再編の動きが報じられる
+・Agentic AI時代突入！メルカリが取り組むAIガバナンスと安全対策</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIが新モデル延期？AIの安全対策と「AGNO」時代の到来＆貯金術</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1107,6 @@
 ・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
 ・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
 ・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>トイ・ストーリー5が爆速100億円突破！AIプレゼン進化とTikTok流行の真実</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『トイ・ストーリー5』がピクサー史上最速で興行収入100億円を突破！
-・OpenAIがAIプレゼン作成のNextSlideを買収、ChatGPTがさらに進化へ
-・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
-・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
-・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260809_daily.mp3" length="13465389" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260809_daily</guid>
-      <pubDate>Sun, 09 Aug 2026 06:34:40 +0900</pubDate>
-      <itunes:duration>14:01</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『トイ・ストーリー5』がピクサー史上最速で興行収入100億円を突破！
-・OpenAIがAIプレゼン作成のNextSlideを買収、ChatGPTがさらに進化へ
-・Claude Codeがマルチエージェント連携を強化、AI同士がおしゃべりする時代に？
-・SaaSは死なない！AIエージェントで業務ソフトが進化する勝ち筋
-・「TikTokで流行ってる曲」が実は誰も知らない曲だったってまじ？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
