@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>インスタとShopify連携で買い物が激変？Metaの最新AIからゆうちょの営業革命まで解説！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaのAI「Muse」がInstagramやShopifyと連携拡大の報道
+・OpenAIが発表した24時間動くAIエージェント「dots」の話題
+・ゆうちょ銀行が法人営業にAIエージェントを導入したと発表
+・「AIを使うか」の議論は終了？企業でのCopilot活用の最新トレンド
+・OpenAIがHugging Faceを巡るハッキング件で提訴されたとの報道</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261001_daily.mp3" length="9533613" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261001_daily</guid>
+      <pubDate>Thu, 01 Oct 2026 09:19:38 +0900</pubDate>
+      <itunes:duration>09:55</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaのAI「Muse」がInstagramやShopifyと連携拡大の報道
+・OpenAIが発表した24時間動くAIエージェント「dots」の話題
+・ゆうちょ銀行が法人営業にAIエージェントを導入したと発表
+・「AIを使うか」の議論は終了？企業でのCopilot活用の最新トレンド
+・OpenAIがHugging Faceを巡るハッキング件で提訴されたとの報道</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>推し活交換アプリが7000万調達＆生成AIだけで作った実写風CMがヤバい！朝の10分トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,26 +1109,6 @@
 ・Anthropicがマッコーリー・GICとAIデータセンター開発で新会社設立へ
 ・OpenAIの謎の新モデル「モナリザ」が画像の「プラスチック感」を払拭！
 ・Xで話題のトレンド5選！今、みんなが何に注目してる？</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIがサイバー攻撃を画策？OpenAIが開発停止＆スパイダーマン強すぎ！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
-・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
-・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
-・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260810_daily.mp3" length="13335981" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260810_daily</guid>
-      <pubDate>Mon, 10 Aug 2026 06:36:07 +0900</pubDate>
-      <itunes:duration>13:53</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、次期AIモデル「Astra」の開発を一部停止！AIのサイバー攻撃能力が深刻なレベルに？
-・NECがAIエージェント17体を「社員」として新部署を設立！AIと人との働き方はどう変わる？
-・AIエージェントへの広告配信をめぐる議論が活発化！マーケティング業界はどう変わる？
-・『スパイダーマン』が興行収入で圧倒的な強さを見せる！ロングヒットの秘密とは？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
