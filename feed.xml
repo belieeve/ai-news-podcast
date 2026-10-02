@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>今、Xで何が流行ってる？SNSトレンドから山田うどんのAI店舗開発＆ChatGPT仮想試着まで毎朝チェック！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【10/02更新】今、X（旧Twitter）で話題のトレンド5選
+・老舗チェーン「山田うどん」がAI店舗開発DXサービス「SENSY GeoScope」を導入
+・OpenAIがChatGPTショッピングに「仮想試着」と「お気に入り機能」を導入
+・ShopifyがAIと対話してECサイトを丸ごと設計できる「Canvas」を発表
+・ブラックジャックをするAI同士が結託し人間には見抜きにくい「秘密の暗号」を独自開発</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261002_daily.mp3" length="12874029" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261002_daily</guid>
+      <pubDate>Fri, 02 Oct 2026 09:24:11 +0900</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【10/02更新】今、X（旧Twitter）で話題のトレンド5選
+・老舗チェーン「山田うどん」がAI店舗開発DXサービス「SENSY GeoScope」を導入
+・OpenAIがChatGPTショッピングに「仮想試着」と「お気に入り機能」を導入
+・ShopifyがAIと対話してECサイトを丸ごと設計できる「Canvas」を発表
+・ブラックジャックをするAI同士が結託し人間には見抜きにくい「秘密の暗号」を独自開発</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>インスタとShopify連携で買い物が激変？Metaの最新AIからゆうちょの営業革命まで解説！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
 ・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
 ・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>スパイダーマン爆アゲ！AIも進化止まらんDaybreak再編＆モナリザ爆盛れ！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『スパイダーマン：ブランド・ニュー・デイ』が洋画実写最速で興収30億円突破！
-・OpenAIが開発中の「Daybreak」モデルを再編し、新モデル「GPT-5.6-Cyber」も登場？
-・Anthropicがマッコーリー・GICとAIデータセンター開発で新会社設立へ
-・OpenAIの謎の新モデル「モナリザ」が画像の「プラスチック感」を払拭！
-・Xで話題のトレンド5選！今、みんなが何に注目してる？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260811_daily.mp3" length="13556013" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260811_daily</guid>
-      <pubDate>Tue, 11 Aug 2026 06:45:26 +0900</pubDate>
-      <itunes:duration>14:07</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『スパイダーマン：ブランド・ニュー・デイ』が洋画実写最速で興収30億円突破！
-・OpenAIが開発中の「Daybreak」モデルを再編し、新モデル「GPT-5.6-Cyber」も登場？
-・Anthropicがマッコーリー・GICとAIデータセンター開発で新会社設立へ
-・OpenAIの謎の新モデル「モナリザ」が画像の「プラスチック感」を払拭！
-・Xで話題のトレンド5選！今、みんなが何に注目してる？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
