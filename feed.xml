@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>真鍋大度の「木工×AI」展＆OpenAI激震ニュース！今日おさえるべき朝トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【AI】OpenAIで安全性担当が退社、「社風が壊れている」と内部告発の寄稿が波紋
+・【AI】「プロ職種の仕事に影響？」Anthropic CEOアモデイ氏の発言がSNSで拡散
+・【ビジネス】AppleがMacでAIエージェントに全データ提供時の「明確な同意」を必須化へ
+・【エンタメ】Claude×真鍋大度がタッグ！「木工×AI」展覧会が開催発表
+・【SNS】完璧なはずのAIがドヤ顔でミス？SNSでバズった「Gemini算数崩壊」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261004_daily.mp3" length="10833069" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261004_daily</guid>
+      <pubDate>Sun, 04 Oct 2026 08:28:38 +0900</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・【AI】OpenAIで安全性担当が退社、「社風が壊れている」と内部告発の寄稿が波紋
+・【AI】「プロ職種の仕事に影響？」Anthropic CEOアモデイ氏の発言がSNSで拡散
+・【ビジネス】AppleがMacでAIエージェントに全データ提供時の「明確な同意」を必須化へ
+・【エンタメ】Claude×真鍋大度がタッグ！「木工×AI」展覧会が開催発表
+・【SNS】完璧なはずのAIがドヤ顔でミス？SNSでバズった「Gemini算数崩壊」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ＆踊る大ヒットの東宝独走劇とChatGPT「dots」常駐型AIの衝撃</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
 ・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
 ・Netflix『ガス人間』が3連休に一気見したい話題作として注目</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ChatGPTの利用上限が8ドルでリセット可能に？ハイキュー!!映画は歴代トップ10目前！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テストと報道
-・KDDI、新聞や雑誌から回答する新しいAIサービス開始を報道
-・Shippio、貿易業務効率化支援システムでAIが書類横断照合する新機能を提供開始
-・劇場版ハイキュー!! ゴミ捨て場の決戦、興行収入111億円突破で歴代アニメ映画ランキングトップ10へ
-・大手コンビニチェーン、健康志向と環境配慮を強化したPB商品リニューアルを発表</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260813_daily.mp3" length="14107821" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260813_daily</guid>
-      <pubDate>Thu, 13 Aug 2026 06:51:06 +0900</pubDate>
-      <itunes:duration>14:41</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テストと報道
-・KDDI、新聞や雑誌から回答する新しいAIサービス開始を報道
-・Shippio、貿易業務効率化支援システムでAIが書類横断照合する新機能を提供開始
-・劇場版ハイキュー!! ゴミ捨て場の決戦、興行収入111億円突破で歴代アニメ映画ランキングトップ10へ
-・大手コンビニチェーン、健康志向と環境配慮を強化したPB商品リニューアルを発表</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
