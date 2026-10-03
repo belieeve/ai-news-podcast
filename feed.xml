@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ＆踊る大ヒットの東宝独走劇とChatGPT「dots」常駐型AIの衝撃</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・東宝が秋の映画興行で「ちいかわ」＆「踊る」新作の1・2位独占と報じられたヒット背景
+・OpenAIの新機能「dots」など24時間働く常駐型AIエージェントの検証話題
+・Anthropicが顧客企業の技術者1万人を自社基準で育成するとされるAI人材施策
+・5G通信速度で大手4社に最大9倍の格差が出ているとされる通信環境調査
+・海外ポッドキャスト紹介：Mel Robbins「1日1ページで人生の次の章を書く方法」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261003_daily.mp3" length="12307245" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261003_daily</guid>
+      <pubDate>Sat, 03 Oct 2026 09:06:37 +0900</pubDate>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・東宝が秋の映画興行で「ちいかわ」＆「踊る」新作の1・2位独占と報じられたヒット背景
+・OpenAIの新機能「dots」など24時間働く常駐型AIエージェントの検証話題
+・Anthropicが顧客企業の技術者1万人を自社基準で育成するとされるAI人材施策
+・5G通信速度で大手4社に最大9倍の格差が出ているとされる通信環境調査
+・海外ポッドキャスト紹介：Mel Robbins「1日1ページで人生の次の章を書く方法」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>今、Xで何が流行ってる？SNSトレンドから山田うどんのAI店舗開発＆ChatGPT仮想試着まで毎朝チェック！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・Shippio、貿易業務効率化支援システムでAIが書類横断照合する新機能を提供開始
 ・劇場版ハイキュー!! ゴミ捨て場の決戦、興行収入111億円突破で歴代アニメ映画ランキングトップ10へ
 ・大手コンビニチェーン、健康志向と環境配慮を強化したPB商品リニューアルを発表</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>「声優AI」がマジで動き出す！「攻殻機動隊」最新作もアツいAIトレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AnthropicがAI生成テキストに「見えない透かし」を導入へ
-・声優業界に新サービス！AIが好きなセリフを生成する時代到来
-・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
-・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
-・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260812_daily.mp3" length="11615277" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260812_daily</guid>
-      <pubDate>Wed, 12 Aug 2026 06:53:30 +0900</pubDate>
-      <itunes:duration>12:05</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AnthropicがAI生成テキストに「見えない透かし」を導入へ
-・声優業界に新サービス！AIが好きなセリフを生成する時代到来
-・OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開
-・DIME最新号「攻殻機動隊」大特集でAIの未来を考える
-・OpenAIで幹部が相次ぎ退社、組織の動きに注目集まる</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
