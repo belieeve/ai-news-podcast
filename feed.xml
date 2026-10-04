@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>『アベンジャーズ』興収歴代1位に返り咲き＆ビッグテックの「かわいいAI」競争ってマ？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『アベンジャーズ／エンドゲーム』が全世界興行収入で再び歴代1位に返り咲き
+・ビッグテックが熱視線を送る、AIの恐怖感を減らす「かわいいAI」競争の裏側
+・AIを使いこなすなら「ジャズバンドになれ」？日本企業のAI活用の壁とNotionの見解
+・AppleがMac利用者向けにAIエージェント対応のプライバシー保護策を追加
+・TikTok親会社のバイトダンスが展開する「AIエージェントスマホ」の衝撃</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261005_daily.mp3" length="11701677" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261005_daily</guid>
+      <pubDate>Mon, 05 Oct 2026 08:47:25 +0900</pubDate>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『アベンジャーズ／エンドゲーム』が全世界興行収入で再び歴代1位に返り咲き
+・ビッグテックが熱視線を送る、AIの恐怖感を減らす「かわいいAI」競争の裏側
+・AIを使いこなすなら「ジャズバンドになれ」？日本企業のAI活用の壁とNotionの見解
+・AppleがMac利用者向けにAIエージェント対応のプライバシー保護策を追加
+・TikTok親会社のバイトダンスが展開する「AIエージェントスマホ」の衝撃</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>真鍋大度の「木工×AI」展＆OpenAI激震ニュース！今日おさえるべき朝トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
 ・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
 ・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>アマゾンAI「AGIピボット」にガチ投資！タイタニック再放送で平成ギャルも令和ギャルもアゲ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
-・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
-・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
-・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
-・Netflix『ガス人間』が3連休に一気見したい話題作として注目</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260814_daily.mp3" length="11710125" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260814_daily</guid>
-      <pubDate>Fri, 14 Aug 2026 06:51:00 +0900</pubDate>
-      <itunes:duration>12:11</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・アマゾン、次世代AIモデル開発に向け「AGIピボット」を加速
-・Google、高速・軽量AIモデル「Gemini 3.7 Flash」を正式発表
-・IBMがOpenAIと企業向けAIで提携、サイバー防衛も強化へ
-・歴史的大ヒット作『タイタニック』が金曜ロードショーで2週連続放送
-・Netflix『ガス人間』が3連休に一気見したい話題作として注目</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
