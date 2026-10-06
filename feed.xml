@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>世界興収30億ドル突破の映画からChatGPTの広告導入まで！朝アゲトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画史を塗り替える記録！史上最高の興行収入が30億ドルに迫る話題
+・ChatGPTの文章に「見えない透かし」導入＆画像生成中に広告が表示される試験運用
+・【調査データ】AIを毎日使う人は58%だけど、繰り返し作業の自動化までできている人は？
+・2026年秋アニメ期待度ランキング！『薬屋のひとりごと』など注目作が勢揃い
+・【海外Podcast深掘り】メル・ロビンズに学ぶ「迷ったときに心と頭をどう使うか」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261006_daily.mp3" length="13908909" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261006_daily</guid>
+      <pubDate>Tue, 06 Oct 2026 13:56:46 +0900</pubDate>
+      <itunes:duration>14:29</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画史を塗り替える記録！史上最高の興行収入が30億ドルに迫る話題
+・ChatGPTの文章に「見えない透かし」導入＆画像生成中に広告が表示される試験運用
+・【調査データ】AIを毎日使う人は58%だけど、繰り返し作業の自動化までできている人は？
+・2026年秋アニメ期待度ランキング！『薬屋のひとりごと』など注目作が勢揃い
+・【海外Podcast深掘り】メル・ロビンズに学ぶ「迷ったときに心と頭をどう使うか」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>『アベンジャーズ』興収歴代1位に返り咲き＆ビッグテックの「かわいいAI」競争ってマ？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・OpenAIが「Ultrafast」を発表、GPT-5.6 Solを毎秒最大750トークンで処理可能に
 ・バイク関連の販売経営でAI活用が進み、業務効率化や顧客管理に貢献
 ・SNSで話題沸騰！韓国の夏定番「ロゼコングクス」が進化してバズり中</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>『オブセッション 災愛』中毒者続出で世界興収爆アゲ！AI収益も止まらない今日のトレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
-・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
-・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
-・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
-・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260815_daily.mp3" length="7772589" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260815_daily</guid>
-      <pubDate>Sat, 15 Aug 2026 06:28:58 +0900</pubDate>
-      <itunes:duration>08:05</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『オブセッション 災愛』が世界興収4.7億ドルを突破！日本でも中毒者続出で考察合戦が過熱中
-・OpenAIの収益ランレートが400億ドルを突破！1年足らずで倍増の爆アゲっぷり
-・ナレッジセンスのNotebook AIが社内データから自動生成するレポート機能を発表
-・「AIを導入したのに業務効率化が進まない」原因を業務再設計から解くガイドが公開
-・ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
