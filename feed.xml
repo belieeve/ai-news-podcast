@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIのユーモア広告が話題！Anthropic最新AIとNetflix新作映画まで毎朝10分解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが公開した「教師の日」のユーモア広告が話題に
+・Anthropicが爆速＆低コストの最新モデル「Claude Haiku 5.5」を発表
+・NotionがAIエージェントではなく「コンテキスト基盤」に注力する理由
+・Netflix映画『僕の狂ったフェミ彼女』12月配信決定と新キャスト発表
+・【海外ポッドキャスト】元シークレットサービスが語る「本音を引き出す」話し方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261008_daily.mp3" length="12866733" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261008_daily</guid>
+      <pubDate>Thu, 08 Oct 2026 09:40:36 +0900</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが公開した「教師の日」のユーモア広告が話題に
+・Anthropicが爆速＆低コストの最新モデル「Claude Haiku 5.5」を発表
+・NotionがAIエージェントではなく「コンテキスト基盤」に注力する理由
+・Netflix映画『僕の狂ったフェミ彼女』12月配信決定と新キャスト発表
+・【海外ポッドキャスト】元シークレットサービスが語る「本音を引き出す」話し方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>GoogleドキュメントでAIが動く？仕事が爆速になる最新アップデート＆継続力の秘密</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・サム・アルトマン氏が語るAI時代の大学の価値
 ・Notion共同創業者COOが語るAIエージェント戦略
 ・花王がAIエージェントで化粧品在庫25%削減目標</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>映画大ヒット＆OpenAI売上爆上がり！AIエージェントの進化と社会のモヤモヤ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、法人向け売上が個人向けを初めて上回る
-・AIエージェント台頭でSaaS再編加速
-・AIの「悪意なき暴走」問題
-・映画興行収入が絶好調
-・ショート動画のバズトレンド</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260817_daily.mp3" length="13997997" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260817_daily</guid>
-      <pubDate>Mon, 17 Aug 2026 06:24:17 +0900</pubDate>
-      <itunes:duration>14:34</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、法人向け売上が個人向けを初めて上回る
-・AIエージェント台頭でSaaS再編加速
-・AIの「悪意なき暴走」問題
-・映画興行収入が絶好調
-・ショート動画のバズトレンド</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
