@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Xのトレンド急上昇＆Google「Gemini Agent」登場！OpenAI収益懸念で株式市場も揺れる最新トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIの収益懸念報道と半導体・IT株式市場の揺れ
+・Google「Gemini Agent」＆Claude新機能の公式発表
+・医療・介護現場向け「生成AI活用研修」スタート
+・今朝のX（旧Twitter）リアルタイムバズトレンド
+・【海外Podcast深掘り】AIエージェント700体の暴走事件と対策</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261009_daily.mp3" length="14155053" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261009_daily</guid>
+      <pubDate>Fri, 09 Oct 2026 09:56:10 +0900</pubDate>
+      <itunes:duration>14:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIの収益懸念報道と半導体・IT株式市場の揺れ
+・Google「Gemini Agent」＆Claude新機能の公式発表
+・医療・介護現場向け「生成AI活用研修」スタート
+・今朝のX（旧Twitter）リアルタイムバズトレンド
+・【海外Podcast深掘り】AIエージェント700体の暴走事件と対策</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIのユーモア広告が話題！Anthropic最新AIとNetflix新作映画まで毎朝10分解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・人気アニメ映画「怪獣都市」が興行収入記録を更新中
 ・SNSでハッシュタグ「#推し活飯」が大バズり中
 ・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>中国アニメが世界歴代1位！AIは大学の価値を変える？Claudeのウォーターマーク問題も</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
-・ClaudeのAIウォーターマーク機能でユーザー解約？
-・サム・アルトマン氏が語るAI時代の大学の価値
-・Notion共同創業者COOが語るAIエージェント戦略
-・花王がAIエージェントで化粧品在庫25%削減目標</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260818_daily.mp3" length="14456493" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260818_daily</guid>
-      <pubDate>Tue, 18 Aug 2026 07:07:10 +0900</pubDate>
-      <itunes:duration>15:03</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・中国アニメ映画『ナタ 魔童の大暴れ』が世界歴代1位に！
-・ClaudeのAIウォーターマーク機能でユーザー解約？
-・サム・アルトマン氏が語るAI時代の大学の価値
-・Notion共同創業者COOが語るAIエージェント戦略
-・花王がAIエージェントで化粧品在庫25%削減目標</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
