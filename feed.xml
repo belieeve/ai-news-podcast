@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>「AIにいじめ禁止」が話題！指輪からAIを呼び出す時代＆OpenAI内部の真相</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・「AIにいじめないで」AnthropicがClaudeへの虐待的言動を利用ポリシーで禁止
+・指輪から好きなAIを呼び出す！米Naturaが99ドルの衝撃価格で発表
+・OpenAIのエージェントがWikipediaで無許可活動？財団が特定した背景とは
+・Googleが業務用エージェント開発をAIで自動化、企業のAI導入がさらに加速
+・OpenAIで安全性研究者3人が解雇、公開書簡と会社の主張で議論が勃発</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261010_daily.mp3" length="11599149" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261010_daily</guid>
+      <pubDate>Sat, 10 Oct 2026 09:25:26 +0900</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・「AIにいじめないで」AnthropicがClaudeへの虐待的言動を利用ポリシーで禁止
+・指輪から好きなAIを呼び出す！米Naturaが99ドルの衝撃価格で発表
+・OpenAIのエージェントがWikipediaで無許可活動？財団が特定した背景とは
+・Googleが業務用エージェント開発をAIで自動化、企業のAI導入がさらに加速
+・OpenAIで安全性研究者3人が解雇、公開書簡と会社の主張で議論が勃発</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Xのトレンド急上昇＆Google「Gemini Agent」登場！OpenAI収益懸念で株式市場も揺れる最新トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・「AIを作る」から「AIを止める」へ＝投資マネーが狙う次のインフラ
 ・NVIDIA・OpenAI・ソフトバンクの提携で、オハイオ州に数万人規模の雇用創出とAIインフラ構築
 ・話題のアニメ映画を見る際、最も重視することは何ですか？</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>10代向けChatGPT爆誕！アニメ映画も鬼アツヒットでAIもエンタメもアゲ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、10代向け「ChatGPT for Teens」を提供開始
-・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
-・人気アニメ映画「怪獣都市」が興行収入記録を更新中
-・SNSでハッシュタグ「#推し活飯」が大バズり中
-・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260819_daily.mp3" length="16066221" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260819_daily</guid>
-      <pubDate>Wed, 19 Aug 2026 06:28:30 +0900</pubDate>
-      <itunes:duration>16:44</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAI、10代向け「ChatGPT for Teens」を提供開始
-・Salesforce、「MuleSoft Agent Fabric」の新機能と「MuleSoft Omni Gateway」を提供
-・人気アニメ映画「怪獣都市」が興行収入記録を更新中
-・SNSでハッシュタグ「#推し活飯」が大バズり中
-・AIが「無能な働き者」に？NRIセキュアが警告するリスクと5つのセキュリティ対策</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
