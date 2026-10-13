@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画ちいかわ興収179億突破＆メタ新AI発表！脳を変える習慣も紹介</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画ちいかわ興行収入179億円突破、動員1200万人超えの大ヒット
+・メタが新AI「Muse Wonder」提供開始、上位モデルの性能に注目
+・三菱総研が提言するAI同士がつながる「A2A経済」の未来
+・オプロの手続きAIエージェント基盤「マドレス」提供開始
+・海外ポッドキャスト深掘り：神経科学者が語る脳を作り変える習慣</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261013_daily.mp3" length="12996909" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261013_daily</guid>
+      <pubDate>Tue, 13 Oct 2026 16:54:07 +0900</pubDate>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画ちいかわ興行収入179億円突破、動員1200万人超えの大ヒット
+・メタが新AI「Muse Wonder」提供開始、上位モデルの性能に注目
+・三菱総研が提言するAI同士がつながる「A2A経済」の未来
+・オプロの手続きAIエージェント基盤「マドレス」提供開始
+・海外ポッドキャスト深掘り：神経科学者が語る脳を作り変える習慣</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIに10万ドル渡してブティック運営させたら大パニック？手羽先10キロ誤発注までAI最新トレンドまとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
 ・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
 ・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>羽田美智子YouTubeバズり＆UberがAIで開発爆速！Claude無料学習コースもアツい</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・羽田美智子さんのエッセイとYouTubeが共感の嵐！「素敵なおばさん」がトレンドに
-・Uberの裏側でAIエージェントがコードの7割を爆速生成！開発の未来がここに
-・Anthropicが「Claude Academy」を無料公開！AI学習のハードルが秒で下がる
-・世界を席巻する韓国コスメのブームの秘密！マーケティングの鬼アツ戦略とは？
-・ABEMAが「アニメ毎週200作品無料祭」開催中！新作アニメも一挙放送でテンアゲ</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260822_daily.mp3" length="16346925" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260822_daily</guid>
-      <pubDate>Sat, 22 Aug 2026 06:28:38 +0900</pubDate>
-      <itunes:duration>17:01</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・羽田美智子さんのエッセイとYouTubeが共感の嵐！「素敵なおばさん」がトレンドに
-・Uberの裏側でAIエージェントがコードの7割を爆速生成！開発の未来がここに
-・Anthropicが「Claude Academy」を無料公開！AI学習のハードルが秒で下がる
-・世界を席巻する韓国コスメのブームの秘密！マーケティングの鬼アツ戦略とは？
-・ABEMAが「アニメ毎週200作品無料祭」開催中！新作アニメも一挙放送でテンアゲ</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
