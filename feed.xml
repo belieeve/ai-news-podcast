@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ映画の快進撃＆YouTubeコメントにGIF機能？最新AI事情も</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画「ちいかわ」大ヒットに見る東宝の好調とエンタメビジネスの視点
+・YouTubeのコメント欄にGIF画像投稿機能が登場か、SNSで話題沸騰
+・FigmaのAIエージェントが一般提供開始、デザイン業務の自動化へ
+・法人向けAIに最新モデル続々、OpenAIのGPT-6シリーズ提供開始
+・海外ポッドキャスト深掘り：少林寺の師が教える心のモヤを晴らす4ステップ「RAIN」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261015_daily.mp3" length="17095341" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261015_daily</guid>
+      <pubDate>Thu, 15 Oct 2026 08:35:55 +0900</pubDate>
+      <itunes:duration>17:48</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画「ちいかわ」大ヒットに見る東宝の好調とエンタメビジネスの視点
+・YouTubeのコメント欄にGIF画像投稿機能が登場か、SNSで話題沸騰
+・FigmaのAIエージェントが一般提供開始、デザイン業務の自動化へ
+・法人向けAIに最新モデル続々、OpenAIのGPT-6シリーズ提供開始
+・海外ポッドキャスト深掘り：少林寺の師が教える心のモヤを晴らす4ステップ「RAIN」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIに盗聴器？激震の社内事件とメタ新AI＆豪雨対策テック</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1089,26 +1111,6 @@
 ・AIネイティブ型「1人カンパニー」事業モデル実証プロジェクト開始
 ・ソニーGが車載AIエージェント ｢相棒キャラ｣伴走で車内エンタメ開拓
 ・Google Antigravityに複数端末で接続・操作可能なリモートコントロール機能追加</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわ映画100億超え大優勝！AIエージェントが仕事爆アゲ＆銀行採用も激変</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
-・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
-・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
-・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260824_daily.mp3" length="9891885" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260824_daily</guid>
-      <pubDate>Mon, 24 Aug 2026 06:25:13 +0900</pubDate>
-      <itunes:duration>10:18</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・SlackがAIエージェントとチームで共同開発を行う新機能「Slack Code」を発表
-・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
-・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
-・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
