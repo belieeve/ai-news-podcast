@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIに盗聴器？激震の社内事件とメタ新AI＆豪雨対策テック</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIの会議室に盗聴器？FBIが元従業員を逮捕・起訴と現地報道
+・突然のゲリラ豪雨を先回り！JR東日本らが挑む「鉄道気象AI」
+・AIが勝手に買い物する時代へ？博報堂が挑むエージェンティックコマース
+・メタの新AI「Muse」が急浮上！ChatGPTを追うSNS王者の狙い
+・【海外ポッドキャスト】心臓専門医が語る「ストレスへの立ち直り力」と日常のオフ</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261014_daily.mp3" length="17079597" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261014_daily</guid>
+      <pubDate>Wed, 14 Oct 2026 09:04:28 +0900</pubDate>
+      <itunes:duration>17:47</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIの会議室に盗聴器？FBIが元従業員を逮捕・起訴と現地報道
+・突然のゲリラ豪雨を先回り！JR東日本らが挑む「鉄道気象AI」
+・AIが勝手に買い物する時代へ？博報堂が挑むエージェンティックコマース
+・メタの新AI「Muse」が急浮上！ChatGPTを追うSNS王者の狙い
+・【海外ポッドキャスト】心臓専門医が語る「ストレスへの立ち直り力」と日常のオフ</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画ちいかわ興収179億突破＆メタ新AI発表！脳を変える習慣も紹介</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・OpenAIを80％値下げに追い込んだAI価格競争とNvidiaのオープンウェイトモデル参入
 ・AIで業務効率化！銀行の新卒採用が5年ぶりに減少へ
 ・映画「ちいかわ」が興行収入100億円突破！口コミで集客増加</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>韓国映画『オデッセイ』爆ヒットで闇チケ高騰！AIモデルAPI値下げも鬼アツ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが最新モデルの強化学習を一時中断、国内LLM「LLM-jp-4 33B」も公開
-・OpenAIがGPT-5.6 SolのAPI料金を20%以上値下げ、開発者には朗報
-・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
-・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
-・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260823_daily.mp3" length="11984301" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260823_daily</guid>
-      <pubDate>Sun, 23 Aug 2026 06:25:17 +0900</pubDate>
-      <itunes:duration>12:28</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが最新モデルの強化学習を一時中断、国内LLM「LLM-jp-4 33B」も公開
-・OpenAIがGPT-5.6 SolのAPI料金を20%以上値下げ、開発者には朗報
-・みずほFGがAIエージェントの量産体制を確立、開発工数を最大70%短縮
-・韓国で映画『オデッセイ』が大ヒット、闇市場ではチケットが10倍高騰
-・拙い作画で話題になった中国アニメ映画「牛来」が一転して大ヒット</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
