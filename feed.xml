@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>【マイクラ完全クリア】AI同士が協力プレイ＆銀行がAI送金を遮断？最新AI・ビジネス話題まとめ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Gemini 4 Argonの4体が人間不在でマインクラフト完全クリア
+・チャールズ・シュワブ、顧客の資金移動を試みるAIエージェントを遮断
+・JAPAN AI、Webブラウザ上で作業する「ブラウザアシスタント」正式版を提供開始
+・快手、動画生成AI「Kling 4.0」を正式リリース
+・curl 8.23.0公開、Claudeが見つけたHTTP/2の脆弱性を修正</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261017_daily.mp3" length="13011501" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261017_daily</guid>
+      <pubDate>Sat, 17 Oct 2026 08:13:04 +0900</pubDate>
+      <itunes:duration>13:33</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Gemini 4 Argonの4体が人間不在でマインクラフト完全クリア
+・チャールズ・シュワブ、顧客の資金移動を試みるAIエージェントを遮断
+・JAPAN AI、Webブラウザ上で作業する「ブラウザアシスタント」正式版を提供開始
+・快手、動画生成AI「Kling 4.0」を正式リリース
+・curl 8.23.0公開、Claudeが見つけたHTTP/2の脆弱性を修正</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>鬼滅のヒットからChatGPT新音声＆メタAI衝撃まで毎朝のトレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1089,26 +1111,6 @@
 ・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
 ・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
 ・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIチップ「Jalapeño」爆誕！OpenAIがNVIDIA超え狙う？＆ドコモのAI社長アバター爆誕！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
-・OpenAIで主要幹部が相次いで退社、その背景は？
-・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
-・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260826_daily.mp3" length="11585709" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260826_daily</guid>
-      <pubDate>Wed, 26 Aug 2026 06:32:05 +0900</pubDate>
-      <itunes:duration>12:04</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが自社開発AIチップ「Jalapeño」のベンチマークを初公開！
-・OpenAIで主要幹部が相次いで退社、その背景は？
-・NTTドコモがAI社長アバターを導入！社員のキャリア形成支援に活用
-・AnthropicがAI経済効果30兆ドル超を予測！Hugging Faceは身売り検討か？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
