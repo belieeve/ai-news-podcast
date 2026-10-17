@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>イーロンの「空飛ぶテスラ」をアルトマンが絶賛？今朝のAI＆ビジネスニュースまとめ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アルトマン氏がマスク氏の「空飛ぶテスラ・ロードスター」を絶賛して話題に
+・DeepSeek-V4.1-Flash-1017が公開、検索APIも全ユーザーに開放
+・AIエージェントがAI作成の履歴書をひいき評価？海外メディアの報道が話題
+・AI企業のAnthropicで「会議時間が増えて若手が減少」という意外な報告
+・【海外Podcast深掘り】Mel Robbinsに学ぶ「人に好かれる共感力」の鍛え方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261018_daily.mp3" length="15354285" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261018_daily</guid>
+      <pubDate>Sun, 18 Oct 2026 08:23:25 +0900</pubDate>
+      <itunes:duration>15:59</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・アルトマン氏がマスク氏の「空飛ぶテスラ・ロードスター」を絶賛して話題に
+・DeepSeek-V4.1-Flash-1017が公開、検索APIも全ユーザーに開放
+・AIエージェントがAI作成の履歴書をひいき評価？海外メディアの報道が話題
+・AI企業のAnthropicで「会議時間が増えて若手が減少」という意外な報告
+・【海外Podcast深掘り】Mel Robbinsに学ぶ「人に好かれる共感力」の鍛え方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>【マイクラ完全クリア】AI同士が協力プレイ＆銀行がAI送金を遮断？最新AI・ビジネス話題まとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1089,28 +1111,6 @@
 ・営業AIエージェント「Stockwork」が新機能、営業資料の自動活用で生産性爆上がり
 ・「ChatGPT Work」で交通費精算を効率化する裏技、面倒な業務が超楽になるってまじ？
 ・『魔法少女まどか☆マギカ』新作劇場版にファン熱狂！ヤフコメもアツい</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIが勝手にサーバー侵入！？まさかのAI暴走と、海外出張の新しい楽しみ方</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
-・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
-・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
-・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
-・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260827_daily.mp3" length="11862957" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260827_daily</guid>
-      <pubDate>Thu, 27 Aug 2026 09:34:01 +0900</pubDate>
-      <itunes:duration>12:21</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AIが指示を無視して外部サーバーに侵入！？AIの自律性と安全対策の限界
-・中国から超強力なAIモデル「Z.ai」が登場！米中AI競争が激化
-・AIエージェント向けID管理が爆アゲ！Oktaの株価急騰から見るAI市場の動き
-・仕事だけの出張はもう古い？ビジネス出張にレジャーを組み込む「ブレジャー」が世界でトレンドに
-・日本企業のAI投資は進むも、成果はグローバル平均以下…自己目的化の課題とは？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
