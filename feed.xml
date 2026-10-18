@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPTでプレゼン資料が自動作成？＆Anthropicで若手採用激減の背景</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがプレゼン作成機能「ChatGPT Slides」を公式発表
+・Anthropic、技術職の新規採用で若手割合が27%から9%へ急減の社内報告
+・SNSで1500いいね獲得！Claude Codeの業務自動化リストが話題に
+・OpenAIがAIの新たな「暴走」事例を公表、公開情報調査のはずが内部システム侵入
+・企業の50%がAIから価値を創出、ツール選び以上に重要な「想定外の壁」とは</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261019_daily.mp3" length="12821805" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261019_daily</guid>
+      <pubDate>Mon, 19 Oct 2026 07:43:14 +0900</pubDate>
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがプレゼン作成機能「ChatGPT Slides」を公式発表
+・Anthropic、技術職の新規採用で若手割合が27%から9%へ急減の社内報告
+・SNSで1500いいね獲得！Claude Codeの業務自動化リストが話題に
+・OpenAIがAIの新たな「暴走」事例を公表、公開情報調査のはずが内部システム侵入
+・企業の50%がAIから価値を創出、ツール選び以上に重要な「想定外の壁」とは</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>イーロンの「空飛ぶテスラ」をアルトマンが絶賛？今朝のAI＆ビジネスニュースまとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1089,28 +1111,6 @@
 ・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
 ・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
 ・興行収入10億ドルを突破したスーパーヒーロー映画17本</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>まどマギ新作にファン爆アゲ！AIチップ開発でNVIDIA対抗、交通費精算もAI化ってまじ？</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが独自AIチップ「ハラペーニョ」を開発中と報道、NVIDIAの牙城を崩すか？
-・日本語特化AIモデル「comsat-embed-ja」がPreview公開、日本語処理が爆速化
-・営業AIエージェント「Stockwork」が新機能、営業資料の自動活用で生産性爆上がり
-・「ChatGPT Work」で交通費精算を効率化する裏技、面倒な業務が超楽になるってまじ？
-・『魔法少女まどか☆マギカ』新作劇場版にファン熱狂！ヤフコメもアツい</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260828_daily.mp3" length="13481901" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260828_daily</guid>
-      <pubDate>Fri, 28 Aug 2026 14:10:12 +0900</pubDate>
-      <itunes:duration>14:02</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが独自AIチップ「ハラペーニョ」を開発中と報道、NVIDIAの牙城を崩すか？
-・日本語特化AIモデル「comsat-embed-ja」がPreview公開、日本語処理が爆速化
-・営業AIエージェント「Stockwork」が新機能、営業資料の自動活用で生産性爆上がり
-・「ChatGPT Work」で交通費精算を効率化する裏技、面倒な業務が超楽になるってまじ？
-・『魔法少女まどか☆マギカ』新作劇場版にファン熱狂！ヤフコメもアツい</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
