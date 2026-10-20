@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画ストリートファイター超好発進！AIでソフト買わない時代＆肌を整える5本柱【朝アゲ】</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『ストリートファイター／ザ・ムービー』が動員7.8万人突破の好スタート
+・企業の32％が「ソフトウェアを購入しない」？AIによる内製開発の波
+・AIで若手の採用が減少？アンソロピックで起きた変化とボトルネック
+・OpenAIが新型モデルの公開を断念？AIの「実行しました」を疑うべき理由
+・【海外ポッドキャスト】肌は体の警告灯！Mel Robbinsに学ぶ肌年齢ケアの5本柱</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261020_daily.mp3" length="13981101" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261020_daily</guid>
+      <pubDate>Tue, 20 Oct 2026 09:04:49 +0900</pubDate>
+      <itunes:duration>14:33</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『ストリートファイター／ザ・ムービー』が動員7.8万人突破の好スタート
+・企業の32％が「ソフトウェアを購入しない」？AIによる内製開発の波
+・AIで若手の採用が減少？アンソロピックで起きた変化とボトルネック
+・OpenAIが新型モデルの公開を断念？AIの「実行しました」を疑うべき理由
+・【海外ポッドキャスト】肌は体の警告灯！Mel Robbinsに学ぶ肌年齢ケアの5本柱</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ChatGPTでプレゼン資料が自動作成？＆Anthropicで若手採用激減の背景</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1089,28 +1111,6 @@
 ・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
 ・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
 ・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>映画ちいかわ爆ヒットの裏側と、AI進化が止まらない時代の私たちの働き方</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
-・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
-・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
-・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
-・興行収入10億ドルを突破したスーパーヒーロー映画17本</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260829_daily.mp3" length="18127917" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260829_daily</guid>
-      <pubDate>Sat, 29 Aug 2026 12:07:18 +0900</pubDate>
-      <itunes:duration>18:52</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『映画ちいかわ』興収110億円突破！「X直送型」宣伝戦略って何？
-・Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に
-・ChatGPT Workがパスワードを見ずにあなたの代わりにサイトへログイン可能に
-・AI開発でエンジニア削減は大きな間違い？浮上する「管理職不要論」
-・興行収入10億ドルを突破したスーパーヒーロー映画17本</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
