@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>磯村勇斗＆末澤誠也『mentor』が好発進！政府AI「源内」18万人導入とAnthropicのIPO報道も｜リナとモモの朝アゲトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・政府職員18万人にAIエージェント「源内」が順次投入開始
+・磯村勇斗×末澤誠也の映画『mentor』がヒットスタート
+・Claude開発のAnthropicがIPO準備中と米紙報道
+・PayPal CEOが新戦略ロードマップを発表
+・MetaのAI「Muse」で限定共有の会話が第三者に見える状態だった不具合</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261021_daily.mp3" length="10320045" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261021_daily</guid>
+      <pubDate>Wed, 21 Oct 2026 08:36:05 +0900</pubDate>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・政府職員18万人にAIエージェント「源内」が順次投入開始
+・磯村勇斗×末澤誠也の映画『mentor』がヒットスタート
+・Claude開発のAnthropicがIPO準備中と米紙報道
+・PayPal CEOが新戦略ロードマップを発表
+・MetaのAI「Muse」で限定共有の会話が第三者に見える状態だった不具合</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画ストリートファイター超好発進！AIでソフト買わない時代＆肌を整える5本柱【朝アゲ】</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,30 +1109,6 @@
 ・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
 ・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
 ・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわ映画は狙ってない？＆OpenAIとCursorの裏事情、AI著作権問題も深掘り</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
-・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
-・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
-・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
-・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
-・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260830_daily.mp3" length="14509101" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260830_daily</guid>
-      <pubDate>Sun, 30 Aug 2026 08:07:44 +0900</pubDate>
-      <itunes:duration>15:06</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIがCursorへのAIモデル供給を終了するってまじ？その背景と影響を深掘り
-・Googleが最新動画生成AIモデル「Gemini Omni 1.1 Flash」を発表！進化が止まらないAI
-・ソニー・ミュージックなど大手音楽出版社がAnthropicを著作権侵害で提訴！AIと著作権の今
-・映画『ちいかわ』はヒットを狙ってなかった？！ファンを巻き込むマーケティング戦略
-・映画『スパイダーマン』が『タイタニック』を抜き歴代興行収入トップ4入り！その強さの秘密
-・米AnthropicがAIとハードウェア接続の共通規格を発表！AIエコシステムに新たな動き</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
