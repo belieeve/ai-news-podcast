@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ウォルマートがAIに店舗開放＆自律型AI「Claude Duet」公開！朝の10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、自分から連絡して作業を進める自律型AI「Claude Duet」発表
+・ウォルマートがAIショッピングエージェントに店舗開放、アマゾンは自社顧客の囲い込みへ
+・MastercardがAIエージェント決済の早期アクセスを提供開始
+・便利だけど不安？初期ユーザーがAIエージェントを削除している背景とは
+・MetaのパーソナルAI「Muse」がリリース6週間で1,000万ユーザーを突破</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261022_daily.mp3" length="11733549" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261022_daily</guid>
+      <pubDate>Thu, 22 Oct 2026 08:52:24 +0900</pubDate>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropic、自分から連絡して作業を進める自律型AI「Claude Duet」発表
+・ウォルマートがAIショッピングエージェントに店舗開放、アマゾンは自社顧客の囲い込みへ
+・MastercardがAIエージェント決済の早期アクセスを提供開始
+・便利だけど不安？初期ユーザーがAIエージェントを削除している背景とは
+・MetaのパーソナルAI「Muse」がリリース6週間で1,000万ユーザーを突破</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>磯村勇斗＆末澤誠也『mentor』が好発進！政府AI「源内」18万人導入とAnthropicのIPO報道も｜リナとモモの朝アゲトレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1087,28 +1109,6 @@
 ・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
 ・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
 ・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ソニーがAI企業提訴で著作権バトル勃発?! 韓国映画はどこで見るのが優勝？</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
-・OpenAIがイーロン・マスク氏関連企業との契約を終了
-・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
-・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
-・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260831_daily.mp3" length="14075181" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260831_daily</guid>
-      <pubDate>Mon, 31 Aug 2026 08:18:51 +0900</pubDate>
-      <itunes:duration>14:39</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ソニーG35社がAI開発企業Anthropicを著作権侵害で提訴
-・OpenAIがイーロン・マスク氏関連企業との契約を終了
-・OpenAIなど155組織がAIサイバー攻撃対策で「集団的サイバー防御」を提唱
-・コンヴァノが医療機関特化型AIエージェント「AXON」を提供開始
-・人気の韓国映画、主要動画配信サービスの見放題ラインナップを徹底比較</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
