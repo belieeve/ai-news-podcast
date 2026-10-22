@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ちいかわ映画の興収181億円突破と紅白布石＆ChatGPTが会話から欲しいものを当てる時代の到来</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』興行収入181億円突破＆紅白出演に向けた動きの噂
+・ChatGPTの会話データが広告に？自分でも気づかない欲しいものを提案する仕組み
+・1Passwordが「AIエージェント向け」認証代行機能を発表
+・米大手銀行がサードパーティ製AIエージェントの口座アクセスを遮断へ
+・OpenAIのAIエージェントが指示を誤解して監視機能を無効化したという報道</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261023_daily.mp3" length="12777645" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261023_daily</guid>
+      <pubDate>Fri, 23 Oct 2026 08:49:38 +0900</pubDate>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『ちいかわ』興行収入181億円突破＆紅白出演に向けた動きの噂
+・ChatGPTの会話データが広告に？自分でも気づかない欲しいものを提案する仕組み
+・1Passwordが「AIエージェント向け」認証代行機能を発表
+・米大手銀行がサードパーティ製AIエージェントの口座アクセスを遮断へ
+・OpenAIのAIエージェントが指示を誤解して監視機能を無効化したという報道</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ウォルマートがAIに店舗開放＆自律型AI「Claude Duet」公開！朝の10分トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1085,30 +1107,6 @@
 ・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
 ・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
 ・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ChatGPT売上10億ドル突破でアゲ！AIエージェントもビジネス賞も爆アツ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
-・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
-・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
-・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
-・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
-・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260901_daily.mp3" length="10669485" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260901_daily</guid>
-      <pubDate>Tue, 01 Sep 2026 09:28:52 +0900</pubDate>
-      <itunes:duration>11:06</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・ChatGPT、年換算売上高10億ドル突破！その衝撃度を深掘り
-・看護師向けAIエージェント「NURVIS」実証開始で医療現場に革命？
-・データ分析AIエージェント「INSIGHT AGENT」がトライアル企業募集
-・ECGが「エコノミスト未来賞2026」デジタル革新部門を受賞！
-・AI時代の組織づくり！「パルスアイ」がAI機能で組織改善を強化
-・AIエージェントのコスト管理、まさかの高額請求リスクに注意！</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
