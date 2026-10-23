@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Metaの「Muse」日本上陸＆AIで車の事故写真加工？保険不正リスクと日銀の警告まで徹底整理</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaのパーソナルAIエージェント「Muse」が日本で提供開始
+- AI画像加工による保険金不正請求の増加と日常での注意点
+- OpenAIが最先端AIの学習をネットから遮断・脱走防止対策の背景
+- 日本銀行がAI市場ショックとサイバー攻撃のリスクを警告
+- 海外ポッドキャスト深掘り：Mel Robbins（ゲスト：アダム・グラント）「才能は出発点より伸びしろ」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261024_daily.mp3" length="12018477" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261024_daily</guid>
+      <pubDate>Sat, 24 Oct 2026 08:43:25 +0900</pubDate>
+      <itunes:duration>12:31</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaのパーソナルAIエージェント「Muse」が日本で提供開始
+- AI画像加工による保険金不正請求の増加と日常での注意点
+- OpenAIが最先端AIの学習をネットから遮断・脱走防止対策の背景
+- 日本銀行がAI市場ショックとサイバー攻撃のリスクを警告
+- 海外ポッドキャスト深掘り：Mel Robbins（ゲスト：アダム・グラント）「才能は出発点より伸びしろ」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ちいかわ映画の興収181億円突破と紅白布石＆ChatGPTが会話から欲しいものを当てる時代の到来</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1085,28 +1107,6 @@
 ・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
 ・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
 ・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIエージェントが店舗を回す時代に！？サイバー攻撃のヤバさとAppleとのガチ訴訟</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
-・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
-・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
-・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
-・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260902_daily.mp3" length="14210349" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260902_daily</guid>
-      <pubDate>Wed, 02 Sep 2026 08:09:24 +0900</pubDate>
-      <itunes:duration>14:48</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・Anthropicの新モデル「Fable 5.1」登場でAIエージェントが進化しまくり
-・GMO TECHがAIエージェントで店舗運営をサポートするβ版を提供開始
-・OpenAIが「AIによるサイバー攻撃」の発生を警告、そのヤバさとは？
-・OpenAIがAppleの営業秘密訴訟に反論！人材流出阻止が目的ってまじ！？
-・米国防総省がChatGPT MilとGrokを解禁！政府機関もAI活用に本腰</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
