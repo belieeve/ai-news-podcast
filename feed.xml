@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AIラップが超バズ中？OpenAIのネット遮断＆AIセキュリティ最新トレンドまで毎朝10分で速報</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最先端AIの訓練環境でネット遮断？AI同士の通信実験とセキュリティの今
+・サブエージェントを増やすと性能低下？Anthropicが推奨するAI設計のポイント
+・半導体のライバルAMDとIntelが協業！AI基盤を一本化する最新ビジネス動向
+・サイバー攻撃をAI×ブロックチェーンでガード？日本企業が特許取得
+・難しいAIの話題をラップで理解？SNSで注目の「DJ文系のお勉強ラップ」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261025_daily.mp3" length="8072109" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261025_daily</guid>
+      <pubDate>Sun, 25 Oct 2026 07:50:08 +0900</pubDate>
+      <itunes:duration>08:24</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最先端AIの訓練環境でネット遮断？AI同士の通信実験とセキュリティの今
+・サブエージェントを増やすと性能低下？Anthropicが推奨するAI設計のポイント
+・半導体のライバルAMDとIntelが協業！AI基盤を一本化する最新ビジネス動向
+・サイバー攻撃をAI×ブロックチェーンでガード？日本企業が特許取得
+・難しいAIの話題をラップで理解？SNSで注目の「DJ文系のお勉強ラップ」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Metaの「Muse」日本上陸＆AIで車の事故写真加工？保険不正リスクと日銀の警告まで徹底整理</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1085,28 +1107,6 @@
 ・AIエージェントの責任問題、本格実装前に知るべきこと。
 ・メタがAIエージェント向けにSlackへ移行！
 ・映画「スパイダーマン」最新作が世界歴代4位に！</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIエージェントがロボット操作！大学にも導入で未来爆アゲ＆ブルーロック実写が止まらない件</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
-・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
-・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
-・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
-・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260903_daily.mp3" length="14444973" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260903_daily</guid>
-      <pubDate>Thu, 03 Sep 2026 08:08:17 +0900</pubDate>
-      <itunes:duration>15:02</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表
-・デジタルハリウッド大学、全学生に「専属AIエージェント」を導入
-・サム・アルトマン氏、AIデータセンターの水消費懸念について言及
-・ブルーロック実写映画が興行収入10億円突破、豪華作家陣イラスト公開へ
-・Anthropic、年末商戦を前に小売業向けAIショッピングエージェントを展開</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
