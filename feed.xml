@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>銀座の老舗映画館「シネスイッチ銀座」閉館へ＆ChatGPT広告が89カ国に拡大！朝の最新バズニュース</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・71年の歴史に幕。老舗映画館「シネスイッチ銀座」が閉館へ
+・OpenAIがChatGPTの広告を89カ国へ拡大！広告主は10万社超え
+・パナソニックやRIZAPで発覚？禁止AIへのデータ入力問題とセキュリティ
+・予約や決済も自動化！韓国や日本で加速する「AIエージェント」のリアル
+・海外ポッドキャスト深掘り：AIセキュリティの「便利さ」と「守り方」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261026_daily.mp3" length="9764397" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261026_daily</guid>
+      <pubDate>Mon, 26 Oct 2026 08:32:13 +0900</pubDate>
+      <itunes:duration>10:10</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・71年の歴史に幕。老舗映画館「シネスイッチ銀座」が閉館へ
+・OpenAIがChatGPTの広告を89カ国へ拡大！広告主は10万社超え
+・パナソニックやRIZAPで発覚？禁止AIへのデータ入力問題とセキュリティ
+・予約や決済も自動化！韓国や日本で加速する「AIエージェント」のリアル
+・海外ポッドキャスト深掘り：AIセキュリティの「便利さ」と「守り方」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AIラップが超バズ中？OpenAIのネット遮断＆AIセキュリティ最新トレンドまで毎朝10分で速報</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1085,28 +1107,6 @@
 ・最新音楽生成AIモデル「Lyria 3.5」発表
 ・CotoLab、メディア向けAI記事作成ワークフローを提供開始
 ・『ちいかわ』サントラ未収録の”あの歌”がついに公開</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>GPT-6 Astra爆誕！AIがPCを全部やる時代に？＆スパイダーマンがタイタニック超えで大優勝！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
-・LINEヤフーがAIエージェントを量産体制へ！
-・AIエージェントの責任問題、本格実装前に知るべきこと。
-・メタがAIエージェント向けにSlackへ移行！
-・映画「スパイダーマン」最新作が世界歴代4位に！</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260904_daily.mp3" length="13188909" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260904_daily</guid>
-      <pubDate>Fri, 04 Sep 2026 08:06:00 +0900</pubDate>
-      <itunes:duration>13:44</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが次世代AIモデル「GPT-6 Astra」を発表！
-・LINEヤフーがAIエージェントを量産体制へ！
-・AIエージェントの責任問題、本格実装前に知るべきこと。
-・メタがAIエージェント向けにSlackへ移行！
-・映画「スパイダーマン」最新作が世界歴代4位に！</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
