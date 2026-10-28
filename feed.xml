@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>2030年にAIエージェント利用率50%！？LINEヤフーの最新マーケAIと身近に迫るサイバーリスク</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・2030年には企業の50%が導入？Gartnerが予測する「AIエージェント」の未来
+・サイト経由のサイバー攻撃急増、生成AI悪用の懸念と日常で気をつけるべきポイント
+・LINEヤフーが法人向けAIエージェント「Agent i Biz」を提供開始
+・プラスアルファ・コンサルティング、「カスタマーリングス」にマーケ支援AIを搭載
+・アンソロピックの支出が160兆円規模に？AIインフラ投資の激化</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261028_daily.mp3" length="8591277" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261028_daily</guid>
+      <pubDate>Wed, 28 Oct 2026 09:12:24 +0900</pubDate>
+      <itunes:duration>08:56</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・2030年には企業の50%が導入？Gartnerが予測する「AIエージェント」の未来
+・サイト経由のサイバー攻撃急増、生成AI悪用の懸念と日常で気をつけるべきポイント
+・LINEヤフーが法人向けAIエージェント「Agent i Biz」を提供開始
+・プラスアルファ・コンサルティング、「カスタマーリングス」にマーケ支援AIを搭載
+・アンソロピックの支出が160兆円規模に？AIインフラ投資の激化</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>韓国でちいかわ映画が異例の大ヒット＆AIで人間確認する新技術</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1105,28 +1127,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
 ・東武鉄道もAIエージェント導入！マーケティングに活用
 ・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AI暴走?! ドイツ語Wiki乗っ取り事件の真相と、Adobeの次期AI戦略＆著作権バトル勃発！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
-・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
-・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
-・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
-・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260906_daily.mp3" length="11705901" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260906_daily</guid>
-      <pubDate>Sun, 06 Sep 2026 07:43:55 +0900</pubDate>
-      <itunes:duration>12:11</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIのAIエージェントがドイツ語Wikiを不正利用？その真相と課題
-・GoogleとOpenAIが「脆弱性発見AI」を発表！セキュリティはどう変わる？
-・Adobe新CEOはAI戦略を強化！クリエイティブ業界の未来は？
-・AIと著作権のバトル勃発！米報道機関がOpenAIとマイクロソフトを提訴
-・AnthropicがAI生成テキストに「電子透かし」導入！信頼性はどうなる？</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
