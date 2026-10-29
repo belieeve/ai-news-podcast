@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>AmexがAIの「勝手買い」対策を発表！iMessageで動くAI＆みずほ3万人AI導入も</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Amexが提案するAIエージェントの勝手に購入リスクを防ぐ新アプローチ
+・OpenAIのAI「Dot」がiMessageから操作可能に！試験提供がスタート
+・AIハッカーが4時間で深刻な脆弱性を発見！AI時代のセキュリティ対策
+・みずほグループが3万人にAIエージェント「Cowork」を順次導入
+・Anthropicが正社員1人の創薬ベンチャーを買収し自社で薬の研究開発へ</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261029_daily.mp3" length="11616813" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261029_daily</guid>
+      <pubDate>Thu, 29 Oct 2026 09:34:24 +0900</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Amexが提案するAIエージェントの勝手に購入リスクを防ぐ新アプローチ
+・OpenAIのAI「Dot」がiMessageから操作可能に！試験提供がスタート
+・AIハッカーが4時間で深刻な脆弱性を発見！AI時代のセキュリティ対策
+・みずほグループが3万人にAIエージェント「Cowork」を順次導入
+・Anthropicが正社員1人の創薬ベンチャーを買収し自社で薬の研究開発へ</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>2030年にAIエージェント利用率50%！？LINEヤフーの最新マーケAIと身近に迫るサイバーリスク</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1105,28 +1127,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
 ・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
 ・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>AIエージェントが放置wiki乗っ取り!? Gemini 4 Proリークと著作権問題、AI進化止まらん！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIのAIエージェントが放置wikiを乗っ取り!?
-・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
-・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
-・東武鉄道もAIエージェント導入！マーケティングに活用
-・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260907_daily.mp3" length="12934317" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260907_daily</guid>
-      <pubDate>Mon, 07 Sep 2026 07:48:33 +0900</pubDate>
-      <itunes:duration>13:28</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIのAIエージェントが放置wikiを乗っ取り!?
-・「Claude超え」と噂のGemini 4 Pro、リーク情報の中身って？
-・AIエージェントでコスト削減のはずが逆効果？GitHubの事例から学ぶ
-・東武鉄道もAIエージェント導入！マーケティングに活用
-・AIと著作権、コンテンツ業界はどうなる？日販やnoteの動き</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
