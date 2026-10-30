@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Metaの買い物AI「Muse」が日本上陸＆SNSとAIの最新ニュースまとめ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaがAIエージェント「Muse」の日本提供を開始、買い物利用が拡大
+・生成AIに入力しちゃダメなデータとは？情報漏洩のリアルな原因
+・建設業界のAI活用が「メール作成」で止まってしまう現場の壁
+・撮影素材なし！テキスト一行からショート動画を作るAI「ピカディ」
+・【海外ポッドキャスト】NASAの火星模擬実験から学ぶ「伝えきる文章術」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261030_daily.mp3" length="14943788" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261030_daily</guid>
+      <pubDate>Fri, 30 Oct 2026 09:33:18 +0900</pubDate>
+      <itunes:duration>15:33</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・MetaがAIエージェント「Muse」の日本提供を開始、買い物利用が拡大
+・生成AIに入力しちゃダメなデータとは？情報漏洩のリアルな原因
+・建設業界のAI活用が「メール作成」で止まってしまう現場の壁
+・撮影素材なし！テキスト一行からショート動画を作るAI「ピカディ」
+・【海外ポッドキャスト】NASAの火星模擬実験から学ぶ「伝えきる文章術」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>AmexがAIの「勝手買い」対策を発表！iMessageで動くAI＆みずほ3万人AI導入も</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1107,26 +1129,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
 ・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
 ・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>OpenAIが数学の難問解決を主張も疑惑？＆ChatGPT画像モデル最新版</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
-・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
-・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
-・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260909_daily.mp3" length="10833069" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260909_daily</guid>
-      <pubDate>Wed, 09 Sep 2026 14:02:56 +0900</pubDate>
-      <itunes:duration>11:17</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが数学の難問「ナビエ・ストークス方程式」の解決を主張も、盗用疑惑で大論争
-・OpenAI、最新の画像生成AIモデル「ChatGPT Images 2.5」を発表
-・企業のAI活用に関する実態調査、AI格差を生む「5つの壁」が明らかに
-・OpenAI Korea発足1年で企業向け利用者が28倍に急増＆社内データを守るローカルAIの登場</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
