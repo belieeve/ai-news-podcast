@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>メモリ高騰でPCゲーマー激怒？アルトマン発言とClaude最上位プラン爆誕生＆NASAに学ぶ反省の仕組み</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIアルトマンCEOの発言とメモリ高騰でPCゲーマー界隈が話題に
+・AI開発基盤9社で侵害公表、うちらが知っておくべきセキュリティ対策
+・Claudeが月額200ドルの最上位プラン「Ultra」を公式発表
+・秋アニメ話題作『生徒会にも穴はある！』陸奥こまろが衝撃の立体化
+・【海外Podcast】NASAの軌道チームに学ぶ「失敗を反省会で終わらせない」仕組み</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261101_daily.mp3" length="14197292" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261101_daily</guid>
+      <pubDate>Sun, 01 Nov 2026 08:55:55 +0900</pubDate>
+      <itunes:duration>14:47</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIアルトマンCEOの発言とメモリ高騰でPCゲーマー界隈が話題に
+・AI開発基盤9社で侵害公表、うちらが知っておくべきセキュリティ対策
+・Claudeが月額200ドルの最上位プラン「Ultra」を公式発表
+・秋アニメ話題作『生徒会にも穴はある！』陸奥こまろが衝撃の立体化
+・【海外Podcast】NASAの軌道チームに学ぶ「失敗を反省会で終わらせない」仕組み</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>片手で遊べる縦画面スマホゲームが話題＆ChatGPTでスライド自動作成の最新トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
 ・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
 ・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>映画『オデュッセイア』世界15億ドル超え＆加護亜依アニメ出演！OpenAI新音声APIも話題</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『オデュッセイア』が世界興収15億ドル突破、日本でも「洋画離れ」底打ちなのか話題に
-・加護亜依がアニメ『ヤニねこ』に出演でバズ、原作者も感謝のツイート
-・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
-・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
-・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260911_daily.mp3" length="14215341" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260911_daily</guid>
-      <pubDate>Fri, 11 Sep 2026 08:01:02 +0900</pubDate>
-      <itunes:duration>14:48</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『オデュッセイア』が世界興収15億ドル突破、日本でも「洋画離れ」底打ちなのか話題に
-・加護亜依がアニメ『ヤニねこ』に出演でバズ、原作者も感謝のツイート
-・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
-・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
-・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
