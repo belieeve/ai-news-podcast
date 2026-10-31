@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>片手で遊べる縦画面スマホゲームが話題＆ChatGPTでスライド自動作成の最新トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPTでパワポ作成？新機能「ChatGPT スライド」の活用術
+・日本の組織を狙うサイバー攻撃、44のAIエージェントで自動化と報じられる
+・DoorDashで外部AIエージェント経由の注文が数百件にとどまるとの報道
+・片手操作でスキマ時間に遊べる「縦画面スマホゲーム」のトレンド背景
+・NASA公式ポッドキャスト『Houston We Have a Podcast』に学ぶ「試作機での予行演習」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261031_daily.mp3" length="11956652" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261031_daily</guid>
+      <pubDate>Sat, 31 Oct 2026 09:18:43 +0900</pubDate>
+      <itunes:duration>12:27</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPTでパワポ作成？新機能「ChatGPT スライド」の活用術
+・日本の組織を狙うサイバー攻撃、44のAIエージェントで自動化と報じられる
+・DoorDashで外部AIエージェント経由の注文が数百件にとどまるとの報道
+・片手操作でスキマ時間に遊べる「縦画面スマホゲーム」のトレンド背景
+・NASA公式ポッドキャスト『Houston We Have a Podcast』に学ぶ「試作機での予行演習」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Metaの買い物AI「Muse」が日本上陸＆SNSとAIの最新ニュースまとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIの新音声API「GPT-Live-1」が爆速＆低価格で開発者の間で話題
 ・日立が熟練者の知見をAIで形式知化、3D CADの設計ルール違反を自動検出
 ・AnthropicやOpenAIの研究者退職が相次ぐ、AIエージェントの安全性と開発スピードへの懸念</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>花王がCMをやめたワケ＆SiriのAI化が10月スタート？朝の10分トレンド解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【ビジネス】普通の2倍高いシャンプーが大ヒット！花王がCMをやめた理由とは？
-・【AI】Appleの「Siri AI」日本語β版が10月登場か？報道で話題に
-・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
-・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
-・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260910_daily.mp3" length="11741613" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260910_daily</guid>
-      <pubDate>Thu, 10 Sep 2026 08:04:39 +0900</pubDate>
-      <itunes:duration>12:13</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【ビジネス】普通の2倍高いシャンプーが大ヒット！花王がCMをやめた理由とは？
-・【AI】Appleの「Siri AI」日本語β版が10月登場か？報道で話題に
-・【AI】Metaがアメリカで「買い物・メール代行AI」を提供開始！
-・【AI】1万のAIエージェントが数学の100万ドル難問を解決？
-・【マーケ】これからは「AIに商品を売る時代」？Microsoft最新レポートが話題</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
