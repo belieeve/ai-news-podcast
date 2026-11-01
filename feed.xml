@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>NTTドコモがAI×通信で顧客対応を爆速化＆PCの安全をAIに聞ける無料ツールが登場！毎朝10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・NTTドコモビジネスが「AI×通信」で顧客接点を高度化する取り組みを開始
+・PCの安全点検をAIエージェントに日本語で聞けるスキル「pc-security-checkup」が無料公開
+・OpenAIの資金調達規模に関する最新報道とAI投資の市場動向
+・ドキュメントサイト閲覧の8割がAIエージェントに移行しているというWebトレンド
+・Googleが発表したDNA設計を行うAIエージェントの最新研究</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261102_daily.mp3" length="10332716" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261102_daily</guid>
+      <pubDate>Mon, 02 Nov 2026 00:07:25 +0900</pubDate>
+      <itunes:duration>10:45</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・NTTドコモビジネスが「AI×通信」で顧客接点を高度化する取り組みを開始
+・PCの安全点検をAIエージェントに日本語で聞けるスキル「pc-security-checkup」が無料公開
+・OpenAIの資金調達規模に関する最新報道とAI投資の市場動向
+・ドキュメントサイト閲覧の8割がAIエージェントに移行しているというWebトレンド
+・Googleが発表したDNA設計を行うAIエージェントの最新研究</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>メモリ高騰でPCゲーマー激怒？アルトマン発言とClaude最上位プラン爆誕生＆NASAに学ぶ反省の仕組み</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
 ・Metaが自律型パーソナルAIエージェント「Muse」を発表
 ・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわヒットの秘密＆ChatGPTの手描き画像機能ほか最新AIニュース！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
-・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
-・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
-・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
-・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260912_daily.mp3" length="10375341" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260912_daily</guid>
-      <pubDate>Sat, 12 Sep 2026 08:06:08 +0900</pubDate>
-      <itunes:duration>10:48</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・『ちいかわ』ブームの裏にある「嫌なリアリティ」とヒットの法則
-・ChatGPTの新機能「Sketch」で手描き落書きが瞬時に高品質画像へ
-・Metaが発表したパーソナルAIエージェント「Muse」の凄さ
-・Anthropicが指摘したAIデータの「蒸留」問題と米中AI競争
-・記録的ヒット中！映画『オデュッセイア』特別映像公開の話題</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
