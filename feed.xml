@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>2026年egg流行語大賞発表＆AI作品の著作権ルール！朝の10分トレンド解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・2026年egg流行語大賞が発表！Z世代の最新トレンドと注目のワード
+・Anthropicが日本で最大35億ドル調達へという報道とAI市場の熱量
+・中小企業向けWebセキュリティ診断「Emergency Security Action」の提供開始
+・全米映画ランキング最新動向！新作ホラーやサスペンスの首位争い
+・海外ポッドキャスト深掘り：AIが作った作品に著作権はある？弁護士が語る境界線</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261103_daily.mp3" length="12240428" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261103_daily</guid>
+      <pubDate>Tue, 03 Nov 2026 00:07:44 +0900</pubDate>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・2026年egg流行語大賞が発表！Z世代の最新トレンドと注目のワード
+・Anthropicが日本で最大35億ドル調達へという報道とAI市場の熱量
+・中小企業向けWebセキュリティ診断「Emergency Security Action」の提供開始
+・全米映画ランキング最新動向！新作ホラーやサスペンスの首位争い
+・海外ポッドキャスト深掘り：AIが作った作品に著作権はある？弁護士が語る境界線</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>NTTドコモがAI×通信で顧客対応を爆速化＆PCの安全をAIに聞ける無料ツールが登場！毎朝10分トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・PayPayが「人×AI」の最適配置で年間30万時間を効率化
 ・OpenAIの最新音声モデル「GPT-Live」がレギュラー出演する新Podcast始動
 ・Salesforceが企業向けAI「Agentforce」の新エディションを発表</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>出会い系にAI偽人格2万5000人！？＆AI開発減速の波とMeta新作「Muse」</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
-・Anthropic CEOがAI開発の減速を提言、業界トップも注目
-・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
-・Metaが自律型パーソナルAIエージェント「Muse」を発表
-・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260913_daily.mp3" length="12548781" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260913_daily</guid>
-      <pubDate>Sun, 13 Sep 2026 07:55:21 +0900</pubDate>
-      <itunes:duration>13:04</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・出会い系アプリに4700超のAI偽人格、2万5000人と会話していたニュース
-・Anthropic CEOがAI開発の減速を提言、業界トップも注目
-・OpenAIの年内IPOは見送り？サム・アルトマン氏の発言
-・Metaが自律型パーソナルAIエージェント「Muse」を発表
-・OpenAIが新世代応答性能「GPT-6 Astra」の品質改善を実施</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
