@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>2026年のトレンドワード予測発表＆サム・アルトマンが警告するAIセキュリティのリアル</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・電通報が「2026年11月のトレンドワード」を発表
+・サム・アルトマン氏がAIによるサイバー防御の転換を警告
+・ウェルズ・ファーゴがAIエージェントの利用条項を公開
+・VポイントマーケティングらがAI×購買データで脱炭素の実証実験を開始
+・海外ポッドキャスト深掘り『Deep Dive AI』ロボットが暴走する？AIの目標設定とアライメント問題</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261104_daily.mp3" length="11278508" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261104_daily</guid>
+      <pubDate>Wed, 04 Nov 2026 06:16:35 +0900</pubDate>
+      <itunes:duration>11:44</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・電通報が「2026年11月のトレンドワード」を発表
+・サム・アルトマン氏がAIによるサイバー防御の転換を警告
+・ウェルズ・ファーゴがAIエージェントの利用条項を公開
+・VポイントマーケティングらがAI×購買データで脱炭素の実証実験を開始
+・海外ポッドキャスト深掘り『Deep Dive AI』ロボットが暴走する？AIの目標設定とアライメント問題</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>2026年egg流行語大賞発表＆AI作品の著作権ルール！朝の10分トレンド解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・生成AI「別画面で使う問題」？300人調査で見えた業務定着の壁
 ・金融プロ向けClaude登場！大手運用会社BlackRock等と連携
 ・OpenAIがスマホカメラ技術会社を3億ドル超で買収！？ハードウェア進出か</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>LINEヤフーのAI自動化＆サム・アルトマンIPO語る！PayPay30万時間削減も話題</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・LINEヤフーのAI「Agent i」に放置で働く「タスク機能」追加
-・OpenAIサム・アルトマンCEO「IPOは時期尚早」と発言
-・PayPayが「人×AI」の最適配置で年間30万時間を効率化
-・OpenAIの最新音声モデル「GPT-Live」がレギュラー出演する新Podcast始動
-・Salesforceが企業向けAI「Agentforce」の新エディションを発表</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260914_daily.mp3" length="12094893" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260914_daily</guid>
-      <pubDate>Mon, 14 Sep 2026 08:27:12 +0900</pubDate>
-      <itunes:duration>12:35</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・LINEヤフーのAI「Agent i」に放置で働く「タスク機能」追加
-・OpenAIサム・アルトマンCEO「IPOは時期尚早」と発言
-・PayPayが「人×AI」の最適配置で年間30万時間を効率化
-・OpenAIの最新音声モデル「GPT-Live」がレギュラー出演する新Podcast始動
-・Salesforceが企業向けAI「Agentforce」の新エディションを発表</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
