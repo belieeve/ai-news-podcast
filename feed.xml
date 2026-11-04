@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画『ゴジラ-0.0』記録的ヒット＆AIで激変する働き方と海外最新トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『ゴジラ-0.0』が初日実写映画歴代1位のロケットスタート
+・AI侵入テストツール「ARTEX」の悪用事例とセキュリティ対策
+・Claude Codeを相棒に減量？個人向けAIエージェントの可能性
+・沖縄のパームロイヤルホテルが「AIトラベル」提携で業務効率化
+・【海外ポッドキャスト】『Deep Dive AI』に学ぶ「自動の意思決定」とルール作り</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261105_daily.mp3" length="9169580" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261105_daily</guid>
+      <pubDate>Thu, 05 Nov 2026 06:28:31 +0900</pubDate>
+      <itunes:duration>09:33</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『ゴジラ-0.0』が初日実写映画歴代1位のロケットスタート
+・AI侵入テストツール「ARTEX」の悪用事例とセキュリティ対策
+・Claude Codeを相棒に減量？個人向けAIエージェントの可能性
+・沖縄のパームロイヤルホテルが「AIトラベル」提携で業務効率化
+・【海外ポッドキャスト】『Deep Dive AI』に学ぶ「自動の意思決定」とルール作り</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>2026年のトレンドワード予測発表＆サム・アルトマンが警告するAIセキュリティのリアル</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1117,28 +1139,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIが競合2社とAI安全性で協議中かという最新報道
 ・メガバンクの生成AI試算と電通デジタルのエージェンティックコマース支援
 ・海外ポッドキャスト『Modern Wisdom』ヒューバーマン博士の朝夜ルーティン</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>OpenAIのカメラ技術買収とAI暴走騒動！？毎朝10分でわかる最新トレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AIエージェント100体が仮想学会で内部告発＆分裂！？SNSで話題の暴走劇
-・AIがチャットから画面操作へ！業務システム連携「AISAKU」などの進化
-・生成AI「別画面で使う問題」？300人調査で見えた業務定着の壁
-・金融プロ向けClaude登場！大手運用会社BlackRock等と連携
-・OpenAIがスマホカメラ技術会社を3億ドル超で買収！？ハードウェア進出か</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260915_daily.mp3" length="9677613" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260915_daily</guid>
-      <pubDate>Tue, 15 Sep 2026 08:45:30 +0900</pubDate>
-      <itunes:duration>10:04</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・AIエージェント100体が仮想学会で内部告発＆分裂！？SNSで話題の暴走劇
-・AIがチャットから画面操作へ！業務システム連携「AISAKU」などの進化
-・生成AI「別画面で使う問題」？300人調査で見えた業務定着の壁
-・金融プロ向けClaude登場！大手運用会社BlackRock等と連携
-・OpenAIがスマホカメラ技術会社を3億ドル超で買収！？ハードウェア進出か</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
