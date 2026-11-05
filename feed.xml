@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>映画『mentor』興収4億円突破で話題＆OpenAI司令塔「Dots」の実力とは？AI・ビジネス最新トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『mentor』が興行収入4億円を突破して話題に
+・OpenAIのAI司令塔「Dots」が企画全自動化で注目
+・OpenAIのAIがLinuxの脆弱性を大量発見、セキュリティ対策の最前線
+・SBI証券が米国AI大手アンソロピックのIPO株申込受付を開始
+・OpenAIをテーマにした映画『Artificial』が劇場公開へ</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261106_daily.mp3" length="6929708" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261106_daily</guid>
+      <pubDate>Fri, 06 Nov 2026 00:07:37 +0900</pubDate>
+      <itunes:duration>07:13</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・映画『mentor』が興行収入4億円を突破して話題に
+・OpenAIのAI司令塔「Dots」が企画全自動化で注目
+・OpenAIのAIがLinuxの脆弱性を大量発見、セキュリティ対策の最前線
+・SBI証券が米国AI大手アンソロピックのIPO株申込受付を開始
+・OpenAIをテーマにした映画『Artificial』が劇場公開へ</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画『ゴジラ-0.0』記録的ヒット＆AIで激変する働き方と海外最新トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,26 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・Microsoftが示したAI行動規範「AIは人間ではなく道具」
 ・不動産テックのFaciloがシリーズBで64億円調達
 ・【海外ポッドキャスト】Rich Roll：ドルフ・ラングレンが語る誤診からの生還</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>映画『白鳥とコウモリ』10億突破＆OpenAIがライバルと安全協議？朝の最新トレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『白鳥とコウモリ』興行収入10億円突破と大ヒットの背景
-・OpenAIが競合2社とAI安全性で協議中かという最新報道
-・メガバンクの生成AI試算と電通デジタルのエージェンティックコマース支援
-・海外ポッドキャスト『Modern Wisdom』ヒューバーマン博士の朝夜ルーティン</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260916_daily.mp3" length="14178477" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260916_daily</guid>
-      <pubDate>Wed, 16 Sep 2026 07:26:50 +0900</pubDate>
-      <itunes:duration>14:46</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『白鳥とコウモリ』興行収入10億円突破と大ヒットの背景
-・OpenAIが競合2社とAI安全性で協議中かという最新報道
-・メガバンクの生成AI試算と電通デジタルのエージェンティックコマース支援
-・海外ポッドキャスト『Modern Wisdom』ヒューバーマン博士の朝夜ルーティン</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
