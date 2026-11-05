@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>トイ・ストーリー30年で経済効果7.5兆円超え＆OpenAIの最新セキュリティAI報道を毎朝チェック！</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『トイ・ストーリー』30年で経済効果500億ドル超！映画を飛び越えた巨大市場の秘密
+・OpenAIが「GPT-6 Cyber」発表と報道、サイバー攻撃対策とセキュリティの注意点
+・日本がAIエージェント導入率で世界首位？「無監視運用」のリスクと使いこなし
+・【海外ポッドキャスト深掘り】Debian開発者が語る「自分で直せるオープンソースAI」のハードル
+・画面とボタンがついた指輪型デバイス！399ドルの「Aina AIリング」が話題</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261106_daily2.mp3" length="13340204" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261106_daily2</guid>
+      <pubDate>Fri, 06 Nov 2026 08:24:16 +0900</pubDate>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・『トイ・ストーリー』30年で経済効果500億ドル超！映画を飛び越えた巨大市場の秘密
+・OpenAIが「GPT-6 Cyber」発表と報道、サイバー攻撃対策とセキュリティの注意点
+・日本がAIエージェント導入率で世界首位？「無監視運用」のリスクと使いこなし
+・【海外ポッドキャスト深掘り】Debian開発者が語る「自分で直せるオープンソースAI」のハードル
+・画面とボタンがついた指輪型デバイス！399ドルの「Aina AIリング」が話題</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>映画『mentor』興収4億円突破で話題＆OpenAI司令塔「Dots」の実力とは？AI・ビジネス最新トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・ChatGPTを入れたのに成果が出ない？OpenAIが示す本当に見るべき数字とは
 ・OpenAIが安全性事案6件を公表！ミス隠しやAPIキー不正利用の背景
 ・海外ポッドキャスト深掘り「The Diary of a CEO」AI脱走事件と絶滅確率の討論</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>米中首脳の夕食会にITトップ結集＆Notion大型アプデ！朝のトレンド凝縮</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・米中首脳夕食会にアップルやOpenAIのトップが出席へ
-・Notion 3.7公開！AIスキル共有とAgent SDKが登場
-・Microsoftが示したAI行動規範「AIは人間ではなく道具」
-・不動産テックのFaciloがシリーズBで64億円調達
-・【海外ポッドキャスト】Rich Roll：ドルフ・ラングレンが語る誤診からの生還</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260917_daily.mp3" length="13008813" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260917_daily</guid>
-      <pubDate>Thu, 17 Sep 2026 09:37:57 +0900</pubDate>
-      <itunes:duration>13:32</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・米中首脳夕食会にアップルやOpenAIのトップが出席へ
-・Notion 3.7公開！AIスキル共有とAgent SDKが登場
-・Microsoftが示したAI行動規範「AIは人間ではなく道具」
-・不動産テックのFaciloがシリーズBで64億円調達
-・【海外ポッドキャスト】Rich Roll：ドルフ・ラングレンが語る誤診からの生還</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
