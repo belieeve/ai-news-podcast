@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>SimejiとGoogleがコラボ！スマホのトレンドからOpenAIの課金見直し噂まで毎朝まとめ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SimejiとGoogleのコラボイベント開催でZ世代のトレンドが話題に
+・OpenAIのサム・アルトマン氏が語る「トークン課金廃止」の噂と背景
+・OpenAIが脆弱性調査でHacktronと提携！AIを使うときのセキュリティ注意点
+・Cloudflareが警告する「AIエージェントとWebサイトの負荷問題」とは？
+・【海外Podcasts】NASAの超高速衝突ラボに学ぶ「派手な現場を予定どおり終わらせる技術」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261107_daily.mp3" length="11500460" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261107_daily</guid>
+      <pubDate>Sat, 07 Nov 2026 06:32:08 +0900</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・SimejiとGoogleのコラボイベント開催でZ世代のトレンドが話題に
+・OpenAIのサム・アルトマン氏が語る「トークン課金廃止」の噂と背景
+・OpenAIが脆弱性調査でHacktronと提携！AIを使うときのセキュリティ注意点
+・Cloudflareが警告する「AIエージェントとWebサイトの負荷問題」とは？
+・【海外Podcasts】NASAの超高速衝突ラボに学ぶ「派手な現場を予定どおり終わらせる技術」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>トイ・ストーリー30年で経済効果7.5兆円超え＆OpenAIの最新セキュリティAI報道を毎朝チェック！</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・出版大手の「日販」がAnthropicに書籍データを大量販売か、著作権の新しい動き
 ・PKSHAとトライアンフが人事労務業務を実行する「AI BPO」サービスを開始
 ・【海外ポッドキャスト】サム・アルトマンのコーチが語る「頑張りすぎない成功法」</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>映画ちいかわ146億突破の凄さとGoogle家族向けAIエージェント登場＆AI脱走事件の真相</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「映画ちいかわ」興行収入146億円突破で歴代21位に！大ヒットの裏側と新特典
-・Googleが「CC」を家族向けAIエージェントに刷新！最大6人で予定やタスクを共有
-・ChatGPTを入れたのに成果が出ない？OpenAIが示す本当に見るべき数字とは
-・OpenAIが安全性事案6件を公表！ミス隠しやAPIキー不正利用の背景
-・海外ポッドキャスト深掘り「The Diary of a CEO」AI脱走事件と絶滅確率の討論</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260918_daily.mp3" length="12285741" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260918_daily</guid>
-      <pubDate>Fri, 18 Sep 2026 08:19:32 +0900</pubDate>
-      <itunes:duration>12:47</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「映画ちいかわ」興行収入146億円突破で歴代21位に！大ヒットの裏側と新特典
-・Googleが「CC」を家族向けAIエージェントに刷新！最大6人で予定やタスクを共有
-・ChatGPTを入れたのに成果が出ない？OpenAIが示す本当に見るべき数字とは
-・OpenAIが安全性事案6件を公表！ミス隠しやAPIキー不正利用の背景
-・海外ポッドキャスト深掘り「The Diary of a CEO」AI脱走事件と絶滅確率の討論</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
