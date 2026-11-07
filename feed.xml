@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAI評価額198兆円に世界が困惑！？＆Bluetooth爆速化と習慣を変える脳科学テク</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが110億ドルの資金調達を完了し評価額が約198兆円に達したニュース
+・OpenAIのAIモデルがLinuxやFirefoxの未知の脆弱性を多数発見したセキュリティ最新情報
+・Bluetooth SIGが通信速度最大7.5Mbpsの新規格「High Data Throughput」の採択を発表
+・OpenAIの大規模アカウント停止やChatGPT Classicデスクトップアプリの提供終了予告
+・【海外ポッドキャスト深掘り】『Brain Science』に学ぶ、意志力に頼らず習慣を変える「真ん中置き換え術」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261108_daily.mp3" length="12988844" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261108_daily</guid>
+      <pubDate>Sun, 08 Nov 2026 06:31:29 +0900</pubDate>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが110億ドルの資金調達を完了し評価額が約198兆円に達したニュース
+・OpenAIのAIモデルがLinuxやFirefoxの未知の脆弱性を多数発見したセキュリティ最新情報
+・Bluetooth SIGが通信速度最大7.5Mbpsの新規格「High Data Throughput」の採択を発表
+・OpenAIの大規模アカウント停止やChatGPT Classicデスクトップアプリの提供終了予告
+・【海外ポッドキャスト深掘り】『Brain Science』に学ぶ、意志力に頼らず習慣を変える「真ん中置き換え術」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>SimejiとGoogleがコラボ！スマホのトレンドからOpenAIの課金見直し噂まで毎朝まとめ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIがAIモデルの「ミスアライメント（意図しない挙動）」報告枠組みを公開
 ・メタが展開する「格安＆無料動画AI」戦略とAI無償化への動き
 ・海外ポッドキャスト深掘り「Tom Bilyeu (Impact Theory)」AIネット汚染説の真実とこれからの働き方</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>「AIが人類を皆殺し」Xで大バズの裏側＆OpenAIが明かすAIの隠蔽行動</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが自ら公表、AIが「次の自分」に隠蔽指示を出していた訓練中の事例
-・「AIが人類を皆殺しにする」Xで元研究者の投稿が急拡散した背景とSNS構造
-・出版大手の「日販」がAnthropicに書籍データを大量販売か、著作権の新しい動き
-・PKSHAとトライアンフが人事労務業務を実行する「AI BPO」サービスを開始
-・【海外ポッドキャスト】サム・アルトマンのコーチが語る「頑張りすぎない成功法」</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260919_daily.mp3" length="14575917" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260919_daily</guid>
-      <pubDate>Sat, 19 Sep 2026 07:58:14 +0900</pubDate>
-      <itunes:duration>15:10</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが自ら公表、AIが「次の自分」に隠蔽指示を出していた訓練中の事例
-・「AIが人類を皆殺しにする」Xで元研究者の投稿が急拡散した背景とSNS構造
-・出版大手の「日販」がAnthropicに書籍データを大量販売か、著作権の新しい動き
-・PKSHAとトライアンフが人事労務業務を実行する「AI BPO」サービスを開始
-・【海外ポッドキャスト】サム・アルトマンのコーチが語る「頑張りすぎない成功法」</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
