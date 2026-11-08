@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ゴジラ全米1位＆Alexa＋日本上陸！Shopify最新AIと心のクセ対処法</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ゴジラ映画が北米で初日興行収入首位を記録！日本実写の歴史的ヒット
+・Amazonが日本で「Alexa＋」を提供開始と報道、AIエージェント競争が激化
+・KnowBe4がAIエージェントの安全管理ツール「Agent Risk Manager」を発表
+・ShopifyがAIエージェント経由の自動購入に対応拡大と報じられる
+・海外ポッドキャスト解説：Brain Science「いつも・絶対・〜すべき」心のクセと付き合う方法</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261109_daily.mp3" length="15275180" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261109_daily</guid>
+      <pubDate>Mon, 09 Nov 2026 06:31:31 +0900</pubDate>
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ゴジラ映画が北米で初日興行収入首位を記録！日本実写の歴史的ヒット
+・Amazonが日本で「Alexa＋」を提供開始と報道、AIエージェント競争が激化
+・KnowBe4がAIエージェントの安全管理ツール「Agent Risk Manager」を発表
+・ShopifyがAIエージェント経由の自動購入に対応拡大と報じられる
+・海外ポッドキャスト解説：Brain Science「いつも・絶対・〜すべき」心のクセと付き合う方法</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAI評価額198兆円に世界が困惑！？＆Bluetooth爆速化と習慣を変える脳科学テク</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・職場でのAI活用実態と「人間の役割」の重要性
 ・XのAIクラスタで熱狂を集める「意思決定専用AI」Jevのバズ
 ・海外ポッドキャスト深掘り：Metaのデータセンター誘致で田舎町の教員給与が激増した裏側</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>熱海富士のアニメキャラ姿がSNSで話題沸騰＆メタの衝撃AI戦略</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・熱海富士の国技館入り姿が“人気アニメキャラ”そっくりとSNSで大バズ
-・“世界最悪”とされた過酷なコンテンツ審査業務をAIが引き受け始めた話題
-・OpenAIがAIモデルの「ミスアライメント（意図しない挙動）」報告枠組みを公開
-・メタが展開する「格安＆無料動画AI」戦略とAI無償化への動き
-・海外ポッドキャスト深掘り「Tom Bilyeu (Impact Theory)」AIネット汚染説の真実とこれからの働き方</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260920_daily.mp3" length="16472493" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260920_daily</guid>
-      <pubDate>Sun, 20 Sep 2026 09:11:41 +0900</pubDate>
-      <itunes:duration>17:09</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・熱海富士の国技館入り姿が“人気アニメキャラ”そっくりとSNSで大バズ
-・“世界最悪”とされた過酷なコンテンツ審査業務をAIが引き受け始めた話題
-・OpenAIがAIモデルの「ミスアライメント（意図しない挙動）」報告枠組みを公開
-・メタが展開する「格安＆無料動画AI」戦略とAI無償化への動き
-・海外ポッドキャスト深掘り「Tom Bilyeu (Impact Theory)」AIネット汚染説の真実とこれからの働き方</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
