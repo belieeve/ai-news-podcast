@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ゴジラ-0.0が日米興行1位の快挙＆Claude 5.2登場！集中力を高める脳科学テクも解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ゴジラ-0.0が日本映画初の日米週末興行ランキング同時制覇
+・Anthropicが新AI「Claude Fable 5.2」を発表
+・Microsoftが警告するAI時代の「パッチギャップ」とセキュリティ対策
+・ストリートウェア小売が仕掛けるAIエージェント時代の年末商戦戦略
+・海外ポッドキャスト『Brain Science』に学ぶ注意力と集中力の高め方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261110_daily.mp3" length="12958892" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261110_daily</guid>
+      <pubDate>Tue, 10 Nov 2026 06:31:55 +0900</pubDate>
+      <itunes:duration>13:29</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ゴジラ-0.0が日本映画初の日米週末興行ランキング同時制覇
+・Anthropicが新AI「Claude Fable 5.2」を発表
+・Microsoftが警告するAI時代の「パッチギャップ」とセキュリティ対策
+・ストリートウェア小売が仕掛けるAIエージェント時代の年末商戦戦略
+・海外ポッドキャスト『Brain Science』に学ぶ注意力と集中力の高め方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ゴジラ全米1位＆Alexa＋日本上陸！Shopify最新AIと心のクセ対処法</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・MetaのパーソナルAI「Muse」がApp Storeの首位を獲得
 ・『映画名探偵プリキュア！』が3日間で興収4.4億円の歴代最高スタート
 ・【海外ポッドキャスト】The Diary of a CEO（音楽プロデューサー リック・ルービン）</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>グーグルの家族向けAI「CC」が登場！職場のAIリアル活用＆海外で話題のデータセンター事情まで徹底解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・グーグルが米国で家族向けAIエージェント「CC」を提供開始
-・アンソロピックが公表、ClaudeがAI研究の26%を自律的に進行
-・職場でのAI活用実態と「人間の役割」の重要性
-・XのAIクラスタで熱狂を集める「意思決定専用AI」Jevのバズ
-・海外ポッドキャスト深掘り：Metaのデータセンター誘致で田舎町の教員給与が激増した裏側</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260921_daily.mp3" length="15684141" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260921_daily</guid>
-      <pubDate>Mon, 21 Sep 2026 07:52:11 +0900</pubDate>
-      <itunes:duration>16:20</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・グーグルが米国で家族向けAIエージェント「CC」を提供開始
-・アンソロピックが公表、ClaudeがAI研究の26%を自律的に進行
-・職場でのAI活用実態と「人間の役割」の重要性
-・XのAIクラスタで熱狂を集める「意思決定専用AI」Jevのバズ
-・海外ポッドキャスト深掘り：Metaのデータセンター誘致で田舎町の教員給与が激増した裏側</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
