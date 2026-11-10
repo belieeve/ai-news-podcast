@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPTで旅行予約まで完結？OpenAI買収と最新AIトレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPTを開発するOpenAIが旅行AI「Odessia」を買収と報道
+・ChatGPTロックダウンモードの脆弱性に関するセキュリティ報告
+・AIエージェントによるEC購買代行がもたらすビジネスの変化
+・AnthropicのIPO報道とClaudeの表計算・会議新機能
+・海外ポッドキャスト『Brain Science』に学ぶ「選択疲れ」の解消法</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261111_daily.mp3" length="11109164" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261111_daily</guid>
+      <pubDate>Wed, 11 Nov 2026 06:32:02 +0900</pubDate>
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPTを開発するOpenAIが旅行AI「Odessia」を買収と報道
+・ChatGPTロックダウンモードの脆弱性に関するセキュリティ報告
+・AIエージェントによるEC購買代行がもたらすビジネスの変化
+・AnthropicのIPO報道とClaudeの表計算・会議新機能
+・海外ポッドキャスト『Brain Science』に学ぶ「選択疲れ」の解消法</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ゴジラ-0.0が日米興行1位の快挙＆Claude 5.2登場！集中力を高める脳科学テクも解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1119,28 +1141,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・「面倒くさい」が消えると米経済が激変？AIエージェントが狙う巨額コスト
 ・音響・ストレージ関連アプリ「Muse」がダウンロード数急増で首位獲得
 ・【海外ポッドキャスト】All-In Podcast：脳の省エネに学ぶ1000倍効率のAIチップ</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわ映画が興収158億円突破で今年1位＆OpenAIが新AIエージェント発表へ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「映画ちいかわ」が興収158.4億円を突破して今年の興行ランキング首位に
-・OpenAIが9月29日に新たなAIエージェントを発表すると報道
-・MetaのパーソナルAI「Muse」がApp Storeの首位を獲得
-・『映画名探偵プリキュア！』が3日間で興収4.4億円の歴代最高スタート
-・【海外ポッドキャスト】The Diary of a CEO（音楽プロデューサー リック・ルービン）</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260922_daily.mp3" length="11248557" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260922_daily</guid>
-      <pubDate>Tue, 22 Sep 2026 08:46:48 +0900</pubDate>
-      <itunes:duration>11:42</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「映画ちいかわ」が興収158.4億円を突破して今年の興行ランキング首位に
-・OpenAIが9月29日に新たなAIエージェントを発表すると報道
-・MetaのパーソナルAI「Muse」がApp Storeの首位を獲得
-・『映画名探偵プリキュア！』が3日間で興収4.4億円の歴代最高スタート
-・【海外ポッドキャスト】The Diary of a CEO（音楽プロデューサー リック・ルービン）</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
