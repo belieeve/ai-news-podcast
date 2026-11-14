@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>耳をすませばの声優が話題＆OpenAI最新セキュリティAIを発表</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ジブリ映画『耳をすませば』の31年前の声優キャストがSNSで再び話題に
+・OpenAIがサイバー攻撃を試して脆弱性を修正する防御AI「Daybreak」を発表
+・OpenAIが独立ロボットチームを解散し、汎用AIモデルへの統合を進めると報道
+・AnthropicなどのAI大手IPO報道と市場の熱狂に対する警戒感
+・海外ポッドキャスト『Brain Science』：行き詰まったら「もっと頑張る」より「いったん離れる」心理学</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261115_daily.mp3" length="8927660" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261115_daily</guid>
+      <pubDate>Sun, 15 Nov 2026 06:32:12 +0900</pubDate>
+      <itunes:duration>09:17</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ジブリ映画『耳をすませば』の31年前の声優キャストがSNSで再び話題に
+・OpenAIがサイバー攻撃を試して脆弱性を修正する防御AI「Daybreak」を発表
+・OpenAIが独立ロボットチームを解散し、汎用AIモデルへの統合を進めると報道
+・AnthropicなどのAI大手IPO報道と市場の熱狂に対する警戒感
+・海外ポッドキャスト『Brain Science』：行き詰まったら「もっと頑張る」より「いったん離れる」心理学</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ゴジラ−0.0大ヒット＆ChatGPT Wallet登場！NASA流面接のコツも【朝アゲトレンド】</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,26 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・複数のAI社員がチームで働くプラットフォーム「MIERU CREW」が登場
 ・製薬大手ノボ・ノルディスクとAnthropicがAI創薬で提携
 ・『映画名探偵プリキュア！』が興行収入8.4億円突破で大ヒット</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>踊る大捜査線新作の裏側＆メタのAIグラス100種超展開！最新トレンドまとめ</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『踊る大捜査線 N.E.W.』の出足から見るコンテンツの今
-・メタがAIエージェント「Muse」を拡張！年内に100種類超のAIグラス展開へ
-・NTTドコモが「正しく質問させる」をやめた？“聞き返すAI”の衝撃
-・【海外ポッドキャスト】5億回再生の歌手が語るアルゴリズムに頼らないヒットの作り方</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260927_daily.mp3" length="14348973" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260927_daily</guid>
-      <pubDate>Sun, 27 Sep 2026 08:19:35 +0900</pubDate>
-      <itunes:duration>14:56</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『踊る大捜査線 N.E.W.』の出足から見るコンテンツの今
-・メタがAIエージェント「Muse」を拡張！年内に100種類超のAIグラス展開へ
-・NTTドコモが「正しく質問させる」をやめた？“聞き返すAI”の衝撃
-・【海外ポッドキャスト】5億回再生の歌手が語るアルゴリズムに頼らないヒットの作り方</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
