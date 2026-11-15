@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>GoogleのAIツール話題と自律型AI診断！朝の感謝習慣まで10分解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・GoogleのAIツールAntigravity、業務効率化で注目を集めるも規約違反や安全性の確認に注意が必要との声
+- Scan for Good、無償AI診断で脆弱性を約500件発見と報道！自律型AIセキュリティの最新動向
+・kickflow、AIエージェントを活用した人材管理サービスで7億円の資金調達を実施したと報道
+・映画『人身売買キャンプ』、世界的な大ヒットを受け日本で特別上映が行われたと報じられる
+・Brain Science、海外ポッドキャスト深掘り！臨床心理士が語る朝の感謝習慣と「書く・伝える」の重要性</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261116_daily.mp3" length="12992684" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261116_daily</guid>
+      <pubDate>Mon, 16 Nov 2026 06:31:38 +0900</pubDate>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・GoogleのAIツールAntigravity、業務効率化で注目を集めるも規約違反や安全性の確認に注意が必要との声
+- Scan for Good、無償AI診断で脆弱性を約500件発見と報道！自律型AIセキュリティの最新動向
+・kickflow、AIエージェントを活用した人材管理サービスで7億円の資金調達を実施したと報道
+・映画『人身売買キャンプ』、世界的な大ヒットを受け日本で特別上映が行われたと報じられる
+・Brain Science、海外ポッドキャスト深掘り！臨床心理士が語る朝の感謝習慣と「書く・伝える」の重要性</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>耳をすませばの声優が話題＆OpenAI最新セキュリティAIを発表</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・「口コミロボ™」などバックオフィスや店舗マーケティングへの最新AI搭載が進む（公式発表）
 ・IT覇権は「GAFAM」から「AGNO」へ？AI時代における企業の立ち位置の変化（報道ベース）
 ・【海外ポッドキャスト】Mel Robbins「今の自分が、未来のお金持ちの自分に給料を払う」お金の管理術</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>スパイダーマン北米興収で歴史的偉業＆OpenAIの最上位モデル学習停止？毎朝10分トレンド解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『スパイダーマン』北米興収で史上初9億5000万ドル突破の偉業
-・OpenAIが最上位モデルのツール使用を伴う学習・評価・推論を停止と発表
-・複数のAI社員がチームで働くプラットフォーム「MIERU CREW」が登場
-・製薬大手ノボ・ノルディスクとAnthropicがAI創薬で提携
-・『映画名探偵プリキュア！』が興行収入8.4億円突破で大ヒット</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260928_daily.mp3" length="12241581" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260928_daily</guid>
-      <pubDate>Mon, 28 Sep 2026 08:33:24 +0900</pubDate>
-      <itunes:duration>12:45</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画『スパイダーマン』北米興収で史上初9億5000万ドル突破の偉業
-・OpenAIが最上位モデルのツール使用を伴う学習・評価・推論を停止と発表
-・複数のAI社員がチームで働くプラットフォーム「MIERU CREW」が登場
-・製薬大手ノボ・ノルディスクとAnthropicがAI創薬で提携
-・『映画名探偵プリキュア！』が興行収入8.4億円突破で大ヒット</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
