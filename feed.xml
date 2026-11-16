@@ -22,6 +22,26 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIのAI活用ガイド公開＆AIサイバー攻撃の衝撃！毎朝トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI「AIユースケース特定と拡大：実践ガイド」を公開
+・Google「AIによる全自動サイバー攻撃」を観測と報道
+・OpenAI調査「科学者のAI活用の実態」と人間との分業
+・海外ポッドキャスト「Brain Science」失敗を学びに変える立ち直る力</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261117_daily.mp3" length="10968236" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261117_daily</guid>
+      <pubDate>Tue, 17 Nov 2026 06:31:46 +0900</pubDate>
+      <itunes:duration>11:25</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAI「AIユースケース特定と拡大：実践ガイド」を公開
+・Google「AIによる全自動サイバー攻撃」を観測と報道
+・OpenAI調査「科学者のAI活用の実態」と人間との分業
+・海外ポッドキャスト「Brain Science」失敗を学びに変える立ち直る力</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>GoogleのAIツール話題と自律型AI診断！朝の感謝習慣まで10分解説</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1145,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・撮影ゼロ・出演者ゼロ！ツール費1.5万円でできた生成AI実写風CMが話題
 ・OpenAIが「GPT-6.1 Sol」を公開＆サブスク再編の動きが報じられる
 ・Agentic AI時代突入！メルカリが取り組むAIガバナンスと安全対策</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>OpenAIが新モデル延期？AIの安全対策と「AGNO」時代の到来＆貯金術</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが安全性への懸念から新モデルリリース中止か（報道ベース）
-・NVIDIAがAIエージェントの安全稼働基盤「Open Agent Safety Platform」を発表（公式発表）
-・「口コミロボ™」などバックオフィスや店舗マーケティングへの最新AI搭載が進む（公式発表）
-・IT覇権は「GAFAM」から「AGNO」へ？AI時代における企業の立ち位置の変化（報道ベース）
-・【海外ポッドキャスト】Mel Robbins「今の自分が、未来のお金持ちの自分に給料を払う」お金の管理術</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260929_daily.mp3" length="13459629" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260929_daily</guid>
-      <pubDate>Tue, 29 Sep 2026 09:47:16 +0900</pubDate>
-      <itunes:duration>14:01</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが安全性への懸念から新モデルリリース中止か（報道ベース）
-・NVIDIAがAIエージェントの安全稼働基盤「Open Agent Safety Platform」を発表（公式発表）
-・「口コミロボ™」などバックオフィスや店舗マーケティングへの最新AI搭載が進む（公式発表）
-・IT覇権は「GAFAM」から「AGNO」へ？AI時代における企業の立ち位置の変化（報道ベース）
-・【海外ポッドキャスト】Mel Robbins「今の自分が、未来のお金持ちの自分に給料を払う」お金の管理術</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
