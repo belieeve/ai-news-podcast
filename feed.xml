@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>OpenAIがGPT-6.2発表！コスト3分の1で性能向上＆AIフィッシング対策と完璧主義の脱却法</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが新モデル「GPT-6.2 Astra」と「Sol」を発表、大幅な低コスト化と性能向上が話題に
+・AIエージェントを悪用したフィッシング詐欺が増加？物理キー「YubiKey」の日本展開強化と対策
+・MongoDBがFireboltを買収！AIエージェントの爆速データ解析に向けた巨大買収の裏側
+・AnthropicのIPO報道と暗号資産からの資金シフト？AI業界に集まる巨大マネーの動向
+・海外ポッドキャスト深掘り：『Brain Science』に学ぶ「完璧主義」を手放して前に進む方法</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261118_daily.mp3" length="11044652" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261118_daily</guid>
+      <pubDate>Wed, 18 Nov 2026 06:32:30 +0900</pubDate>
+      <itunes:duration>11:30</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが新モデル「GPT-6.2 Astra」と「Sol」を発表、大幅な低コスト化と性能向上が話題に
+・AIエージェントを悪用したフィッシング詐欺が増加？物理キー「YubiKey」の日本展開強化と対策
+・MongoDBがFireboltを買収！AIエージェントの爆速データ解析に向けた巨大買収の裏側
+・AnthropicのIPO報道と暗号資産からの資金シフト？AI業界に集まる巨大マネーの動向
+・海外ポッドキャスト深掘り：『Brain Science』に学ぶ「完璧主義」を手放して前に進む方法</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIのAI活用ガイド公開＆AIサイバー攻撃の衝撃！毎朝トレンド</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,26 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・ゆうちょ銀行が法人営業にAIエージェントを導入したと発表
 ・「AIを使うか」の議論は終了？企業でのCopilot活用の最新トレンド
 ・OpenAIがHugging Faceを巡るハッキング件で提訴されたとの報道</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>推し活交換アプリが7000万調達＆生成AIだけで作った実写風CMがヤバい！朝の10分トレンド解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・推し活グッズ交換アプリ「トレポータル」が約6,700万円の資金調達を発表！
-・撮影ゼロ・出演者ゼロ！ツール費1.5万円でできた生成AI実写風CMが話題
-・OpenAIが「GPT-6.1 Sol」を公開＆サブスク再編の動きが報じられる
-・Agentic AI時代突入！メルカリが取り組むAIガバナンスと安全対策</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20260930_daily.mp3" length="10863405" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20260930_daily</guid>
-      <pubDate>Wed, 30 Sep 2026 09:02:46 +0900</pubDate>
-      <itunes:duration>11:18</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・推し活グッズ交換アプリ「トレポータル」が約6,700万円の資金調達を発表！
-・撮影ゼロ・出演者ゼロ！ツール費1.5万円でできた生成AI実写風CMが話題
-・OpenAIが「GPT-6.1 Sol」を公開＆サブスク再編の動きが報じられる
-・Agentic AI時代突入！メルカリが取り組むAIガバナンスと安全対策</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
