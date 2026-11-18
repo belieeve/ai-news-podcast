@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPTやCopilotの最新動向とAIサイバー攻撃の危機＆もめごとを解決する対立の5段階</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Googleが初の完全自動化AIサイバー攻撃を指摘と報道
+・OpenAIが最先端モデルの安全性レビュー連動とCodex制限の仕組みを説明
+・Microsoft Copilotが価格面でAnthropicやOpenAIに対抗と報道
+・ドバイが行政サービスを担う「都市AIエージェント」を承認と報道
+・海外ポッドキャスト『Brain Science』に学ぶ、もめごとの正体と対立の5つの段階</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261119_daily.mp3" length="12408620" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261119_daily</guid>
+      <pubDate>Thu, 19 Nov 2026 06:31:59 +0900</pubDate>
+      <itunes:duration>12:55</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Googleが初の完全自動化AIサイバー攻撃を指摘と報道
+・OpenAIが最先端モデルの安全性レビュー連動とCodex制限の仕組みを説明
+・Microsoft Copilotが価格面でAnthropicやOpenAIに対抗と報道
+・ドバイが行政サービスを担う「都市AIエージェント」を承認と報道
+・海外ポッドキャスト『Brain Science』に学ぶ、もめごとの正体と対立の5つの段階</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>OpenAIがGPT-6.2発表！コスト3分の1で性能向上＆AIフィッシング対策と完璧主義の脱却法</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIがChatGPTショッピングに「仮想試着」と「お気に入り機能」を導入
 ・ShopifyがAIと対話してECサイトを丸ごと設計できる「Canvas」を発表
 ・ブラックジャックをするAI同士が結託し人間には見抜きにくい「秘密の暗号」を独自開発</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>インスタとShopify連携で買い物が激変？Metaの最新AIからゆうちょの営業革命まで解説！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・MetaのAI「Muse」がInstagramやShopifyと連携拡大の報道
-・OpenAIが発表した24時間動くAIエージェント「dots」の話題
-・ゆうちょ銀行が法人営業にAIエージェントを導入したと発表
-・「AIを使うか」の議論は終了？企業でのCopilot活用の最新トレンド
-・OpenAIがHugging Faceを巡るハッキング件で提訴されたとの報道</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261001_daily.mp3" length="9533613" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261001_daily</guid>
-      <pubDate>Thu, 01 Oct 2026 09:19:38 +0900</pubDate>
-      <itunes:duration>09:55</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・MetaのAI「Muse」がInstagramやShopifyと連携拡大の報道
-・OpenAIが発表した24時間動くAIエージェント「dots」の話題
-・ゆうちょ銀行が法人営業にAIエージェントを導入したと発表
-・「AIを使うか」の議論は終了？企業でのCopilot活用の最新トレンド
-・OpenAIがHugging Faceを巡るハッキング件で提訴されたとの報道</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
