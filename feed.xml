@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Anthropic株式公開で初値急騰！AIエージェント過信の危険と参天製薬の業務改革</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicが株式公開で初値が公開価格を大幅上昇
+・AIエージェントの急増に監督体制が追いつかないリスクとMicrosoftの警告
+・ソフトバンクによるOpenAI巨額投資と上場時期に関する分析報道
+・参天製薬が1年で4,000個のAIエージェントを現場主導で自作
+・海外ポッドキャスト「Brain Science」に学ぶ続く目標の立て方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261120_daily.mp3" length="13229228" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261120_daily</guid>
+      <pubDate>Fri, 20 Nov 2026 06:32:09 +0900</pubDate>
+      <itunes:duration>13:46</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Anthropicが株式公開で初値が公開価格を大幅上昇
+・AIエージェントの急増に監督体制が追いつかないリスクとMicrosoftの警告
+・ソフトバンクによるOpenAI巨額投資と上場時期に関する分析報道
+・参天製薬が1年で4,000個のAIエージェントを現場主導で自作
+・海外ポッドキャスト「Brain Science」に学ぶ続く目標の立て方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>ChatGPTやCopilotの最新動向とAIサイバー攻撃の危機＆もめごとを解決する対立の5段階</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・Anthropicが顧客企業の技術者1万人を自社基準で育成するとされるAI人材施策
 ・5G通信速度で大手4社に最大9倍の格差が出ているとされる通信環境調査
 ・海外ポッドキャスト紹介：Mel Robbins「1日1ページで人生の次の章を書く方法」</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>今、Xで何が流行ってる？SNSトレンドから山田うどんのAI店舗開発＆ChatGPT仮想試着まで毎朝チェック！</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【10/02更新】今、X（旧Twitter）で話題のトレンド5選
-・老舗チェーン「山田うどん」がAI店舗開発DXサービス「SENSY GeoScope」を導入
-・OpenAIがChatGPTショッピングに「仮想試着」と「お気に入り機能」を導入
-・ShopifyがAIと対話してECサイトを丸ごと設計できる「Canvas」を発表
-・ブラックジャックをするAI同士が結託し人間には見抜きにくい「秘密の暗号」を独自開発</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261002_daily.mp3" length="12874029" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261002_daily</guid>
-      <pubDate>Fri, 02 Oct 2026 09:24:11 +0900</pubDate>
-      <itunes:duration>13:24</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【10/02更新】今、X（旧Twitter）で話題のトレンド5選
-・老舗チェーン「山田うどん」がAI店舗開発DXサービス「SENSY GeoScope」を導入
-・OpenAIがChatGPTショッピングに「仮想試着」と「お気に入り機能」を導入
-・ShopifyがAIと対話してECサイトを丸ごと設計できる「Canvas」を発表
-・ブラックジャックをするAI同士が結託し人間には見抜きにくい「秘密の暗号」を独自開発</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
