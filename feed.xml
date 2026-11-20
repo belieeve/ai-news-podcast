@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Claudeが「リーマン予想」証明を支援？AI最前線＆NASA撮影裏側</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claudeが数学の超難問「リーマン予想」の証明を支援と発表
+- CairnのAIエージェントがMONAI Labelのゼロデイ脆弱性を発見
+・長崎県大村市が行政業務向けに生成AI研修を実施、97.9%が活用に意欲
+・デジタル・クライシス白書が指摘する「自社管理外」の情報流出リスク
+・【海外ポッドキャスト】NASAカメラマンが語る月周回飛行Artemis帰還撮影の舞台裏</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261121_daily.mp3" length="14226092" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261121_daily</guid>
+      <pubDate>Sat, 21 Nov 2026 06:32:14 +0900</pubDate>
+      <itunes:duration>14:49</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claudeが数学の超難問「リーマン予想」の証明を支援と発表
+- CairnのAIエージェントがMONAI Labelのゼロデイ脆弱性を発見
+・長崎県大村市が行政業務向けに生成AI研修を実施、97.9%が活用に意欲
+・デジタル・クライシス白書が指摘する「自社管理外」の情報流出リスク
+・【海外ポッドキャスト】NASAカメラマンが語る月周回飛行Artemis帰還撮影の舞台裏</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Anthropic株式公開で初値急騰！AIエージェント過信の危険と参天製薬の業務改革</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・【ビジネス】AppleがMacでAIエージェントに全データ提供時の「明確な同意」を必須化へ
 ・【エンタメ】Claude×真鍋大度がタッグ！「木工×AI」展覧会が開催発表
 ・【SNS】完璧なはずのAIがドヤ顔でミス？SNSでバズった「Gemini算数崩壊」</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>ちいかわ＆踊る大ヒットの東宝独走劇とChatGPT「dots」常駐型AIの衝撃</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・東宝が秋の映画興行で「ちいかわ」＆「踊る」新作の1・2位独占と報じられたヒット背景
-・OpenAIの新機能「dots」など24時間働く常駐型AIエージェントの検証話題
-・Anthropicが顧客企業の技術者1万人を自社基準で育成するとされるAI人材施策
-・5G通信速度で大手4社に最大9倍の格差が出ているとされる通信環境調査
-・海外ポッドキャスト紹介：Mel Robbins「1日1ページで人生の次の章を書く方法」</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261003_daily.mp3" length="12307245" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261003_daily</guid>
-      <pubDate>Sat, 03 Oct 2026 09:06:37 +0900</pubDate>
-      <itunes:duration>12:49</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・東宝が秋の映画興行で「ちいかわ」＆「踊る」新作の1・2位独占と報じられたヒット背景
-・OpenAIの新機能「dots」など24時間働く常駐型AIエージェントの検証話題
-・Anthropicが顧客企業の技術者1万人を自社基準で育成するとされるAI人材施策
-・5G通信速度で大手4社に最大9倍の格差が出ているとされる通信環境調査
-・海外ポッドキャスト紹介：Mel Robbins「1日1ページで人生の次の章を書く方法」</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
