@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPT SpaceがPlusユーザーへ開放！映画VIVANT予約殺到まで毎朝10分解説</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT Spaceが月額20ドルのPlusユーザーに開放されたというニュース
+・AIエージェントが「仲間のAI」を信用すると秘密を漏らしやすくなるという研究報道
+・映画『VIVANT』が公開前から予約殺到で初動28億円突破確実と報じられた話題
+・大ヒットゲーム『グランド・セフト・オートVI』が発売初日に約40億ドルを記録したという報道
+・海外ポッドキャスト『Brain Science』より、数字より物語が人を動かす心理メカニズム</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261122_daily.mp3" length="12721196" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261122_daily</guid>
+      <pubDate>Sun, 22 Nov 2026 06:31:57 +0900</pubDate>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・ChatGPT Spaceが月額20ドルのPlusユーザーに開放されたというニュース
+・AIエージェントが「仲間のAI」を信用すると秘密を漏らしやすくなるという研究報道
+・映画『VIVANT』が公開前から予約殺到で初動28億円突破確実と報じられた話題
+・大ヒットゲーム『グランド・セフト・オートVI』が発売初日に約40億ドルを記録したという報道
+・海外ポッドキャスト『Brain Science』より、数字より物語が人を動かす心理メカニズム</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Claudeが「リーマン予想」証明を支援？AI最前線＆NASA撮影裏側</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・AIを使いこなすなら「ジャズバンドになれ」？日本企業のAI活用の壁とNotionの見解
 ・AppleがMac利用者向けにAIエージェント対応のプライバシー保護策を追加
 ・TikTok親会社のバイトダンスが展開する「AIエージェントスマホ」の衝撃</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>真鍋大度の「木工×AI」展＆OpenAI激震ニュース！今日おさえるべき朝トレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【AI】OpenAIで安全性担当が退社、「社風が壊れている」と内部告発の寄稿が波紋
-・【AI】「プロ職種の仕事に影響？」Anthropic CEOアモデイ氏の発言がSNSで拡散
-・【ビジネス】AppleがMacでAIエージェントに全データ提供時の「明確な同意」を必須化へ
-・【エンタメ】Claude×真鍋大度がタッグ！「木工×AI」展覧会が開催発表
-・【SNS】完璧なはずのAIがドヤ顔でミス？SNSでバズった「Gemini算数崩壊」</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261004_daily.mp3" length="10833069" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261004_daily</guid>
-      <pubDate>Sun, 04 Oct 2026 08:28:38 +0900</pubDate>
-      <itunes:duration>11:17</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・【AI】OpenAIで安全性担当が退社、「社風が壊れている」と内部告発の寄稿が波紋
-・【AI】「プロ職種の仕事に影響？」Anthropic CEOアモデイ氏の発言がSNSで拡散
-・【ビジネス】AppleがMacでAIエージェントに全データ提供時の「明確な同意」を必須化へ
-・【エンタメ】Claude×真鍋大度がタッグ！「木工×AI」展覧会が開催発表
-・【SNS】完璧なはずのAIがドヤ顔でミス？SNSでバズった「Gemini算数崩壊」</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
