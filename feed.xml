@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPT運営のOpenAIが攻撃遮断の新技術を発表＆ロッテのAI活用やApple報道まで朝のまとめ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがシステム停止なしで脆弱性攻撃を防ぐ技術「Shirudo」を発表
+- ロッテがモノづくり現場でAIエージェントを導入し業務効率化を推進
+・AppleのAIエージェント開発体制とSiri開発チーム再編に関する報道
+・アニメ映画『HELLO WORLD』を初鑑賞したファンの感想がSNSで話題に
+・【海外Podcast】Brain Science #33 燃え尽きを防ぐ「2か月の問い」と立て直し方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261124_daily.mp3" length="11194412" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261124_daily</guid>
+      <pubDate>Tue, 24 Nov 2026 12:47:57 +0900</pubDate>
+      <itunes:duration>11:39</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIがシステム停止なしで脆弱性攻撃を防ぐ技術「Shirudo」を発表
+- ロッテがモノづくり現場でAIエージェントを導入し業務効率化を推進
+・AppleのAIエージェント開発体制とSiri開発チーム再編に関する報道
+・アニメ映画『HELLO WORLD』を初鑑賞したファンの感想がSNSで話題に
+・【海外Podcast】Brain Science #33 燃え尽きを防ぐ「2か月の問い」と立て直し方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Shopify CEO「1年でAIが全コード書き換える」発言とAI事故の責任問題</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・コンタクトセンター向けAI「Flyle」がWEB CMの配信を開始
 ・令和のEC運営の基本！ささげ業務におけるAI活用の最新動向
 ・【海外Podcast】『Modern Wisdom』心理学者アンジェラ・ダックワースに学ぶ環境作りの継続術</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>世界興収30億ドル突破の映画からChatGPTの広告導入まで！朝アゲトレンド</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画史を塗り替える記録！史上最高の興行収入が30億ドルに迫る話題
-・ChatGPTの文章に「見えない透かし」導入＆画像生成中に広告が表示される試験運用
-・【調査データ】AIを毎日使う人は58%だけど、繰り返し作業の自動化までできている人は？
-・2026年秋アニメ期待度ランキング！『薬屋のひとりごと』など注目作が勢揃い
-・【海外Podcast深掘り】メル・ロビンズに学ぶ「迷ったときに心と頭をどう使うか」</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261006_daily.mp3" length="13908909" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261006_daily</guid>
-      <pubDate>Tue, 06 Oct 2026 13:56:46 +0900</pubDate>
-      <itunes:duration>14:29</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・映画史を塗り替える記録！史上最高の興行収入が30億ドルに迫る話題
-・ChatGPTの文章に「見えない透かし」導入＆画像生成中に広告が表示される試験運用
-・【調査データ】AIを毎日使う人は58%だけど、繰り返し作業の自動化までできている人は？
-・2026年秋アニメ期待度ランキング！『薬屋のひとりごと』など注目作が勢揃い
-・【海外Podcast深掘り】メル・ロビンズに学ぶ「迷ったときに心と頭をどう使うか」</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
