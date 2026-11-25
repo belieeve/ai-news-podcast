@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>GmailのAIメール勝手送信を防ぐ承認機能が登場＆インスタにAI「Muse」統合へ</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Gmail：AIによるメールの事前承認機能がGoogle Workspaceに導入
+・Instagram：保存投稿の自動整理やDM買い物代行を行う個人AIエージェント「Muse」の統合が報道
+・AIセキュリティ：スイスでAIエージェントによる初のサイバー攻撃事例が報じられる
+・TOKIUM：東証グロース上場と全業務領域へのAIエージェント事業展開を発表
+・海外ポッドキャスト：NASA『Small Steps, Giant Leaps』に学ぶ、本番前の小さな試作と48時間検証</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261126_daily.mp3" length="11788076" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261126_daily</guid>
+      <pubDate>Thu, 26 Nov 2026 06:32:08 +0900</pubDate>
+      <itunes:duration>12:16</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Gmail：AIによるメールの事前承認機能がGoogle Workspaceに導入
+・Instagram：保存投稿の自動整理やDM買い物代行を行う個人AIエージェント「Muse」の統合が報道
+・AIセキュリティ：スイスでAIエージェントによる初のサイバー攻撃事例が報じられる
+・TOKIUM：東証グロース上場と全業務領域へのAIエージェント事業展開を発表
+・海外ポッドキャスト：NASA『Small Steps, Giant Leaps』に学ぶ、本番前の小さな試作と48時間検証</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Claudeの新機能「Claude Ship」登場＆東宝の意外な強さとは？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・医療・介護現場向け「生成AI活用研修」スタート
 ・今朝のX（旧Twitter）リアルタイムバズトレンド
 ・【海外Podcast深掘り】AIエージェント700体の暴走事件と対策</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>OpenAIのユーモア広告が話題！Anthropic最新AIとNetflix新作映画まで毎朝10分解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが公開した「教師の日」のユーモア広告が話題に
-・Anthropicが爆速＆低コストの最新モデル「Claude Haiku 5.5」を発表
-・NotionがAIエージェントではなく「コンテキスト基盤」に注力する理由
-・Netflix映画『僕の狂ったフェミ彼女』12月配信決定と新キャスト発表
-・【海外ポッドキャスト】元シークレットサービスが語る「本音を引き出す」話し方</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261008_daily.mp3" length="12866733" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261008_daily</guid>
-      <pubDate>Thu, 08 Oct 2026 09:40:36 +0900</pubDate>
-      <itunes:duration>13:24</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIが公開した「教師の日」のユーモア広告が話題に
-・Anthropicが爆速＆低コストの最新モデル「Claude Haiku 5.5」を発表
-・NotionがAIエージェントではなく「コンテキスト基盤」に注力する理由
-・Netflix映画『僕の狂ったフェミ彼女』12月配信決定と新キャスト発表
-・【海外ポッドキャスト】元シークレットサービスが語る「本音を引き出す」話し方</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
