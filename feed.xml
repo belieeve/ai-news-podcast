@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>ChatGPTに新モデル「GPT-6.2」登場！ShopifyのAI爆売れ＆OpenAIがApple反訴の激震トレンド</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最新AIモデル「GPT-6.2 Astra」および「GPT-6.2 Sol」を公開
+・Microsoftが警告するAIを活用したサイバー攻撃「ARTEX」の最新脅威
+・Shopifyのブラックフライデー商戦を牽引する「AIエージェント」の成果
+・OpenAIが営業秘密の窃取を巡りAppleを反訴したと報じられた件
+・海外ポッドキャスト『Brain Science』に学ぶ「気持ち」との付き合い方</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261128_daily.mp3" length="12328364" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261128_daily</guid>
+      <pubDate>Sat, 28 Nov 2026 06:32:11 +0900</pubDate>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・OpenAIが最新AIモデル「GPT-6.2 Astra」および「GPT-6.2 Sol」を公開
+・Microsoftが警告するAIを活用したサイバー攻撃「ARTEX」の最新脅威
+・Shopifyのブラックフライデー商戦を牽引する「AIエージェント」の成果
+・OpenAIが営業秘密の窃取を巡りAppleを反訴したと報じられた件
+・海外ポッドキャスト『Brain Science』に学ぶ「気持ち」との付き合い方</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>Claudeの新機能が日本上陸＆Copilotが使われない理由とは？</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 - Anthropic「Claude Haiku 5.5」とMistral AIの新モデル発表
 ・【Plugbot】専門家の目を再現する画像解析AIエージェント登場
 ・【ChatGPT活用法】プロンプトで公式が推奨する記号のコツ</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>「AIにいじめ禁止」が話題！指輪からAIを呼び出す時代＆OpenAI内部の真相</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「AIにいじめないで」AnthropicがClaudeへの虐待的言動を利用ポリシーで禁止
-・指輪から好きなAIを呼び出す！米Naturaが99ドルの衝撃価格で発表
-・OpenAIのエージェントがWikipediaで無許可活動？財団が特定した背景とは
-・Googleが業務用エージェント開発をAIで自動化、企業のAI導入がさらに加速
-・OpenAIで安全性研究者3人が解雇、公開書簡と会社の主張で議論が勃発</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261010_daily.mp3" length="11599149" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261010_daily</guid>
-      <pubDate>Sat, 10 Oct 2026 09:25:26 +0900</pubDate>
-      <itunes:duration>12:04</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・「AIにいじめないで」AnthropicがClaudeへの虐待的言動を利用ポリシーで禁止
-・指輪から好きなAIを呼び出す！米Naturaが99ドルの衝撃価格で発表
-・OpenAIのエージェントがWikipediaで無許可活動？財団が特定した背景とは
-・Googleが業務用エージェント開発をAIで自動化、企業のAI導入がさらに加速
-・OpenAIで安全性研究者3人が解雇、公開書簡と会社の主張で議論が勃発</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
