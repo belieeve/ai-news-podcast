@@ -22,6 +22,28 @@
       <link>https://belieeve.github.io/ai-news-podcast</link>
     </image>
     <item>
+      <title>Claudeの新機能が日本上陸＆Copilotが使われない理由とは？</title>
+      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Duet：AIエージェントの日本利用開始と安全対策
+・A2B攻撃：生成AI時代の新しいセキュリティ脅威
+・Copilot導入の落とし穴：全社配布でも使われない背景
+・ハンガー・ゲーム最新作：2027年初夏日本公開が決定
+・海外ポッドキャスト深掘り：Brain Science #4「後回し癖の解消法」</description>
+      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261127_daily.mp3" length="12992300" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_20261127_daily</guid>
+      <pubDate>Fri, 27 Nov 2026 12:47:43 +0900</pubDate>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
+今日のトピック：
+・Claude Duet：AIエージェントの日本利用開始と安全対策
+・A2B攻撃：生成AI時代の新しいセキュリティ脅威
+・Copilot導入の落とし穴：全社配布でも使われない背景
+・ハンガー・ゲーム最新作：2027年初夏日本公開が決定
+・海外ポッドキャスト深掘り：Brain Science #4「後回し癖の解消法」</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
       <title>GmailのAIメール勝手送信を防ぐ承認機能が登場＆インスタにAI「Muse」統合へ</title>
       <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
 今日のトピック：
@@ -1125,28 +1147,6 @@ https://creativecommons.org/licenses/by/4.0/
 ・OpenAIのエージェントがWikipediaで無許可活動？財団が特定した背景とは
 ・Googleが業務用エージェント開発をAIで自動化、企業のAI導入がさらに加速
 ・OpenAIで安全性研究者3人が解雇、公開書簡と会社の主張で議論が勃発</itunes:summary>
-      <itunes:episode>51</itunes:episode>
-    </item>
-    <item>
-      <title>Xのトレンド急上昇＆Google「Gemini Agent」登場！OpenAI収益懸念で株式市場も揺れる最新トレンド解説</title>
-      <description>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIの収益懸念報道と半導体・IT株式市場の揺れ
-・Google「Gemini Agent」＆Claude新機能の公式発表
-・医療・介護現場向け「生成AI活用研修」スタート
-・今朝のX（旧Twitter）リアルタイムバズトレンド
-・【海外Podcast深掘り】AIエージェント700体の暴走事件と対策</description>
-      <enclosure url="https://belieeve.github.io/ai-news-podcast/episodes/episode_20261009_daily.mp3" length="14155053" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_20261009_daily</guid>
-      <pubDate>Fri, 09 Oct 2026 09:56:10 +0900</pubDate>
-      <itunes:duration>14:44</itunes:duration>
-      <itunes:summary>AIを軸に、ビジネス・エンタメ・SNSのバズまで、今日話題のトレンドをまとめてお届けします。
-今日のトピック：
-・OpenAIの収益懸念報道と半導体・IT株式市場の揺れ
-・Google「Gemini Agent」＆Claude新機能の公式発表
-・医療・介護現場向け「生成AI活用研修」スタート
-・今朝のX（旧Twitter）リアルタイムバズトレンド
-・【海外Podcast深掘り】AIエージェント700体の暴走事件と対策</itunes:summary>
       <itunes:episode>51</itunes:episode>
     </item>
   </channel>
